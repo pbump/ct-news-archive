@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Feed archive</title>
+<style>
+  :root {
+    --bg: #fafaf8; --card: #fff; --ink: #1a1a1a; --muted: #6b6b6b;
+    --line: #e4e2dc; --accent: #0b5cad; --new: #d9480f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141414; --card: #1d1d1d; --ink: #ececec; --muted: #9a9a9a;
+            --line: #2e2e2e; --accent: #6fb1ff; --new: #ff8a4c; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  header { position: sticky; top: 0; z-index: 2; background: var(--bg);
+           border-bottom: 1px solid var(--line); padding: 14px 16px 12px; }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  h1 { font-size: 20px; margin: 0 0 2px; }
+  .meta { color: var(--muted); font-size: 13px; }
+  .controls { display: flex; gap: 8px; margin-top: 10px; }
+  input[type=search] { flex: 1; min-width: 0; padding: 8px 10px; font: inherit;
+         border: 1px solid var(--line); border-radius: 6px; background: var(--card); color: var(--ink); }
+  button { font: inherit; font-size: 14px; padding: 8px 12px; border-radius: 6px;
+           border: 1px solid var(--line); background: var(--card); color: var(--ink); cursor: pointer; }
+  main { padding: 0 16px 60px; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted);
+       margin: 28px 0 8px; }
+  article { background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+            padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; }
+  article img { width: 88px; height: 88px; object-fit: cover; border-radius: 4px; flex: none; }
+  article .body { min-width: 0; }
+  article a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  article a:hover { text-decoration: underline; }
+  article p { margin: 4px 0 0; font-size: 14px; overflow-wrap: anywhere; }
+  .when { color: var(--muted); font-size: 12px; margin-top: 4px; }
+  .badge { color: var(--new); font-size: 11px; font-weight: 700; margin-left: 6px; }
+  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+  @media (max-width: 480px) { article img { width: 64px; height: 64px; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1 id="title">Feed archive</h1>
+  <div class="meta" id="meta">Loading…</div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Filter by keyword">
+    <button id="mark" title="Mark everything as read">Mark all read</button>
+  </div>
+</div></header>
+<main><div class="wrap" id="list"></div></main>
+
+<script>
+const fmtDay = new Intl.DateTimeFormat(undefined, { weekday: "long", month: "long", day: "numeric" });
+const fmtTime = new Intl.DateTimeFormat(undefined, { hour: "numeric", minute: "2-digit" });
+const KEY = "feed-archive-last-read";
+let items = [], lastRead = null;
+
+function store(get, val) {
+  try { return get ? localStorage.getItem(KEY) : localStorage.setItem(KEY, val); } catch { return null; }
+}
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+}
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const list = document.getElementById("list");
+  const shown = q ? items.filter(it => (it.title + " " + it.summary + " " + (it.author || "")).toLowerCase().includes(q)) : items;
+  if (!shown.length) { list.innerHTML = `<div class="empty">Nothing matches.</div>`; return; }
+  let html = "", day = null;
+  for (const it of shown) {
+    const d = new Date(it.date);
+    const dayLabel = fmtDay.format(d);
+    if (dayLabel !== day) { html += `<h2>${esc(dayLabel)}</h2>`; day = dayLabel; }
+    const isNew = lastRead && new Date(it.first_seen) > lastRead;
+    const title = it.link ? `<a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : `<strong>${esc(it.title)}</strong>`;
+    html += `<article>
+      ${it.image ? `<img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+      <div class="body">
+        <div>${title}${isNew ? `<span class="badge">NEW</span>` : ""}</div>
+        ${it.summary ? `<p>${esc(it.summary)}</p>` : ""}
+        <div class="when">${[it.author, fmtTime.format(d)].filter(Boolean).map(esc).join(" · ")}</div>
+      </div>
+    </article>`;
+  }
+  list.innerHTML = html;
+}
+
+document.getElementById("q").addEventListener("input", render);
+document.getElementById("mark").addEventListener("click", () => {
+  store(false, new Date().toISOString()); lastRead = new Date(); render();
+});
+
+fetch("items.json", { cache: "no-store" })
+  .then(r => r.json())
+  .then(data => {
+    items = data.items || [];
+    const saved = store(true);
+    lastRead = saved ? new Date(saved) : null;
+    if (data.feed_title) { document.getElementById("title").textContent = data.feed_title; document.title = data.feed_title; }
+    const upd = new Date(data.updated);
+    const newCount = lastRead ? items.filter(it => new Date(it.first_seen) > lastRead).length : 0;
+    document.getElementById("meta").textContent =
+      `${items.length} items · last ${data.retention_days} days · updated ${fmtDay.format(upd)}, ${fmtTime.format(upd)}` +
+      (newCount ? ` · ${newCount} new since you last marked read` : "");
+    render();
+  })
+  .catch(() => { document.getElementById("meta").textContent = "Couldn't load items.json yet — the first update may not have run."; });
+</script>
+</body>
+</html>
