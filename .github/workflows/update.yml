@@ -1,0 +1,44 @@
+name: Update feed archive
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # hourly
+  workflow_dispatch:        # "Run workflow" button for manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-archive
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser
+
+      - name: Fetch feed and rebuild archive
+        env:
+          FEED_URL: ${{ vars.FEED_URL || 'https://rss.app/feeds/_R7sHm4k7q4AJzH9o.xml' }}
+          RETENTION_DAYS: ${{ vars.RETENTION_DAYS || '30' }}
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python scripts/update.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add docs/items.json README.md
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+          else
+            git commit -m "Update feed archive"
+            git push
+          fi
