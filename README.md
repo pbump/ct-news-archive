@@ -1,13 +1,39 @@
 # CT News
 
-Last 30 days · 146 items · updated Oct 6, 2026 9:49 PM EDT
+Last 30 days · 171 items · updated Oct 7, 2026 3:44 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Wednesday, October 7
+
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2150514782547730/)** <sub>CTPOLICELIVE · 2:06 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Shelton Man Charged in August Road Rage Shooting on I-95 - West Haven 📍 I-95, West Haven to Milford, CT 📅 Saturday, Au...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0orT7FaMBWg3KnURwcGZfARft4ATy4gPs6TTwN6754RPe6cQcbZ1BkETBf6bT1q1kl)** <sub>CTPOLICELIVE · 2:04 AM</sub>
+  <br>Shelton Man Charged in August Road Rage Shooting on I-95 - West Haven 📍 I-95, West Haven to Milford, CT 📅 Saturday, August 1, 2026 - 7:26 p.m. / Arrested Tuesday, October 6, 2026 📻 Key Details -- State Police investigated after a driver reported their vehicle had been shot at during a road rage…
+- **[Need a job...](https://www.reddit.com/r/Connecticut/comments/1wzobwx/need_a_job/)** <sub>t8jr0000 · 1:24 AM</sub>
+  <br>Hey im a 18 year old in ct who honestly desperately needs a job. Im in Berlin ct and it would be profound if anyone has any opportunities or recommendations to go about this. Ill be honest I worked at dominos for a year so thats the bit of experience i have. Looking for part time since im in…
+- **[Urgent doggy rehoming!!!](https://www.reddit.com/r/Connecticut/comments/1wznupl/urgent_doggy_rehoming/)** <sub>jennysnotokay · 12:55 AM</sub>
+- **[Connecticut shouldn’t be a state.](https://www.reddit.com/r/Connecticut/comments/1wznisw/connecticut_shouldnt_be_a_state/)** <sub>Master\_Ad8470 · 12:36 AM</sub>
+  <br>It’s literally a pointless state with no real culture or nothing at all….. and if you guys point out “NaTUrE, FOuR SeASon” .. it’s literally like anywheres in New England and to certain point as any part of the country as well. It has no identity, it has nothing.. sad to say Detroit has more…
+
 ## Tuesday, October 6
 
+- **[Car vs Pole, Partially Rolled Over on Weston St in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2401104453962056/)** <sub>Marcus Anthony Rice · 10:57 PM</sub>
+- **[Take a deep breath in Hollywood’s Kimpton Everly Hotel and you may catch a whiff of sandalwood, leather, fennel, cardamom, violet and cedar. And if you sniff the lobby of downtown Los Angeles’…](https://x.com/hartfordcourant/status/2107664831784362013)** <sub>@hartfordcourant · 10:50 PM</sub>
+  <br>Take a deep breath in Hollywood’s Kimpton Everly Hotel and you may catch a whiff of sandalwood, leather, fennel, cardamom, violet and cedar. And if you sniff the lobby of downtown Los Angeles’ Ritz-Carlton, you may detect… courant.com/2026/10/06/shoul… — Hartford Courant (@hartfordcourant) Oct 7,…
+- **[Restaurants and taco chains nationwide are celebrating. {og:title} {article:title} courant.com/2026/10/06/oct-6… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107662704102052128)** <sub>@hartfordcourant · 10:42 PM</sub>
+- **[The Salvadoran national’s case became a focal point in the immigration debate. courant.com/2026/10/06/kilma… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107660973586681883)** <sub>@hartfordcourant · 10:35 PM</sub>
+- **[Pneumonic plague is a severe form that affects the lungs and spreads through respiratory particles. courant.com/2026/10/06/russi… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107657372038545569)** <sub>@hartfordcourant · 10:20 PM</sub>
+- **[It’s raised objections from AI experts who say he misunderstands the technology. courant.com/2026/10/06/rfk-a… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107655911346975122)** <sub>@hartfordcourant · 10:15 PM</sub>
+- **[Iva Toguri D’Aquino, a U.S. citizen commonly known as “Tokyo Rose” for participating in Radio Tokyo propaganda broadcast...](https://m.facebook.com/hartfordcourant/posts/pfbid0z9ikNjMWvZutu4AtJ9dJRyBoeuuqx2gmPfTHQfQ9nDFsvHDf782mwTRksLyWD66Al)** <sub>Hartford Courant · 10:01 PM</sub>
+  <br>Iva Toguri D’Aquino, a U.S. citizen commonly known as “Tokyo Rose” for participating in Radio Tokyo propaganda broadcasts during World War II, was sentenced in San Francisco to 10 years in prison for treason.
+- **[By DAVE CAMPBELL MINNEAPOLIS (AP) — Napheesa Collier had a particularly late start to her eighth season with the Minnesota Lynx, following surgery on both ankles that delayed her 2026 debut until…](https://x.com/hartfordcourant/status/2107652287447367776)** <sub>@hartfordcourant · 10:00 PM</sub>
+  <br>By DAVE CAMPBELL MINNEAPOLIS (AP) — Napheesa Collier had a particularly late start to her eighth season with the Minnesota Lynx, following surgery on both ankles that delayed her 2026 debut until just before the All-Star break. After… courant.com/2026/10/06/naphe… — Hartford Courant…
+- **[The AfD is poised to form Germany’s first far-right regional government since World War II. courant.com/2026/10/06/far-r… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107650371560624361)** <sub>@hartfordcourant · 9:53 PM</sub>
+- **[Democrats contend Republicans’ message on violent crime is undercut by Trump’s actions. courant.com/2026/10/06/elect… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107648114861453670)** <sub>@hartfordcourant · 9:44 PM</sub>
 - **[The Eversource Hartford Marathon returns to Bushnell Park Oct. 10, celebrating a rise in participants and raising funds for local charities](https://m.facebook.com/FOX61News/posts/pfbid02pBnCYE38QEcN6saUkG6rF7ZFh9GuPKmAJKkxbHkkYGBTu2HBDt5MTT7bdmtTvETWl)** <sub>FOX61 · 9:40 PM</sub>
+- **[CT Senator Murphy blocked from visiting US military base and from briefing.](https://www.reddit.com/r/Connecticut/comments/1wzk76z/ct_senator_murphy_blocked_from_visiting_us/)** <sub>rxneutrino · 9:37 PM</sub>
 - **[The crash happened on Aug. 27 in the area of Grant Hill Road in Tolland. State police say the assistant coach took off from the scene on foot](https://m.facebook.com/FOX61News/posts/pfbid034NZw9ta4u89Bb1EbUMAbHcL6vbretfWr9NA8omynZdXNy3GQSPDxgcrKHzvWfKvsl)** <sub>FOX61 · 9:35 PM</sub>
 - **[UConn assistant football coach arrested after August crash in Tolland](https://www.fox61.com/article/news/local/tolland-county/tolland/uconn-assistant-football-coach-arrested-after-august-crash-in-tolland-ct/520-25b64bdb-3fb3-4c2b-8257-57d5a34156c1)** <sub>fox61.com · 9:35 PM</sub>
   <br>The crash happened on Aug. 27 in the area of Grant Hill Road in Tolland. State police say the assistant coach took off from the scene on foot.
@@ -23,6 +49,8 @@ Last 30 days · 146 items · updated Oct 6, 2026 9:49 PM EDT
 - **[Peralta’s turnaround isn’t random — it’s real. courant.com/2026/10/06/fredd… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107643138969882806)** <sub>@hartfordcourant · 9:24 PM</sub>
 - **[A possible competitor for Electric Boat?](https://theday.com/news/928811/a-possible-competitor-for-electric-boat/)** <sub>By Alison Cross Day Staff Writer · 9:23 PM</sub>
   <br>President Donald Trump declared on Tuesday that "the next generation of American submarines" will be built at a future shipyard in Maryland.
+- **[Dating in Fairfield county?](https://www.reddit.com/r/Connecticut/comments/1wzjtg3/dating_in_fairfield_county/)** <sub>sweetie\_potatoo · 9:18 PM</sub>
+  <br>Anyone else having a hard time dating? I’m 29F, where do we even go to find potential partners?
 - **[Lamont says changes to Head Start would make life harder for families](https://theday.com/news/928812/lamont-says-changes-to-head-start-would-make-life-harder-for-families/)** <sub>By Maia Nehme CT Mirror · 9:16 PM</sub>
   <br>The Trump administration's proposed rule would allow larger class sizes, loosen requirements for serving children with disabilities
 - **[Two meteor showers and a full moon are on the calendar this October! Here are the dates, peak times and NASA-backed tips...](https://m.facebook.com/FOX61News/posts/pfbid05TFuFuE8VCSnQAnLktbavxkVagqkozomRUYTZcoPvuVV5c312SmuEYNr4Cs2bCzgl)** <sub>FOX61 · 9:15 PM</sub>
@@ -81,8 +109,19 @@ Last 30 days · 146 items · updated Oct 6, 2026 9:49 PM EDT
   <br>Officials also announced on Tuesday that the state has approved another $2.5 million for projects at Harkness Memorial State Park.
 - **[Phil Collins is considering writing a song about the U.S. called “Fat People with Guns” weeks before his Rock & Roll Hall of Fame Induction.](https://x.com/hartfordcourant/status/2107612979113947512)** <sub>@hartfordcourant · 7:24 PM</sub>
   <br>Phil Collins is considering writing a song about the U.S. called “Fat People with Guns” weeks before his Rock & Roll Hall of Fame Induction. courant.com/2026/10/06/phil-… — Hartford Courant (@hartfordcourant) Oct 6, 2026
+- **[The movie is allegedly inspired by killing of Renee Good by ICE. courant.com/2026/10/06/danny… — Hartford Courant (@hartfordcourant) Oct 6, 2026](https://x.com/hartfordcourant/status/2107610644774109436)** <sub>@hartfordcourant · 7:15 PM</sub>
+- **[Job](https://www.reddit.com/r/Connecticut/comments/1wzh26y/job/)** <sub>Kenziekenzzzz · 7:05 PM</sub>
+  <br>Hello , I am a single mom of 1. I am looking for a job in between the hours of 9-5. ( literally ) can someone please comment if they know any places that are actually hiring or tips to find full time work quick ? I just moved back to the Hartford area. And I am using the bus line. So my options are…
+- **[The first image ever taken of a person atop Mount Everest was of Tenzing Norgay. courant.com/2026/10/06/film-… — Hartford Courant (@hartfordcourant) Oct 6, 2026](https://x.com/hartfordcourant/status/2107607639848898687)** <sub>@hartfordcourant · 7:03 PM</sub>
+- **[The union president pointed to more than 20 complaints filed by police officers with the state Commission on Human Rights and Opportunities and several federal lawsuits.](https://m.facebook.com/hartfordcourant/posts/pfbid02rBKmYeYgceJpAhoQyWAmWreUDupsbPpXnZeV5m8kT1PFTJW2UyjD4jES5hR6zc7Fl)** <sub>Hartford Courant · 7:02 PM</sub>
 - **[Man charged in sexual assault of underage girl in Norwich, Lisbon](https://theday.com/news/928715/man-charged-in-sexual-assault-of-underage-girl-in-norwich-lisbon/)** <sub>theday.com · 6:58 PM</sub>
   <br>State police said they obtained DNA evidence that connects Camari J. Brown Davis to the rape of a 12-year-old girl.
+- **[The report does not offer an official cause of the crash, which killed a pilot, a reporter and a man on the ground. courant.com/2026/10/06/ntsb-… — Hartford Courant (@hartfordcourant) Oct 6, 2026](https://x.com/hartfordcourant/status/2107604980085453209)** <sub>@hartfordcourant · 6:52 PM</sub>
+- **[Urgent Dog Rehoming!!!](https://www.reddit.com/r/Connecticut/comments/1wzgnoq/urgent_dog_rehoming/)** <sub>Character-Flounder93 · 6:47 PM</sub>
+  <br>URGENT REHOMING!!! 🚨🚨🚨 Hi im writing this for a friend. Hes in a bad housing situation where he needs to move asap and can’t take them. These two lovely sweet girls are Lola and Ro. They are both 3 years old. They are not up to date with shots and not spayed. No health issues. They get along with…
+- **[Urgent doggy rehoming!!!](https://www.reddit.com/r/Connecticut/comments/1wzgn7a/urgent_doggy_rehoming/)** <sub>SheCravesAldo · 6:46 PM</sub>
+  <br>URGENT REHOMING!!! 🚨🚨🚨 Hi im writing this for a friend that doesn’t have Reddit . Hes in a bad housing situation where he needs to move asap and can’t take them :( These two lovely sweet girls are Lola and Ro. They are both 3 years old. They are not up to date with shots and not spayed. No health…
+- **[The novel follows a 12-year-old girl navigating poverty and family struggles. courant.com/2026/10/06/oprah… — Hartford Courant (@hartfordcourant) Oct 6, 2026](https://x.com/hartfordcourant/status/2107602626284023879)** <sub>@hartfordcourant · 6:43 PM</sub>
 - **[Body cam footage from the police-involved shooting of a murder suspect in Hartford last week](https://www.reddit.com/r/Connecticut/comments/1wzgejs/body_cam_footage_from_the_policeinvolved_shooting/)** <sub>reackt · 6:35 PM</sub>
 - **[Where to watch Texas Longhorns this Saturday in Hartford area](https://www.reddit.com/r/Connecticut/comments/1wzgd4d/where_to_watch_texas_longhorns_this_saturday_in/)** <sub>Sure\_Soil\_5264 · 6:33 PM</sub>
   <br>Looking for a place to watch Texas v Oklahoma this Saturday. I’m a a Texas grad and looking for great vibe
