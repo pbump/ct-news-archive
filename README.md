@@ -1,16 +1,46 @@
 # CT News
 
-Last 30 days · 528 items · updated Oct 8, 2026 11:03 PM EDT
+Last 30 days · 544 items · updated Oct 9, 2026 6:24 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Friday, October 9
+
+- **[New Wolf Pack coach Jay Leach rarely has bad days in hockey. It goes back to uncle, a Whalers assistant, taking him backstage in Hartford.](https://x.com/hartfordcourant/status/2108499360786858416)** <sub>@hartfordcourant · 6:06 AM</sub>
+  <br>New Wolf Pack coach Jay Leach rarely has bad days in hockey. It goes back to uncle, a Whalers assistant, taking him backstage in Hartford. courant.com/2026/10/09/dom-a… — Hartford Courant (@hartfordcourant) Oct 9, 2026
+- **[Comments Joe Nolan made to investors and published text messages between the two leaders have undercut Lamont’s tough outward stance toward the utility](https://x.com/hartfordcourant/status/2108495761394503770)** <sub>@hartfordcourant · 5:52 AM</sub>
+  <br>Comments Joe Nolan made to investors and published text messages between the two leaders have undercut Lamont’s tough outward stance toward the utility courant.com/2026/10/09/texts… — Hartford Courant (@hartfordcourant) Oct 9, 2026
+- **[Bit of a vent here](https://www.reddit.com/r/Connecticut/comments/1x1h6n3/bit_of_a_vent_here/)** <sub>AdHistorical7107 · 5:50 AM</sub>
+  <br>Someone posted about how their college kids can vote in a different state, and posted a link with all the rules different states have. Someone then blasted that person, saying how they should be living in that state for 12 months. This individual is, you guessed it, republican. And didnt blast the…
+- **[At 6, she was discovered by a talent manager in her Connecticut hometown and was shuttled to auditions by her mother. courant.com/2026/10/09/can-a… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108493369131274580)** <sub>@hartfordcourant · 5:42 AM</sub>
+- **[Do we simply prefer one we are familiar with that looks more aesthetic, while despising the newer, less aesthetic courant.com/2026/10/09/reade… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108491544982380938)** <sub>@hartfordcourant · 5:35 AM</sub>
+- **[State police said a sergeant used a laser gun to allegedly clock the vehicle at 147 mph in a 65 mph zone. courant.com/2026/10/09/bmw-d… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108488694197854504)** <sub>@hartfordcourant · 5:24 AM</sub>
+- **[It’s not immediately clear on what grounds Diamantis intends to challenge his conviction, or whether the 2nd Circuit Court of Appeals will even consider the challenge.](https://x.com/hartfordcourant/status/2108486492418928817)** <sub>@hartfordcourant · 5:15 AM</sub>
+  <br>It’s not immediately clear on what grounds Diamantis intends to challenge his conviction, or whether the 2nd Circuit Court of Appeals will even consider the challenge. courant.com/2026/10/09/kosta… — Hartford Courant (@hartfordcourant) Oct 9, 2026
+- **[Playhouse 44 is presenting the world premiere of “Elements of God” by Joel Samberg, Oct. 9-11 in the selectman’s chambers of Avon Town Hall.](https://x.com/hartfordcourant/status/2108483955477401886)** <sub>@hartfordcourant · 5:05 AM</sub>
+  <br>Playhouse 44 is presenting the world premiere of “Elements of God” by Joel Samberg, Oct. 9-11 in the selectman’s chambers of Avon Town Hall. courant.com/2026/10/09/town-… — Hartford Courant (@hartfordcourant) Oct 9, 2026
+- **[Global Bond Markets Are in Meltdown—Here’s Why U.S. Homebuyers Should Pay Attention](https://www.realtor.com/news/trends/global-bond-markets-crisis-treasury-yields-mortgage-rates/)** <sub>Snejana Farberov · 5:00 AM</sub>
+  <br>As U.S. homebuyers scrutinize the surge of mortgage rates and debate the Federal Reserve's next move, an even bigger story has been unfolding across global trading floors that directly affects Americans' pocketbooks. For the past month, global bond markets have been in the grips of a historic…
+- **[America’s Hottest Market No More: This New England City Just Dropped Out of the Top 20](https://www.realtor.com/news/trends/manchester-nh-hottest-markets-report-september-2026/)** <sub>Snejana Farberov · 4:37 AM</sub>
+  <br>The Midwest and Northeast went toe to toe in September, with each region claiming 10 spots in the Realtor.com® August 2026 Hottest Housing Markets ranking , but one longtime frontrunner was notably absent from the top 20. Manchester-Nashua, NH , once New England's go-to affordable alternative to…
+- **[Macy’s Family Fall Fashion Event](https://www.reddit.com/r/Connecticut/comments/1x1bi4x/macys_family_fall_fashion_event/)** <sub>StorageMaterial7290 · 12:00 AM</sub>
+  <br>If you’re looking for something fun 🤩 and festive 🍁 to do this weekend, Macy’s is the place to be! This Saturday we are having a very eventful day celebrating our welcome into the fall season. We will be doing PUMPKIN DECORATING 🎃 while also giving away 50 FREE PUMPKINS TO THE FIRST 50 RSVPS! We…
+
 ## Thursday, October 8
 
+- **[Single Issue](https://www.reddit.com/r/Connecticut/comments/1x1b10k/single_issue/)** <sub>ryzrocker · 11:35 PM</sub>
+  <br>It never should have been authorized in the first place, but if you are a Democrat and are running for Senate or Congress and the absolute abolishment of ICE isn't part of your platform, I hope you lose. Either be an opposition party or GTFO. Related: https://www.reddit.com/r/EyesOnIce/s/i5gxLysF70
+- **[Nowadays, the large array of SUVs available for consumers can be a lot to think about. Manufacturers have models in every fleet trying to earn consumers’ business regardless of market.](https://m.facebook.com/hartfordcourant/posts/pfbid0ke2hg6J6TtCojQBjk24RcUzdEYtobwUaesVdBwyNQv6TaxtVQbho653J35tZw23nl)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech,…](https://x.com/hartfordcourant/status/2108389609830809634)** <sub>@hartfordcourant · 10:50 PM</sub>
+  <br>Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech, described as a “drunken babble.” courant.com/2026/10/08/opini… — Hartford Courant (@hartfordcourant) Oct…
 - **[Russian authorities have kept a tight lid on information about the case. courant.com/2026/10/08/russi… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108387998194630797)** <sub>@hartfordcourant · 10:44 PM</sub>
 - **[In all, at least a dozen demonstrators interrupted the president. courant.com/2026/10/08/trump… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108385664026677373)** <sub>@hartfordcourant · 10:34 PM</sub>
+- **[Sean “Diddy” Combs’ prison release date has been pushed back by several weeks amid allegations he’d been living a pampered lifestyle behind bars.](https://m.facebook.com/hartfordcourant/posts/pfbid035FnjzeTfpeMqrauNhCcF5PbRqJ5qyx5Kfx2JCESUu5x9Yrme4GMiEkrMUjP6Zmsgl)** <sub>Hartford Courant · 10:31 PM</sub>
 - **[Victor Mesa’s Mesa’s tiebreaking, two-run homer off Max Fried in the sixth inning lifted Tampa Bay over the New York Yankees 4-3 on Wednesday night for a three-game sweep of their AL Division Series.](https://x.com/hartfordcourant/status/2108382769097183678)** <sub>@hartfordcourant · 10:23 PM</sub>
   <br>Victor Mesa’s Mesa’s tiebreaking, two-run homer off Max Fried in the sixth inning lifted Tampa Bay over the New York Yankees 4-3 on Wednesday night for a three-game sweep of their AL Division Series. courant.com/2026/10/08/rays-… — Hartford Courant (@hartfordcourant) Oct 9, 2026
+- **[Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026](https://www.facebook.com/reel/1838622320787927/)** <sub>CTPOLICELIVE · 10:15 PM</sub>
+  <br>Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026 - 9:53 p.m. 📻 Key Details -- New London Police responded to Chappell Street after reports of shots fired and a caller stating that he had been shot -- A caller reported hearing three gunshots and…
 - **[Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02VqCbq6AGLNYH2V9JhTqaMTijmE4Z7bZakwSN6HJPTyBkj2u4JJxDEc2iUtr7yGfTl)** <sub>CTPOLICELIVE · 10:12 PM</sub>
   <br>Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026 - 9:53 p.m. 📻 Key Details -- New London Police responded to Chappell Street after reports of shots fired and a caller stating that he had been shot -- A caller reported hearing three gunshots and…
 - **[Daniela Fuentes was sent to the country under President Trump’s immigration policy. courant.com/2026/10/08/immig… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108380036373823667)** <sub>@hartfordcourant · 10:12 PM</sub>
