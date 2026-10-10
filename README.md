@@ -1,12 +1,59 @@
 # CT News
 
-Last 30 days · 690 items · updated Oct 9, 2026 9:12 PM EDT
+Last 30 days · 717 items · updated Oct 10, 2026 3:11 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Saturday, October 10
+
+- **[Anyone wanna ski?](https://www.reddit.com/r/Connecticut/comments/1x2735c/anyone_wanna_ski/)** <sub>Bulky\_Jellyfish1751 · 1:28 AM</sub>
+  <br>Around Norwalk?
+
 ## Friday, October 9
 
+- **[A great year for Golf Land car shows on Friday nights in Vernon, CT](https://www.reddit.com/r/Connecticut/comments/1x25c8m/a_great_year_for_golf_land_car_shows_on_friday/)** <sub>ILovePublicLibraries · 11:50 PM</sub>
+  <br>Here are pictures from Friday October 9 -- the last show of the season We had twenty cruise night shows at Golf Land in town this year and we finished strong with an average of 120+ cars throughout the season, $12k in donations that go to the local nonprofit food pantry, endless amounts of fun,…
+- **[Structure Fire LifeStar Requested Willington #willingtonct #BreakingNow 25 Senior Way Residential Structure Fire Now requesting LifeStar to the scene Burn victim 11:40PM](https://www.facebook.com/groups/BreakingNow/posts/2403970827008752/)** <sub>Doug Oberly · 11:49 PM</sub>
+- **[Car vs Pedestrian Putnam](https://www.facebook.com/groups/BreakingNow/posts/2403956267010208/)** <sub>Doug Oberly · 11:27 PM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2487511454994103/)** <sub>CTPOLICELIVE · 11:04 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Founded in 2017 in Utah, Kizik makes sneakers you tie when you first take them out of the box, then use hands-free. {og:title} {article:title}](https://x.com/hartfordcourant/status/2108752033486454934)** <sub>@hartfordcourant · 10:50 PM</sub>
+  <br>Founded in 2017 in Utah, Kizik makes sneakers you tie when you first take them out of the box, then use hands-free. {og:title} {article:title} courant.com/2026/10/09/enjoy… — Hartford Courant (@hartfordcourant) Oct 10, 2026
+- **[West Rock in New Haven was looking spectacular today.](https://www.reddit.com/r/Connecticut/comments/1x245um/west_rock_in_new_haven_was_looking_spectacular/)** <sub>\_EfficientAvocado · 10:45 PM</sub>
+- **[Jewelry Store](https://www.reddit.com/r/Connecticut/comments/1x24578/jewelry_store/)** <sub>Hardshdaily · 10:44 PM</sub>
+  <br>I'm looking to get something like this done. Any recommendations on where to go on CT?
+- **[A mega-tsunami triggered by a huge landslide at Vajont Dam in northern Italy destroyed villages and caused approximately 2,000 deaths.](https://x.com/hartfordcourant/status/2108749919964025208)** <sub>@hartfordcourant · 10:42 PM</sub>
+  <br>A mega-tsunami triggered by a huge landslide at Vajont Dam in northern Italy destroyed villages and caused approximately 2,000 deaths. courant.com/2026/10/09/today… — Hartford Courant (@hartfordcourant) Oct 10, 2026
+- **[I feel validated. I’ve always said the weather in CT sucks. There’s a few nice weeks in spring and fall, and rest of year it’s either too cold or too humid. We basically have the worst weather in the…](https://www.reddit.com/r/Connecticut/comments/1x23wtk/i_feel_validated_ive_always_said_the_weather_in/)** <sub>EvanderTheGreat · 10:32 PM</sub>
+- **[“There is a power differential inherent in fraternities,” said Adam M. McCready, an associate professor at the University of Connecticut who studies Greek life](https://x.com/hartfordcourant/status/2108747467139293550)** <sub>@hartfordcourant · 10:32 PM</sub>
+  <br>“There is a power differential inherent in fraternities,” said Adam M. McCready, an associate professor at the University of Connecticut who studies Greek life courant.com/2026/10/09/embra… — Hartford Courant (@hartfordcourant) Oct 10, 2026
+- **[Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Frida...](https://www.facebook.com/reel/1497277572455954/)** <sub>CTPOLICELIVE · 10:24 PM</sub>
+  <br>Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Friday, October 9, 2026 - 10:00 p.m. 📻 Key Details -- Woodbridge emergency crews responded to 10Selden during a live music event after a woman reportedly struck her head during a mosh pit…
+- **[Stamford ct local recommendations](https://www.reddit.com/r/Connecticut/comments/1x23p91/stamford_ct_local_recommendations/)** <sub>capjoe30 · 10:21 PM</sub>
+  <br>Hi everyone! I’m hosting a backyard party at my house in Fairfield County, CT this spring for about 150 guests and am looking for top local recommendations! I’m open to hiring a single catering company or booking separate, specialized small businesses for different parts of the setup: 1 Food /…
+- **[Whenever its agents appear, they strike fear into the hearts of otherwise innocent people who wanted to share a dream. courant.com/2026/10/09/opini… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108744489166659779)** <sub>@hartfordcourant · 10:20 PM</sub>
+- **[Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Frid...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02zBgoY6bhZZqMcabnmMxVxZUswowyLKD4eURvxKjv7PiG7iMTFrewdbh6k2p8NQFal)** <sub>CTPOLICELIVE · 10:17 PM</sub>
+  <br>Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Friday, October 9, 2026 - 10:00 p.m. 📻 Key Details -- Woodbridge emergency crews responded to 10Selden during a live music event after a woman reportedly struck her head during a mosh pit…
+- **[By HOLLY RAMER CONCORD, N.H. (AP) — For Jessica Renda, the breaking point was a particularly chaotic Christmas season. Consumed by her eldest daughter’s mental and behavioral health struggles, she…](https://x.com/hartfordcourant/status/2108742083909505096)** <sub>@hartfordcourant · 10:11 PM</sub>
+  <br>By HOLLY RAMER CONCORD, N.H. (AP) — For Jessica Renda, the breaking point was a particularly chaotic Christmas season. Consumed by her eldest daughter’s mental and behavioral health struggles, she stopped exercising or doing… courant.com/2026/10/09/careg… — Hartford Courant (@hartfordcourant) Oct…
+- **[Police recovered two stolen vehicles after investigating a report of individuals who were allegedly driving through a neighborhood in Ledyard checking vehicles in driveways for unlocked doors.](https://m.facebook.com/hartfordcourant/posts/pfbid027ebbsvuatgkFiXqZiWAeA1JxKpb7F12sZRpFYPsvV4FE3z4kzU3i9LNZSG2f25cul)** <sub>Hartford Courant · 10:03 PM</sub>
+- **[By DARKO BANDIC SPLIT, Croatia (AP) — It began with a hijacked wedding photo shoot and turned into a very unexpected but exciting trip across the world. Ashton and Zachary Smith from Philadelphia are…](https://x.com/hartfordcourant/status/2108740110430720045)** <sub>@hartfordcourant · 10:03 PM</sub>
+  <br>By DARKO BANDIC SPLIT, Croatia (AP) — It began with a hijacked wedding photo shoot and turned into a very unexpected but exciting trip across the world. Ashton and Zachary Smith from Philadelphia are guests in Croatia this week after… courant.com/2026/10/09/us-ne… — Hartford Courant…
+- **[By ANTHONY IZAGUIRRE NEW YORK (AP) — In his campaign to become the next governor of New York, Republican Bruce Blakeman has suggested Democrats might steal the election, played up fears about…](https://x.com/hartfordcourant/status/2108737449174200462)** <sub>@hartfordcourant · 9:52 PM</sub>
+  <br>By ANTHONY IZAGUIRRE NEW YORK (AP) — In his campaign to become the next governor of New York, Republican Bruce Blakeman has suggested Democrats might steal the election, played up fears about immigrant criminals and posted… courant.com/2026/10/09/in-ne… — Hartford Courant (@hartfordcourant) Oct 10,…
+- **[The moves were tentative as oil prices continue to yo-yo. courant.com/2026/10/09/us-ma… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108734821476225107)** <sub>@hartfordcourant · 9:42 PM</sub>
+- **[Cromwell Data Center Opposition](https://www.reddit.com/r/Connecticut/comments/1x22s8m/cromwell_data_center_opposition/)** <sub>annduke9 · 9:33 PM</sub>
+  <br>We are a group of town residents deeply concerned about the possibility of a data center complex being developed on the 153 acre property between Geer Street in Cromwell and Brooke Street in Rocky Hill. On September 24, 2026, the Cromwell planning and zoning board met regarding the possibility of a…
+- **[Elvis is buried at Graceland along with his parents, grandmother, daughter and grandson. courant.com/2026/10/09/elvis… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108732366822801811)** <sub>@hartfordcourant · 9:32 PM</sub>
+- **[Looking for friends](https://www.reddit.com/r/Connecticut/comments/1x22pvz/looking_for_friends/)** <sub>Next\_Bee\_6202 · 9:29 PM</sub>
+  <br>Anyone 21+ wanna hang out lol
+- **[i went to the night market](https://www.reddit.com/r/Connecticut/comments/1x22mzg/i_went_to_the_night_market/)** <sub>HalfEatenBagOfLays · 9:25 PM</sub>
+- **[LOS ANGELES — Sean “Diddy” Combs’ release date has been pushed back following allegations of a plush prison lifestyle. The disgraced music mogul is currently serving a 50-month sentence after he was…](https://x.com/hartfordcourant/status/2108729328389218627)** <sub>@hartfordcourant · 9:20 PM</sub>
+  <br>LOS ANGELES — Sean “Diddy” Combs’ release date has been pushed back following allegations of a plush prison lifestyle. The disgraced music mogul is currently serving a 50-month sentence after he was convicted of… courant.com/2026/10/09/sean-… — Hartford Courant (@hartfordcourant) Oct 10, 2026
+- **[The missing paintings were “Portrait of Madame Colonna Romano” and “Young Woman at the Well.” courant.com/2026/10/09/stole… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108727762487804184)** <sub>@hartfordcourant · 9:14 PM</sub>
+- **[Anyone wanna boot for me plz](https://www.reddit.com/r/Connecticut/comments/1x229dy/anyone_wanna_boot_for_me_plz/)** <sub>Next\_Bee\_6202 · 9:06 PM</sub>
+  <br>I’m visiting my grandparents for the week and forgot to bring weed with me and am in dire need of it. Well not dire but it would be nice, I’m only 20 so it’s a bummer. Hartford area kinda
 - **[Miami-Dade Fire Rescue said that one person was rushed to a trauma center with severe injuries. courant.com/2026/10/09/sever… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108725631907205498)** <sub>@hartfordcourant · 9:05 PM</sub>
 - **[In Opinion \| Do we simply prefer one we are familiar with that looks more aesthetic, while despising the newer, less aesthetic](https://m.facebook.com/hartfordcourant/posts/pfbid0369LXYmyVh7QQ5DSTX3FAzSn5BohdQyFtfQyd7fBbZFLeSaEr5tRCGPtiRVkod36ml)** <sub>Hartford Courant · 9:01 PM</sub>
 - **[Landowners are preparing for court battles, hoping to delay construction until after the midterms. courant.com/2026/10/09/texas… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108722710557642875)** <sub>@hartfordcourant · 8:54 PM</sub>
