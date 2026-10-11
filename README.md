@@ -1,12 +1,44 @@
 # CT News
 
-Last 30 days · 848 items · updated Oct 10, 2026 8:12 PM EDT
+Last 30 days · 869 items · updated Oct 11, 2026 1:51 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Sunday, October 11
+
+- **[#BREAKING: Man builds Flock-like license plate readers to only track police cars — cops show up to his door to interrogate him due to privacy violations.](https://www.reddit.com/r/Connecticut/comments/1x3014h/breaking_man_builds_flocklike_license_plate/)** <sub>Accomplished-Item704 · 1:35 AM</sub>
+- **[Hiii! ❤️ I’m looking for a kitten for my cat, Bear 🥺❤️ I can tell she’s getting lonely, so I want to give her a little buddy! 💗❤️💗 I really want to be a mommy to a kitty too, so we would be…](https://www.reddit.com/r/Connecticut/comments/1x2zsqy/hiii_im_looking_for_a_kitten_for_my_cat_bear_i/)** <sub>MoveAdditional3896 · 1:21 AM</sub>
+- **[Tired of seeing all the same AI & 3D printed slop at markets? Want to go to the best Halloween market you’ve ever been to? 😏😈](https://www.reddit.com/r/Connecticut/comments/1x2zq2g/tired_of_seeing_all_the_same_ai_3d_printed_slop/)** <sub>Accomplished-Item704 · 1:17 AM</sub>
+- **[Sacred Heart University vs University of New Haven — Which is better for student life, networking, and career opportunities?](https://www.reddit.com/r/Connecticut/comments/1x2yj9d/sacred_heart_university_vs_university_of_new/)** <sub>shithappens\_us · 12:09 AM</sub>
+
 ## Saturday, October 10
 
+- **[Motorcycle Accident in Rt 4 in Burlington](https://www.facebook.com/groups/BreakingNow/posts/2404941186911716/)** <sub>Marcus Anthony Rice · 11:51 PM</sub>
+- **[Tired of seeing all the same AI & 3D printed slop at markets? Want to go to the best Halloween market you’ve ever been to? 😏😈](https://www.reddit.com/r/Connecticut/comments/1x2xkw7/tired_of_seeing_all_the_same_ai_3d_printed_slop/)** <sub>delicatedeadthings · 11:17 PM</sub>
+  <br>Come to Haunt & Gather on 10/25 from 11am - 4pm outside of Mill Street Marketplace in Wethersfield CT!! A VERY curated market with 30 insanely talented artists/small businesses, no AI, no 3D printed dragons or Temu bullsh\*t allowed! Oddities, original artwork, ceramics, jewelry, handmade items &…
+- **[The owner’s manual says 87 octane or higher. I have read that Ford recommends 91-octane fuel when towing and that published horsepower and performance figures are based on premium fuel](https://m.facebook.com/hartfordcourant/posts/pfbid06jjv54WpzbhGpn1q43UrYqSdxPnoPp36YoeiUvT5GGEF4ytmVXkAp73nDeQmqowRl)** <sub>Hartford Courant · 11:01 PM</sub>
+- **[2 Car Head-On Accident with Entrapment In Plymouth](https://www.facebook.com/groups/BreakingNow/posts/2404884076917427/)** <sub>Marcus Anthony Rice · 10:26 PM</sub>
+- **[Investing some sweat equity by painting and repairing things might allow you to collect tens of thousands of dollars or more at the closing table.](https://m.facebook.com/hartfordcourant/posts/pfbid02CK7QXB2SJXif9PfkdcfBezWnRD5fUTKjLmdRcqvTgmYPzdkp6zCnRZ11st2Sw675l)** <sub>Hartford Courant · 10:02 PM</sub>
+- **[Have driving test at a driving school in West Haven, nervous about reversing into a parking spot](https://www.reddit.com/r/Connecticut/comments/1x2w5i7/have_driving_test_at_a_driving_school_in_west/)** <sub>dEaTh0089 · 10:01 PM</sub>
+  <br>So I got my test at a driving school in West Haven in a couple days, this will be my second test since the first I failed for failing to correct my reverse parking, I’ve been practicing in my bfs 2000 Volvo but couldn’t for a while because it has some problems, I think I’m ok and that even if I…
+- **[Poke Bowl](https://www.reddit.com/r/Connecticut/comments/1x2vp2x/poke_bowl/)** <sub>LuckyLawrence604 · 9:37 PM</sub>
+  <br>Hey everyone, Been craving poke bowls lately. Where’s the best one in CT?
+- **[The George Gershwin opera “Porgy and Bess,” featuring an all-Black cast, opened on Broadway, beginning a run of 124 performances.](https://m.facebook.com/hartfordcourant/posts/pfbid02UCxGmtk4fuwHJx8kVUBdpC2UsgTUiSrBD9PRQ8dxD189i8GzZKBWh7tV5X3ehGbZl)** <sub>Hartford Courant · 9:32 PM</sub>
+- **[Accident/Crash on 91 S tonight](https://www.reddit.com/r/Connecticut/comments/1x2vaqj/accidentcrash_on_91_s_tonight/)** <sub>SonOfElroy · 9:16 PM</sub>
+  <br>Hey now - around 7:30-ish I was driving on 91 S and saw a white Subaru (probably forester or mayyybe Impreza - definitely the shorter type Subaru) driving up the middle lane, and a grey/black SUV swung into the middle lane and it really looked like he hit the front driver side corner of the Subaru.…
+- **[Motorcycle Accident Thompson](https://www.facebook.com/groups/BreakingNow/posts/2404835436922291/)** <sub>Doug Oberly · 9:10 PM</sub>
+- **[In Opinion \| But the political bribes, billionaire media ownership, PR campaigns, and well-financed litigation predated Trump.](https://m.facebook.com/hartfordcourant/posts/pfbid02KZTfW1MskuBWTVinC4FXpwYaQMiDudo5kg3DJK4DeeKJZQD7WKqzpwo3FcAXyz2nl)** <sub>Hartford Courant · 9:03 PM</sub>
+- **[The 14-year-old girl told police that she was approached at her bus stop by the 68-year-old man who asked for her phone number.](https://x.com/hartfordcourant/status/2109084136564482362)** <sub>@hartfordcourant · 8:50 PM</sub>
+  <br>The 14-year-old girl told police that she was approached at her bus stop by the 68-year-old man who asked for her phone number. courant.com/2026/10/10/polic… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[During the preliminary investigation, detectives discovered that the victim, identified as a 35-year-old man, had sustained multiple gunshot wounds](https://x.com/hartfordcourant/status/2109077087495573666)** <sub>@hartfordcourant · 8:22 PM</sub>
+  <br>During the preliminary investigation, detectives discovered that the victim, identified as a 35-year-old man, had sustained multiple gunshot wounds courant.com/2026/10/10/polic… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[I'm not ready.......](https://www.reddit.com/r/Connecticut/comments/1x2u25h/im_not_ready/)** <sub>ConferenceBig4399 · 8:13 PM</sub>
+- **[The day starts on a slightly tender note. The Libra Moon opposes Chiron in Aries at 9:31 am EDT, so a weird comment, awkward interaction, or small imbalance can hit harder than expected. Try not to…](https://x.com/hartfordcourant/status/2109074698688405795)** <sub>@hartfordcourant · 8:12 PM</sub>
+  <br>The day starts on a slightly tender note. The Libra Moon opposes Chiron in Aries at 9:31 am EDT, so a weird comment, awkward interaction, or small imbalance can hit harder than expected. Try not to build a whole story around one… courant.com/2026/10/10/daily… — Hartford Courant (@hartfordcourant)…
+- **[Registered Sex Offender Charged After Allegedly Grabbing, Kissing 14-Year-Old at School Bus Stop](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0PeEEtcXRttaJEKqf1UWAPa6xyBRVimBRvuvcNYZZtVPt9FaV3JwEumBZ2W9h4o7El)** <sub>CTPOLICELIVE · 8:07 PM</sub>
+  <br>Registered Sex Offender Charged After Allegedly Grabbing, Kissing 14-Year-Old at School Bus Stop - Norwich 📍 Boswell Avenue, Norwich, CT 📅 Friday, October 9, 2026 - 3:30 p.m. 📻 Key Details -- Norwich Police responded to the area of 600 Boswell Avenue for a report of inappropriate physical contact…
+- **[In Opinion \| Certain election laws in Connecticut are very convolutive, making the ballot access process unnecessarily confusing and even unequal](https://m.facebook.com/hartfordcourant/posts/pfbid09G5kTsVvr3FwpAcrZYRGVJ4HnavGRoFWKT7aqrzHFfiVqWzENY9ojcCcbkHHGatwl)** <sub>Hartford Courant · 8:02 PM</sub>
 - **[A Connecticut Paraeducator’s story.](https://www.reddit.com/r/Connecticut/comments/1x2to78/a_connecticut_paraeducators_story/)** <sub>Money\_Discipline\_689 · 7:55 PM</sub>
   <br>I want to share my story because I don’t want to keep struggling in silence anymore. There is a different type of loneliness that I feel that makes me feel invisible and less than human. This year has been one of the most challenging transitions of my life. At one point, I was living in my car.…
 - **[UConn football limited Temple to just three points in the second half as it held on for a 34-20 road victory on Saturday.](https://x.com/hartfordcourant/status/2109062498267652425)** <sub>@hartfordcourant · 7:24 PM</sub>
