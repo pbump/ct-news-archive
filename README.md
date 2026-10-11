@@ -1,13 +1,47 @@
 # CT News
 
-Last 30 days · 960 items · updated Oct 11, 2026 4:36 PM EDT
+Last 30 days · 981 items · updated Oct 11, 2026 7:56 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 11
 
+- **[Hartford Area Long-Term Care Facilities](https://www.reddit.com/r/Connecticut/comments/1x3mtwm/hartford_area_longterm_care_facilities/)** <sub>Alikat-momma · 7:36 PM</sub>
+  <br>Can anyone recommend long-term care facilities in the Hartford area or facilities to avoid? My dad was diagnosed with Alzheimer's mixed with vascular dementia, and he needs 24/7 supervision. He's currently hospitalized. He would be a direct admission from the hospital. He has limited assets but may…
+- **[ok yet one more election post](https://www.reddit.com/r/Connecticut/comments/1x3mo79/ok_yet_one_more_election_post/)** <sub>YogurtclosetVast3118 · 7:28 PM</sub>
+  <br>Heads up: if you vote early, these campaigns will see that in the voter registration data and won’t knock on your door after that updates on VAN (Voter Activation Network where all your data resides). Vote early if just to get these annoying doorknockers off your front porch
+- **[Electric socket quote](https://www.reddit.com/r/Connecticut/comments/1x3mmig/electric_socket_quote/)** <sub>Onomatopoeia-sizzle · 7:26 PM</sub>
+- **[Mortgage Rates Will Remain Above 7% Through 2027, Top Economist Forecasts](https://www.realtor.com/news/trends/mortgage-rate-forecast-mba-fratantoni-2027/)** <sub>Keith Griffith · 7:23 PM</sub>
+  <br>Mortgage rates will remain elevated above 7% through the end of next year, according to the forecast of a top housing economist with the Mortgage Bankers Association . "Inflation is too high, leading central banks to raise short-term rates, while budget deficits and debt are unsustainably high,…
+- **[Erin Stewart](https://www.reddit.com/r/Connecticut/comments/1x3m6ex/erin_stewart/)** <sub>Embarrassed-Sock2257 · 7:04 PM</sub>
+  <br>Anyone else dying to know how pissed Erin Stewart is about the fact that a kinda unknown dud (in my opinion, 32F, v left) got the republican nomination simultaneously while ruining her political career? And does anyone find Ryan Fazio ads are getting less and less aggressive but more and more tone…
+- **[By ROB MAADDI A pair of low-payroll teams with similar styles will face off in the AL Championship Series. It’s small ball vs. “Guards Ball” when the Tampa Bay Rays and the Cleveland Guardians open…](https://x.com/hartfordcourant/status/2109417331466158396)** <sub>@hartfordcourant · 6:54 PM</sub>
+  <br>By ROB MAADDI A pair of low-payroll teams with similar styles will face off in the AL Championship Series. It’s small ball vs. “Guards Ball” when the Tampa Bay Rays and the Cleveland Guardians open their best-of-seven… courant.com/2026/10/11/small… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[Giants RB Cam Skattebo seemingly had fumbled the ball and the game away at Washington’s 24-yard line while needing only a field goal to win in OT.](https://x.com/hartfordcourant/status/2109414271847125232)** <sub>@hartfordcourant · 6:42 PM</sub>
+  <br>Giants RB Cam Skattebo seemingly had fumbled the ball and the game away at Washington’s 24-yard line while needing only a field goal to win in OT. courant.com/2026/10/11/giant… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[Nykesha Sales was a big-time difference maker when she first came to UConn. Now an assistant coach, she can be one again for the Huskies.](https://m.facebook.com/hartfordcourant/posts/pfbid05ecogPZJ5LrDgVVgNYBKLSVbPmftAvXXfZH1B8eM2AZhu6JYka7iPfkYYEnZuFRql)** <sub>Hartford Courant · 6:31 PM</sub>
+- **[honest question](https://www.reddit.com/r/Connecticut/comments/1x3le36/honest_question/)** <sub>YogurtclosetVast3118 · 6:27 PM</sub>
+  <br>now that we are down to the wire and the ads are flying fast and furious... If Elliott had gotten the D nomination, would his ads be more palatable or cringier then Fazio's? Inquiring minds want to know!
+- **[Towns found out the Knicks were shutting down extension talks the same way everyone else did. courant.com/2026/10/11/karl-… — Hartford Courant (@hartfordcourant) Oct 11, 2026](https://x.com/hartfordcourant/status/2109404968117489806)** <sub>@hartfordcourant · 6:05 PM</sub>
+- **[The Jets kept giving the ball away. Their defense refused to give the game away. Behind a dominant pass rush led by rookie David Bailey, the Jets (2-3) snapped their three-game losing streak with a…](https://x.com/hartfordcourant/status/2109399894909755818)** <sub>@hartfordcourant · 5:45 PM</sub>
+  <br>The Jets kept giving the ball away. Their defense refused to give the game away. Behind a dominant pass rush led by rookie David Bailey, the Jets (2-3) snapped their three-game losing streak with a 17-12 victory over the Browns (3-2)… courant.com/2026/10/11/rooki… — Hartford Courant…
+- **[Best, worst and everything we learned as the Patriots decimated the Raiders 45-17 in Week 5. courant.com/2026/10/11/best-… — Hartford Courant (@hartfordcourant) Oct 11, 2026](https://x.com/hartfordcourant/status/2109397193362657520)** <sub>@hartfordcourant · 5:34 PM</sub>
+- **[After she retired, Cleere moved into an old sea captain’s home in Mystic, where shipyards once produced the whaling barks, clipper ships and schooners that powered 19th-century maritime New England.](https://m.facebook.com/hartfordcourant/posts/pfbid0WuTFEmpNJ1c9TPn23KW2iF8KmhDVDuDVqJk2ovBkm3nAR8YaR5tstyrc5AX8NHD9l)** <sub>Hartford Courant · 5:32 PM</sub>
+- **[One more plea to vote blue](https://www.reddit.com/r/Connecticut/comments/1x3jxe1/one_more_plea_to_vote_blue/)** <sub>MuchWow81 · 5:23 PM</sub>
+  <br>I can't give specifics because of an ongoing case and investigation, but please, even the little local elections where you think "I have no idea who this person is in this office, they must be doing their job ok because I haven't heard anything, why would I vote them out?" I am dealing first hand…
+- **[Police said the cause and circumstances of the crash remain under investigation. courant.com/2026/10/11/one-d… — Hartford Courant (@hartfordcourant) Oct 11, 2026](https://x.com/hartfordcourant/status/2109392068577550733)** <sub>@hartfordcourant · 5:13 PM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1602921974845364/)** <sub>CTPOLICELIVE · 5:07 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Hotel](https://www.reddit.com/r/Connecticut/comments/1x3jfjg/hotel/)** <sub>Efficient-Hamster128 · 5:02 PM</sub>
+  <br>Hello, in the 80s was there a hotel near aquarium that had a disco on the ground floor? Thanks
+- **[Electrician hoes?](https://www.reddit.com/r/Connecticut/comments/1x3j753/electrician_hoes/)** <sub>ProgramConnect8206 · 4:52 PM</sub>
+  <br>Ayo where da electrician hoes at? Ps I'm a ho
+- **[“DIRT NAP”](https://www.reddit.com/r/Connecticut/comments/1x3j73v/dirt_nap/)** <sub>Shyz\_Villun13 · 4:52 PM</sub>
 - **[“I was pleasantly surprised to discover the many advantages building a modular home offers,” she said.](https://m.facebook.com/hartfordcourant/posts/pfbid02CF54nujsnpogndA82k3xgEK3B28ZMTiuGWZEqMopcXrbexag4LyVXLrb7bFPJL4Rl)** <sub>Hartford Courant · 4:32 PM</sub>
+- **[November Book Clubs!](https://www.reddit.com/r/Connecticut/comments/1x3i78s/november_book_clubs/)** <sub>minayaga · 4:11 PM</sub>
+  <br>Hi everyone! I wanted to promote my November book club discussions for my in person Sci-fi and Fantasy Book Club. On November 8th, we will be discussing Victorious by V.E. Schwab, the third and final book in the Villains trilogy. Join me at Victorious & Villains Series Bonus Book Club Discussion…
+- **[Autumn color popping at Norfolk town green.](https://www.reddit.com/r/Connecticut/comments/1x3i2mj/autumn_color_popping_at_norfolk_town_green/)** <sub>Flat\_Economist\_8763 · 4:06 PM</sub>
 - **[MVA Rollover East Hartford I84](https://www.facebook.com/groups/BreakingNow/posts/2405679473504554/)** <sub>Doug Oberly · 4:03 PM</sub>
 - **[A bipartisan group of six senators on Sunday called for President Donald Trump’s administration to “immediately reverse...](https://m.facebook.com/hartfordcourant/posts/pfbid02L3kF5jUc3Tf793N3qhjka92Jjtwk3rztbpd8eAxWMzotYdtEQdAZAZjg7426ugWkl)** <sub>Hartford Courant · 4:03 PM</sub>
   <br>A bipartisan group of six senators on Sunday called for President Donald Trump’s administration to “immediately reverse course” on a plan to purchase diesel from Russia as part of an effort to lower high fuel prices.
@@ -25,7 +59,7 @@ Last 30 days · 960 items · updated Oct 11, 2026 4:36 PM EDT
   <br>Figured I’d let CT residents know for their future travels. Took Avelo to Florida for a wedding, and the process for checking in my handgun was smooth and quick! It added maybe 10 minutes to checking in, only hiccup was having to remind the gate agent of the law regarding Transporting the firearm…
 - **[The Arizona band, playing at Space Ballroom on Oct. 15, will feature songs from its new album “Dirty Old Power.”](https://m.facebook.com/hartfordcourant/posts/pfbid0wK2wiX3yysSqmu1H8DZTQJFjUJVsv6Fg4p3G9JFCj1NAXNqMuJf28Ddt5n3rc3yNl)** <sub>Hartford Courant · 2:32 PM</sub>
 - **[Working Fire Wallingford](https://www.facebook.com/groups/BreakingNow/posts/2405608026845032/)** <sub>Doug Oberly · 2:22 PM</sub>
-- **[Car vs Tree Accident with Entrapment and Serious Injuries in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2405605760178592/)** <sub>Marcus Anthony Rice · 2:19 PM</sub>
+- **[One Dead, One Critical in Car vs Tree Accident with Entrapment in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2405605760178592/)** <sub>Marcus Anthony Rice · 2:19 PM</sub>
 - **[Structure Fire Newington](https://www.facebook.com/groups/BreakingNow/posts/2405597500179418/)** <sub>Doug Oberly · 2:10 PM</sub>
 - **[A suburb of 26,000 with a crime rate nearly 90% lower than the national rate, is at least the sixth Connecticut community to end or suspend the use of ALPRs this year, following others.](https://m.facebook.com/hartfordcourant/posts/pfbid02CSsA8oFY4Ct89AuKkHVmWXK5VVtV2hV7CZoMaVVSeNHLzP56RyqhiHfAn1WrZCJZl)** <sub>Hartford Courant · 1:32 PM</sub>
 - **[The former Friendly’s in Bethel, CT! Although a tad blurry.](https://www.reddit.com/r/Connecticut/comments/1x3dvvv/the_former_friendlys_in_bethel_ct_although_a_tad/)** <sub>mrsjumjum66 · 1:21 PM</sub>
