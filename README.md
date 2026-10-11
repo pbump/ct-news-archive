@@ -1,12 +1,53 @@
 # CT News
 
-Last 30 days · 933 items · updated Oct 11, 2026 12:45 PM EDT
+Last 30 days · 960 items · updated Oct 11, 2026 4:36 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 11
 
+- **[“I was pleasantly surprised to discover the many advantages building a modular home offers,” she said.](https://m.facebook.com/hartfordcourant/posts/pfbid02CF54nujsnpogndA82k3xgEK3B28ZMTiuGWZEqMopcXrbexag4LyVXLrb7bFPJL4Rl)** <sub>Hartford Courant · 4:32 PM</sub>
+- **[MVA Rollover East Hartford I84](https://www.facebook.com/groups/BreakingNow/posts/2405679473504554/)** <sub>Doug Oberly · 4:03 PM</sub>
+- **[A bipartisan group of six senators on Sunday called for President Donald Trump’s administration to “immediately reverse...](https://m.facebook.com/hartfordcourant/posts/pfbid02L3kF5jUc3Tf793N3qhjka92Jjtwk3rztbpd8eAxWMzotYdtEQdAZAZjg7426ugWkl)** <sub>Hartford Courant · 4:03 PM</sub>
+  <br>A bipartisan group of six senators on Sunday called for President Donald Trump’s administration to “immediately reverse course” on a plan to purchase diesel from Russia as part of an effort to lower high fuel prices.
+- **[Saudi Arabia’s main airport came under renewed attack from Houthi rebels, a day after a strike on the facility killed 12 people and heaped pressure on the Middle East’s biggest economy.](https://x.com/hartfordcourant/status/2109368867080343786)** <sub>@hartfordcourant · 3:41 PM</sub>
+  <br>Saudi Arabia’s main airport came under renewed attack from Houthi rebels, a day after a strike on the facility killed 12 people and heaped pressure on the Middle East’s biggest economy. courant.com/2026/10/11/saudi… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[Trey Cornist set a new career-high with 114 yards as UConn’s rushing attack powered Saturday’s 34-20 win at Temple. courant.com/2026/10/11/uconn… — Hartford Courant (@hartfordcourant) Oct 11, 2026](https://x.com/hartfordcourant/status/2109367506959802840)** <sub>@hartfordcourant · 3:36 PM</sub>
+- **[The Glastonbury Apple Harvest & Music Festival is one of the best places in the state to hear dozens of Connecticut-based music acts playing their own original songs.](https://m.facebook.com/hartfordcourant/posts/pfbid02io9REwkTXNj5fpVfkVoREuqDoqEEK3Aec9RUGGS3uBKfYwN23LSuuyZ35UaXJAHl)** <sub>Hartford Courant · 3:32 PM</sub>
+- **[A bipartisan group of six senators on Sunday called for President Donald Trump’s administration to “immediately reverse course” on a plan to purchase diesel from Russia as part of an effort to lower…](https://x.com/hartfordcourant/status/2109362608436322627)** <sub>@hartfordcourant · 3:16 PM</sub>
+  <br>A bipartisan group of six senators on Sunday called for President Donald Trump’s administration to “immediately reverse course” on a plan to purchase diesel from Russia as part of an effort to lower high fuel prices. courant.com/2026/10/11/six-s… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[New CT Firearms Training Company — Pistol Fundamentals November 7 in Lebanon](https://www.reddit.com/r/Connecticut/comments/1x3fxsm/new_ct_firearms_training_company_pistol/)** <sub>NEFirearmsTraining · 2:41 PM</sub>
+  <br>Hey everyone! I wanted to introduce myself and our new business, New England Law Enforcement And Civilian Firearms Training (NEFT). www.newenglandfirearmstraining.com I’m an active-duty Connecticut police officer, department lead firearms instructor, CT POST-certified firearms instructor, red dot…
+- **[Update To My Post Asking About Flying Out Of Tweed With A Firearm](https://www.reddit.com/r/Connecticut/comments/1x3fq1w/update_to_my_post_asking_about_flying_out_of/)** <sub>BeeefBoi873 · 2:33 PM</sub>
+  <br>Figured I’d let CT residents know for their future travels. Took Avelo to Florida for a wedding, and the process for checking in my handgun was smooth and quick! It added maybe 10 minutes to checking in, only hiccup was having to remind the gate agent of the law regarding transporting the firearm…
+- **[Update To My Post Asking About Flying Out Of Tweed With A Firearm](https://www.reddit.com/r/Connecticut/comments/1x3fpgo/update_to_my_post_asking_about_flying_out_of/)** <sub>BeeefBoi873 · 2:32 PM</sub>
+  <br>Figured I’d let CT residents know for their future travels. Took Avelo to Florida for a wedding, and the process for checking in my handgun was smooth and quick! It added maybe 10 minutes to checking in, only hiccup was having to remind the gate agent of the law regarding Transporting the firearm…
+- **[The Arizona band, playing at Space Ballroom on Oct. 15, will feature songs from its new album “Dirty Old Power.”](https://m.facebook.com/hartfordcourant/posts/pfbid0wK2wiX3yysSqmu1H8DZTQJFjUJVsv6Fg4p3G9JFCj1NAXNqMuJf28Ddt5n3rc3yNl)** <sub>Hartford Courant · 2:32 PM</sub>
+- **[Working Fire Wallingford](https://www.facebook.com/groups/BreakingNow/posts/2405608026845032/)** <sub>Doug Oberly · 2:22 PM</sub>
+- **[Car vs Tree Accident with Entrapment and Serious Injuries in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2405605760178592/)** <sub>Marcus Anthony Rice · 2:19 PM</sub>
+- **[Structure Fire Newington](https://www.facebook.com/groups/BreakingNow/posts/2405597500179418/)** <sub>Doug Oberly · 2:10 PM</sub>
+- **[A suburb of 26,000 with a crime rate nearly 90% lower than the national rate, is at least the sixth Connecticut community to end or suspend the use of ALPRs this year, following others.](https://m.facebook.com/hartfordcourant/posts/pfbid02CSsA8oFY4Ct89AuKkHVmWXK5VVtV2hV7CZoMaVVSeNHLzP56RyqhiHfAn1WrZCJZl)** <sub>Hartford Courant · 1:32 PM</sub>
+- **[The former Friendly’s in Bethel, CT! Although a tad blurry.](https://www.reddit.com/r/Connecticut/comments/1x3dvvv/the_former_friendlys_in_bethel_ct_although_a_tad/)** <sub>mrsjumjum66 · 1:21 PM</sub>
+- **[Little confused why a lot of people in ct are against Ice.](https://www.reddit.com/r/Connecticut/comments/1x3dh9s/little_confused_why_a_lot_of_people_in_ct_are/)** <sub>Pick\_Up\_The\_Peanuts · 1:05 PM</sub>
+  <br>The majority of illegal Aliens are getting more from the government than Americans who have been paying into social security for 40 years. I get taxed like hell and to think that these illegals get so much help from the state while I continue to struggle makes me sick. And no I don’t fully support…
+- **[Where do I find dead stock stores with toys?](https://www.reddit.com/r/Connecticut/comments/1x3db86/where_do_i_find_dead_stock_stores_with_toys/)** <sub>zombieunicornkitty · 12:58 PM</sub>
+- **[Price Cuts Are the Best Concession To Motivate First-Time Buyers, Survey Finds](https://www.realtor.com/news/trends/price-cuts-seller-concession-motivate-first-time-buyers-neighbors-bank/)** <sub>Anna D'Amico · 12:55 PM</sub>
+  <br>First-time homebuyers are gaining confidence in their ability to make the correct decisions in a challenging market. However, one major factor still needs to change before many prospective buyers will take the leap: Sellers need to bring home prices down. In a survey of people who are searching for…
+- **[Friends, 39(Windsor)](https://www.reddit.com/r/Connecticut/comments/1x3d0ca/friends_39windsor/)** <sub>tenderlover87 · 12:46 PM</sub>
+- **[The Jessica Chastain horror “Other Mommy” topped the North American box office this weekend with a bigger audience than expected, while “The Social Reckoning” got off to a lackluster start. ‘Other…](https://x.com/hartfordcourant/status/2109323868791885893)** <sub>@hartfordcourant · 12:42 PM</sub>
+  <br>The Jessica Chastain horror “Other Mommy” topped the North American box office this weekend with a bigger audience than expected, while “The Social Reckoning” got off to a lackluster start. ‘Other Mommy’… courant.com/2026/10/11/other… — Hartford Courant (@hartfordcourant) Oct 11, 2026
+- **[WTF CT](https://www.reddit.com/r/Connecticut/comments/1x3ctxh/wtf_ct/)** <sub>Queasy-Let-6910 · 12:39 PM</sub>
+  <br>You have the goddam space to add a lane or two on 95, please do. Sincerely, your 49 siblings.
+- **[Ellie Goldstein, from West Hartford, came home to boost UConn field hockey; Mike Cavanaugh picks his goalie; Yanks’ October woes. Sunday Read](https://m.facebook.com/hartfordcourant/posts/pfbid02zBUBeANMPJGXFmdSYhZifQqjq7BssKMyzLyQcEm6wwTsoxiWxMBVeYVu7ddixTQml)** <sub>Hartford Courant · 12:32 PM</sub>
+- **[New Haven to Fenway park?](https://www.reddit.com/r/Connecticut/comments/1x3chdv/new_haven_to_fenway_park/)** <sub>Ok\_Band\_5218 · 12:25 PM</sub>
+  <br>Tomorrow (Monday) I’m going to Fenway park for a concert, what are your guys cheapest/easiest routes from New Haven to Fenway park?
+- **[Fall colors in Glastonbury](https://www.reddit.com/r/Connecticut/comments/1x3cdbl/fall_colors_in_glastonbury/)** <sub>ZachYeamans · 12:21 PM</sub>
+  <br>Fall colors starting to arrive in Glastonbury.
+- **[Dog hopping between barriers exit 51-52 on the Merritt](https://www.reddit.com/r/Connecticut/comments/1x3c9t8/dog_hopping_between_barriers_exit_5152_on_the/)** <sub>\_OBDG · 12:17 PM</sub>
+  <br>If you’re travel on the Merritt right now and someone else is driving, keep your eyes peeled for a dog… Someone got in an accident in the area, animal control was handling the dog in the car and he escaped. A few of us stopped safely to try to see if we could grab him. Shortly followed by a state…
+- **[🚨New Rocky Hill Scoop!🚨 🎉A new toy store has opened in Rocky Hill! 🌀Viral Vortex is NOW OPEN at 945 Cromwell Avenue...](https://m.facebook.com/theconnecticutscoop/posts/pfbid02CkZJ9dX2TAKHLVSKwKVNCzjF5UHBJofUPsZWoJSDhtgjxUKuSYivRCPfYu7iH7Lnl)** <sub>The Connecticut Scoop · 12:14 PM</sub>
+  <br>🚨New Rocky Hill Scoop!🚨 🎉A new toy store has opened in Rocky Hill! 🌀Viral Vortex is NOW OPEN at 945 Cromwell Avenue in Rocky Hill, in the plaza with Flock & Herd. The shop opened in early October. 🪁The store features the newest and trendiest toys on the market including viral toys like Needoh,…
 - **[One of Frank Lloyd Wright’s First Commissions Lists near Chicago for $2.4 Million](https://www.realtor.com/news/unique-homes/frank-lloyd-wright-home-river-forest-illinois-for-sale/)** <sub>Kristine Hansen · 12:04 PM</sub>
   <br>Frank Lloyd Wright 's prairie style and usonian homes are well recognized around the world, but his earlier commissions—those completed between the 1890s—are not nearly as well-known. Built in 1895, the Chauncey Williams House in River Forest, IL which is now listed for $2.4 million, is one of…
 - **[I can't do another month of political ads](https://www.reddit.com/r/Connecticut/comments/1x3bqfa/i_cant_do_another_month_of_political_ads/)** <sub>HerAirness · 11:56 AM</sub>
