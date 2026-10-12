@@ -1,16 +1,33 @@
 # CT News
 
-Last 30 days · 981 items · updated Oct 11, 2026 7:56 PM EDT
+Last 30 days · 992 items · updated Oct 11, 2026 11:33 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 11
 
+- **[Heavy Fire Showing Residential Wethersfield](https://www.facebook.com/groups/BreakingNow/posts/2405921303480371/)** <sub>Doug Oberly · 10:32 PM</sub>
+  <br>Heavy Fire Showing Residential Wethersfield #wethersfieldct #BreakingNow 289 Maple St Arriving FD has heavy fire showing from a 2.5 story resdential 10:30PM Photo courtesy of BreakingNow Member Scott Harris on scene and via the BN Zello App
+- **[The Jessica Chastain horror “Other Mommy” topped the North American box office this weekend with a bigger audience than expected.](https://m.facebook.com/hartfordcourant/posts/pfbid02P5gfehdjKzTGcS3GySmCXHJujJrkR3R9rYxHSnHFzMHciWTybiw9dmTQnaCnEZ7Pl)** <sub>Hartford Courant · 10:32 PM</sub>
+- **[Who is this man at Mohegan Sun](https://www.reddit.com/r/Connecticut/comments/1x3p7l2/who_is_this_man_at_mohegan_sun/)** <sub>Humble-Network4917 · 9:35 PM</sub>
+  <br>I found a headshot of this man in Mohegan Sun, a little ways away from the Tao restaurant. No writing on the back, just a low res image of this man in the plants. Anyone know who or what this is LOL
+- **[In Opinion \| If the plant fails, Connecticut will have spent hundreds of millions of dollars on a boondoggle, without addressing the roots of the waste crisis.](https://m.facebook.com/hartfordcourant/posts/pfbid07TZxZ9riEdS5EBxK3i5TpFd9ezJn9yWHKTchKMg5Baj7nE81hE8goAc2SPW7Pvcgl)** <sub>Hartford Courant · 9:31 PM</sub>
+- **[2 Car Accident with Entrapment, One Unconscious, Silver Lane in East Hartford](https://www.facebook.com/groups/BreakingNow/posts/2405870830152085/)** <sub>Marcus Anthony Rice · 9:18 PM</sub>
+- **[Thanksgiving Dinner Recs near Foxwoods](https://www.reddit.com/r/Connecticut/comments/1x3ok92/thanksgiving_dinner_recs_near_foxwoods/)** <sub>conzim · 9:02 PM</sub>
+  <br>We are going to Foxwoods and are looking for a restaurant for Thanksgiving. We’re willing to drive 30-45 mins from Foxwoods if it’s good! We have 5 adults and 2 kids (14 year old & 1 year old). Any recommendations?
+- **[Skyline Financial Credit Union](https://www.reddit.com/r/Connecticut/comments/1x3o66z/skyline_financial_credit_union/)** <sub>no-look-passing · 8:42 PM</sub>
+  <br>Anyone has experiences with this credit union ? Looking to get a mortgage through them as they advertise good rates, but all reviews I see are for car loans and not even one for mortgage. They also seem very small so I just want to make sure they are legit. Seems like they are out of Waterbury
+- **[According to Our Companions Animal Rescue, Peanut is awaiting his forever home at its sanctuary.](https://m.facebook.com/hartfordcourant/posts/pfbid0wyuwRuNrKV7MfkXt8T1kdEqPBLR8oAybAr8KvGWAPN3gHxWf9UkLG8t3YCHLE5QPl)** <sub>Hartford Courant · 8:31 PM</sub>
+- **[🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 👻Spookeasy Haunted Bar to return to Moheg...](https://m.facebook.com/theconnecticutscoop/posts/pfbid037Dv4mNiZKqjZheaeKAXCWuoC91yYaQYHE9r9bxMQZsL1xyk1rm776keb6KZ1m9Mtl)** <sub>The Connecticut Scoop · 8:23 PM</sub>
+  <br>🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 👻Spookeasy Haunted Bar to return to Mohegan Sun on 10/16! 🔗 https://www.facebook.com/share/p/1JygR8di42/ • • 🛍️Ross Dress for Less opens second CT store in Hamden! 🔗 https://www.facebook.com/share/p/1JTMhjZZcs/ • • 🍽️Healthy…
+- **[Today rewards paying attention. The Scorpio Moon meets Venus at 12:26 am EDT, sharpening our sense of what feels valuable, appealing, and worth our time. Later, the Moon joins Mercury, and thoughts…](https://x.com/hartfordcourant/status/2109436646458360082)** <sub>@hartfordcourant · 8:11 PM</sub>
+  <br>Today rewards paying attention. The Scorpio Moon meets Venus at 12:26 am EDT, sharpening our sense of what feels valuable, appealing, and worth our time. Later, the Moon joins Mercury, and thoughts become easier to articulate with honesty… courant.com/2026/10/11/daily… — Hartford Courant…
 - **[Hartford Area Long-Term Care Facilities](https://www.reddit.com/r/Connecticut/comments/1x3mtwm/hartford_area_longterm_care_facilities/)** <sub>Alikat-momma · 7:36 PM</sub>
   <br>Can anyone recommend long-term care facilities in the Hartford area or facilities to avoid? My dad was diagnosed with Alzheimer's mixed with vascular dementia, and he needs 24/7 supervision. He's currently hospitalized. He would be a direct admission from the hospital. He has limited assets but may…
+- **[The nutrient plays an important role in root development, water management, enzymes activation, and overall plant health.](https://m.facebook.com/hartfordcourant/posts/pfbid026uZyvYpanxh92qgsJPQXWRokHFouzL8MNnBn3NhDwg32gDr2YEEgCvGC8N7Bwihbl)** <sub>Hartford Courant · 7:31 PM</sub>
 - **[ok yet one more election post](https://www.reddit.com/r/Connecticut/comments/1x3mo79/ok_yet_one_more_election_post/)** <sub>YogurtclosetVast3118 · 7:28 PM</sub>
-  <br>Heads up: if you vote early, these campaigns will see that in the voter registration data and won’t knock on your door after that updates on VAN (Voter Activation Network where all your data resides). Vote early if just to get these annoying doorknockers off your front porch
+  <br>Heads up: if you vote early, these campaigns will see that in the voter registration data and won’t knock on your door after that updates on VAN (Voter Activation Network where all your data resides). Vote early if just to get these annoying canvassers off your front porch
 - **[Electric socket quote](https://www.reddit.com/r/Connecticut/comments/1x3mmig/electric_socket_quote/)** <sub>Onomatopoeia-sizzle · 7:26 PM</sub>
 - **[Mortgage Rates Will Remain Above 7% Through 2027, Top Economist Forecasts](https://www.realtor.com/news/trends/mortgage-rate-forecast-mba-fratantoni-2027/)** <sub>Keith Griffith · 7:23 PM</sub>
   <br>Mortgage rates will remain elevated above 7% through the end of next year, according to the forecast of a top housing economist with the Mortgage Bankers Association . "Inflation is too high, leading central banks to raise short-term rates, while budget deficits and debt are unsustainably high,…
