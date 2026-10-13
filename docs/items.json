@@ -1,9 +1,130 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-10-13T02:04:22.345756+00:00",
+ "updated": "2026-10-13T09:19:08.044006+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://x.com/hartfordcourant/status/2109932999227654500",
+   "title": "Bob Dylan was named winner of the Nobel Prize in literature. courant.com/2026/10/13/today… — Hartford Courant (@hartfordcourant) Oct 13, 2026",
+   "link": "https://x.com/hartfordcourant/status/2109932999227654500",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2109933001417125889/MBippHig?format=jpg&name=800x419",
+   "published": "2026-10-13T09:03:00+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T09:03:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4r0pb/looking_for_spooky_events_in_ct/",
+   "title": "Looking for spooky events in CT",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4r0pb/looking_for_spooky_events_in_ct/",
+   "summary": "My partner and I are big into Halloween and are looking for some things to do this month. I've looked at the Halloween New England website but I'm sure there's a bunch of things missing. Looking for events that are more geared towards adults but not bar crawls or anything super focused on drinking.…",
+   "author": "SpitefulNoodle",
+   "image": null,
+   "published": "2026-10-13T08:19:11+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T08:19:11+00:00"
+  },
+  {
+   "id": "https://www.realtor.com/news/unique-homes/80-million-upper-east-side-mansion-most-expensive/",
+   "title": "Inside a NYC $80 Million Megamansion: Cold Plunge, Garage Bar, and Wine Cellar",
+   "link": "https://www.realtor.com/news/unique-homes/80-million-upper-east-side-mansion-most-expensive/",
+   "summary": "A historical neo-Italian Renaissance carriage house built in 1910 and later transformed into a spectacular residence by former Morgan Stanley CEO John Mack and his wife, Christy , has just hit the market in Manhattan for an astonishing $80 million. The Upper East Side estate once served as a garage…",
+   "author": "Kellie Speed",
+   "image": "https://na.rdcpix.com/ada2b3eaafd2599443761759122a92f4w-c2014109811srd_q80.jpg",
+   "published": "2026-10-13T08:17:00+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T08:17:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4ogji/datacenter_in_colchester/",
+   "title": "Datacenter in Colchester",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4ogji/datacenter_in_colchester/",
+   "summary": "To anyone who didn’t already know, ReNew Developers is trying to build a datacenter in Colchester, literally right next to the Airline Trail. I don’t need to state why I and many other residents are distraught about this horrific incursion into our quiet residential town. It’s already in the zoning…",
+   "author": "DerpolIus",
+   "image": null,
+   "published": "2026-10-13T05:35:31+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T05:35:31+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4mfru/helping_immigrantowned_businesses_in_ct/",
+   "title": "Helping Immigrant-Owned Businesses in CT",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4mfru/helping_immigrantowned_businesses_in_ct/",
+   "summary": "Hi everyone! I'm a high school student from New Haven County, and a few friends and I have started an initiative to help immigrant-owned small businesses and mom-and-pop shops with digital visibility and marketing. We're currently looking for a restaurant to work with for our first pilot, since we…",
+   "author": "Such_Blackberry_3664",
+   "image": null,
+   "published": "2026-10-13T03:43:14+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T03:43:14+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4m31g/newly_sober_and_disabled_looking_for_an_or_gaming/",
+   "title": "Newly sober and disabled. Looking for an or gaming system no longer being used to occupy my mind",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4m31g/newly_sober_and_disabled_looking_for_an_or_gaming/",
+   "summary": "I'm disabled and in (new) recovery for alcoholism. Im struggling with too much down time. Does anyone have an old gaming system they no longer use and would be willing to part with? I bought one earlier this year but it wrapped out after two months. I can't really afford to buy anything again. I…",
+   "author": "SwampYankeeDan",
+   "image": null,
+   "published": "2026-10-13T03:24:11+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T03:24:11+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4lfiw/looking_for_roommate/",
+   "title": "Looking for roommate",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4lfiw/looking_for_roommate/",
+   "summary": "M 23 looking to move in ct preferably in Bristol, new Britain, newington, Hartford, Middletown",
+   "author": "ApprehensiveFlow3055",
+   "image": null,
+   "published": "2026-10-13T02:51:16+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T02:51:16+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4l1ps/charter_oak_state_college/",
+   "title": "Charter oak state college",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4l1ps/charter_oak_state_college/",
+   "summary": "Hi guys! The reason I’m making this post is because I’m trying to complete my bachelors, I currently have a mix of credits 65 from a four year and I am in Sophia and study.com to max transfer to some universities like TESU, Excelsior, UMPI and etc. I’ve been looking at charter oak state college…",
+   "author": "Fun-Engine469",
+   "image": null,
+   "published": "2026-10-13T02:31:44+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T02:31:44+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0k7Zb3ivUeZLUkkXFWznsFLQrJrK4Pf1mYC1FFt1HRrWEf2bVys6Hib4GzyQFZb1kl",
+   "title": "In Opinion | As the 250th anniversary of the founding of the U.S. nears its final months, we invite residents of Quinnehtukqut to support organizations that uplift Indigenous freedoms.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0k7Zb3ivUeZLUkkXFWznsFLQrJrK4Pf1mYC1FFt1HRrWEf2bVys6Hib4GzyQFZb1kl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/842609362_1528349309322905_6539208617932298397_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=CRFRadR75JEQ7kNvwEQWMFy&_nc_oc=AdqRyISW4DQq4Fz-23_U5njR4OSYOmMHY424LBpqGR4x3RRsgZ1HOxR9sDcoXXD4BKdj1X-iffbkSpCNYzsCiiiY&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=cSh-5eiwncNhC0R6k-WcKw&_nc_ss=7c289&oh=00_AQPFA-wwNfiMYjOvl2NDfHko5haHst9aPa762ar6mZEhYw&oe=6AD3CB53",
+   "published": "2026-10-13T02:02:29+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T02:02:29+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x4k8qy/connecticut_to_give_out_15m_free_eggs_after/",
+   "title": "Connecticut to give out 1.5M free eggs after market manipulation probe",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x4k8qy/connecticut_to_give_out_15m_free_eggs_after/",
+   "summary": "",
+   "author": "angeldeb82",
+   "image": "https://external-preview.redd.it/7RzhgmPZQTmkxq-L9FRhK_jofjrUemK6O8PY--0JObs.jpeg?width=640&crop=smart&auto=webp&s=4a61b9e7c700b63d36dd30533308b5c632a5318b",
+   "published": "2026-10-13T01:51:50+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T01:51:50+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0icCEob8mx9rmQ6pt4QCwLB7RXhJVyAjwZy1Rq1gBqrFyRWGxECfK99qxvx2AbRwgl",
+   "title": "Musician and activist John Denver died when the experimental light plane he was piloting crashed into Monterey Bay off the California coast.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0icCEob8mx9rmQ6pt4QCwLB7RXhJVyAjwZy1Rq1gBqrFyRWGxECfK99qxvx2AbRwgl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/844889919_1528324645992038_4162960563981306822_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=i6nn55NJp0UQ7kNvwF2IbAg&_nc_oc=Ado_6mGhEWlH2ecQYBqN0lj8sSb-FvwDX2kpYAI4LOkrhQ535Z8eNgAiPOHbVa9bz3-a839lbIcsqoQx635_m6PP&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=cSh-5eiwncNhC0R6k-WcKw&_nc_ss=7c289&oh=00_AQP1wX9UXWJ3s0KbX9HJimYqgdRPiS552oC49nqEAGDV-w&oe=6AD3A96B",
+   "published": "2026-10-13T01:32:06+00:00",
+   "first_seen": "2026-10-13T09:19:08.044006+00:00",
+   "date": "2026-10-13T01:32:06+00:00"
+  },
   {
    "id": "https://x.com/hartfordcourant/status/2109812706001784991",
    "title": "Make sure your advisor is a good match. {og:title} {article:title} courant.com/2026/10/12/3-que… — Hartford Courant (@hartfordcourant) Oct 13, 2026",
@@ -32,7 +153,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid03rS1vHBQFSaAbXwazgMYADsytdgrsD53EacvYb8EVUamsAGEm4QLZsYkSCpeafKJl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/845553610_1528297675994735_4169040028552169107_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=qyV256tbFFUQ7kNvwE2cyD4&_nc_oc=AdqASYv7ZuoINNZ6IoECBBOH-fT8ZYdbvITnm8uLamc4aSX2VTDeLnltGVH1_U8Xas8&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=pPSQPFmygRn04N1TtlOtAw&_nc_ss=7c289&oh=00_AQOfVWTyluRi3wq1HTZtEO8uiznkjF9H_hJmBGFdFK_qvA&oe=6AD363AF",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/845553610_1528297675994735_4169040028552169107_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=qyV256tbFFUQ7kNvwHHmdNn&_nc_oc=Adrj3mkR7Hzx5EdUE6Fj_sIZTtGR-AFQY6Eee_yVpXW6tDy-i9QdW-SrPRH_L8mSpP5KpXZI6qvmExXrAETL-b7h&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=cSh-5eiwncNhC0R6k-WcKw&_nc_ss=7c289&oh=00_AQPs8RxX3vmv2K4NzjNZ7bjNYYuGeaqu2izOBqfp18Semw&oe=6AD3D42F",
    "published": "2026-10-13T00:51:39+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-13T00:51:39+00:00"
@@ -120,7 +241,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid028kNsBEENR9SyPpatdy7mYkYqSSm1V38hXL2T38nUca82zkZzthSBTbH6uDhVLLAkl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/846568938_1528267652664404_940888606179597229_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=Zm70OBPK82sQ7kNvwH20gFa&_nc_oc=AdrELlVyo0r5yjQy2wD7a-f6Jkm0MJNlO7xq2iaK1oNoKbChV71etIg0K_pw4FxC0AY&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=pPSQPFmygRn04N1TtlOtAw&_nc_ss=7c289&oh=00_AQN-aXX0L-UJiq19pT2hO_NBPzZKhO271GZCBACZ5SjrQA&oe=6AD37370",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/846568938_1528267652664404_940888606179597229_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=Zm70OBPK82sQ7kNvwGSEisE&_nc_oc=AdrzL2d9vRRfVt9efKxJyYDbCsmVEw4uQuDWj25g2zG2vlBs6FpIO92tpKZsubX2IlYrhRqLg7AtmLwa5HOCUFCa&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=cSh-5eiwncNhC0R6k-WcKw&_nc_ss=7c289&oh=00_AQMCrN_9zeQLtnmOMliRZH0ACXlsyyk3zLPw-g1JFzfApQ&oe=6AD3ABB0",
    "published": "2026-10-13T00:02:33+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-13T00:02:33+00:00"
@@ -142,7 +263,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0W1uZRarwnLvhUbvwZiRuHkxdsUf1dsnuTxJCCq4VwgsMPfjiJ4WNGKZBsdxjzW1El",
    "summary": "🚨New ‘New Britain’ Scoop!🚨 ‼️Alvarium Beer Company has filed for Chapter 11 Bankruptcy; but will remain open while the work to reorganize the company. 🍻The brewery announced the filing on its social media this evening. They will NOT be closing their doors, remaining open while they reorganize under…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/845506965_1173961841873599_2443370473899839745_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=s_zLatlmB_YQ7kNvwGKaH9G&_nc_oc=AdpfjdMVOMDRBeOxM4u-KtYSvbnK2M5FzJKg8zQnA8E62cAK6M_zus_pVmksZhdRZDo&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=8I8mXLftc97L4jAZrkcehQ&_nc_ss=7c289&oh=00_AQOjzVIKRPysnL5IfDC-Uvn7anHrTxyLvqA2CSyqx2CnFA&oe=6AD35F37",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/845506965_1173961841873599_2443370473899839745_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=s_zLatlmB_YQ7kNvwEPY3hv&_nc_oc=AdoTu-fBd7FDwBAm9wY8tmY6a1c3hHVY96LuLNFT4kuijgfpdfdJExE60ppMfAqDw7FG6eLkE9pfJaV9Bg4i5Gvt&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=D1I66kDVJtgJBZFUVnizOA&_nc_ss=7c289&oh=00_AQMXTD3FlnREs_jq6V1rpeS-0NjwR2TbcpiWpK1qE_0SQA&oe=6AD3CFB7",
    "published": "2026-10-12T23:46:55+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T23:46:55+00:00"
@@ -186,7 +307,7 @@
    "link": "https://www.facebook.com/reel/855217454304395/",
    "summary": "Man Reportedly Doing Weird Dance at Westfarms Mall - West Hartford 📍 Westfarms Mall, 1500 New Britain Avenue, West Hartford, CT 📅 Monday, October 12, 2026 - 6:55 p.m. 📻 Key Details -- Police were asked to check the area near Macy’s for a man reportedly acting strangely inside the mall -- Mall…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-xxc1-1.xx.fbcdn.net/v/t15.5256-10/847805192_29199444456316182_1258624018334565515_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=cN2QAZJu81kQ7kNvwGtsVnf&_nc_oc=AdrpB1xVjN_JAy3KVbEF8RIt32XR5J9hqB4DuxAXOgq-iJc0coFOhLMOmqSe6QlNpGg&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=UX_7MNY_Hee-ek_4FaxlJA&_nc_ss=7c289&oh=00_AQMPaLZ-bU5q5H29ycQ0W_20UhjXfTvWTzGGL73YyBJ16A&oe=6AD35B93",
+   "image": "https://scontent-dus1-1.xx.fbcdn.net/v/t15.5256-10/847805192_29199444456316182_1258624018334565515_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=78emZRs8uq4Q7kNvwFr_njI&_nc_oc=AdrttV45-dwuodICC76VUAclX-qT4lPLJ7IQPp0551aT76s6_k0KuUfqKy_uecOfKXU&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=E5C2c7k4iqD5t80DjFfwXg&_nc_ss=7c289&oh=00_AQMqlgW6bi7wv6G7p2c4xO4CZNcX_sONXAE7SEi2DbK__w&oe=6AD3CC13",
    "published": "2026-10-12T23:25:12+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T23:25:12+00:00"
@@ -219,7 +340,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02d4nhB9gzAgAfKpyfpvHDWkFUP2WxrE8vhAATi1g7vhG2oZUxFVJZm2YC5Bcc3McHl",
    "summary": "Man Reportedly Doing Weird Dance at Westfarms Mall - West Hartford 📍 Westfarms Mall, 1500 New Britain Avenue, West Hartford, CT 📅 Monday, October 12, 2026 - 6:55 p.m. 📻 Key Details -- Police were asked to check the area near Macy’s for a man reportedly acting strangely inside the mall -- Mall…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-xxc1-1.xx.fbcdn.net/v/t39.30808-6/844462294_1577502204420926_6083732498753951611_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=_rEvoI_d71UQ7kNvwHoo1gA&_nc_oc=Adqo1wTySCndx1vCmO83Ixm6obHIw9Eq1rbZgjDCXfz1trJyZBT6PyvcYq6n37vyZ9k&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=UX_7MNY_Hee-ek_4FaxlJA&_nc_ss=7c289&oh=00_AQOQ8yEkpu7cIntlhifrndO55umUpbygAgWm-vG_H3kJYA&oe=6AD36367",
+   "image": "https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-6/844462294_1577502204420926_6083732498753951611_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=_rEvoI_d71UQ7kNvwFsVoVM&_nc_oc=AdqSuR_jwefVNPoQMFXUnL_n-buMo3RAuGuG7z6xmb1TRD2yohnGS_uxH5Xbau4gfVk&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=E5C2c7k4iqD5t80DjFfwXg&_nc_ss=7c289&oh=00_AQPZ8-zL2eQFy1rP9GIhIb4i7D3oT_RiM7P3TdBcxZ1eIA&oe=6AD3D3E7",
    "published": "2026-10-12T23:19:44+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T23:19:44+00:00"
@@ -230,7 +351,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/videos/1090243837048163/",
    "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-xxc1-1.xx.fbcdn.net/v/t15.5256-10/846258284_4146202695678567_4799155250237611755_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=5xWh0YHq6A0Q7kNvwF6bZPL&_nc_oc=AdoQOMMSjwNVacnb8JA_ocKPGp7uphn3h-gAE_1TN0kZFthWI4Kuldq-NpBVoVNXZGE&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=UX_7MNY_Hee-ek_4FaxlJA&_nc_ss=7c289&oh=00_AQOzfSD6xj_Z_nA28XO0zB5asx6g2xf0523WIq9PbtLSPw&oe=6AD34FCC",
+   "image": "https://scontent-dus1-1.xx.fbcdn.net/v/t15.5256-10/844395386_4146229385675898_483508508180901338_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=100&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=AdKOil74DmgQ7kNvwHJ7Qyq&_nc_oc=AdpzaZ9aDNT8l4oJLKWSzXkLFGBCOEU9jM3qquaYfXR_hEkDkBFHQ3DL_1dEtxcGVvM&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=E5C2c7k4iqD5t80DjFfwXg&_nc_ss=7c289&oh=00_AQPUT_f799JeIBlQ_pYSGKStWgRobRGzwpsbZu9xQAFmVA&oe=6AD3B3DE",
    "published": "2026-10-12T23:16:40+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T23:16:40+00:00"
@@ -252,7 +373,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid024GTUfeKf4SJmwgRLLpNf1ZKcWmtcGeopEvGGiPyCaeidMvpEtfzPafoo3ghqYQnGl",
    "summary": "ICE Arrests Peruvian Man During Targeted Operation - New London 📍 New London, CT 📅 Friday, October 9, 2026 📻 Key Details -- ICE agents arrested Tommy Randolph Izaguirre-Chavez during a targeted operation in the New London area -- Federal authorities said Izaguirre-Chavez attempted to flee from…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-xxc1-1.xx.fbcdn.net/v/t39.30808-6/846073845_1577492111088602_4227586057640192668_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=jCw2nz_nlFkQ7kNvwFrSl75&_nc_oc=Adon05feWpCkXdYApkQ-2Rgn0x8aCHWHZBcHbgkXn3-amHvzkjsc51blvT0GzUHbu6U&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=UX_7MNY_Hee-ek_4FaxlJA&_nc_ss=7c289&oh=00_AQPbmjei_w_YrAiuCSWSXm6zHRSEXSfCuXbOFAMQTfeAxA&oe=6AD34531",
+   "image": "https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-6/846073845_1577492111088602_4227586057640192668_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=YvHehsNMbUIQ7kNvwGb-qIS&_nc_oc=Adp3cFEsFvpG_lRzqDQE7dJlffIwEYT5QZzzeLsR1mOUFzDmhB8FM-NLZUbKSK2_yWU&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=E5C2c7k4iqD5t80DjFfwXg&_nc_ss=7c289&oh=00_AQPYqwdBmBB-v8fkb-zq6kHkbFjryUtqgBQekK6TBEChpQ&oe=6AD3B5B1",
    "published": "2026-10-12T23:04:04+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T23:04:04+00:00"
@@ -274,7 +395,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0GkrCHANvN77Tgj1468MshR7xgU1QYdsRCYXTK6WfJzdJz1fEdrs49nkGGm2R1DL1l",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/842915587_1528224986002004_3424420556329512499_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=101&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=XqWaijK6rCcQ7kNvwHktZ0a&_nc_oc=Adp11c2LRgf_lH2tGTpWjmewkI3Hb71Z7HOXhg-aF3EzvzOOONtSfmjLHmc9sOo97yw&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=pPSQPFmygRn04N1TtlOtAw&_nc_ss=7c289&oh=00_AQMdv6hHm8Tf2kb_IcEU92ax4NyZEZOMuVZFKtHWPF8Xag&oe=6AD34249",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/842915587_1528224986002004_3424420556329512499_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=101&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=XqWaijK6rCcQ7kNvwGDBbhq&_nc_oc=AdrYwgUkKuT95yDnRRRKFZPz9HIxlCxAc3pRmOwF7Xscah4h-93_pHdHdH5FDfvj8YeXhlF7yoAwBhPnknaaqflF&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=cSh-5eiwncNhC0R6k-WcKw&_nc_ss=7c289&oh=00_AQNZajWr1afPgeC_SKBc_oYoPC74gWeEpcDR_nVAd_zNfw&oe=6AD3B2C9",
    "published": "2026-10-12T23:02:26+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T23:02:26+00:00"
@@ -318,7 +439,7 @@
    "link": "https://www.facebook.com/reel/1762216335058632/",
    "summary": "Older Man Reportedly Approaches Juveniles at Elementary School Playground - Haddam 📍 Haddam Elementary School, 272 Saybrook Rd, Higganum 📅 Monday, October 12, 2026 📻 Key Details -- State Police were called after a parent and juvenile reported an older man approached the girl and her friends while…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-xxc1-1.xx.fbcdn.net/v/t15.5256-10/848678301_2322730865161749_5528213102898612060_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=OiJ7No-KyOkQ7kNvwEwh-Sz&_nc_oc=AdqEg7N4nwPzHW7T4YuZwsX3fgRlRbeMUINpC73NPRGTlz29LtdPHyXbzUoLTQhpyz4&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=UX_7MNY_Hee-ek_4FaxlJA&_nc_ss=7c289&oh=00_AQPdwh_ojJhqGZ7QFRBUy6wTKqOIdtIycHp3pGhulr7zYg&oe=6AD36486",
+   "image": "https://scontent-dus1-1.xx.fbcdn.net/v/t15.5256-10/848678301_2322730865161749_5528213102898612060_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=OiJ7No-KyOkQ7kNvwF5HTrR&_nc_oc=Adpn3bbev0Ik3BRfJ0MnovOvcY8rzRbvqKmSIgVHgTzdDbJoU5M21NCNoOmGAL0qJH4&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=E5C2c7k4iqD5t80DjFfwXg&_nc_ss=7c289&oh=00_AQM7y2mZLQ5gobmaZZFnQ2MXYyrswhI7ylDAnnQ3r67pHQ&oe=6AD3D506",
    "published": "2026-10-12T22:36:00+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T22:36:00+00:00"
@@ -428,7 +549,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid03rDM9sfrPgEHbWEtXqXvTgEgK4jYWUDZHec2jKQKcxac3yUkfdZqq3nHzaWPhiG8l",
    "summary": "🚨Updated Westbrook Scoop!🚨 ‼️Finally had the chance to check out the new Beach Donuts location in Westbrook! Check out some pictures of our visit.👀 🍩The well-known donut shop reopened its doors on September 4th at 631 Boston Post Road in Westbrook, the former home of Shanya B's By The Sea near…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/842901495_1173901405212976_1315084108627746967_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=1&ccb=1-7&_nc_sid=e21142&_nc_ohc=n2lZhkNvMSAQ7kNvwGnAwet&_nc_oc=Adpka8j2P7Djn-hQDP_DNFc7yAQ5g_tUz1DyPqmNPQOQHeI7HcNXLnNUKrfmzu7ycTE&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=8I8mXLftc97L4jAZrkcehQ&_nc_ss=7c289&oh=00_AQNrcTuYV2mzl7UXb_rDY9v40vILMQbT-yj9R2rpI8LRsA&oe=6AD3498C",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/842901495_1173901405212976_1315084108627746967_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e21142&_nc_ohc=n2lZhkNvMSAQ7kNvwHw-s-F&_nc_oc=Adqnbrz0DdcaY5WosRzU16oFA2pQgpR3HD3mtXy-C6KN3pLAU4kHNFl5M-38Sbn93zYk-8OTQY5GFmhzIKGpsMmv&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=D1I66kDVJtgJBZFUVnizOA&_nc_ss=7c289&oh=00_AQO2m1iHcDt1uCVK1naCuqQtlk-kNIEedp7vdYNT4c8zEA&oe=6AD3BA0C",
    "published": "2026-10-12T21:59:30+00:00",
    "first_seen": "2026-10-13T02:04:22.345756+00:00",
    "date": "2026-10-12T21:59:30+00:00"

@@ -1,12 +1,33 @@
 # CT News
 
-Last 30 days · 1118 items · updated Oct 12, 2026 10:04 PM EDT
+Last 30 days · 1129 items · updated Oct 13, 2026 5:19 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Tuesday, October 13
+
+- **[Bob Dylan was named winner of the Nobel Prize in literature. courant.com/2026/10/13/today… — Hartford Courant (@hartfordcourant) Oct 13, 2026](https://x.com/hartfordcourant/status/2109932999227654500)** <sub>@hartfordcourant · 5:03 AM</sub>
+- **[Looking for spooky events in CT](https://www.reddit.com/r/Connecticut/comments/1x4r0pb/looking_for_spooky_events_in_ct/)** <sub>SpitefulNoodle · 4:19 AM</sub>
+  <br>My partner and I are big into Halloween and are looking for some things to do this month. I've looked at the Halloween New England website but I'm sure there's a bunch of things missing. Looking for events that are more geared towards adults but not bar crawls or anything super focused on drinking.…
+- **[Inside a NYC $80 Million Megamansion: Cold Plunge, Garage Bar, and Wine Cellar](https://www.realtor.com/news/unique-homes/80-million-upper-east-side-mansion-most-expensive/)** <sub>Kellie Speed · 4:17 AM</sub>
+  <br>A historical neo-Italian Renaissance carriage house built in 1910 and later transformed into a spectacular residence by former Morgan Stanley CEO John Mack and his wife, Christy , has just hit the market in Manhattan for an astonishing $80 million. The Upper East Side estate once served as a garage…
+- **[Datacenter in Colchester](https://www.reddit.com/r/Connecticut/comments/1x4ogji/datacenter_in_colchester/)** <sub>DerpolIus · 1:35 AM</sub>
+  <br>To anyone who didn’t already know, ReNew Developers is trying to build a datacenter in Colchester, literally right next to the Airline Trail. I don’t need to state why I and many other residents are distraught about this horrific incursion into our quiet residential town. It’s already in the zoning…
+
 ## Monday, October 12
 
+- **[Helping Immigrant-Owned Businesses in CT](https://www.reddit.com/r/Connecticut/comments/1x4mfru/helping_immigrantowned_businesses_in_ct/)** <sub>Such\_Blackberry\_3664 · 11:43 PM</sub>
+  <br>Hi everyone! I'm a high school student from New Haven County, and a few friends and I have started an initiative to help immigrant-owned small businesses and mom-and-pop shops with digital visibility and marketing. We're currently looking for a restaurant to work with for our first pilot, since we…
+- **[Newly sober and disabled. Looking for an or gaming system no longer being used to occupy my mind](https://www.reddit.com/r/Connecticut/comments/1x4m31g/newly_sober_and_disabled_looking_for_an_or_gaming/)** <sub>SwampYankeeDan · 11:24 PM</sub>
+  <br>I'm disabled and in (new) recovery for alcoholism. Im struggling with too much down time. Does anyone have an old gaming system they no longer use and would be willing to part with? I bought one earlier this year but it wrapped out after two months. I can't really afford to buy anything again. I…
+- **[Looking for roommate](https://www.reddit.com/r/Connecticut/comments/1x4lfiw/looking_for_roommate/)** <sub>ApprehensiveFlow3055 · 10:51 PM</sub>
+  <br>M 23 looking to move in ct preferably in Bristol, new Britain, newington, Hartford, Middletown
+- **[Charter oak state college](https://www.reddit.com/r/Connecticut/comments/1x4l1ps/charter_oak_state_college/)** <sub>Fun-Engine469 · 10:31 PM</sub>
+  <br>Hi guys! The reason I’m making this post is because I’m trying to complete my bachelors, I currently have a mix of credits 65 from a four year and I am in Sophia and study.com to max transfer to some universities like TESU, Excelsior, UMPI and etc. I’ve been looking at charter oak state college…
+- **[In Opinion \| As the 250th anniversary of the founding of the U.S. nears its final months, we invite residents of Quinnehtukqut to support organizations that uplift Indigenous freedoms.](https://m.facebook.com/hartfordcourant/posts/pfbid0k7Zb3ivUeZLUkkXFWznsFLQrJrK4Pf1mYC1FFt1HRrWEf2bVys6Hib4GzyQFZb1kl)** <sub>Hartford Courant · 10:02 PM</sub>
+- **[Connecticut to give out 1.5M free eggs after market manipulation probe](https://www.reddit.com/r/Connecticut/comments/1x4k8qy/connecticut_to_give_out_15m_free_eggs_after/)** <sub>angeldeb82 · 9:51 PM</sub>
+- **[Musician and activist John Denver died when the experimental light plane he was piloting crashed into Monterey Bay off the California coast.](https://m.facebook.com/hartfordcourant/posts/pfbid0icCEob8mx9rmQ6pt4QCwLB7RXhJVyAjwZy1Rq1gBqrFyRWGxECfK99qxvx2AbRwgl)** <sub>Hartford Courant · 9:32 PM</sub>
 - **[Make sure your advisor is a good match. {og:title} {article:title} courant.com/2026/10/12/3-que… — Hartford Courant (@hartfordcourant) Oct 13, 2026](https://x.com/hartfordcourant/status/2109812706001784991)** <sub>@hartfordcourant · 9:05 PM</sub>
 - **[The UConn women’s basketball team defeated Syracuse, 88-60, in an exhibition game at Mohegan Sun Arena on Monday night. courant.com/2026/10/12/fresh… — Hartford Courant (@hartfordcourant) Oct 13, 2026](https://x.com/hartfordcourant/status/2109809644004655608)** <sub>@hartfordcourant · 8:53 PM</sub>
 - **[The UConn women’s basketball team outclassed 'Cuse in their preseason opener.](https://m.facebook.com/hartfordcourant/posts/pfbid03rS1vHBQFSaAbXwazgMYADsytdgrsD53EacvYb8EVUamsAGEm4QLZsYkSCpeafKJl)** <sub>Hartford Courant · 8:51 PM</sub>
