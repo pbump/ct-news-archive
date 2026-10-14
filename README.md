@@ -1,9 +1,37 @@
 # CT News
 
-Last 30 days · 1291 items · updated Oct 14, 2026 1:19 AM EDT
+Last 30 days · 1304 items · updated Oct 14, 2026 6:18 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
+
+## Wednesday, October 14
+
+- **[They are “two unique venues helmed by seasoned restaurateurs \[coming\] to the downtown culinary landscape.” courant.com/2026/10/14/there… — Hartford Courant (@hartfordcourant) Oct 14, 2026](https://x.com/hartfordcourant/status/2110313992828690697)** <sub>@hartfordcourant · 6:17 AM</sub>
+- **[Connecticut has already shown us what that can look like. We established a shared goal, coordinated across systems, and aligned people and resources behind the goal.](https://x.com/hartfordcourant/status/2110310793703018740)** <sub>@hartfordcourant · 6:04 AM</sub>
+  <br>Connecticut has already shown us what that can look like. We established a shared goal, coordinated across systems, and aligned people and resources behind the goal. courant.com/2026/10/14/opini… — Hartford Courant (@hartfordcourant) Oct 14, 2026
+- **[Dr. Goudarz Molaei, director of the state’s tick testing program, said the partnership with Yale School of Medicine will allow researchers to understand how prevalent it is in Connecticut.](https://x.com/hartfordcourant/status/2110307329946116415)** <sub>@hartfordcourant · 5:50 AM</sub>
+  <br>Dr. Goudarz Molaei, director of the state’s tick testing program, said the partnership with Yale School of Medicine will allow researchers to understand how prevalent it is in Connecticut. courant.com/2026/10/14/ct-of… — Hartford Courant (@hartfordcourant) Oct 14, 2026
+- **[Gov. Ned Lamont announced the planned release of $12.7 million from the $500 million contingency fund created last year to address the impact of federal cuts since Donald J. Trump’s return to the…](https://x.com/hartfordcourant/status/2110306093951758421)** <sub>@hartfordcourant · 5:45 AM</sub>
+  <br>Gov. Ned Lamont announced the planned release of $12.7 million from the $500 million contingency fund created last year to address the impact of federal cuts since Donald J. Trump’s return to the White House. courant.com/2026/10/14/to-he… — Hartford Courant (@hartfordcourant) Oct 14, 2026
+- **[Saying that way too many long-time citizens are moving out of town because of a shortage housing, a 69-unit development of upscale homes is proposed.](https://x.com/hartfordcourant/status/2110302965063884979)** <sub>@hartfordcourant · 5:33 AM</sub>
+  <br>Saying that way too many long-time citizens are moving out of town because of a shortage housing, a 69-unit development of upscale homes is proposed. courant.com/2026/10/14/nearl… — Hartford Courant (@hartfordcourant) Oct 14, 2026
+- **[The question is whether the humans responsible for building, testing, and promoting these systems first put foolproof safeguards in place.](https://x.com/hartfordcourant/status/2110300589192069518)** <sub>@hartfordcourant · 5:24 AM</sub>
+  <br>The question is whether the humans responsible for building, testing, and promoting these systems first put foolproof safeguards in place. courant.com/2026/10/14/opini… — Hartford Courant (@hartfordcourant) Oct 14, 2026
+- **[To create transparency at Connecticut’s embattled colleges and university system after a string of scandals and resignations, the public will soon have access to a real-time dashboard tracking…](https://x.com/hartfordcourant/status/2110298347529498946)** <sub>@hartfordcourant · 5:15 AM</sub>
+  <br>To create transparency at Connecticut’s embattled colleges and university system after a string of scandals and resignations, the public will soon have access to a real-time dashboard tracking improvements. Increased oversight of… courant.com/2026/10/14/after… — Hartford Courant (@hartfordcourant)…
+- **[CT state GOP chairman demands apology from Gov. Lamont after he was caught on video using a vulgar term at a campaign event in a contentious race.](https://x.com/hartfordcourant/status/2110296059683463550)** <sub>@hartfordcourant · 5:06 AM</sub>
+  <br>CT state GOP chairman demands apology from Gov. Lamont after he was caught on video using a vulgar term at a campaign event in a contentious race. courant.com/2026/10/14/gov-l… — Hartford Courant (@hartfordcourant) Oct 14, 2026
+- **[High-End Homebuyers Are Flocking to Areas With Top-Rated Public Schools—Here’s Where](https://www.realtor.com/news/trends/high-end-homebuyers-flock-to-areas-with-top-rated-schools/)** <sub>Kiri Blakeley · 5:00 AM</sub>
+  <br>There are many reasons that luxury-home buyers choose a location—everything from jobs to family to weather. But a high-quality public school system has always been a factor that lures wealthy families to an area. "A highly rated public school district carries real value for a home and attracts…
+- **[This $995K Waterfront Property Comes With Its Own Private Island—and an 1800s Farmhouse](https://www.realtor.com/news/unique-homes/most-popular-home-private-island-middlesex-va/)** <sub>Kellie Speed · 4:37 AM</sub>
+  <br>A 22.8-acre waterfront property , which includes an 1800s farmhouse and "Oyster House" on its own private 1-acre island, has splashed to the top the week’s most popular homes list . The "one-of-a-kind" island home in Middlesex, VA , listed for $995,000, has a boat ramp on the Rappahannock River and…
+- **[More Adult Kids Are Going ‘No Contact’ With Parents. How Will It Affect Generational Wealth?](https://www.realtor.com/news/trends/adult-kids-no-contact-wealth-transfer/)** <sub>Eric Goldschein · 4:18 AM</sub>
+  <br>Family dynamics and expectations change with every generation. And a perceived rise in estrangements between adult children and their parents is the latest shift that could have an impact on the housing market and intergenerational wealth transfer . According to some reporting and anecdotes from…
+- **[Any tea people around?](https://www.reddit.com/r/Connecticut/comments/1x5klpr/any_tea_people_around/)** <sub>PaleoProblematica · 3:07 AM</sub>
+  <br>Hi all! Perhaps a bit of a weird inquiry, but I'm curious if there's anyone around into tea? I'm a very big fan of nice loose leaf teas, (primarily Chinese) prepared in a traditional style with nice teaware. Of course I like drinking it myself but I find it best shared and enjoyed with others and I…
+- **[Badminton players near new London area?](https://www.reddit.com/r/Connecticut/comments/1x5k989/badminton_players_near_new_london_area/)** <sub>GroundbreakingWin648 · 2:45 AM</sub>
+  <br>I know there’s a group playing on Friday night at Williams School, but is there any other group playing near the area ( Or is anyone interested in playing on other days of the week as well? Looking for more badminton players in the area👀
 
 ## Tuesday, October 13
 
