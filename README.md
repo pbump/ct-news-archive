@@ -1,9 +1,31 @@
 # CT News
 
-Last 30 days · 1504 items · updated Oct 15, 2026 1:08 AM EDT
+Last 30 days · 1514 items · updated Oct 15, 2026 5:49 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
+
+## Thursday, October 15
+
+- **[Fazio spent $7.2 million to advertise on broadcast, cable or streaming television and more than $400,000 on text messages since July 1.](https://x.com/hartfordcourant/status/2110664857489993867)** <sub>@hartfordcourant · 5:31 AM</sub>
+  <br>Fazio spent $7.2 million to advertise on broadcast, cable or streaming television and more than $400,000 on text messages since July 1. courant.com/2026/10/15/delay… — Hartford Courant (@hartfordcourant) Oct 15, 2026
+- **[Despite Fazio’s campaign spending $7.2 million for ads on broadcast, cable or streaming television since July, 30% of those polled said they hadn’t heard enough to express an opinion about the…](https://x.com/hartfordcourant/status/2110663103096525181)** <sub>@hartfordcourant · 5:24 AM</sub>
+  <br>Despite Fazio’s campaign spending $7.2 million for ads on broadcast, cable or streaming television since July, 30% of those polled said they hadn’t heard enough to express an opinion about the 36-year-old state senator from Greenwich. courant.com/2026/10/15/q-pol… — Hartford Courant…
+- **[The Halloween events keep rolling in with the first annual New England Halloween Fest, according to a statement. courant.com/2026/10/15/the-u… — Hartford Courant (@hartfordcourant) Oct 15, 2026](https://x.com/hartfordcourant/status/2110659974015635456)** <sub>@hartfordcourant · 5:12 AM</sub>
+- **[Ford makes the long haul with an aesthetically pleasing and proven F-150 Lobo edition pickup truck that is ready for all consumers.](https://x.com/hartfordcourant/status/2110657022681055608)** <sub>@hartfordcourant · 5:00 AM</sub>
+  <br>Ford makes the long haul with an aesthetically pleasing and proven F-150 Lobo edition pickup truck that is ready for all consumers. courant.com/2026/10/15/2026-… — Hartford Courant (@hartfordcourant) Oct 15, 2026
+- **[Fleeing High Rent in Major Cities? Why These ‘Affordable Refuge’ Metros Are Getting Pricier](https://www.realtor.com/news/trends/fleeing-high-rent-in-major-cities-why-these-affordable-refuge-metros-are-getting-pricier/)** <sub>Julie Gerstein · 5:00 AM</sub>
+  <br>High rents in cities such as Los Angeles , Chicago , and Washington, DC, have pushed many to relocate to "affordability refuges." But now, rents are rising in several of those cities. The Realtor.com® September 2026 rental report shows that the national median asking rent for 0-2 bedroom properties…
+- **[uhart or uconn](https://www.reddit.com/r/Connecticut/comments/1x6gj62/uhart_or_uconn/)** <sub>AbbreviationsThin780 · 4:52 AM</sub>
+  <br>hello! im international student both got accepted to uconn (bio) and uhart (nursing) (tho ik uhart has 96% passing). which one is worth it? uconn storrs - originally applied for nursing but got deferred to bio + 10k yearly scholarship uhart - nursing + 31k yearly scholarship for context i want to…
+- **[Tour Big Bear Lake’s Most Expensive Listing: A $15 Million Mountain-Modern Waterfront Retreat](https://www.realtor.com/news/unique-homes/big-bear-modern-15-million-estate-luxury/)** <sub>Hannah Chambers · 4:46 AM</sub>
+  <br>Holding the crown as the highest-priced listing in Big Bear Lake, CA , a $15 million, 1.63-acre private lakefront estate is a rare offering that just hit the market. Newly built this year, the sprawling 7,200-square-foot sanctuary, known as the Waterview Estate, represents the absolute peak of…
+- **[Inside Country Star Becca Bowen’s South Carolina Sanctuary Filled With Tributes to Dolly Parton and Her Grandpa](https://www.realtor.com/news/celebrity-real-estate/country-singer-becca-bowen-south-carolina-home-keeps-her-connected-to-family-and-dolly-parton/)** <sub>Karli Mullane · 4:11 AM</sub>
+  <br>Country singer-songwriter Becca Bowen ’s South Carolina home is composed of tributes to her biggest musical inspirations: her grandfather and Dolly Parton . Both influential figures are honored in the home decor Bowen has on display inside the 1995-built Palmetto State abode that she bought in…
+- **[Cat missing 571 days reunited with Connecticut family after epic journey](https://www.reddit.com/r/Connecticut/comments/1x6e842/cat_missing_571_days_reunited_with_connecticut/)** <sub>PuppiesnKittens2334 · 2:22 AM</sub>
+  <br>Let's enjoy some good news for once! Finally found in Mamaroneck.
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2434568763962580/)** <sub>CTPOLICELIVE · 1:03 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
 
 ## Wednesday, October 14
 
