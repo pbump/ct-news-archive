@@ -1,12 +1,48 @@
 # CT News
 
-Last 30 days · 1732 items · updated Oct 16, 2026 2:25 AM EDT
+Last 30 days · 1753 items · updated Oct 16, 2026 7:42 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Friday, October 16
 
+- **[October 16 is National Dictionary Day, Noah Webster’s birthday. Just the time to celebrate this practical yet peculiar creation](https://x.com/hartfordcourant/status/2111056342421012594)** <sub>@hartfordcourant · 7:27 AM</sub>
+  <br>October 16 is National Dictionary Day, Noah Webster’s birthday. Just the time to celebrate this practical yet peculiar creation courant.com/2026/10/16/its-c… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[A trip to the drive-in provided a real family pleasing, babysitter-free night out, with your car doubling as semi-private movie house](https://x.com/hartfordcourant/status/2111053870549868923)** <sub>@hartfordcourant · 7:17 AM</sub>
+  <br>A trip to the drive-in provided a real family pleasing, babysitter-free night out, with your car doubling as semi-private movie house courant.com/2026/10/16/opini… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[Two teenagers have been arrested in connection with multiple incidents of vandalism in Wethersfield that reportedly involved antisemitic symbols, racial slurs, homophobic language and sexually…](https://x.com/hartfordcourant/status/2111050827641012365)** <sub>@hartfordcourant · 7:05 AM</sub>
+  <br>Two teenagers have been arrested in connection with multiple incidents of vandalism in Wethersfield that reportedly involved antisemitic symbols, racial slurs, homophobic language and sexually explicit graffiti, police said. On Sept. 20… courant.com/2026/10/16/two-t… — Hartford Courant…
+- **[There is a lot of news to cover in Connecticut. Catch up with each day’s headlines by subscribing to our News @3 newsletter, delivered at 3 p.m. each day to your inbox.](https://m.facebook.com/hartfordcourant/posts/pfbid024qsryqUCLbEntHAo1Duom1m5bBHQdJtDSg3wp56EYRMGGg6GwJqUe7fuLF6RREsMl)** <sub>Hartford Courant · 7:02 AM</sub>
+- **[Tractor-Trailer Tanker vs Pole Accident Closes Rt 66 in Middletown](https://www.facebook.com/groups/BreakingNow/posts/2410383133034188/)** <sub>Marcus Anthony Rice · 6:56 AM</sub>
+- **[The plan calls for the United States General Services Administration to transfer the ownership and stewardship of the light from federal ownership.](https://x.com/hartfordcourant/status/2111047332921815513)** <sub>@hartfordcourant · 6:51 AM</sub>
+  <br>The plan calls for the United States General Services Administration to transfer the ownership and stewardship of the light from federal ownership. courant.com/2026/10/16/exclu… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[He doesn’t believe there are any trends: rather, it’s figuring out what a person wants, and making it happen, he said. courant.com/2026/10/16/a-pop… — Hartford Courant (@hartfordcourant) Oct 16, 2026](https://x.com/hartfordcourant/status/2111045272851669077)** <sub>@hartfordcourant · 6:43 AM</sub>
+- **[Emotion plays a big role in how we learn. For instance, disgust helps people learn what to avoid, while joy pushes us towards chasing similar experiences.](https://x.com/hartfordcourant/status/2111043176622424075)** <sub>@hartfordcourant · 6:34 AM</sub>
+  <br>Emotion plays a big role in how we learn. For instance, disgust helps people learn what to avoid, while joy pushes us towards chasing similar experiences. courant.com/2026/10/16/chang… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[In a situation with parallels to another community debate, a band of residents are balking at an apparent plan for a large-scale data center in their town.](https://x.com/hartfordcourant/status/2111040089241305223)** <sub>@hartfordcourant · 6:22 AM</sub>
+  <br>In a situation with parallels to another community debate, a band of residents are balking at an apparent plan for a large-scale data center in their town. courant.com/2026/10/16/centr… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[This tree puts on quite a display in mid-October. Hill-Stead Museum grounds, Farmington.](https://www.reddit.com/r/Connecticut/comments/1x7ci7x/this_tree_puts_on_quite_a_display_in_midoctober/)** <sub>Flat\_Economist\_8763 · 6:20 AM</sub>
+- **[A GoFundMe started to raise money for the family said she was in intensive care and that she has “been making some small improvements.”](https://x.com/hartfordcourant/status/2111039172387410207)** <sub>@hartfordcourant · 6:18 AM</sub>
+  <br>A GoFundMe started to raise money for the family said she was in intensive care and that she has “been making some small improvements.” courant.com/2026/10/16/polic… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[We’ve tried education, prevention and other measures, and those efforts will continue, but the governor believes we also need to have additional tools available to manage the population and keep…](https://x.com/hartfordcourant/status/2111034939332255787)** <sub>@hartfordcourant · 6:02 AM</sub>
+  <br>We’ve tried education, prevention and other measures, and those efforts will continue, but the governor believes we also need to have additional tools available to manage the population and keep people safe.” courant.com/2026/10/16/as-ct… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[Meteorologists talk the wildfire risk in Connecticut courant.com/2026/10/16/wildf… — Hartford Courant (@hartfordcourant) Oct 16, 2026](https://x.com/hartfordcourant/status/2111032166306009408)** <sub>@hartfordcourant · 5:51 AM</sub>
+- **[Eversource filed a lawsuit on Thursday challenging state regulators’ decision to cut more than $500 million from the company’s reimbursement for responding to a series of powerful storms in…](https://x.com/hartfordcourant/status/2111030612194668714)** <sub>@hartfordcourant · 5:44 AM</sub>
+  <br>Eversource filed a lawsuit on Thursday challenging state regulators’ decision to cut more than $500 million from the company’s reimbursement for responding to a series of powerful storms in Connecticut. courant.com/2026/10/16/evers… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public.](https://x.com/hartfordcourant/status/2111028379029770375)** <sub>@hartfordcourant · 5:36 AM</sub>
+  <br>Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public. courant.com/2026/10/16/reade… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[“I receive complaints about unsafe staffing levels frequently throughout the week,” a union leader said. “You have a skill mix that is unbalanced. You have burnout. We don’t have enough nurses aides…](https://x.com/hartfordcourant/status/2111025237978423455)** <sub>@hartfordcourant · 5:23 AM</sub>
+  <br>“I receive complaints about unsafe staffing levels frequently throughout the week,” a union leader said. “You have a skill mix that is unbalanced. You have burnout. We don’t have enough nurses aides and techs. courant.com/2026/10/16/nurse… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[Are you a chocoholic or do you prefer something more sour? courant.com/2026/10/16/cts-f… — Hartford Courant (@hartfordcourant) Oct 16, 2026](https://x.com/hartfordcourant/status/2111023029685752139)** <sub>@hartfordcourant · 5:14 AM</sub>
+- **[American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” salutes during a victory ceremony after they had won gold and bronze medals in…](https://x.com/hartfordcourant/status/2111020268738973837)** <sub>@hartfordcourant · 5:03 AM</sub>
+  <br>American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” salutes during a victory ceremony after they had won gold and bronze medals in the 200-meter race. courant.com/2026/10/16/today… — Hartford Courant (@hartfordcourant) Oct 16, 2026
+- **[Millionaire Renters Are Surging—Why the Rich Aren’t Buying](https://www.realtor.com/news/trends/millionaire-renters-triple-since-2020-rentcafe/)** <sub>Allaire Conte · 5:00 AM</sub>
+  <br>More of America’s highest-income households are choosing not to turn their purchasing power into homeownership in a rental market that offers them more flexibility, mobility, and choice . The number of U.S. households earning at least $1 million a year while renting the home they live in rose 229%…
+- **[‘We Moved 7,000 Miles From Oregon to New Zealand To Get a Fresh Start in Our 60s’](https://www.realtor.com/news/first-person/move-oregon-new-zealand-fresh-start-investment-visa/)** <sub>Snejana Farberov · 4:35 AM</sub>
+  <br>Six months ago, Andrew and Kendall Crosby "overturned the bucket" on their comfortable, well-settled life in Bend, OR , packed up their belongings, and traveled 7,000 miles across the globe to start a brand-new chapter in Auckland, New Zealand . Both in their early 60s and semiretired, the Crosbys…
+- **[Exploring Lease Options](https://www.reddit.com/r/Connecticut/comments/1x79qih/exploring_lease_options/)** <sub>Beneficial\_Hippo2392 · 3:25 AM</sub>
+  <br>I’m planning to relocate to Hartford, CT, in early November and am currently exploring affordable rental options near downtown Hartford. Since I’m new to the area and don’t have any personal connections there, I wanted to reach out and ask if you could share any advice, recommendations, or insights…
 - **[ICE arrest by the state library at noon today, watch out](https://www.reddit.com/r/Connecticut/comments/1x77ya3/ice_arrest_by_the_state_library_at_noon_today/)** <sub>Born-Abroad3388 · 1:36 AM</sub>
 
 ## Thursday, October 15
