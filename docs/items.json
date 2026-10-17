@@ -1,9 +1,284 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-10-17T00:04:47.723178+00:00",
+ "updated": "2026-10-17T04:14:58.016297+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2411103292962172/",
+   "title": "Officer Involved Shooting Bristol",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2411103292962172/",
+   "summary": "",
+   "author": "Doug Oberly",
+   "image": null,
+   "published": "2026-10-17T03:02:58+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T03:02:58+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid032XSSiN8ZvPPWCqkK98ZdTc94FjJsYxPqjT24KRcRKd9PFxWxcJ9QJohTAPFXXvUtl",
+   "title": "In Opinion | Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid032XSSiN8ZvPPWCqkK98ZdTc94FjJsYxPqjT24KRcRKd9PFxWxcJ9QJohTAPFXXvUtl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/852789192_1532544918903344_6682227389097244078_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=-l79flGbALcQ7kNvwETx8eB&_nc_oc=AdpatBdC7gyypzAWJm8OejiogcSH6kBxMSyIOAm-MjVniLaBjfYGahQZoZp0_iva9xk&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQM5Bk5hmht3dm61EJCBsLsFceTpCRdAdYC8VN_sAFLKCg&oe=6AD8D15E",
+   "published": "2026-10-17T02:02:22+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T02:02:22+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111274506337591444",
+   "title": "By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…",
+   "link": "https://x.com/hartfordcourant/status/2111274506337591444",
+   "summary": "By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president’s false claims about… courant.com/2026/10/16/trump… — Hartford Courant (@hartfordcourant) Oct 17,…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111269561639067648/zzRGh8rk?format=jpg&name=800x419",
+   "published": "2026-10-17T01:54:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:54:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x7y3ky/nice_restaurants_for_special_celebration_with/",
+   "title": "Nice restaurants for special celebration with girlfriend?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x7y3ky/nice_restaurants_for_special_celebration_with/",
+   "summary": "Hello! I am looking for a nice restaurant to celebrate mine and my girlfriend’s year and a half anniversary. I am in Middlesex county, but wouldn’t mind driving anywhere under an hour. Price isn’t really an issue for me, I’ll take her anywhere nice :)",
+   "author": "ATTILMTY",
+   "image": null,
+   "published": "2026-10-17T01:48:49+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:48:49+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111271517019357554",
+   "title": "By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…",
+   "link": "https://x.com/hartfordcourant/status/2111271517019357554",
+   "summary": "By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president’s false claims about… courant.com/2026/10/16/trump… — Hartford Courant (@hartfordcourant) Oct 17,…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111269561639067648/zzRGh8rk?format=jpg&name=800x419",
+   "published": "2026-10-17T01:42:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:42:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111269554508755141",
+   "title": "By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…",
+   "link": "https://x.com/hartfordcourant/status/2111269554508755141",
+   "summary": "By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president’s false claims about… courant.com/2026/10/16/trump… — Hartford Courant (@hartfordcourant) Oct 17,…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111269561639067648/zzRGh8rk?format=jpg&name=800x419",
+   "published": "2026-10-17T01:34:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:34:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111267059459895705",
+   "title": "Not sure what you or your child should wear for Halloween this year? Let Google data help you out with its list of the most-searched costumes of 2026. {og:title} {article:title}",
+   "link": "https://x.com/hartfordcourant/status/2111267059459895705",
+   "summary": "Not sure what you or your child should wear for Halloween this year? Let Google data help you out with its list of the most-searched costumes of 2026. {og:title} {article:title} courant.com/2026/10/16/googl… — Hartford Courant (@hartfordcourant) Oct 17, 2026",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111267063440306178/t3myRFMp?format=jpg&name=800x419",
+   "published": "2026-10-17T01:24:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:24:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x7xj26/oakdale_theatre/",
+   "title": "Oakdale Theatre",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x7xj26/oakdale_theatre/",
+   "summary": "How are traffic and lines to get in? What time should we plan to arrive for an 8pm concert?",
+   "author": "PuzzleheadedCycle444",
+   "image": null,
+   "published": "2026-10-17T01:18:41+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:18:41+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111263708244545731",
+   "title": "Mittens for toddlers offer warmth in freezing temperatures, and many of them are waterproof. {og:title} {article:title} courant.com/2026/10/16/best-… — Hartford Courant (@hartfordcourant) Oct 17, 2026",
+   "link": "https://x.com/hartfordcourant/status/2111263708244545731",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111263714959626241/iA0j3CxR?format=jpg&name=800x419",
+   "published": "2026-10-17T01:11:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:11:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02J55Ycp83yL9EUY71jEPkZRZUt2133NbrETaiZwKyCwNYUcV8NGXsMd5giJcHzwhwl",
+   "title": "American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” s...",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02J55Ycp83yL9EUY71jEPkZRZUt2133NbrETaiZwKyCwNYUcV8NGXsMd5giJcHzwhwl",
+   "summary": "American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” salutes during a victory ceremony after they had won gold and bronze medals in the 200-meter race.",
+   "author": "Hartford Courant",
+   "image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/853675680_1532506672240502_3174115734848967156_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=j7DX0apfj4IQ7kNvwH1mevt&_nc_oc=AdpKKwXqKSMG-QggEaE58mAbFopA6O1hB6QRhYqp36WD7BPz_qsNq-U_yH4gfU3gax0&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQNIVEcMF5itxomFHAT9GUSTg_FXQWdA2t36cLHtRnmvsw&oe=6AD8D929",
+   "published": "2026-10-17T01:02:18+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:02:18+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111261104319934564",
+   "title": "With winter upon us, that means a wardrobe change with the sudden chill in the air. We list the best men’s leather gloves. {og:title} {article:title}",
+   "link": "https://x.com/hartfordcourant/status/2111261104319934564",
+   "summary": "With winter upon us, that means a wardrobe change with the sudden chill in the air. We list the best men’s leather gloves. {og:title} {article:title} courant.com/2026/10/16/stay-… — Hartford Courant (@hartfordcourant) Oct 17, 2026",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111261109231538177/NpKFEcjp?format=jpg&name=800x419",
+   "published": "2026-10-17T01:00:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T01:00:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111258994727657967",
+   "title": "Hartford’s immigration court has hit a record removal rate so far in 2026. courant.com/2026/10/16/migra… — Hartford Courant (@hartfordcourant) Oct 17, 2026",
+   "link": "https://x.com/hartfordcourant/status/2111258994727657967",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111258996979986432/4ZDwAD4e?format=jpg&name=800x419",
+   "published": "2026-10-17T00:52:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:52:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x7wzzw/dr_recommendations/",
+   "title": "Dr recommendations?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x7wzzw/dr_recommendations/",
+   "summary": "I need to find a new PCP. I'm done with my current one - too many issues between incompetent prescription handling and overcharging on procedures that should be covered under my insurance. Someone within the New Haven/East Haven area that offers good care, is competent, and hasn't gotten too…",
+   "author": "Ibegb",
+   "image": null,
+   "published": "2026-10-17T00:51:51+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:51:51+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/reel/1148262594434957/",
+   "title": "Woman Reportedly Chases Man With Knife, One Detained - Norwich 📍 North Main Street, Norwich, CT 📅 Friday, October 1...",
+   "link": "https://www.facebook.com/reel/1148262594434957/",
+   "summary": "Woman Reportedly Chases Man With Knife, One Detained - Norwich 📍 North Main Street, Norwich, CT 📅 Friday, October 16, 2026 - 8:22 p.m. 📻 Key Details -- Norwich Police responded to a domestic disturbance at a residence on North Main Street -- A woman reportedly cut herself with a knife before…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t15.5256-10/852473395_1630986968556123_2055809930523848804_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=L-bkJoyvKpIQ7kNvwEY-XBp&_nc_oc=AdrXp0jn5DRM1NJF_diY7GDUpwMIa-1vPuQn3Sd1mV4ndxmnhBuxWVpPni5uPVdXUpg&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQNtT5NoH00mslzuTUHTWo1OfaQjf6DWQHMwcJ1Cuy1D5A&oe=6AD8D927",
+   "published": "2026-10-17T00:47:59+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:47:59+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x7ww3k/ill_vote_for_whichever_candidates_prioritize/",
+   "title": "I'll vote for whichever candidates prioritize desegregation",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x7ww3k/ill_vote_for_whichever_candidates_prioritize/",
+   "summary": "https://ctmirror.org/2026/06/23/report-ct-schools-among-the-most-segregated-in-the-u-s/ I consider myself an abolitionist, and apparently we have work to do.",
+   "author": "OcelotCharacter1807",
+   "image": "https://preview.redd.it/golqs4rocxvh1.jpeg?width=640&crop=smart&auto=webp&s=ec9c08824ef4a00419d535dfb3d7125367660f69",
+   "published": "2026-10-17T00:46:05+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:46:05+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111256902667497489",
+   "title": "By CATHY BUSSEWITZ NEW YORK (AP) — Stephanie Joseph was working at a television station when someone started a false rumor claiming she and a married colleague were romantically involved. Joseph,…",
+   "link": "https://x.com/hartfordcourant/status/2111256902667497489",
+   "summary": "By CATHY BUSSEWITZ NEW YORK (AP) — Stephanie Joseph was working at a television station when someone started a false rumor claiming she and a married colleague were romantically involved. Joseph, then 20, barely knew the man in… courant.com/2026/10/16/the-r… — Hartford Courant (@hartfordcourant)…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111256905133793280/TcOsK21r?format=jpg&name=800x419",
+   "published": "2026-10-17T00:44:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:44:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02MUy4pp4aLh9dAeH2EQV9vugTL4vzLAWXnL5dUf9mE1xACd9Zy6kmjqiAVrUco8vJl",
+   "title": "Woman Reportedly Chases Man With Knife, One Detained - Norwich 📍 North Main Street, Norwich, CT 📅 Friday, October 16...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02MUy4pp4aLh9dAeH2EQV9vugTL4vzLAWXnL5dUf9mE1xACd9Zy6kmjqiAVrUco8vJl",
+   "summary": "Woman Reportedly Chases Man With Knife, One Detained - Norwich 📍 North Main Street, Norwich, CT 📅 Friday, October 16, 2026 - 8:22 p.m. 📻 Key Details -- Norwich Police responded to a domestic disturbance at a residence on North Main Street -- A woman reportedly cut herself with a knife before…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-sof1-2.xx.fbcdn.net/v/t39.30808-6/853768215_1581811037323376_7166091747012190215_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=Rfuy9fqwQjMQ7kNvwHqrW-c&_nc_oc=Adr4cuCd6ZUdbqjs_iHKox8vhI1zAWBDWOyC3Gu44C25UnCgdCJwkIV1RGj4X4KycsA&_nc_zt=23&_nc_ht=scontent-sof1-2.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQP8baWmxLYe7Nzuvr3d3B2CR6HdkdKPNthqAG3clFvdUg&oe=6AD8BF8D",
+   "published": "2026-10-17T00:40:50+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:40:50+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111254307244843347",
+   "title": "JAMES RISWICK of Edmunds With prices ballooning everywhere, finding a large family vehicle that fits your budget has become harder than ever. That’s why the Hyundai Santa Fe and Nissan Pathfinder are…",
+   "link": "https://x.com/hartfordcourant/status/2111254307244843347",
+   "summary": "JAMES RISWICK of Edmunds With prices ballooning everywhere, finding a large family vehicle that fits your budget has become harder than ever. That’s why the Hyundai Santa Fe and Nissan Pathfinder are appealing. These two three-row… courant.com/2026/10/16/hyund… — Hartford Courant (@hartfordcourant)…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111254313745924096/kpCY1Vv7?format=jpg&name=800x419",
+   "published": "2026-10-17T00:33:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:33:00+00:00"
+  },
+  {
+   "id": "https://www.realtor.com/news/real-estate-news/amendment-3-florida-homestead-tax-exemption/",
+   "title": "The Real Amendment 3 Before Florida Voters: 5 Things Floridians Should Know About Property Tax Relief",
+   "link": "https://www.realtor.com/news/real-estate-news/amendment-3-florida-homestead-tax-exemption/",
+   "summary": "OPINION: A recent Realtor.com® article about Florida’s Amendment 3 referenced an earlier, independent study that looked at what could happen if Florida eliminated property taxes altogether. That is not Amendment 3, and it is not what Floridians will be voting for on Nov. 3. Amendment 3 takes a more…",
+   "author": "Chuck Bonfiglio Jr",
+   "image": "https://na.rdcpix.com/fee9b50d1e160cd4aa703484e98ded6ew-c2155036283srd_q80.jpg",
+   "published": "2026-10-17T00:31:22+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:31:22+00:00"
+  },
+  {
+   "id": "https://www.realtor.com/news/real-estate-news/florida-homestead-tax-exemption-impact-homeowners/",
+   "title": "Florida Homestead Tax Sparks Debate Over Who Will Pay for Local Services",
+   "link": "https://www.realtor.com/news/real-estate-news/florida-homestead-tax-exemption-impact-homeowners/",
+   "summary": "The debate lines are solidifying around Florida's proposed homestead tax rollback, with voters just weeks from deciding whether to radically reform the state's property tax system. Outgoing Gov. Ron DeSantis championed an initiative to eliminate property taxes . Ultimately, a narrower version of…",
+   "author": "Tristan Navera",
+   "image": "https://na.rdcpix.com/43e05a152c4d19dc60f84993a822f52fw-c276684347srd_q80.jpg",
+   "published": "2026-10-17T00:30:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:30:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x7wdwz/can_i_keep_my_dl_when_i_transfer_from_outofstate/",
+   "title": "can I keep my DL when i transfer from out-of-state?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x7wdwz/can_i_keep_my_dl_when_i_transfer_from_outofstate/",
+   "summary": "my driver's license is expiring and i'm booking a transfer appt online. some states just hole-punch it but i don't know how it's done here. does CT DMV let you keep your old one?",
+   "author": "nottooshabby43110",
+   "image": null,
+   "published": "2026-10-17T00:20:52+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:20:52+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111251067304313149",
+   "title": "They set fire to cars and trees, according to local officials and emergency responders. courant.com/2026/10/16/israe… — Hartford Courant (@hartfordcourant) Oct 17, 2026",
+   "link": "https://x.com/hartfordcourant/status/2111251067304313149",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111251072119361537/lQMCz7d7?format=jpg&name=800x419",
+   "published": "2026-10-17T00:20:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:20:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111248893983719700",
+   "title": "The day may start with a little more resistance than usual. The Capricorn Moon squares Saturn in Aries at 5:50 am EDT, putting limits, delays, and responsibilities front and center. Something may…",
+   "link": "https://x.com/hartfordcourant/status/2111248893983719700",
+   "summary": "The day may start with a little more resistance than usual. The Capricorn Moon squares Saturn in Aries at 5:50 am EDT, putting limits, delays, and responsibilities front and center. Something may take longer, require more patience, or… courant.com/2026/10/16/daily… — Hartford Courant…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111153707765129216/8borljoM?format=jpg&name=800x419",
+   "published": "2026-10-17T00:12:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:12:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2111247207261184075",
+   "title": "The cap was imposed without warning early Thursday. courant.com/2026/10/16/russi… — Hartford Courant (@hartfordcourant) Oct 17, 2026",
+   "link": "https://x.com/hartfordcourant/status/2111247207261184075",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2111247214198607873/6ml8-DeP?format=jpg&name=800x419",
+   "published": "2026-10-17T00:05:00+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:05:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid03fjPabQzU6yma9kV6aSxJt94wGvCLEZE23h7E5omjQ7bnsN8svg5KAMSF5LBefFql",
+   "title": "“Although voters are also concerned about the economy in Connecticut, it doesn’t appear to be dragging down Lamont’s approval ratings to the same extent.”",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid03fjPabQzU6yma9kV6aSxJt94wGvCLEZE23h7E5omjQ7bnsN8svg5KAMSF5LBefFql",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/855693867_1532473725577130_3959626135827225467_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=wcpKbw9Kj1sQ7kNvwFkQpnu&_nc_oc=AdoKwD9IiMMnxkRGsYy0B8HXIBS7Vi9e2J5ObJLt08o-XWPLCkVdc4Rn2bF7sNAG4Hw&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQNkqA4u38DjtQSjyfwsrX88QCwgYVQSvzO3VW3Xpimw7A&oe=6AD8AA91",
+   "published": "2026-10-17T00:03:01+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-17T00:03:01+00:00"
+  },
   {
    "id": "https://www.reddit.com/r/Connecticut/comments/1x7vwj1/so_usually_people_ask_whats_the_difference/",
    "title": "So usually people ask “what’s the difference between MA and CT?!”",
@@ -104,6 +379,17 @@
    "date": "2026-10-16T23:23:00+00:00"
   },
   {
+   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0QEXQ1NGZxeqN3dJPHk6FPxX16cmP9ZryUVrhD8nP6qiLuhYPmq7yheHBbMBqGujCl",
+   "title": "Congressman Joe Courtney's Office Receives Suspicious Powder, Employee Exposed - Enfield 📍 77 Hazard Avenue, Enfield, C...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0QEXQ1NGZxeqN3dJPHk6FPxX16cmP9ZryUVrhD8nP6qiLuhYPmq7yheHBbMBqGujCl",
+   "summary": "Congressman Joe Courtney's Office Receives Suspicious Powder, Employee Exposed - Enfield 📍 77 Hazard Avenue, Enfield, CT 📅 Friday, October 16, 2026 - 4:22 p.m. 📻 Key Details -- Enfield Police, Fire and EMS responded after an employee at Congressman Joe Courtney's office opened an envelope…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t39.30808-6/853581781_1581768163994330_5712491909605480283_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=kBBvg4BEFRYQ7kNvwEw4vH-&_nc_oc=AdpeEmLvAXivjhHgWdSztbXTIXorx2Wj1j8U2Y-tBbilWsCrdZ6El4QqQIJPylqfbFU&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQO36kRwzw8NulBBG3rJJQSIrJGQDvuef5f1GYfQOJvqdg&oe=6AD8BEDE",
+   "published": "2026-10-16T23:22:06+00:00",
+   "first_seen": "2026-10-17T04:14:58.016297+00:00",
+   "date": "2026-10-16T23:22:06+00:00"
+  },
+  {
    "id": "https://x.com/hartfordcourant/status/2111233997976006720",
    "title": "ICE made nearly 51,000 arrests in August, higher than any month on record. courant.com/2026/10/16/shado… — Hartford Courant (@hartfordcourant) Oct 16, 2026",
    "link": "https://x.com/hartfordcourant/status/2111233997976006720",
@@ -120,7 +406,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0MB4KWoBhX5zDpPGFnNXc4XB1AnvtCqAZtppRFCWFVf6z8ujFA2WbGogkNVLqeY6Dl",
    "summary": "Yale Police Officer Fires Two Shots Into Vehicle During Attempted Suicide Response 📍 Whitney Avenue, near the New Haven Lawn Club, New Haven, CT 📅 Wednesday, October 14, 2026 - 8:50 a.m. 📻 Key Details -- Yale Police responded to 220 Whitney Avenue for a report of a suicidal man inside a vehicle --…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t39.30808-6/851428224_1581750900662723_2452542127167283117_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=MHJi9zrz8IIQ7kNvwGA7Umr&_nc_oc=Adp7cspSEtgo42SN4vRCUcikxScbEUTJswIwm0EHngdlhCEZMh0-H-mhU4Cr8N5m2pk&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=83s1pftM-9BMqZKqq288nw&_nc_ss=7c289&oh=00_AQOEtlsIHCEhGLDjl3FS1NJU4CU_KFC1e8rUQ2e4XlAoxA&oe=6AD8858B",
+   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t39.30808-6/851428224_1581750900662723_2452542127167283117_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=MHJi9zrz8IIQ7kNvwG2NSmt&_nc_oc=AdrSrK7dk14y-JBFdlkllRsTZsqnzj0hvEM2jb9nVVVvONMX9jiyqaJXC3RfDfLbc9Y&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQOqcRn32Oaxf56rsyjk5QAByes2wHW_gROEoI3eJGd3IQ&oe=6AD8BDCB",
    "published": "2026-10-16T23:05:26+00:00",
    "first_seen": "2026-10-17T00:04:47.723178+00:00",
    "date": "2026-10-16T23:05:26+00:00"
@@ -142,7 +428,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid027D9xbpp18tBd8DPQ8jdRTvcUWVYWbQzK8nZaJbNdoJQQpsjZFJor2riKRHonxgdbl",
    "summary": "🚨New Meriden Scoop!🚨 🎉A new tenant has opened inside the Meriden Mall! ✂️Legendz Barbershop opened a new barbershop on the mall’s second level at 470 Lewis Avenue! The new barbershop is located in the old Diva Nail space near the mall’s food court. 💈Legendz relocated from their previous location in…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/854678322_1177801848156265_804739534195394336_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e21142&_nc_ohc=_8o7u2UMJasQ7kNvwEQjM6z&_nc_oc=AdqXRPEM_ig7zVJjm6LvM1MxggdhXIp3oK-iZ7nH5M2eh2XJXVCfEfZrYDVaFZogIVdQh8s4VGcXqx8pceEkPxWa&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=NV2dP-GbohUBcI3T8tvqyg&_nc_ss=7c289&oh=00_AQMexV2tCwg8UmrfSSWFAp1IS3kgSAgggUDGesZ9vDnsLA&oe=6AD88634",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/854678322_1177801848156265_804739534195394336_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e21142&_nc_ohc=_8o7u2UMJasQ7kNvwGMDhpo&_nc_oc=Adr4nEl4d4NwgRnxkjn1_sMaBXXxlT0OO9dFDUULb20wqlwdYDpeGzPB_fmxP3dE9kODtKFYypP25Xekl03unaAW&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=ZvEBZviT517SBRvMu18fEg&_nc_ss=79289&oh=00_AQNgZdNiOm1To3oK83CRgaJqZLtPvs5VryDAqe3gmn_yPQ&oe=6AD8BE74",
    "published": "2026-10-16T23:04:01+00:00",
    "first_seen": "2026-10-17T00:04:47.723178+00:00",
    "date": "2026-10-16T23:04:01+00:00"
@@ -153,7 +439,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02gbT5j8G98QFFPkfbR31icYRtL7KUJ9T7o8d15iUAwUU7M1WNxnNw9NXsukA1hFdEl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/854739981_1532440835580419_6931033132515907531_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=3JgCN2cwT3cQ7kNvwGsgCth&_nc_oc=Adp4Y0MkwLrGijIOLN0EZyBYf5xoFIsyyXRd7PruMIPtVp6t3Lo0xY4xD8kfQ1-D7OARlFPeLVbVaibY9C3TRcBo&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=24Pivh0MR_t5IsGHpFJ2mA&_nc_ss=7c289&oh=00_AQMvZePwOKkONHZnz0j9WAl1EFVM-09qbijiQ_lgLGCpVA&oe=6AD8A440",
+   "image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/854739981_1532440835580419_6931033132515907531_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=3JgCN2cwT3cQ7kNvwGhtPfJ&_nc_oc=Adr2sCGHlS_TGHVi0RDQmnO9SDXIFVG-ltOLxu4Kno4RtwGatsWggmV_XNyMNEiYxQE&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQMUEf3xIz8uqSYHIbDba9g-vPU84-Qklc0pODoT7sZG_g&oe=6AD8DC80",
    "published": "2026-10-16T23:02:27+00:00",
    "first_seen": "2026-10-17T00:04:47.723178+00:00",
    "date": "2026-10-16T23:02:27+00:00"
@@ -197,7 +483,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/videos/1655132922626015/",
    "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t15.5256-10/849372026_1926701944958970_1796710787132932113_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=4bhGNYfwF8cQ7kNvwFutBp1&_nc_oc=AdqQ-lT_kHDFf59mFZIiYRXPhfcP59Rg6OFVpwxdnrFowFJXEKHjw1p6b4iTkkXTLDg&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=83s1pftM-9BMqZKqq288nw&_nc_ss=7c289&oh=00_AQMMORtIezFxi_RN7C9nHr5mJ2dgvRCBUO43ysCPzzKXEA&oe=6AD88544",
+   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t15.5256-10/851042788_1926859118276586_1612101124571389451_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=104&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=_74naMrqrD8Q7kNvwH2_6tE&_nc_oc=AdoZKJiGqu7AX6NcaPcjOgL2kmfoiZWPqc3IZRDzMnEZx22DzDQ1ohF96CQxyAjCEP4&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQNk9fj9yCrW5n1xFD_6niRxacs_TU9O4Z_dRhspYYiSuQ&oe=6AD8DD28",
    "published": "2026-10-16T22:33:47+00:00",
    "first_seen": "2026-10-17T00:04:47.723178+00:00",
    "date": "2026-10-16T22:33:47+00:00"
@@ -219,7 +505,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0xGdDcKgyQ7VfHeesnLSb7qLzrQ5Pq6uuCwwgq1o19bYfaXEZURsse4dV2m3zETxZl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/855556788_1532423742248795_1019976273714984466_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=QZ2R17TkGHAQ7kNvwHk80ud&_nc_oc=AdrdBVsEYNiwCxhWQ0z6XVR-m7GijyK4P1XWfuJgeD6SMnZTg9v9h2kb1yKlQ6IDGgpupyqytQQ7prEwixXbGL7k&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=24Pivh0MR_t5IsGHpFJ2mA&_nc_ss=7c289&oh=00_AQMyxcTxqSaZu9SMSj2dxzeGqV_LIGb3sFG3jgq9BupSZQ&oe=6AD876B0",
+   "image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/855556788_1532423742248795_1019976273714984466_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=QZ2R17TkGHAQ7kNvwEBZ8-w&_nc_oc=AdrHjcfAgfZxKQf5JhexDZldXkxmAwQze-IcXZhZbmo4c3WL_pE1sbVkdz-JwM6w7eA&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQOxVJYrR5cpN6aW6fi0gTgzdpFpemkb3o_Ujwgocol7Rg&oe=6AD8AEF0",
    "published": "2026-10-16T22:32:31+00:00",
    "first_seen": "2026-10-17T00:04:47.723178+00:00",
    "date": "2026-10-16T22:32:31+00:00"
