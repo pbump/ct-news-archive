@@ -1,9 +1,130 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-10-17T04:14:58.016297+00:00",
+ "updated": "2026-10-17T08:36:09.395103+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x84ci4/bristol_police_shot_and_killed_someone_during_a/",
+   "title": "Bristol Police shot and killed someone during a wellness check Friday night.",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x84ci4/bristol_police_shot_and_killed_someone_during_a/",
+   "summary": "Bristol Police Statement on Facebook: \"On October 16th, 2026, at approximately 8:30pm Officers responded to a residence in the Chippens Hill Section of Bristol for a well-being check. During the course of the investigation, an Officer was forced to discharge his firearm, fatally striking the…",
+   "author": "KleetsNews",
+   "image": "https://preview.redd.it/tyewqxgofzvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=dce4c5a94f247f8691215d8f6334845fba605f04",
+   "published": "2026-10-17T07:47:09+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T07:47:09+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x83ur6/did_anyone_else_have_an_absolutely_absurd/",
+   "title": "Did anyone else have an absolutely absurd increase in kwph this month??",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x83ur6/did_anyone_else_have_an_absolutely_absurd/",
+   "summary": "My eversource bill says my utilization is up 245% and my bill tripled. There is zero about my tiny apartment life that has changed to impact my energy use that much. If anything it should have gone down with the weather cooling off. Not up, and certainly not to the MOON. I did have a new neighbor…",
+   "author": "hoya_swapper",
+   "image": null,
+   "published": "2026-10-17T07:16:51+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T07:16:51+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/videos/1107520681857104/",
+   "title": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/videos/1107520681857104/",
+   "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/851986610_1080234624646029_3715849637960679457_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=PLd2k2vxy_MQ7kNvwFTHjW-&_nc_oc=AdrLt-ejtbDJ_TDLXQUXr5CxTz6LsDoMMR1i5Rs4V28Uhdo0GdfRvO75MUW6D5qDa2M&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=epeMvk1RYqWK9wQnNH4u5w&_nc_ss=7c289&oh=00_AQPY0YQbB6h3HM2eeNGkpUVOEjvnTfCqirF0ksSlkYyybA&oe=6AD90535",
+   "published": "2026-10-17T06:37:36+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T06:37:36+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/reel/1126026469975816/",
+   "title": "Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a....",
+   "link": "https://www.facebook.com/reel/1126026469975816/",
+   "summary": "Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m. 📻 Key Details -- Norwich Police initially responded to a disturbance involving a man reportedly acting erratically on a front porch on Sandy Lane -- Officers later located a man…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/855067032_1840140017407756_2180930493048363507_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=Hv4uv7RRracQ7kNvwE52HSG&_nc_oc=AdpDKL6b-MCvmfnULxYm1F9mfRxQt9oCpQw7nK9QU5vKg4Rq34rY2x6Bp5DRUj0cfXs&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=epeMvk1RYqWK9wQnNH4u5w&_nc_ss=7c289&oh=00_AQMBZAYoZkZ9OlToG6SJQRLd0tOagXdNkqLSY_eZKZhmqw&oe=6AD8F631",
+   "published": "2026-10-17T06:32:37+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T06:32:37+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0Mz8NwP7fV7C811aiyPcFeTSUGcVdrp9Npq4gn4zEu2Qj46okdx2n8u1GN9rYS5MGl",
+   "title": "Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0Mz8NwP7fV7C811aiyPcFeTSUGcVdrp9Npq4gn4zEu2Qj46okdx2n8u1GN9rYS5MGl",
+   "summary": "Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m. 📻 Key Details -- Norwich Police initially responded to a disturbance involving a man reportedly acting erratically on a front porch on Sandy Lane -- Officers later located a man…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/854427944_1582041373967009_1940965789339249005_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=iy_W91VxgbsQ7kNvwExOKVA&_nc_oc=AdqHuKgs3D0KI1nErNMLUZuRvfewwOC1tJcEGwSly-NtBUhUFtUGQtTx9ZzBNcWZ1dc&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=epeMvk1RYqWK9wQnNH4u5w&_nc_ss=7c289&oh=00_AQPa2oWTpNaWaHYV8dwAAHc5bDzdtKnDU2oJEDp43Ekq_w&oe=6AD8F81C",
+   "published": "2026-10-17T06:22:00+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T06:22:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid036uTm7meMK1PJgsvXyNKoNiUxfB242adzc4YHoxEyisLiUcDJmwFP1XpVmaXFBWASl",
+   "title": "One person is dead following an officer-involved shooting in Bristol on Friday night.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid036uTm7meMK1PJgsvXyNKoNiUxfB242adzc4YHoxEyisLiUcDJmwFP1XpVmaXFBWASl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/15255879192707687040?url=https%3A%2F%2Fwww.courant.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fpolice_lights_2.jpg%3Fw%3D593%26h%3D356&fb_obo=1&utld=courant.com&_nc_sid=e42f53&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p540x282_q75_tt6_u&ccb=18-1&_nc_gid=TdRXK6WfkRxE87NBUaM1Rg&_nc_zt=3&oh=06_Q3_EAfICK7QRDCFjKxE64b4eMEGTpQWifVKelnGNoXY-sbcT&oe=6AD51040",
+   "published": "2026-10-17T05:46:01+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T05:46:01+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x828ob/submitted_with_love_and_respect/",
+   "title": "Submitted with love and respect.",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x828ob/submitted_with_love_and_respect/",
+   "summary": "",
+   "author": "Maleficent-Toe4747",
+   "image": "https://preview.redd.it/hpl232ezsyvh1.jpeg?width=640&crop=smart&auto=webp&s=7d3bebd851e55a59e587ffb9a9b363dc54bbfda7",
+   "published": "2026-10-17T05:39:10+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T05:39:10+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x81l99/seeking_rapid_rehousing_program_info/",
+   "title": "Seeking Rapid Rehousing program info",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x81l99/seeking_rapid_rehousing_program_info/",
+   "summary": "Anyone have any info on the rapid rehousing programs in ct or have any contact info of someone who might? Asking for a family member of mine who is currently in a dv shelter with 3 kiddos. The shelter hasn't provided any assistance with housing .any information would be helpful thank you in advance",
+   "author": "Own_Wolf4455",
+   "image": null,
+   "published": "2026-10-17T05:01:26+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T05:01:26+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/reel/2258618688029512/",
+   "title": "Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, N...",
+   "link": "https://www.facebook.com/reel/2258618688029512/",
+   "summary": "Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, North Haven, CT 📅 Friday, October 16, 2026 - 11:40 p.m. 📻 Key Details -- State Police received multiple 911 calls reporting a pickup truck traveling northbound in the southbound…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/854940306_2310568509741956_7662738904092051459_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=Berjlr6u6QIQ7kNvwHj8NB3&_nc_oc=AdqWsZAyN9NGBNRJevm3lrOyqrmAWOf7qdX4dEXrShsYuOfLExXlNcXVzeJFkLNFDJY&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=epeMvk1RYqWK9wQnNH4u5w&_nc_ss=7c289&oh=00_AQMaFbb5ZewdwlMvXHLgH_TisO0ekCIcVf4JglT7tyBpEw&oe=6AD8FD46",
+   "published": "2026-10-17T04:42:25+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T04:42:25+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02pxtYHz4MjZ63shzXFzHnwtjeboGpcR9iaujMrpsDCYaSsR5oLz4RdZXh6CkX4sPrl",
+   "title": "Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, N...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02pxtYHz4MjZ63shzXFzHnwtjeboGpcR9iaujMrpsDCYaSsR5oLz4RdZXh6CkX4sPrl",
+   "summary": "Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, North Haven, CT 📅 Friday, October 16, 2026 - 11:40 p.m. 📻 Key Details -- State Police received multiple 911 calls reporting a pickup truck traveling northbound in the southbound…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/853007107_1581969910640822_6373456111141001718_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=s85dWVX92v4Q7kNvwHgvDd5&_nc_oc=AdqDAbUIIY9TzSLybKQfXhGPaZtuJw0kduZcdaPS4J1R4bjhscOTfM6hjJ5cpq_TXUQ&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=epeMvk1RYqWK9wQnNH4u5w&_nc_ss=7c289&oh=00_AQO0uzBRD6x4nijTYCNLvsyMKwx-rBKEkQhhXzDvKdtDjg&oe=6AD90B97",
+   "published": "2026-10-17T04:34:48+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T04:34:48+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1x7zive/corrected_absentee_ballot/",
+   "title": "Corrected absentee ballot",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1x7zive/corrected_absentee_ballot/",
+   "summary": "Did any other cities get corrected absentee ballots sent out? I've been doing absentee most of the time for close to 20 years and have never gotten a \"oops our bad, here's a corrected one to resend.\"",
+   "author": "weeeee_w33",
+   "image": null,
+   "published": "2026-10-17T03:04:36+00:00",
+   "first_seen": "2026-10-17T08:36:09.395103+00:00",
+   "date": "2026-10-17T03:04:36+00:00"
+  },
   {
    "id": "https://www.facebook.com/groups/BreakingNow/posts/2411103292962172/",
    "title": "Officer Involved Shooting Bristol",
@@ -21,7 +142,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid032XSSiN8ZvPPWCqkK98ZdTc94FjJsYxPqjT24KRcRKd9PFxWxcJ9QJohTAPFXXvUtl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/852789192_1532544918903344_6682227389097244078_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=-l79flGbALcQ7kNvwETx8eB&_nc_oc=AdpatBdC7gyypzAWJm8OejiogcSH6kBxMSyIOAm-MjVniLaBjfYGahQZoZp0_iva9xk&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQM5Bk5hmht3dm61EJCBsLsFceTpCRdAdYC8VN_sAFLKCg&oe=6AD8D15E",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/852789192_1532544918903344_6682227389097244078_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=-l79flGbALcQ7kNvwEHIELT&_nc_oc=AdpCpqrDtv8IwHIkfWQu4OtyAWr-g2XdvEyjQrfD0z7hUpWKrdhAlgmf3I5B2AcElz4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TdRXK6WfkRxE87NBUaM1Rg&_nc_ss=7c289&oh=00_AQMnfh2Y-6wEbON9Tpl00plV2eaXGUrP8w_CAe4a0CVygA&oe=6AD9099E",
    "published": "2026-10-17T02:02:22+00:00",
    "first_seen": "2026-10-17T04:14:58.016297+00:00",
    "date": "2026-10-17T02:02:22+00:00"
@@ -109,7 +230,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02J55Ycp83yL9EUY71jEPkZRZUt2133NbrETaiZwKyCwNYUcV8NGXsMd5giJcHzwhwl",
    "summary": "American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” salutes during a victory ceremony after they had won gold and bronze medals in the 200-meter race.",
    "author": "Hartford Courant",
-   "image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/853675680_1532506672240502_3174115734848967156_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=j7DX0apfj4IQ7kNvwH1mevt&_nc_oc=AdpKKwXqKSMG-QggEaE58mAbFopA6O1hB6QRhYqp36WD7BPz_qsNq-U_yH4gfU3gax0&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQNIVEcMF5itxomFHAT9GUSTg_FXQWdA2t36cLHtRnmvsw&oe=6AD8D929",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/853675680_1532506672240502_3174115734848967156_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=j7DX0apfj4IQ7kNvwGWNsTq&_nc_oc=AdqWlvj4rw-bTeabdQi0yqQqBzYgDHVkOC5joDi10fK3tDIFIqwqRlgdx_zDcAamjKg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TdRXK6WfkRxE87NBUaM1Rg&_nc_ss=7c289&oh=00_AQNGY9YxFareBss_y-G0HLr4zvCaqUe0ypPfw81Hl4WIEQ&oe=6AD91169",
    "published": "2026-10-17T01:02:18+00:00",
    "first_seen": "2026-10-17T04:14:58.016297+00:00",
    "date": "2026-10-17T01:02:18+00:00"
@@ -153,7 +274,7 @@
    "link": "https://www.facebook.com/reel/1148262594434957/",
    "summary": "Woman Reportedly Chases Man With Knife, One Detained - Norwich 📍 North Main Street, Norwich, CT 📅 Friday, October 16, 2026 - 8:22 p.m. 📻 Key Details -- Norwich Police responded to a domestic disturbance at a residence on North Main Street -- A woman reportedly cut herself with a knife before…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t15.5256-10/852473395_1630986968556123_2055809930523848804_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=L-bkJoyvKpIQ7kNvwEY-XBp&_nc_oc=AdrXp0jn5DRM1NJF_diY7GDUpwMIa-1vPuQn3Sd1mV4ndxmnhBuxWVpPni5uPVdXUpg&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQNtT5NoH00mslzuTUHTWo1OfaQjf6DWQHMwcJ1Cuy1D5A&oe=6AD8D927",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/852473395_1630986968556123_2055809930523848804_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=L-bkJoyvKpIQ7kNvwEvsqaZ&_nc_oc=AdpF12mX42ZCizv9tGtrHqcDNnFZYs-Y7CE6gtLrNfmKBbvyvdffxRy18iivbln5NaD1BWLsw7g0927POVBSI1wD&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=pGOXAgtbJW7kzFmLsH9EZw&_nc_ss=7c289&oh=00_AQMqwXFU4YATIKrIzi54Xe6ogUU9c-MGTiSnHZfwIwIJbQ&oe=6AD8D927",
    "published": "2026-10-17T00:47:59+00:00",
    "first_seen": "2026-10-17T04:14:58.016297+00:00",
    "date": "2026-10-17T00:47:59+00:00"
@@ -186,7 +307,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02MUy4pp4aLh9dAeH2EQV9vugTL4vzLAWXnL5dUf9mE1xACd9Zy6kmjqiAVrUco8vJl",
    "summary": "Woman Reportedly Chases Man With Knife, One Detained - Norwich 📍 North Main Street, Norwich, CT 📅 Friday, October 16, 2026 - 8:22 p.m. 📻 Key Details -- Norwich Police responded to a domestic disturbance at a residence on North Main Street -- A woman reportedly cut herself with a knife before…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-sof1-2.xx.fbcdn.net/v/t39.30808-6/853768215_1581811037323376_7166091747012190215_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=Rfuy9fqwQjMQ7kNvwHqrW-c&_nc_oc=Adr4cuCd6ZUdbqjs_iHKox8vhI1zAWBDWOyC3Gu44C25UnCgdCJwkIV1RGj4X4KycsA&_nc_zt=23&_nc_ht=scontent-sof1-2.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQP8baWmxLYe7Nzuvr3d3B2CR6HdkdKPNthqAG3clFvdUg&oe=6AD8BF8D",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/853768215_1581811037323376_7166091747012190215_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=Rfuy9fqwQjMQ7kNvwEEpMUc&_nc_oc=Ado_kIyfQ7XAnmA79z5Igb97Ll2j1md4sCqb6TTq8W1q-G7WUyRj2o4STTOYMGlFlzBEDnfDK7CBp8nlKfkmmVha&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=pGOXAgtbJW7kzFmLsH9EZw&_nc_ss=7c289&oh=00_AQMzhrqEIggDvUULB-jgbGnMRmduEyYt_HLEkbYJwtBKzQ&oe=6AD8F7CD",
    "published": "2026-10-17T00:40:50+00:00",
    "first_seen": "2026-10-17T04:14:58.016297+00:00",
    "date": "2026-10-17T00:40:50+00:00"
@@ -274,7 +395,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid03fjPabQzU6yma9kV6aSxJt94wGvCLEZE23h7E5omjQ7bnsN8svg5KAMSF5LBefFql",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/855693867_1532473725577130_3959626135827225467_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=wcpKbw9Kj1sQ7kNvwFkQpnu&_nc_oc=AdoKwD9IiMMnxkRGsYy0B8HXIBS7Vi9e2J5ObJLt08o-XWPLCkVdc4Rn2bF7sNAG4Hw&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6NrR5TjQAKpdVXQrwxTgEw&_nc_ss=7c289&oh=00_AQNkqA4u38DjtQSjyfwsrX88QCwgYVQSvzO3VW3Xpimw7A&oe=6AD8AA91",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/855693867_1532473725577130_3959626135827225467_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=uUYIXpqwegYQ7kNvwFvGkDH&_nc_oc=AdoebZDNGyswSVsoh4muJqyYeu1RyrWaKqCgEan5JvZ5Usn67HhXZY00I0SOf7vPiUQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TdRXK6WfkRxE87NBUaM1Rg&_nc_ss=7c289&oh=00_AQN4ClXwDrItamH3pmG3leeai3RZ30dp3eHdVGs0uuZ3Bg&oe=6AD91B11",
    "published": "2026-10-17T00:03:01+00:00",
    "first_seen": "2026-10-17T04:14:58.016297+00:00",
    "date": "2026-10-17T00:03:01+00:00"
@@ -384,7 +505,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0QEXQ1NGZxeqN3dJPHk6FPxX16cmP9ZryUVrhD8nP6qiLuhYPmq7yheHBbMBqGujCl",
    "summary": "Congressman Joe Courtney's Office Receives Suspicious Powder, Employee Exposed - Enfield 📍 77 Hazard Avenue, Enfield, CT 📅 Friday, October 16, 2026 - 4:22 p.m. 📻 Key Details -- Enfield Police, Fire and EMS responded after an employee at Congressman Joe Courtney's office opened an envelope…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-sof1-1.xx.fbcdn.net/v/t39.30808-6/853581781_1581768163994330_5712491909605480283_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=kBBvg4BEFRYQ7kNvwEw4vH-&_nc_oc=AdpeEmLvAXivjhHgWdSztbXTIXorx2Wj1j8U2Y-tBbilWsCrdZ6El4QqQIJPylqfbFU&_nc_zt=23&_nc_ht=scontent-sof1-1.xx&_nc_gid=TBhusNt_6TK4vSLn20GlWw&_nc_ss=7c289&oh=00_AQO36kRwzw8NulBBG3rJJQSIrJGQDvuef5f1GYfQOJvqdg&oe=6AD8BEDE",
+   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/853581781_1581768163994330_5712491909605480283_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=kBBvg4BEFRYQ7kNvwGCdiEt&_nc_oc=Adozs42ohCuohUxtC81scUtreltjtERjH8EzB9CiT5LvY4E0XlplNQDsX4OtBFIM7F21WiDAKU_1Czw95UY_dAxu&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=pGOXAgtbJW7kzFmLsH9EZw&_nc_ss=7c289&oh=00_AQNxfDGnLu0iFXWaQPMEv_cP2925z6UwinOPeQBialg9tQ&oe=6AD8F71E",
    "published": "2026-10-16T23:22:06+00:00",
    "first_seen": "2026-10-17T04:14:58.016297+00:00",
    "date": "2026-10-16T23:22:06+00:00"
@@ -428,7 +549,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid027D9xbpp18tBd8DPQ8jdRTvcUWVYWbQzK8nZaJbNdoJQQpsjZFJor2riKRHonxgdbl",
    "summary": "🚨New Meriden Scoop!🚨 🎉A new tenant has opened inside the Meriden Mall! ✂️Legendz Barbershop opened a new barbershop on the mall’s second level at 470 Lewis Avenue! The new barbershop is located in the old Diva Nail space near the mall’s food court. 💈Legendz relocated from their previous location in…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/854678322_1177801848156265_804739534195394336_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e21142&_nc_ohc=_8o7u2UMJasQ7kNvwGMDhpo&_nc_oc=Adr4nEl4d4NwgRnxkjn1_sMaBXXxlT0OO9dFDUULb20wqlwdYDpeGzPB_fmxP3dE9kODtKFYypP25Xekl03unaAW&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=ZvEBZviT517SBRvMu18fEg&_nc_ss=79289&oh=00_AQNgZdNiOm1To3oK83CRgaJqZLtPvs5VryDAqe3gmn_yPQ&oe=6AD8BE74",
+   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/854678322_1177801848156265_804739534195394336_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e21142&_nc_ohc=_8o7u2UMJasQ7kNvwFbs8kw&_nc_oc=Adqk9SCo2NSN0aeLpskhzqceW-T0Rc2QZIVxQdfSj5uJOOcQDKv9bx0r08Y9ch1AomQ&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=SiJGrwk0v10bM4ceHLI5Jg&_nc_ss=7c289&oh=00_AQOs0P2_LN6D4KHouUpUWCQoZsGm17UVWqlRo37Gz6ynLg&oe=6AD8F6B4",
    "published": "2026-10-16T23:04:01+00:00",
    "first_seen": "2026-10-17T00:04:47.723178+00:00",
    "date": "2026-10-16T23:04:01+00:00"

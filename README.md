@@ -1,12 +1,35 @@
 # CT News
 
-Last 30 days · 1951 items · updated Oct 17, 2026 12:14 AM EDT
+Last 30 days · 1962 items · updated Oct 17, 2026 4:36 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Saturday, October 17
+
+- **[Bristol Police shot and killed someone during a wellness check Friday night.](https://www.reddit.com/r/Connecticut/comments/1x84ci4/bristol_police_shot_and_killed_someone_during_a/)** <sub>KleetsNews · 3:47 AM</sub>
+  <br>Bristol Police Statement on Facebook: "On October 16th, 2026, at approximately 8:30pm Officers responded to a residence in the Chippens Hill Section of Bristol for a well-being check. During the course of the investigation, an Officer was forced to discharge his firearm, fatally striking the…
+- **[Did anyone else have an absolutely absurd increase in kwph this month??](https://www.reddit.com/r/Connecticut/comments/1x83ur6/did_anyone_else_have_an_absolutely_absurd/)** <sub>hoya\_swapper · 3:16 AM</sub>
+  <br>My eversource bill says my utilization is up 245% and my bill tripled. There is zero about my tiny apartment life that has changed to impact my energy use that much. If anything it should have gone down with the weather cooling off. Not up, and certainly not to the MOON. I did have a new neighbor…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1107520681857104/)** <sub>CTPOLICELIVE · 2:37 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a....](https://www.facebook.com/reel/1126026469975816/)** <sub>CTPOLICELIVE · 2:32 AM</sub>
+  <br>Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m. 📻 Key Details -- Norwich Police initially responded to a disturbance involving a man reportedly acting erratically on a front porch on Sandy Lane -- Officers later located a man…
+- **[Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0Mz8NwP7fV7C811aiyPcFeTSUGcVdrp9Npq4gn4zEu2Qj46okdx2n8u1GN9rYS5MGl)** <sub>CTPOLICELIVE · 2:22 AM</sub>
+  <br>Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m. 📻 Key Details -- Norwich Police initially responded to a disturbance involving a man reportedly acting erratically on a front porch on Sandy Lane -- Officers later located a man…
+- **[One person is dead following an officer-involved shooting in Bristol on Friday night.](https://m.facebook.com/hartfordcourant/posts/pfbid036uTm7meMK1PJgsvXyNKoNiUxfB242adzc4YHoxEyisLiUcDJmwFP1XpVmaXFBWASl)** <sub>Hartford Courant · 1:46 AM</sub>
+- **[Submitted with love and respect.](https://www.reddit.com/r/Connecticut/comments/1x828ob/submitted_with_love_and_respect/)** <sub>Maleficent-Toe4747 · 1:39 AM</sub>
+- **[Seeking Rapid Rehousing program info](https://www.reddit.com/r/Connecticut/comments/1x81l99/seeking_rapid_rehousing_program_info/)** <sub>Own\_Wolf4455 · 1:01 AM</sub>
+  <br>Anyone have any info on the rapid rehousing programs in ct or have any contact info of someone who might? Asking for a family member of mine who is currently in a dv shelter with 3 kiddos. The shelter hasn't provided any assistance with housing .any information would be helpful thank you in advance
+- **[Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, N...](https://www.facebook.com/reel/2258618688029512/)** <sub>CTPOLICELIVE · 12:42 AM</sub>
+  <br>Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, North Haven, CT 📅 Friday, October 16, 2026 - 11:40 p.m. 📻 Key Details -- State Police received multiple 911 calls reporting a pickup truck traveling northbound in the southbound…
+- **[Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, N...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02pxtYHz4MjZ63shzXFzHnwtjeboGpcR9iaujMrpsDCYaSsR5oLz4RdZXh6CkX4sPrl)** <sub>CTPOLICELIVE · 12:34 AM</sub>
+  <br>Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, North Haven, CT 📅 Friday, October 16, 2026 - 11:40 p.m. 📻 Key Details -- State Police received multiple 911 calls reporting a pickup truck traveling northbound in the southbound…
+
 ## Friday, October 16
 
+- **[Corrected absentee ballot](https://www.reddit.com/r/Connecticut/comments/1x7zive/corrected_absentee_ballot/)** <sub>weeeee\_w33 · 11:04 PM</sub>
+  <br>Did any other cities get corrected absentee ballots sent out? I've been doing absentee most of the time for close to 20 years and have never gotten a "oops our bad, here's a corrected one to resend."
 - **[Officer Involved Shooting Bristol](https://www.facebook.com/groups/BreakingNow/posts/2411103292962172/)** <sub>Doug Oberly · 11:02 PM</sub>
 - **[In Opinion \| Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public.](https://m.facebook.com/hartfordcourant/posts/pfbid032XSSiN8ZvPPWCqkK98ZdTc94FjJsYxPqjT24KRcRKd9PFxWxcJ9QJohTAPFXXvUtl)** <sub>Hartford Courant · 10:02 PM</sub>
 - **[By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…](https://x.com/hartfordcourant/status/2111274506337591444)** <sub>@hartfordcourant · 9:54 PM</sub>
