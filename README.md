@@ -1,12 +1,27 @@
 # CT News
 
-Last 30 days · 2059 items · updated Oct 17, 2026 3:55 PM EDT
+Last 30 days · 2070 items · updated Oct 17, 2026 5:54 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 17
 
+- **[KK Arnold ready to take on Texas in exhibition game Monday in Hartford. courant.com/2026/10/17/its-h… — Hartford Courant (@hartfordcourant) Oct 17, 2026](https://x.com/hartfordcourant/status/2111571271683063889)** <sub>@hartfordcourant · 5:33 PM</sub>
+- **[Managed to visit/ race four towns in the last 24 hours](https://www.reddit.com/r/Connecticut/comments/1x8lf7i/managed_to_visit_race_four_towns_in_the_last_24/)** <sub>thathaitianguy2 · 5:13 PM</sub>
+- **[This shows the latest transactions recorded and available across the state.](https://m.facebook.com/hartfordcourant/posts/pfbid0ufb64WAs9HyGTxDhYRYqp8wqx7gFyvp1r3eKthtPkrawTftHJBhAqJVXTwKQYfRDl)** <sub>Hartford Courant · 5:02 PM</sub>
+- **[Sign the Petition Cromwell Data Center Oppositionetition](https://www.reddit.com/r/Connecticut/comments/1x8l0l8/sign_the_petition_cromwell_data_center/)** <sub>lostandfoundlost · 4:56 PM</sub>
+  <br>What are your thoughts on them building this here? Will you sign ?
+- **[The Trinity football team won on the road at Tufts on Saturday, while Wesleyan defeated visiting Bates as both teams remained undefeated at 5-0 and in first place in the NESCAC. Central Connecticut…](https://x.com/hartfordcourant/status/2111561271120130556)** <sub>@hartfordcourant · 4:53 PM</sub>
+  <br>The Trinity football team won on the road at Tufts on Saturday, while Wesleyan defeated visiting Bates as both teams remained undefeated at 5-0 and in first place in the NESCAC. Central Connecticut State won its third straight and Yale lost… courant.com/2026/10/17/state… — Hartford Courant…
+- **[The Farmington River](https://www.reddit.com/r/Connecticut/comments/1x8kpbw/the_farmington_river/)** <sub>HartfordWhalers1993 · 4:43 PM</sub>
+- **[New Luxury Community Offers Rare Waterfront Living Near the Las Vegas Strip](https://www.realtor.com/news/trends/la-cova-henderson-southshore-lake-las-vegas/)** <sub>Kiri Blakeley · 4:40 PM</sub>
+  <br>Less than half an hour's drive outside Las Vegas sits a 320-acre private artificial reservoir that offers rare waterfront community living near Sin City. Approximately 15 miles southeast of the Las Vegas Strip is Henderson, the second largest city in Nevada . Within Henderson is the exclusive gated…
+- **[State police alleged that he would collect cash payments from drivers after they delivered concrete to customers then would void the transaction.](https://m.facebook.com/hartfordcourant/posts/pfbid02ZJG8o2JZYBa6kEawLWju5uKW36pyxaCSLe92djhn599sqanANwRExAt9TGNWh7kMl)** <sub>Hartford Courant · 4:32 PM</sub>
+- **[Best Fall Hikes for Maximum Leaf Looking?](https://www.reddit.com/r/Connecticut/comments/1x8kd3e/best_fall_hikes_for_maximum_leaf_looking/)** <sub>dheowievgreiei68865 · 4:28 PM</sub>
+  <br>Any recommendations?
+- **[Officials allege he submitted false claims to Medicaid and Medicare for blood testing “panels” allegedly performed by his in-house lab.](https://m.facebook.com/hartfordcourant/posts/pfbid02J28XHLk8ucBPavwAV9Pb7DsP4cMGySM4v24iYR23628vmRhuUJZszCtcajJ9pf7Yl)** <sub>Hartford Courant · 4:02 PM</sub>
+- **[We’re still nearly two weeks out from Halloween but things are already getting spookier.](https://m.facebook.com/hartfordcourant/posts/pfbid02roUjM2KVfJMybqQHpNh8ucKSp2F5dRHwjVfdkoThBHQbgL6cvhBkgpuwTQjqya16l)** <sub>Hartford Courant · 3:31 PM</sub>
 - **[Connecticut has a HAUNTED speakeasy… and it JUST reopened for Halloween! 👻🍸 Mohegan Sun The Connecticut Scoop Mohegan...](https://www.facebook.com/reel/1923411991959853/)** <sub>That CT Mom · 3:22 PM</sub>
   <br>Connecticut has a HAUNTED speakeasy… and it JUST reopened for Halloween! 👻🍸 Mohegan Sun The Connecticut Scoop Mohegan Sun's SPOOKeasy is officially back, and this might be one of the coolest Halloween date night spots in CT! The SPOOKeasy brings Halloween to life with eerie red lighting,…
 - **[To the people who honked at me in 84 merge between exit 3-4 east bound.](https://www.reddit.com/r/Connecticut/comments/1x8ipfq/to_the_people_who_honked_at_me_in_84_merge/)** <sub>Ganonfro · 3:19 PM</sub>
