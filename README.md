@@ -1,13 +1,43 @@
 # CT News
 
-Last 30 days · 2070 items · updated Oct 17, 2026 5:54 PM EDT
+Last 30 days · 2089 items · updated Oct 17, 2026 7:40 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 17
 
+- **[Mohegan or Foxwoods for 28th Birthday?](https://www.reddit.com/r/Connecticut/comments/1x8oew5/mohegan_or_foxwoods_for_28th_birthday/)** <sub>potabo\_ · 7:31 PM</sub>
+  <br>Hello! For my 28th birthday I am going to get a suite at a casino and grab dinner and bar hop with ~15 friends. We will not be attending Avalon/shrine. I’d rather be at bars/restaurants instead of full-blown clubs. Dancing at bars is fine! Which casino is better for this kinda vibe? And what…
+- **[Truck Plows Through Soccer Field. Multiple Injuries-2 Fatal](https://www.facebook.com/groups/BreakingNow/posts/2411989916206843/)** <sub>Bruce Fontaine · 7:09 PM</sub>
+- **[In Opinion \| History and science has its cautionary story of humanity taking a bite from the apple of knowledge when it desired to harness and unleash the power of the atom.](https://m.facebook.com/hartfordcourant/posts/pfbid02wUDBKSJo659MjRPwLV7sdjnAxs4zZqJGyxLHaofKMLGiCCeo18phwRbZva3MrUAKl)** <sub>Hartford Courant · 7:01 PM</sub>
+- **[This CT high school football team is off to its best start in years.](https://m.facebook.com/hartfordcourant/posts/pfbid02M2KYrbYfeyMDK3xUCSd3UTYf8bMecfxT2wziNWYFF1r2bZq2j932eu8Lz1Yjgqx4l)** <sub>Hartford Courant · 7:00 PM</sub>
+- **[Gabby Williams converted two free throws with 1:18 left to put Golden State ahead, two more with 4.1 seconds to go and f...](https://m.facebook.com/hartfordcourant/posts/pfbid0AtE3MgqZfCv6CREJWRqZYf3Rj7W37yHZNTZmo2ge5tD9SnD7pMiWZYGqUAr63QWil)** <sub>Hartford Courant · 6:58 PM</sub>
+  <br>Gabby Williams converted two free throws with 1:18 left to put Golden State ahead, two more with 4.1 seconds to go and finished with 26 points facing constant pressure from Atlanta’s stingy defense, and the Valkyries held off the…
+- **[🚨New Killingworth Scoop!🚨 🎉A new restaurant is coming to Killingworth! 🍽️L'Osté ("The Inn" in Italian) is coming soo...](https://m.facebook.com/theconnecticutscoop/posts/pfbid0cPFvgRDLZwihsXJg5mekrBeTcX15p2ZqikyPXpdYJGwnHw8oaFm9bPyvSCex4XFtl)** <sub>The Connecticut Scoop · 6:43 PM</sub>
+  <br>🚨New Killingworth Scoop!🚨 🎉A new restaurant is coming to Killingworth! 🍽️L'Osté ("The Inn" in Italian) is coming soon to the historic Killingworth Inn & Cafe space at 249 Route 81 in Killingworth. 🍽️ No opening timeline has been announced for the new eatery. The new restaurant will be serving…
+- **[Gabby Williams converted two free throws with 1:18 left to put Golden State ahead, two more with 4.1 seconds to go and finished with 26 points facing constant pressure from Atlanta’s stingy defense,…](https://x.com/hartfordcourant/status/2111586301736575244)** <sub>@hartfordcourant · 6:33 PM</sub>
+  <br>Gabby Williams converted two free throws with 1:18 left to put Golden State ahead, two more with 4.1 seconds to go and finished with 26 points facing constant pressure from Atlanta’s stingy defense, and the Valkyries held off the… courant.com/2026/10/17/gabby… — Hartford Courant (@hartfordcourant)…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1150726474282869/)** <sub>CTPOLICELIVE · 6:32 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Electric scooter nonsense](https://www.reddit.com/r/Connecticut/comments/1x8n4la/electric_scooter_nonsense/)** <sub>etiziot · 6:30 PM</sub>
+  <br>Whose parents are spending thousands of dollars on these death traps, but then giving little Johnny a little skateboard helmet not one person is gonna feel bad when your kid eats dirt
+- **[Body Found in Connecticut River - East Hartford 📍 Behind Connecticut River Academy, 9 Riverside Drive, East Hartford,...](https://www.facebook.com/reel/1861040835275511/)** <sub>CTPOLICELIVE · 6:17 PM</sub>
+  <br>Body Found in Connecticut River - East Hartford 📍 Behind Connecticut River Academy, 9 Riverside Drive, East Hartford, CT 📅 Saturday, October 17, 2026 - 5:30 p.m. 📻 Key Details -- People fishing from a dock behind the school reported seeing a possible body in the water -- Police and firefighters…
+- **[Body Found in Connecticut River - East Hartford 📍 Behind Connecticut River Academy, 9 Riverside Drive, East Hartford, C...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0m1zAqeg19D361Ujc9A7FRwr8aDzCHGUndQwTMf1j256SZSDx2GFe9364izvA42hwl)** <sub>CTPOLICELIVE · 6:14 PM</sub>
+  <br>Body Found in Connecticut River - East Hartford 📍 Behind Connecticut River Academy, 9 Riverside Drive, East Hartford, CT 📅 Saturday, October 17, 2026 - 5:30 p.m. 📻 Key Details -- People fishing from a dock behind the school reported seeing a possible body in the water -- Police and firefighters…
+- **[Highly underrated fall color plants.](https://www.reddit.com/r/Connecticut/comments/1x8mr2o/highly_underrated_fall_color_plants/)** <sub>Super\_Angry\_Botanist · 6:13 PM</sub>
+  <br>Blueberries(Vaccinium corymbosum, heather family Ericaceae) are in my opinion the best red color to grace the whole of New England. Those vile burning bushes(Euonymus alatus, bittersweet family Celastraceae) has nothing on their level. For varied color, the ubiquitous and often reviled native…
+- **[Because We Couldn’t Resist](https://www.facebook.com/groups/BreakingNow/posts/2411953032877198/)** <sub>Bruce Fontaine · 6:05 PM</sub>
+- **[“I love talking to people. I love showing them the process. People come into the studio, and they pick out things to talk about and look at that you would never expect.”](https://m.facebook.com/hartfordcourant/posts/pfbid0MQ48wPH5g7GyfbMvFMnMTN1PL48WkHADvPwXSKzTTBy6nxQcPoob7n4sVefqMJsbl)** <sub>Hartford Courant · 6:02 PM</sub>
+- **[Police Investigating after Body Found in the CT River in East Hartford](https://www.facebook.com/groups/BreakingNow/posts/2411947852877716/)** <sub>Marcus Anthony Rice · 5:56 PM</sub>
+- **[KK Arnold ready to take on Texas in exhibition game Monday in Hartford.](https://m.facebook.com/hartfordcourant/posts/pfbid0vKvPRe5m11C8BpYvZpFgwzyFKJftaZcEuLAKPVkdY8PEqMrCs8zykPYQCcJnm8hTl)** <sub>Hartford Courant · 5:38 PM</sub>
+- **[Frontier fios outage in Danbury/Bethel area?](https://www.reddit.com/r/Connecticut/comments/1x8lxav/frontier_fios_outage_in_danburybethel_area/)** <sub>Mountain\_Scout5830 · 5:36 PM</sub>
+  <br>Long shot, I know, but they’re giving me the runaround and telling me there’s a larger outage in my area, but their website isn’t reporting one. Anyone? Thank you.
 - **[KK Arnold ready to take on Texas in exhibition game Monday in Hartford. courant.com/2026/10/17/its-h… — Hartford Courant (@hartfordcourant) Oct 17, 2026](https://x.com/hartfordcourant/status/2111571271683063889)** <sub>@hartfordcourant · 5:33 PM</sub>
+- **[It is unclear when Billy Joel will perform again.](https://m.facebook.com/hartfordcourant/posts/pfbid02nUJ6ttRrQkiMFdPhondnM9wq3qV82WLyW3eDgKBYq4STkzvuiaps6AK9Va4QQ432l)** <sub>Hartford Courant · 5:32 PM</sub>
+- **[FREE CO-ED PICK-UP SOCCER IN HARTFORD COUNTY!](https://www.reddit.com/r/Connecticut/comments/1x8ln7g/free_coed_pickup_soccer_in_hartford_county/)** <sub>WeHaCFCPickupSoccer · 5:23 PM</sub>
+  <br>Hi, I'm the organizer for WEHACFC - Community Co-Ed Pick up Soccer. We host games in West Hartford, New Britain, and Hartford. If anyone would like to join our 574+ member group, we accept all levels of play, all ages 18+ (oldest player is 65!), all languages (Hablamos Español & Nós também falamos…
 - **[Managed to visit/ race four towns in the last 24 hours](https://www.reddit.com/r/Connecticut/comments/1x8lf7i/managed_to_visit_race_four_towns_in_the_last_24/)** <sub>thathaitianguy2 · 5:13 PM</sub>
 - **[This shows the latest transactions recorded and available across the state.](https://m.facebook.com/hartfordcourant/posts/pfbid0ufb64WAs9HyGTxDhYRYqp8wqx7gFyvp1r3eKthtPkrawTftHJBhAqJVXTwKQYfRDl)** <sub>Hartford Courant · 5:02 PM</sub>
 - **[Sign the Petition Cromwell Data Center Oppositionetition](https://www.reddit.com/r/Connecticut/comments/1x8l0l8/sign_the_petition_cromwell_data_center/)** <sub>lostandfoundlost · 4:56 PM</sub>
