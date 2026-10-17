@@ -1,14 +1,40 @@
 # CT News
 
-Last 30 days · 2043 items · updated Oct 17, 2026 1:57 PM EDT
+Last 30 days · 2059 items · updated Oct 17, 2026 3:55 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 17
 
+- **[Connecticut has a HAUNTED speakeasy… and it JUST reopened for Halloween! 👻🍸 Mohegan Sun The Connecticut Scoop Mohegan...](https://www.facebook.com/reel/1923411991959853/)** <sub>That CT Mom · 3:22 PM</sub>
+  <br>Connecticut has a HAUNTED speakeasy… and it JUST reopened for Halloween! 👻🍸 Mohegan Sun The Connecticut Scoop Mohegan Sun's SPOOKeasy is officially back, and this might be one of the coolest Halloween date night spots in CT! The SPOOKeasy brings Halloween to life with eerie red lighting,…
+- **[To the people who honked at me in 84 merge between exit 3-4 east bound.](https://www.reddit.com/r/Connecticut/comments/1x8ipfq/to_the_people_who_honked_at_me_in_84_merge/)** <sub>Ganonfro · 3:19 PM</sub>
+  <br>Im the driver of the Prius! Thank you for letting me know I had a flat tire! It seems its a slow leak and I filled it up and drove slowly back home. Sincerely thank you, you saved me a lot of grief and I appreciate you for helping me know I wasn't safe! I hope your weekend goes great!
+- **[In Opinion \| Secretary of the State Stephanie Thomas, seeking a second term, tried to keep a different type of information from the public this week.](https://m.facebook.com/hartfordcourant/posts/pfbid0HXdPGuJDsczRzxDoPKgpkkXm23iF5cZLfLyMdscbmNexvm7YZBTBmUgZM781t63tl)** <sub>Hartford Courant · 3:03 PM</sub>
+- **[Residential Structure Fire in Durham](https://www.facebook.com/groups/BreakingNow/posts/2411828959556272/)** <sub>Tom McCarthy · 2:50 PM</sub>
+- **[Feds say Eversource overcharged us since 2011. Its SEC filing says it doesn’t plan to pay most of it back.](https://www.reddit.com/r/Connecticut/comments/1x8hur9/feds_say_eversource_overcharged_us_since_2011_its/)** <sub>No-Grapefruit2680 · 2:44 PM</sub>
+- **[It may have been built for horses, but this barn and grand carriage house has been transformed into a luxury estate. It’s looking for new owners.](https://m.facebook.com/hartfordcourant/posts/pfbid028cqxNezXQ4WtiyDAEsA6xfRiATFfYm74ubuCtAQwB6NZvo9ehny5kUQj1zcy3RkFl)** <sub>Hartford Courant · 2:32 PM</sub>
+- **[Study spot recs?](https://www.reddit.com/r/Connecticut/comments/1x8h8kk/study_spot_recs/)** <sub>Impossible\_Table\_520 · 2:19 PM</sub>
+  <br>Hi guys does anyone have any good study spots in Hartford County? I’m a college student and I can’t study at home or else I’ll bed rot and I’m tired of my campus. I need something new 😗
+- **[🚨New Shelton Scoop!🚨 🎉Shelton’s new independent toy shop has set its grand opening date! 🚂Shelton Toys & Games will...](https://m.facebook.com/theconnecticutscoop/posts/pfbid02hguGa7QJMVfkDgBQm1G8hhibMsZYiDjV8RcCFWgRSMCJAojump2kFwtcrCRWVXoRl)** <sub>The Connecticut Scoop · 2:16 PM</sub>
+  <br>🚨New Shelton Scoop!🚨 🎉Shelton’s new independent toy shop has set its grand opening date! 🚂Shelton Toys & Games will open its new toy store on November 8th, bringing a new family owned toy store to town. The store will be located at 866 Bridgeport Avenue, part of the Shelton Square shopping center.…
+- **[Founded in 2017 on a once-abandoned plot in western Connecticut, Hidden Gem opened for its first pick-your-own season in 2023.](https://m.facebook.com/hartfordcourant/posts/pfbid034ohAj2kk1wAnggYP7MgiZkK1kQPtRiMBf4K3tkZHGwnm95yDpWjeCGgwEbMr1nVSl)** <sub>Hartford Courant · 2:02 PM</sub>
+- **[Behind the Brick Facade of This 140-Year-Old NYC Townhouse Lies a Surprising Resort-Style Oasis](https://www.realtor.com/news/unique-homes/upper-west-side-townhouse-indoor-pool-for-sale/)** <sub>Kristine Hansen · 2:01 PM</sub>
+  <br>From the outside, a brick and brownstone townhouse on Manhattan’s Upper West Side looks like just another townhouse—but, it's sheltering a very cool amenity. Nestled inside is a 41-foot heated pool, an amenity considered rare for even Manhattan hotels, and especially private residences. Snug on an…
+- **[Local 777](https://www.reddit.com/r/Connecticut/comments/1x8gm5e/local_777/)** <sub>GraphicMetaphor · 1:53 PM</sub>
+  <br>I’m currently a 1+ year D2 apprentice and will be graduating from trade school in May. I applied to the Local 777 in September of 2025. Just got a letter to go and do a basic math test and apprentice assessment. I was wondering what valuable feedback you have on staying non-union on the track i’m…
 - **[This CT high school football team is off to its best start in years. courant.com/2026/10/17/this-… — Hartford Courant (@hartfordcourant) Oct 17, 2026](https://x.com/hartfordcourant/status/2111513808778801542)** <sub>@hartfordcourant · 1:44 PM</sub>
+- **[Tires shops near UConn area that offer tire storage?](https://www.reddit.com/r/Connecticut/comments/1x8g9ig/tires_shops_near_uconn_area_that_offer_tire/)** <sub>Small-Committee9330 · 1:39 PM</sub>
+  <br>Just recently moved to Mansfield, CT. Going to need to swap to my snows in the coming months. Wanted to know if there was a shop that would store my off-season sets, as I have no room in my new apartment to store tires long-term. Tried calling a few local places but had no luck. Anyone know of any…
+- **[Endocrinologist recs?](https://www.reddit.com/r/Connecticut/comments/1x8g9ax/endocrinologist_recs/)** <sub>Low\_Sprinkles\_8491 · 1:38 PM</sub>
+  <br>Hi all! This is a bit specific but does anyone have any endocrinologist recs in CT? I have hypogonadism and I would like to see someone who isn't going to dismiss me and tell me I should try birth control :/ Been to a few gyns at yale, horrible experiences. Lmk!
+- **[Looking for Turban Squash](https://www.reddit.com/r/Connecticut/comments/1x8g7ov/looking_for_turban_squash/)** <sub>Ashaw06339 · 1:36 PM</sub>
+  <br>As title says, located in the 06340 area and unsuccessfully searching for a Turban Squash to put into a still life... Just wondering if anyone has seen these around recently at farmstands or grocery stores I've tried all of the farms within a 10 mile radius so far and had no luck. Appreciate any…
+- **[No Kings: Vote Early](https://www.reddit.com/r/Connecticut/comments/1x8g5qy/no_kings_vote_early_hartford/)** <sub>AlexZedKawa02 · 1:34 PM</sub>
 - **[Neighbors are concerned about the loss of one of the last remaining parcels of farmland, as well as traffic and potential impacts to wells.](https://m.facebook.com/hartfordcourant/posts/pfbid0FBmddYmV9AT9pTCTcfHNQMzT52Rf7J1n49yZJ6ZJ4jiY8Ybyprp7ff2rNeBMA3eul)** <sub>Hartford Courant · 1:31 PM</sub>
+- **[“ Legal weed for corporations, police raids for everyone else? New CT investigation raises serious questions.”](https://www.reddit.com/r/Connecticut/comments/1x8fsmv/legal_weed_for_corporations_police_raids_for/)** <sub>Fireinfire\_out · 1:19 PM</sub>
+  <br>Read the Connecticut CannaTimes investigation Connecticut legalized cannabis in 2021 with promises of repairing the damage caused by decades of the War on Drugs. Now look at these numbers. A Connecticut CannaTimes investigation found that: 96.7% of documented cannabis search-warrant raids happened…
 - **[By COLLEEN BARRY VATICAN CITY (AP) — Pope Leo returned to the Vatican on Saturday, four days after undergoing surgery for lung cancer at Rome’s Gemelli hospital, where dozens of well-wishers saw him…](https://x.com/hartfordcourant/status/2111506302245413285)** <sub>@hartfordcourant · 1:15 PM</sub>
   <br>By COLLEEN BARRY VATICAN CITY (AP) — Pope Leo returned to the Vatican on Saturday, four days after undergoing surgery for lung cancer at Rome’s Gemelli hospital, where dozens of well-wishers saw him off with cries of… courant.com/2026/10/17/pope-… — Hartford Courant (@hartfordcourant) Oct 17, 2026
 - **[For the First Time Since 1967, This Historic 1927 Denver Tudor Is Up for Grabs](https://www.realtor.com/news/unique-homes/denver-park-hill-historic-1927-tudor-for-sale/)** <sub>Larissa Runkle · 1:13 PM</sub>
