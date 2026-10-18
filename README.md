@@ -1,12 +1,33 @@
 # CT News
 
-Last 30 days · 2098 items · updated Oct 17, 2026 9:30 PM EDT
+Last 30 days · 2113 items · updated Oct 18, 2026 2:24 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 17
 
+- **[If they settle, we're screwed.](https://www.reddit.com/r/Connecticut/comments/1x8td9j/if_they_settle_were_screwed/)** <sub>OcelotCharacter1807 · 11:51 PM</sub>
+  <br>A settlement will benefit eversource. We want 3 things instead. Full retroactive refund (with interest). Ending guaranteed profit margins. So we can invest in infrastructure instead. No increased distribution rates.
+- **[\[Prudence Crandall Center\] Nearly One-Third of CT Homicides Linked to Domestic Violence: PCC Calls for Awareness, Action](https://www.reddit.com/r/Connecticut/comments/1x8sxsd/prudence_crandall_center_nearly_onethird_of_ct/)** <sub>TylerFortier\_Photo · 11:27 PM</sub>
+  <br>NEW BRITAIN, CT – A mother and her two young daughters killed in Plainville. Other lives lost to domestic violence in communities across Connecticut. Families left grieving deaths that should never have happened. Behind these individual tragedies is a sobering statewide reality: nearly one-third of…
+- **[AARP warns consumers about mailer from similarly named company \[AAPP\]](https://www.reddit.com/r/Connecticut/comments/1x8svo3/aarp_warns_consumers_about_mailer_from_similarly/)** <sub>TylerFortier\_Photo · 11:23 PM</sub>
+  <br>A Connecticut woman questioned a mail offer promising more than $300 in grocery and gas vouchers, and NBC Connecticut Responds found that the offer required a $5 processing fee and a $45-per-month roadside assistance membership. The postcard included a QR code that led to a phone number. When NBC…
+- **[Working Fire in East Hartford](https://www.facebook.com/groups/BreakingNow/posts/2412148279524340/)** <sub>Marcus Anthony Rice · 11:15 PM</sub>
+- **[Car vs Pedestrian with Serious Injuries in Simsbury, Lifestar for Transport](https://www.facebook.com/groups/BreakingNow/posts/2412139766191858/)** <sub>Marcus Anthony Rice · 11:02 PM</sub>
+- **[The most glaring defect was a first-floor toilet connection.](https://m.facebook.com/hartfordcourant/posts/pfbid0fThzBaT5XGHo3hQbqFC1w1zexNoyXTvt3DTQ81BQnKdmzBt1WiQJgE3GYNVkmQyBl)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[Rollover Accident with Entrapment in Bridgeport](https://www.facebook.com/groups/BreakingNow/posts/2412136719525496/)** <sub>Marcus Anthony Rice · 10:58 PM</sub>
+- **[MVA With Entrapment Bradley Airport Windsor Locks](https://www.facebook.com/groups/BreakingNow/posts/2412118172860684/)** <sub>Doug Oberly · 10:30 PM</sub>
+- **[🎻 Can I get a little Nutmegger support? Free concert in New Haven tomorrow!](https://www.reddit.com/r/Connecticut/comments/1x8ro61/can_i_get_a_little_nutmegger_support_free_concert/)** <sub>shokaru · 10:18 PM</sub>
+  <br>Hey fellow Nutmeggers!!! I'm a Connecticut local working on a small project with some big dreams. I'm building CT Chamber Collective, an initiative to bring more attention to classical music in our state and, hopefully one day, help bring MORE international musicians to Connecticut. But every big…
+- **[Speed limits in Connecticut](https://www.reddit.com/r/Connecticut/comments/1x8rfbl/speed_limits_in_connecticut/)** <sub>theundeadpixel · 10:05 PM</sub>
+- **[In Opinion \| We can get big money out of our politics. We can achieve Medicare for all, universal childcare and excellent schools, and affordable homes.](https://m.facebook.com/hartfordcourant/posts/pfbid02ZcpwsUcFMv2D9EyajXPeYuZkXrNRmtndqiPfcRoYP3B5qrtkan7CU5Xg4rZkcz7il)** <sub>Hartford Courant · 10:01 PM</sub>
+- **[Bark](https://www.reddit.com/r/Connecticut/comments/1x8rc90/bark/)** <sub>idiologistic · 10:00 PM</sub>
+- **[Anyone remember Pizza House on Farmington Ave Bristol](https://www.reddit.com/r/Connecticut/comments/1x8r1ag/anyone_remember_pizza_house_on_farmington_ave/)** <sub>ITstuff25 · 9:44 PM</sub>
+  <br>I know there were more than one pizza place called "Pizza House" I used to go to the one near Bedding Barn in the early 80s. It was run by a guy who looked like Abe Lincoln. Then Sam took over the place and eventually moved it across from Tunxis. I think it is now near the duck pin bowling place.…
+- **[Anyone want to spontaneously hang out?](https://www.reddit.com/r/Connecticut/comments/1x8qbqs/anyone_want_to_spontaneously_hang_out/)** <sub>Lil-Harambe33 · 9:07 PM</sub>
+  <br>M20 I #havenofriends (that aren’t in college rn). I almost never get Saturday nights off cause I’m low seniority at a new company so I’m trying to be social😭
+- **[Mother Teresa of India was awarded the Nobel Peace Prize.](https://m.facebook.com/hartfordcourant/posts/pfbid0DbGdGMnaVcSF1AAEcjJFhjH5iwuXGzifqdRdmE3HsFZFmqnpz9X7HkbwBFreqLcFl)** <sub>Hartford Courant · 9:01 PM</sub>
 - **[The day may feel slightly out of rhythm. The Capricorn Moon squares the Libra Sun at 12:12 pm EDT, putting practical demands at odds with our desire for ease, cooperation, or a little breathing room.…](https://x.com/hartfordcourant/status/2111619026627506571)** <sub>@hartfordcourant · 8:43 PM</sub>
   <br>The day may feel slightly out of rhythm. The Capricorn Moon squares the Libra Sun at 12:12 pm EDT, putting practical demands at odds with our desire for ease, cooperation, or a little breathing room. Something may need to get done even if… courant.com/2026/10/17/daily… — Hartford Courant…
 - **[Police Activity Rocky Hill](https://www.facebook.com/groups/BreakingNow/posts/2412036932868808/)** <sub>Doug Oberly · 8:29 PM</sub>
