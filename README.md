@@ -1,9 +1,42 @@
 # CT News
 
-Last 30 days · 2113 items · updated Oct 18, 2026 2:24 AM EDT
+Last 30 days · 2130 items · updated Oct 18, 2026 7:29 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
+
+## Sunday, October 18
+
+- **[While overwhelming focus of debate in Connecticut legislative races on taxes, affordability, energy costs and how to deal with the Trump administration, voters are also hearing from both sides about…](https://x.com/hartfordcourant/status/2111777743679496652)** <sub>@hartfordcourant · 7:13 AM</sub>
+  <br>While overwhelming focus of debate in Connecticut legislative races on taxes, affordability, energy costs and how to deal with the Trump administration, voters are also hearing from both sides about affordable housing. courant.com/2026/10/18/as-af… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Dr. Hanbing Zhou, an orthopedic spine surgeon, said leaf raking is as strenuous on the spine as shoveling snow. courant.com/2026/10/18/ct-is… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111775764030894490)** <sub>@hartfordcourant · 7:05 AM</sub>
+- **[Hundreds gathered at dozens of “No Kings” protests across Connecticut on Saturday, with signs bearing some familiar slogans but with a sharper focus this time, organizers said, on voting.](https://x.com/hartfordcourant/status/2111772610044280921)** <sub>@hartfordcourant · 6:53 AM</sub>
+  <br>Hundreds gathered at dozens of “No Kings” protests across Connecticut on Saturday, with signs bearing some familiar slogans but with a sharper focus this time, organizers said, on voting. courant.com/2026/10/18/no-ki… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Connecticut resident Seth Wickersham, a longtime writer for ESPN, has released a large anthology of his best sports stories from the past 20+ years. {og:title} {article:title}](https://x.com/hartfordcourant/status/2111770617888346167)** <sub>@hartfordcourant · 6:45 AM</sub>
+  <br>Connecticut resident Seth Wickersham, a longtime writer for ESPN, has released a large anthology of his best sports stories from the past 20+ years. {og:title} {article:title} courant.com/2026/10/18/espn-… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[An anniversary tour closely based on the original London production is a reminder of what made the show special in the first place.](https://x.com/hartfordcourant/status/2111767814671314958)** <sub>@hartfordcourant · 6:34 AM</sub>
+  <br>An anniversary tour closely based on the original London production is a reminder of what made the show special in the first place. courant.com/2026/10/18/here-… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Visiting, any suggestions?](https://www.reddit.com/r/Connecticut/comments/1x8zv27/visiting_any_suggestions/)** <sub>Junior\_Bass\_2483 · 6:26 AM</sub>
+  <br>Me and a friend are coming down from Boston, Ma for a rock concert. The shows in Hartford. We’ve never been but we’d like to enjoy the place like the locals do. Sum dive bars, good food spots, local adventures, anything you got.
+- **[Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read.](https://x.com/hartfordcourant/status/2111765486971044083)** <sub>@hartfordcourant · 6:25 AM</sub>
+  <br>Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read. courant.com/2026/10/18/https… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[What Keeps Students Safe in School? Prevention, Not Defenses, Experts Say courant.com/2026/10/18/what-… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111763316141904076)** <sub>@hartfordcourant · 6:16 AM</sub>
+- **[After Tonya Carouthers was released from prison in Connecticut following assault convictions, she believed her criminal record would permanently ban her from being allowed to vote in elections. She…](https://x.com/hartfordcourant/status/2111760825870426496)** <sub>@hartfordcourant · 6:06 AM</sub>
+  <br>After Tonya Carouthers was released from prison in Connecticut following assault convictions, she believed her criminal record would permanently ban her from being allowed to vote in elections. She recently learned that a law passed in… courant.com/2026/10/18/a-ct-… — Hartford Courant…
+- **[Ritz-Carlton Penthouse on Fort Lauderdale Beach To Be Auctioned to Highest Bidder](https://www.realtor.com/news/trends/ritz-carlton-penthouse-fort-lauderdale-beach-auction/)** <sub>Kiri Blakeley · 6:02 AM</sub>
+  <br>A $10.5 million Ritz-Carlton Residences penthouse in South Florida is set to hit the auction block later this month. The 7,031-square-foot penthouse, the largest single-level home for sale on Fort Lauderdale Beach , will be auctioned off on Oct. 30 during the Fort Lauderdale International Boat Show…
+- **[When humans try to solve a problem or learn a new skill, we do more than just encode new information in the brain. courant.com/2026/10/18/your-… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111757701441106069)** <sub>@hartfordcourant · 5:54 AM</sub>
+- **[With just a few months to go before the final report is due, commission members say that public input is incredibly important to the process.](https://x.com/hartfordcourant/status/2111755220858364312)** <sub>@hartfordcourant · 5:44 AM</sub>
+  <br>With just a few months to go before the final report is due, commission members say that public input is incredibly important to the process. courant.com/2026/10/18/what-… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Garland said, “I believe that every child deserves access to education to build that foundation.” courant.com/2026/10/18/forme… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111752259444908383)** <sub>@hartfordcourant · 5:32 AM</sub>
+- **[Here’s another critical aging secret. When we reach the upper stratosphere in years, our mind and body engage in a permanent fight and refuse to talk kindly to each other.](https://x.com/hartfordcourant/status/2111750198313525424)** <sub>@hartfordcourant · 5:24 AM</sub>
+  <br>Here’s another critical aging secret. When we reach the upper stratosphere in years, our mind and body engage in a permanent fight and refuse to talk kindly to each other. courant.com/2026/10/18/opini… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[It’s the latest community to join a growing list of towns and cities across the state approving the use of new red-light cameras, officials said.](https://x.com/hartfordcourant/status/2111748023491383681)** <sub>@hartfordcourant · 5:15 AM</sub>
+  <br>It’s the latest community to join a growing list of towns and cities across the state approving the use of new red-light cameras, officials said. courant.com/2026/10/18/anoth… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Three people have been arrested and charged with violations of Connecticut’s workers’ compensation laws, officials said.](https://x.com/hartfordcourant/status/2111745442367025276)** <sub>@hartfordcourant · 5:05 AM</sub>
+  <br>Three people have been arrested and charged with violations of Connecticut’s workers’ compensation laws, officials said. courant.com/2026/10/18/three… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Avelo travelers. Do you need a real id?](https://www.reddit.com/r/Connecticut/comments/1x8wwa3/avelo_travelers_do_you_need_a_real_id/)** <sub>Comfortable\_Act\_5959 · 3:18 AM</sub>
+  <br>What do I do if I haven't and won't have much time to acquire a real id for travel? Has anyone traveled out of avelo without one recently?
 
 ## Saturday, October 17
 
