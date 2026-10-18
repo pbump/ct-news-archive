@@ -1,12 +1,26 @@
 # CT News
 
-Last 30 days · 2179 items · updated Oct 18, 2026 1:34 PM EDT
+Last 30 days · 2188 items · updated Oct 18, 2026 3:37 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 18
 
+- **[Zelenskyy Says Trump Risks ‘Historic Mistake’ If He Backs Russia courant.com/2026/10/18/zelen… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111893367541870699)** <sub>@hartfordcourant · 2:53 PM</sub>
+- **[Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read.](https://x.com/hartfordcourant/status/2111890458481733972)** <sub>@hartfordcourant · 2:41 PM</sub>
+  <br>Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read. courant.com/2026/10/18/amore… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Police said that the vehicle has been identified and recovered. courant.com/2026/10/18/ct-ma… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111888313665614148)** <sub>@hartfordcourant · 2:33 PM</sub>
+- **[🚨New ‘Milford’ Scoop!🚨 ‼️A popular athleisure retailer has closed its Milford location. 🧘Athleta has permanently clos...](https://m.facebook.com/theconnecticutscoop/posts/pfbid07Pe9gySjNcDbmoXr6wPPHRuYfvYBBmFW2EgPXczyHBXbdVEh7jmDbr9g7ARNLJnkl)** <sub>The Connecticut Scoop · 2:32 PM</sub>
+  <br>🚨New ‘Milford’ Scoop!🚨 ‼️A popular athleisure retailer has closed its Milford location. 🧘Athleta has permanently closed its Milford store after 5 years of business. The retailer opened its doors in 2021 at Milford Marketplace, located at 1672 Boston Post Road in Milford. 🤸The store quietly closed…
+- **[Bringing CT's bottle deposit back to 5 cents enters governor's race](https://www.reddit.com/r/Connecticut/comments/1x9aazo/bringing_cts_bottle_deposit_back_to_5_cents/)** <sub>TylerFortier\_Photo · 2:21 PM</sub>
+  <br>The biggest nickel-and-dime question in Connecticut politics today offers voters another sharp contrast between Gov. Ned Lamont and Republican challenger Ryan Fazio. Lamont supports keeping the current 10-cent redeemable deposit for cans and bottles , while Fazio favors going back to a 5-cent…
+- **[Inside the $4.25 Million Cape Cod Lakefront Estate Built by the Founder of Josh Cellars](https://www.realtor.com/news/unique-homes/josh-cellars-founder-cape-cod-home-sale/)** <sub>Kristine Hansen · 2:17 PM</sub>
+  <br>For a buyer who loves to entertain—especially with wine—the perfect house just might be one built by a winemaker and winery owner. In 2012, Joseph Carr, founder of Josh Cellars in California and Joseph Carr Winery, established roots with his wife Dee in Dennis, MA , a town in Cape Cod. The home,…
+- **[North American movie theaters were flooded with new films this weekend, including a video game reboot, a big budget survival thriller and a Jane Austen adaptation.](https://x.com/hartfordcourant/status/2111878574449807503)** <sub>@hartfordcourant · 1:54 PM</sub>
+  <br>North American movie theaters were flooded with new films this weekend, including a video game reboot, a big budget survival thriller and a Jane Austen adaptation. courant.com/2026/10/18/box-o… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[The Ex-Microsoft Exec Who Outbid Cher for an Antique Archway Is Selling His $9.75 Million Seattle Estate](https://www.realtor.com/news/unique-homes/seattle-washington-park-mansion-cher-archway-microsoft-exec/)** <sub>Kristine Hansen · 1:43 PM</sub>
+  <br>In 1997, Jonathan Roberts and his wife Elizabeth snapped up a 1924 sprawling estate in Seattle’s Washington Park neighborhood , quickly making it their own—including sourcing antiques and artifacts on jaunts to Europe. During the 3.5-year transformation, between 2000 and 2004, one of those finds…
 - **[No kings but Lamont’s the exception????](https://www.reddit.com/r/Connecticut/comments/1x98nfy/no_kings_but_lamonts_the_exception/)** <sub>Trick-Ad-6284 · 1:15 PM</sub>
   <br>Showing up and doing something real is two different things apparently in Connecticut. why is it I grew up my whole life here worked for the government and can't buy a house because property taxes are sky high even in the worst parts of Hartford it's 300k for a house make this make sense why is it…
 - **[Advice for pursuing law in CT](https://www.reddit.com/r/Connecticut/comments/1x989w6/advice_for_pursuing_law_in_ct/)** <sub>thelordschips87 · 1:01 PM</sub>
@@ -20,6 +34,8 @@ Last 30 days · 2179 items · updated Oct 18, 2026 1:34 PM EDT
 - **[President Donald Trump on Sunday endorsed embattled Israeli Prime Minister Benjamin Netanyahu late in his reelection campaign, a coveted boost because of Trump’s popularity but one that the American…](https://x.com/hartfordcourant/status/2111860412815720697)** <sub>@hartfordcourant · 12:42 PM</sub>
   <br>President Donald Trump on Sunday endorsed embattled Israeli Prime Minister Benjamin Netanyahu late in his reelection campaign, a coveted boost because of Trump’s popularity but one that the American had withheld for months as the vote… courant.com/2026/10/18/trump… — Hartford Courant…
 - **[Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read.](https://m.facebook.com/hartfordcourant/posts/pfbid02wgzH79cRi8cxfc5tCJgvCWuX7gmB9c4DTdm6h2G4iMqVvEMgwycJTJV8EWTmqaYel)** <sub>Hartford Courant · 12:32 PM</sub>
+- **[🚨New Mohegan Sun Scoop!🚨 🎃The Spookeasy Pop-Up Bar has returned for the Halloween season at Mohegan Sun! 👻The Spooke...](https://m.facebook.com/theconnecticutscoop/posts/pfbid037Pe1KJ1JfqF1TfsTCCcUHrAHibySUz7mJCjHt1fA7QkMm9vsMQpw9purodzJdmkSl)** <sub>The Connecticut Scoop · 12:22 PM</sub>
+  <br>🚨New Mohegan Sun Scoop!🚨 🎃The Spookeasy Pop-Up Bar has returned for the Halloween season at Mohegan Sun! 👻The Spookeasy pop-up bar has opened at Mohegan Sun, located in the Sky Tower Lobby. It’s will be October 16th and remain through November 1st. 💀Step inside our haunted pop-up bar for…
 - **[Hold Steady Everyone!](https://www.reddit.com/r/Connecticut/comments/1x97akm/hold_steady_everyone/)** <sub>fadinglucidity · 12:20 PM</sub>
   <br>We got this!
 - **[Rebound & Rock Climbing](https://www.reddit.com/r/Connecticut/comments/1x9794z/rebound_rock_climbing/)** <sub>Logical-Cookie12 · 12:19 PM</sub>
