@@ -1,16 +1,44 @@
 # CT News
 
-Last 30 days · 2188 items · updated Oct 18, 2026 3:37 PM EDT
+Last 30 days · 2206 items · updated Oct 18, 2026 5:48 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 18
 
+- **[Car vs Pole Accident in Manchester](https://www.facebook.com/groups/BreakingNow/posts/2412961812776320/)** <sub>Marcus Anthony Rice · 5:01 PM</sub>
+- **[I turned Connecticut landmarks into race tracks for tiny RC cars](https://www.reddit.com/r/Connecticut/comments/1x9e8ps/i_turned_connecticut_landmarks_into_race_tracks/)** <sub>rauelius · 4:59 PM</sub>
+  <br>I'm a Meriden guy who's been building a video game this year. Tiny RC cars race through real Connecticut places at 1/18 scale: Gillette Castle, Hammonasset Beach, Meriden City Hall, Cheshire, New Haven, an I-84 Waterbury run and more. 25 tracks so far. I make it by myself and use AI tools to help,…
+- **[Hair Stylist for Flower Girl with Cochlear Implant Recommendations](https://www.reddit.com/r/Connecticut/comments/1x9e38t/hair_stylist_for_flower_girl_with_cochlear/)** <sub>calcitemerged · 4:52 PM</sub>
+  <br>We are looking for recommendations for a hair stylist with experience doing hair for people with cochlear implants. The flower girl (6) for our wedding has a cochlear implant. We want to make sure she feels just as comfortable and included as the rest of our bridal party and would like to find a…
+- **[Metro North](https://www.reddit.com/r/Connecticut/comments/1x9e359/metro_north/)** <sub>Any-Consequence7635 · 4:52 PM</sub>
+  <br>My family and I are reviewing our options and CT is a place we may consider. I would like to move to a town where it is suburban but also close to the Metro North Station since I do work in NYC. Any recommendations would be appreciated on which towns I should look into.
+- **[How to submit FOIA bodycam footage requests to Stamford police department?](https://www.reddit.com/r/Connecticut/comments/1x9dr4e/how_to_submit_foia_bodycam_footage_requests_to/)** <sub>Idfkchief · 4:38 PM</sub>
+  <br>Recently a family member was arrested by the local Stamford pd. I am looking online for a means of submitting a request to have the bodycam footage from the arrest released to us. Does anyone have any experience with submitting these requests to local police departments, and if so could you please…
+- **[It was back to the fundamentals for UConn’s secondary during their bye week as they look to limit explosive passing plays in the second half of the season.](https://x.com/hartfordcourant/status/2111919106425274623)** <sub>@hartfordcourant · 4:35 PM</sub>
+  <br>It was back to the fundamentals for UConn’s secondary during their bye week as they look to limit explosive passing plays in the second half of the season. courant.com/2026/10/18/uconn… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[Which AYCE sushi place near New Haven should I check out: Genki or Sushi Palace?](https://www.reddit.com/r/Connecticut/comments/1x9dlue/which_ayce_sushi_place_near_new_haven_should_i/)** <sub>Federal\_Mousse\_4531 · 4:32 PM</sub>
+  <br>I was actually just at Jerry-san's last Friday, and while it's not AYCE, I was very impressed! I'm a massive fan of Johnny's Peking Tokyo in Mystic, personally.
+- **[Car vs Motorcycle Accident with Serious injuries on Rt 6 in Bristol](https://www.facebook.com/groups/BreakingNow/posts/2412939479445220/)** <sub>Marcus Anthony Rice · 4:25 PM</sub>
+- **[Soccer bars?](https://www.reddit.com/r/Connecticut/comments/1x9d4hj/soccer_bars/)** <sub>WOAHdude0197 · 4:12 PM</sub>
+  <br>I’ve been really into soccer since the World Cup but none of my friends are. Been following Barcelona this season a lot and wanted to go out to watch the psg game or el Clasico next Sunday. Don’t even know what bars would be showing it at all or if there would be people there. Lmk if anyone has any…
+- **[Stop and Shop "GO" points FYI](https://www.reddit.com/r/Connecticut/comments/1x9cw9q/stop_and_shop_go_points_fyi/)** <sub>RASCALSSS · 4:03 PM</sub>
+  <br>Shoppers continue to earn "GO Points" as normal on qualifying purchases while the website and app are unavailable, and unused points expiring on Oct. 31 will be extended to Nov. 30.
+- **[The plane flying over the Connecticut River, south of Middletown](https://www.reddit.com/r/Connecticut/comments/1x9cjdh/the_plane_flying_over_the_connecticut_river_south/)** <sub>Complete\_News\_6154 · 3:49 PM</sub>
+  <br>What's up with it? It was flying very low and seemed to be circling from the sound of it. Planes don't usually do that over the river. A local FB page said it was carrying a red sign. I didn't see it and was and continue to be too comfy on my couch to go take a look...
+- **[It’s the latest community to join a growing list of towns and cities across the state approving the use of new red-light cameras, officials said.](https://m.facebook.com/hartfordcourant/posts/pfbid0MNrVAPcfJJuyRo1V4D5hh1mSVhYmstCZ77Anp14JxaRMiQZXn31BkE9xasWwkXfJl)** <sub>Hartford Courant · 3:32 PM</sub>
+- **[Rescue Operation for Person Injured at Hubbard Park in Meriden](https://www.facebook.com/groups/BreakingNow/posts/2412903919448776/)** <sub>Marcus Anthony Rice · 3:31 PM</sub>
+- **[Man Accused of Pistol-Whipping Two Men, Pointing Gun at Victim's Head 📍 Portland Boat Works, 51 Grove Street, Portland,...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0CwNfS2tnMDbEWzGmpHDXzfEt7cSnR7dS3uJR8TeuMp2QggsZDnna4AtQhVNJc1ZKl)** <sub>CTPOLICELIVE · 3:24 PM</sub>
+  <br>Man Accused of Pistol-Whipping Two Men, Pointing Gun at Victim's Head 📍 Portland Boat Works, 51 Grove Street, Portland, CT 📅 Saturday, October 17, 2026 - 3:54 p.m. 📻 Key Details -- Portland Police responded to Portland Boat Works at 51 Grove Street for a reported dispute involving three people --…
+- **[Going rate is 1/4 tick per minute in eastern ct.](https://www.reddit.com/r/Connecticut/comments/1x9bnl6/going_rate_is_14_tick_per_minute_in_eastern_ct/)** <sub>MuchWow81 · 3:14 PM</sub>
+  <br>Just to help you calculate approximately how many ticks you should find crawling on you per minute spent outside. Spent about 12 minutes outside feeding the chickens three ticks on me. 15 minutes yesterday, found 4 and one on the dog. AND CLIMBING. i just found a fourth as it crawled across my FACE.
+- **[Police said that the vehicle has been identified and recovered.](https://m.facebook.com/hartfordcourant/posts/pfbid0WQQYtkB84hKWVQiuiPmexn5F1smALDZqZj3k4WypUxM4zkTtDCnQm7o6fGBeeAwRl)** <sub>Hartford Courant · 3:03 PM</sub>
 - **[Zelenskyy Says Trump Risks ‘Historic Mistake’ If He Backs Russia courant.com/2026/10/18/zelen… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111893367541870699)** <sub>@hartfordcourant · 2:53 PM</sub>
 - **[Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read.](https://x.com/hartfordcourant/status/2111890458481733972)** <sub>@hartfordcourant · 2:41 PM</sub>
   <br>Former coach Tony Reno died Oct. 2. His son, quarterback Dante, has set an example of courage in leading Yale to victories. The Sunday Read. courant.com/2026/10/18/amore… — Hartford Courant (@hartfordcourant) Oct 18, 2026
 - **[Police said that the vehicle has been identified and recovered. courant.com/2026/10/18/ct-ma… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111888313665614148)** <sub>@hartfordcourant · 2:33 PM</sub>
+- **[When humans try to solve a problem or learn a new skill, we do more than just encode new information in the brain.](https://m.facebook.com/hartfordcourant/posts/pfbid02UPDxYXizAyuN7VB8Md5jZ5x6PFeNzki81uC3TLkYEHxiHYYTzDVwQqo93ER5ncwyl)** <sub>Hartford Courant · 2:32 PM</sub>
 - **[🚨New ‘Milford’ Scoop!🚨 ‼️A popular athleisure retailer has closed its Milford location. 🧘Athleta has permanently clos...](https://m.facebook.com/theconnecticutscoop/posts/pfbid07Pe9gySjNcDbmoXr6wPPHRuYfvYBBmFW2EgPXczyHBXbdVEh7jmDbr9g7ARNLJnkl)** <sub>The Connecticut Scoop · 2:32 PM</sub>
   <br>🚨New ‘Milford’ Scoop!🚨 ‼️A popular athleisure retailer has closed its Milford location. 🧘Athleta has permanently closed its Milford store after 5 years of business. The retailer opened its doors in 2021 at Milford Marketplace, located at 1672 Boston Post Road in Milford. 🤸The store quietly closed…
 - **[Bringing CT's bottle deposit back to 5 cents enters governor's race](https://www.reddit.com/r/Connecticut/comments/1x9aazo/bringing_cts_bottle_deposit_back_to_5_cents/)** <sub>TylerFortier\_Photo · 2:21 PM</sub>
@@ -21,6 +49,7 @@ Last 30 days · 2188 items · updated Oct 18, 2026 3:37 PM EDT
   <br>North American movie theaters were flooded with new films this weekend, including a video game reboot, a big budget survival thriller and a Jane Austen adaptation. courant.com/2026/10/18/box-o… — Hartford Courant (@hartfordcourant) Oct 18, 2026
 - **[The Ex-Microsoft Exec Who Outbid Cher for an Antique Archway Is Selling His $9.75 Million Seattle Estate](https://www.realtor.com/news/unique-homes/seattle-washington-park-mansion-cher-archway-microsoft-exec/)** <sub>Kristine Hansen · 1:43 PM</sub>
   <br>In 1997, Jonathan Roberts and his wife Elizabeth snapped up a 1924 sprawling estate in Seattle’s Washington Park neighborhood , quickly making it their own—including sourcing antiques and artifacts on jaunts to Europe. During the 3.5-year transformation, between 2000 and 2004, one of those finds…
+- **[“Pride and Prejudice, Part 2: Napoleon at Pemberley,” at Westport Country Playhouse Oct. 20-Nov. 7, merges characters from “Pride and Prejudice” with the real-life Napoleon Bonaparte.](https://m.facebook.com/hartfordcourant/posts/pfbid02izutSQLYLUna8XQjchzMPy6awLG9M8XfxPXL6vpcNjSfuw8uHrt1RigHux1ZUfvrl)** <sub>Hartford Courant · 1:32 PM</sub>
 - **[No kings but Lamont’s the exception????](https://www.reddit.com/r/Connecticut/comments/1x98nfy/no_kings_but_lamonts_the_exception/)** <sub>Trick-Ad-6284 · 1:15 PM</sub>
   <br>Showing up and doing something real is two different things apparently in Connecticut. why is it I grew up my whole life here worked for the government and can't buy a house because property taxes are sky high even in the worst parts of Hartford it's 300k for a house make this make sense why is it…
 - **[Advice for pursuing law in CT](https://www.reddit.com/r/Connecticut/comments/1x989w6/advice_for_pursuing_law_in_ct/)** <sub>thelordschips87 · 1:01 PM</sub>
