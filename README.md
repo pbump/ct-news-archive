@@ -1,12 +1,47 @@
 # CT News
 
-Last 30 days · 2206 items · updated Oct 18, 2026 5:48 PM EDT
+Last 30 days · 2229 items · updated Oct 18, 2026 7:42 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 18
 
+- **[Accident with Entrapment in Glastonbury](https://www.facebook.com/groups/BreakingNow/posts/2413049969434171/)** <sub>Marcus Anthony Rice · 7:31 PM</sub>
+- **[Milford Motorcycle Man](https://www.reddit.com/r/Connecticut/comments/1x9hkmh/milford_motorcycle_man/)** <sub>Apart-Combination928 · 7:28 PM</sub>
+  <br>There’s a handsome young man who likes to ride his bike down beach Ave in Woodmont after his blue collar job, sometimes wears a navy bandana. we’ve exchanged eye contact quite a few times, most recently this past Saturday… if this reaches him and he’s single make yourself known honey
+- **[What is the booming noise?](https://www.reddit.com/r/Connecticut/comments/1x9hjap/what_is_the_booming_noise/)** <sub>Complete\_News\_6154 · 7:26 PM</sub>
+  <br>Sounds like it's coming from near Glastonbury? What is that?
+- **[Connecticut early voting starts Monday. Here’s where you can cast a ballot.](https://www.reddit.com/r/Connecticut/comments/1x9hj6j/connecticut_early_voting_starts_monday_heres/)** <sub>Somervilledrew · 7:26 PM</sub>
+- **[Eversource home insulation program is a scam/fraud/whatever word describes no service provided](https://www.reddit.com/r/Connecticut/comments/1x9heb6/eversource_home_insulation_program_is_a/)** <sub>GoodDogBrent · 7:19 PM</sub>
+  <br>i'm too tired to explain my story but i fucking hate eversource and their home insulation energy saving program that probably took millions or billions from the feds is a fucking non-delivering shit. fuck them. edit: just having the word eversource in the title adds a little angry face to the post…
+- **[With the NBA preseason now complete, here are five things we learned about the 2026-27 Celtics. courant.com/2026/10/18/five-… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111958856020398194)** <sub>@hartfordcourant · 7:13 PM</sub>
+- **[The opportunities were there Sunday. The Jets squandered enough of them to leave Gillette Stadium with a 26-19 loss to the Patriots](https://x.com/hartfordcourant/status/2111956840913256943)** <sub>@hartfordcourant · 7:05 PM</sub>
+  <br>The opportunities were there Sunday. The Jets squandered enough of them to leave Gillette Stadium with a 26-19 loss to the Patriots courant.com/2026/10/18/jets-… — Hartford Courant (@hartfordcourant) Oct 18, 2026
+- **[A 33-year-old New Haven man has pleaded guilty with pandemic relief fraud totaling over $250,000, officials said.](https://m.facebook.com/hartfordcourant/posts/pfbid04zqQ9PBBQut3zhT3H6Wgiz1T4gpp87pLRFDYEShdwvkEvcZ3hoWZJsoes1XQ2xBvl)** <sub>Hartford Courant · 7:02 PM</sub>
+- **[Argument outside Putnam shopping center leads to deadly hit-and-run, police say](https://www.reddit.com/r/Connecticut/comments/1x9gxsq/argument_outside_putnam_shopping_center_leads_to/)** <sub>MoonGrog · 6:57 PM</sub>
+  <br>Another hit and run in Putnam. This one seems a little more premeditated but there has been a ton of hit and runs in town lately.
+- **[“I feel like $22 million a year is quite a lot of money.” courant.com/2026/10/18/payto… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111953764101824526)** <sub>@hartfordcourant · 6:53 PM</sub>
+- **[Best, worst and everything we learned as the Patriots beat the Jets but lost four offensive starters in a 26-19 win. courant.com/2026/10/18/best-… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111951020880207947)** <sub>@hartfordcourant · 6:42 PM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/4367456926898542/)** <sub>CTPOLICELIVE · 6:41 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Man Accused of Pointing Rifle at Neighbor, Police Surround Building - Hartford 📍 Area of 190 Campfield Avenue, Hartfor...](https://www.facebook.com/reel/1425952233070849/)** <sub>CTPOLICELIVE · 6:40 PM</sub>
+  <br>Man Accused of Pointing Rifle at Neighbor, Police Surround Building - Hartford 📍 Area of 190 Campfield Avenue, Hartford, CT 📅 Sunday, October 18, 2026 - 5:54 p.m. 📻 Key Details -- Hartford Police responded after a resident reported that a neighbor pointed a rifle at him -- The suspect was described…
+- **[CT vs NJ](https://www.reddit.com/r/Connecticut/comments/1x9gjb2/ct_vs_nj/)** <sub>sunnyalpine · 6:38 PM</sub>
+  <br>As a Jersey native, I'm curious how you all compare the two states. For the record, I've been to Connecticut a lot throughout my life and I really like it. Some things that stand out to me: for NYC commutable area, NJ just has a lot more options, the areas of CT commutable to NYC are really…
+- **[Their comeback fell just short on an incompletion out of the back of the end zone intended for Isaiah Likely. courant.com/2026/10/18/j-j-m… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111949290142601448)** <sub>@hartfordcourant · 6:35 PM</sub>
+- **[Man Accused of Pointing Rifle at Neighbor, Police Surround Building - Hartford 📍 Area of 190 Campfield Avenue, Hartfor...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0N2RSr7F8fFuTLmLceTb9X3hhN5oB4q79CTaBQAH2imGcg87RzwtTeU9w8ucR6WcUl)** <sub>CTPOLICELIVE · 6:33 PM</sub>
+  <br>Man Accused of Pointing Rifle at Neighbor, Police Surround Building - Hartford 📍 Area of 190 Campfield Avenue, Hartford, CT 📅 Sunday, October 18, 2026 - 5:54 p.m. 📻 Key Details -- Hartford Police responded after a resident reported that a neighbor pointed a rifle at him -- The suspect was described…
+- **[Garland said, “I believe that every child deserves access to education to build that foundation.”](https://m.facebook.com/hartfordcourant/posts/pfbid0XEWvVaKV1HAiT97PUAzgCJmGnb6NgKMwNCQcGq2vnZEWthZG3RgguNGAYvxhgTql)** <sub>Hartford Courant · 6:32 PM</sub>
+- **[Legitimate Career Fair or Scam?](https://www.reddit.com/r/Connecticut/comments/1x9g8qh/legitimate_career_fair_or_scam/)** <sub>kuchygucci · 6:25 PM</sub>
+  <br>Hi all! Reaching out here as I'm not sure where else to look. I registered for the pictured career fair, but after not getting a list of attending employers, it's starting to seem like a scam. Does anyone have any insight if this is legitimate or not? I called the Marriott in Hartford and they told…
+- **[Making friends in CT](https://www.reddit.com/r/Connecticut/comments/1x9f157/making_friends_in_ct/)** <sub>Strawberrygirl901 · 5:32 PM</sub>
+  <br>Hi, my spouse and I recently moved to Fairfield, CT. We don’t have children or any local family and friends. and are looking for ways to socialize with 20-40 year olds. We are into anime, comics, and gaming and I am wondering if there are any local anime or gaming groups/clubs available for adults…
+- **[While overwhelming focus of debate in Connecticut legislative races on taxes, affordability, energy costs and how to dea...](https://m.facebook.com/hartfordcourant/posts/pfbid0TiEgvAYWLW5a1wvpsogMSy373wzm6JM5yispi2hznCA39UvHuxAgjjEsLM6mKvXzl)** <sub>Hartford Courant · 5:32 PM</sub>
+  <br>While overwhelming focus of debate in Connecticut legislative races on taxes, affordability, energy costs and how to deal with the Trump administration, voters are also hearing from both sides about affordable housing.
+- **[New Milford](https://www.reddit.com/r/Connecticut/comments/1x9f0r0/new_milford_thanksgiving/)** <sub>Both-Designer-6240 · 5:31 PM</sub>
+  <br>I would like to order a Thanksgiving meal for a family of 3 that lives in New Milford. I do not live in the area so I can’t pick it up and bring it to them. Does anyone have a place they recommend that might deliver?
+- **[In Opinion \| Closer to the stadium, the real fun started: we had to step around wood, mounds of sand, construction debris, and weave our way through multiple open top containers.](https://m.facebook.com/hartfordcourant/posts/pfbid0jhebhDke3oLhfpwLP2QMtQr63Aqjq82xxF93iH3mFQKKxdpLXeiwbuSgtuB9rcrhl)** <sub>Hartford Courant · 5:03 PM</sub>
 - **[Car vs Pole Accident in Manchester](https://www.facebook.com/groups/BreakingNow/posts/2412961812776320/)** <sub>Marcus Anthony Rice · 5:01 PM</sub>
 - **[I turned Connecticut landmarks into race tracks for tiny RC cars](https://www.reddit.com/r/Connecticut/comments/1x9e8ps/i_turned_connecticut_landmarks_into_race_tracks/)** <sub>rauelius · 4:59 PM</sub>
   <br>I'm a Meriden guy who's been building a video game this year. Tiny RC cars race through real Connecticut places at 1/18 scale: Gillette Castle, Hammonasset Beach, Meriden City Hall, Cheshire, New Haven, an I-84 Waterbury run and more. 25 tracks so far. I make it by myself and use AI tools to help,…
@@ -20,6 +55,7 @@ Last 30 days · 2206 items · updated Oct 18, 2026 5:48 PM EDT
   <br>It was back to the fundamentals for UConn’s secondary during their bye week as they look to limit explosive passing plays in the second half of the season. courant.com/2026/10/18/uconn… — Hartford Courant (@hartfordcourant) Oct 18, 2026
 - **[Which AYCE sushi place near New Haven should I check out: Genki or Sushi Palace?](https://www.reddit.com/r/Connecticut/comments/1x9dlue/which_ayce_sushi_place_near_new_haven_should_i/)** <sub>Federal\_Mousse\_4531 · 4:32 PM</sub>
   <br>I was actually just at Jerry-san's last Friday, and while it's not AYCE, I was very impressed! I'm a massive fan of Johnny's Peking Tokyo in Mystic, personally.
+- **[An anniversary tour closely based on the original London production is a reminder of what made the show special in the first place.](https://m.facebook.com/hartfordcourant/posts/pfbid09iqu37SpXwTTPG9WzKNJEhRUC8v6NJaNcMGTNHdyxyfbsWHyw18dzYKxCtSPCSy9l)** <sub>Hartford Courant · 4:32 PM</sub>
 - **[Car vs Motorcycle Accident with Serious injuries on Rt 6 in Bristol](https://www.facebook.com/groups/BreakingNow/posts/2412939479445220/)** <sub>Marcus Anthony Rice · 4:25 PM</sub>
 - **[Soccer bars?](https://www.reddit.com/r/Connecticut/comments/1x9d4hj/soccer_bars/)** <sub>WOAHdude0197 · 4:12 PM</sub>
   <br>I’ve been really into soccer since the World Cup but none of my friends are. Been following Barcelona this season a lot and wanted to go out to watch the psg game or el Clasico next Sunday. Don’t even know what bars would be showing it at all or if there would be people there. Lmk if anyone has any…
