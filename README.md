@@ -1,12 +1,27 @@
 # CT News
 
-Last 30 days · 2089 items · updated Oct 17, 2026 7:40 PM EDT
+Last 30 days · 2098 items · updated Oct 17, 2026 9:30 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 17
 
+- **[The day may feel slightly out of rhythm. The Capricorn Moon squares the Libra Sun at 12:12 pm EDT, putting practical demands at odds with our desire for ease, cooperation, or a little breathing room.…](https://x.com/hartfordcourant/status/2111619026627506571)** <sub>@hartfordcourant · 8:43 PM</sub>
+  <br>The day may feel slightly out of rhythm. The Capricorn Moon squares the Libra Sun at 12:12 pm EDT, putting practical demands at odds with our desire for ease, cooperation, or a little breathing room. Something may need to get done even if… courant.com/2026/10/17/daily… — Hartford Courant…
+- **[Police Activity Rocky Hill](https://www.facebook.com/groups/BreakingNow/posts/2412036932868808/)** <sub>Doug Oberly · 8:29 PM</sub>
+- **[CREC Schools](https://www.reddit.com/r/Connecticut/comments/1x8pinq/crec_schools/)** <sub>Ghost\_Fae\_ · 8:26 PM</sub>
+  <br>I am about to graduate with my degree in elementary education and I have noticed a lot of job openings at CREC schools. My question is: What have your experiences been with CREC schools? Working in them, attending them, sending your kids there—I want to hear it all before I consider leaving my…
+- **[Armed Carjacking, Vehicle Taken at Gunpoint - New Britain 📍 West Main Street, New Britain, CT 📅 Saturday, October 1...](https://www.facebook.com/reel/1422768310062178/)** <sub>CTPOLICELIVE · 8:10 PM</sub>
+  <br>Armed Carjacking, Vehicle Taken at Gunpoint - New Britain 📍 West Main Street, New Britain, CT 📅 Saturday, October 17, 2026 - 7:45 p.m. 📻 Key Details -- New Britain Police issued a BOLO for a vehicle taken at gunpoint during an armed carjacking -- Vehicle was last reported heading westbound on West…
+- **[Armed Carjacking, Vehicle Taken at Gunpoint - New Britain 📍 West Main Street, New Britain, CT 📅 Saturday, October 17...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid031xtt5Crq7AERqr4hh1JS3DN6PX7nhokwTXLTUQmttTNur53MxGYHiZpZ9hUjLXNbl)** <sub>CTPOLICELIVE · 8:07 PM</sub>
+  <br>Armed Carjacking, Vehicle Taken at Gunpoint - New Britain 📍 West Main Street, New Britain, CT 📅 Saturday, October 17, 2026 - 7:45 p.m. 📻 Key Details -- New Britain Police issued a BOLO for a vehicle taken at gunpoint during an armed carjacking -- Vehicle was last reported heading westbound on West…
+- **[Certain states and cities, including Connecticut, publish emergency medical services reports, which provide a good foundation on response time.](https://m.facebook.com/hartfordcourant/posts/pfbid02SLQHkKetazqSMbwgD4NPrvAC81RcwQpRxZ9YDCTDS6V79Tjo871Zr9LJENDvS99ol)** <sub>Hartford Courant · 8:02 PM</sub>
+- **[Armed Carjacking New Britain](https://www.facebook.com/groups/BreakingNow/posts/2412019192870582/)** <sub>Doug Oberly · 8:00 PM</sub>
+- **[Making friends](https://www.reddit.com/r/Connecticut/comments/1x8oqt4/making_friends/)** <sub>VividRock5924 · 7:48 PM</sub>
+  <br>I moved to ct last week trying to make friends here im not from the bigger cities and am 22 years old. Trying my best to make friends went to a bar last weekend and it was really awkward wanting to meet some people just to hangout with maybe a group for club nights and some for traveling don’t know…
+- **[The Trinity football team won on the road at Tufts on Saturday, while Wesleyan defeated visiting Bates as both teams rem...](https://m.facebook.com/hartfordcourant/posts/pfbid0rZPgS6rjLKbHZLxosRLwTvA8zX4vcE6CV47xVbZvaT7aFxQYXM5UypcJ339kxduPl)** <sub>Hartford Courant · 7:38 PM</sub>
+  <br>The Trinity football team won on the road at Tufts on Saturday, while Wesleyan defeated visiting Bates as both teams remained undefeated at 5-0 and in first place in the NESCAC. Central Connecticut State won its third straight and Yale lost…
 - **[Mohegan or Foxwoods for 28th Birthday?](https://www.reddit.com/r/Connecticut/comments/1x8oew5/mohegan_or_foxwoods_for_28th_birthday/)** <sub>potabo\_ · 7:31 PM</sub>
   <br>Hello! For my 28th birthday I am going to get a suite at a casino and grab dinner and bar hop with ~15 friends. We will not be attending Avalon/shrine. I’d rather be at bars/restaurants instead of full-blown clubs. Dancing at bars is fine! Which casino is better for this kinda vibe? And what…
 - **[Truck Plows Through Soccer Field. Multiple Injuries-2 Fatal](https://www.facebook.com/groups/BreakingNow/posts/2411989916206843/)** <sub>Bruce Fontaine · 7:09 PM</sub>
