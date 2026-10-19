@@ -1,14 +1,35 @@
 # CT News
 
-Last 30 days · 2239 items · updated Oct 18, 2026 9:46 PM EDT
+Last 30 days · 2251 items · updated Oct 19, 2026 2:54 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Monday, October 19
+
+- **[Things to do](https://www.reddit.com/r/Connecticut/comments/1x9o9ts/things_to_do/)** <sub>BlackTulip20 · 1:18 AM</sub>
+  <br>I am going to CT for my friend's birthday. We are both woman over 21 and I want something fun to do. We will be around Hartford and we are going to a restaurant in Southington. Do you have any suggestions? We like adventure (specially with nature), bars and clubs. I can't do a difficult hiking…
+
 ## Sunday, October 18
 
+- **[Perfect Fall night in southern CT](https://www.reddit.com/r/Connecticut/comments/1x9ltgt/perfect_fall_night_in_southern_ct/)** <sub>dewgin86 · 11:01 PM</sub>
+- **[More CT landfills are being topped with solar panels](https://www.reddit.com/r/Connecticut/comments/1x9la9p/more_ct_landfills_are_being_topped_with_solar/)** <sub>Firm\_Relative\_7283 · 10:33 PM</sub>
+- **[In Opinion \| Here’s another critical aging secret. When we reach the upper stratosphere in years, our mind and body engage in a permanent fight and refuse to talk kindly to each other.](https://m.facebook.com/hartfordcourant/posts/pfbid02LAjuNHpHhBmgX36G2W1aApxqTQWssu4F5oLvPZfLtcBfPxMW72Bnum2w3tY5bez3l)** <sub>Hartford Courant · 10:32 PM</sub>
+- **[Psychiatrists in Middletown area](https://www.reddit.com/r/Connecticut/comments/1x9l1x9/psychiatrists_in_middletown_area/)** <sub>taylorspeaks8 · 10:21 PM</sub>
+  <br>I’m moving to Middletown this winter and will need to get a new psychiatrist. Does anyone have any recommendations in the general Middletown area? Also looking for a new therapist. Are there any therapists/therapy practices that are recommended in the area?
+- **[🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🛍️ Ross opens new store in Hamden, 6 more...](https://m.facebook.com/theconnecticutscoop/posts/pfbid0Z9XV5GTrYFeXTcBjd2mrDFgAr2XPKeDVVhubWfENU11CCjzNDe3AwcSicVsqVnMPl)** <sub>The Connecticut Scoop · 10:16 PM</sub>
+  <br>🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🛍️ Ross opens new store in Hamden, 6 more CT locations coming soon! 🔗 https://www.facebook.com/share/p/1CEz1tXMM3/ • • 🐼 Panda Express coming soon to Hamden Plaza! Fourth location in CT 🔗…
+- **[By The Associated Press Ukrainian strikes set an oil export terminal and a depot ablaze in St. Petersburg on Sunday as Kyiv launched more than 1,000 drones at Russia in one of its largest aerial…](https://x.com/hartfordcourant/status/2112004414638563415)** <sub>@hartfordcourant · 10:14 PM</sub>
+  <br>By The Associated Press Ukrainian strikes set an oil export terminal and a depot ablaze in St. Petersburg on Sunday as Kyiv launched more than 1,000 drones at Russia in one of its largest aerial attacks of the war. The strikes came as… courant.com/2026/10/18/ukrai… — Hartford Courant…
+- **[MVA Rollover with Extrication Bridgeport RT 8](https://www.facebook.com/groups/BreakingNow/posts/2413133456092489/)** <sub>Doug Oberly · 9:45 PM</sub>
+- **[Man Accused of Running Over Another Man Following Fight - Putnam 📍 Riverfront Commons Parking Lot, Kennedy Drive, Putn...](https://www.facebook.com/reel/1798128628096112/)** <sub>CTPOLICELIVE · 9:31 PM</sub>
+  <br>Man Accused of Running Over Another Man Following Fight - Putnam 📍 Riverfront Commons Parking Lot, Kennedy Drive, Putnam, CT 📅 Sunday, October 18, 2026 - 2:01 a.m. 📻 Key Details -- Putnam Police responded to a reported vehicle versus pedestrian crash in the Riverfront Commons parking lot --…
+- **[What keeps students safe in school? Prevention, not defenses, experts say.](https://m.facebook.com/hartfordcourant/posts/pfbid0UouX6KZ7aF3pMJ1gBh8gmuTUsnRZxE3QX8ZL69QQkPfcFp7P3KRWmuLsLFjAaHr5l)** <sub>Hartford Courant · 9:31 PM</sub>
+- **[Man Accused of Running Over Another Man Following Fight - Putnam 📍 Riverfront Commons Parking Lot, Kennedy Drive, Putna...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02mr9Wd3FYxjAPHpM1RQLuSeCcQubpzVGGK4xkJYJeMGibpCL8XSP6CVHFhW7x7xzDl)** <sub>CTPOLICELIVE · 9:26 PM</sub>
+  <br>Man Accused of Running Over Another Man Following Fight - Putnam 📍 Riverfront Commons Parking Lot, Kennedy Drive, Putnam, CT 📅 Sunday, October 18, 2026 - 2:01 a.m. 📻 Key Details -- Putnam Police responded to a reported vehicle versus pedestrian crash in the Riverfront Commons parking lot --…
 - **[Makes me want to go back in time](https://www.reddit.com/r/Connecticut/comments/1x9jll3/makes_me_want_to_go_back_in_time/)** <sub>ILovePublicLibraries · 9:07 PM</sub>
   <br>Found these items at the thrift store in Newington. Apparently these aren't too old but reminds me of the time I went to these stores growing up back in the 2000s.
+- **[With just a few months to go before the final report is due, commission members say that public input is incredibly important to the process.](https://m.facebook.com/hartfordcourant/posts/pfbid02QacuH9AEsELiptn9Jh77Seqq5cqaxWo7GSVbBHymQ4jB6k7McuHYDZx7tny8PxcUl)** <sub>Hartford Courant · 9:02 PM</sub>
 - **[DMV nightmare](https://www.reddit.com/r/Connecticut/comments/1x9jdzn/dmv_nightmare/)** <sub>Odd-Patience6087 · 8:57 PM</sub>
   <br>Hey everyone, ​I’m posting here because I need to vent, get some advice, and see if anyone else in CT (or in recovery) has dealt with this exact wall. ​Seven years ago, I got a first-time DUI. I served my time in jail, paid my debt, and paid a huge personal cost—I missed my dad passing away while I…
 - **[New Haven Man, Convicted In 2023 of Rape, Had Appeals Court Order New Trial, Convicted For Second Time: Court](https://www.reddit.com/r/Connecticut/comments/1x9ja7p/new_haven_man_convicted_in_2023_of_rape_had/)** <sub>MountainCounty9496 · 8:52 PM</sub>
@@ -29,7 +50,7 @@ Last 30 days · 2239 items · updated Oct 18, 2026 9:46 PM EDT
   <br>Update: Fall Fest in Rocky Hill
 - **[Connecticut early voting starts Monday. Here’s where you can cast a ballot.](https://www.reddit.com/r/Connecticut/comments/1x9hj6j/connecticut_early_voting_starts_monday_heres/)** <sub>Somervilledrew · 7:26 PM</sub>
 - **[🚨New West Haven Scoop!🚨 🎉Little Caesars Pizza is coming soon to West Haven! 🍕The quick service pizza shop is coming...](https://m.facebook.com/theconnecticutscoop/posts/pfbid0xgYUkQtvEGJ3rT1kL5LRFvxA36U9qxaTbyVxkDqBNuMixiSYqyFfmrNbQ4AwtCBWl)** <sub>The Connecticut Scoop · 7:25 PM</sub>
-  <br>🚨New West Haven Scoop!🚨 🎉Little Caesars Pizza is coming soon to West Haven! 🍕The quick service pizza shop is coming soon to 1088 Orange Avenue (Suite F) in West Haven; the shopping plaza home to Bubble's Laundromat and many others. Building permits were recently issued for the restaurant's…
+  <br>🚨New West Haven Scoop!🚨 🎉Little Caesars Pizza is coming soon to West Haven! 🍕The quick service pizza shop is coming soon to 1088 Boston Post Road (Orange Avenue) Suite F in West Haven; the shopping plaza home to Mr.Bubble's Laundromat and many others. Building permits were recently issued for the…
 - **[Eversource home insulation program is a scam/fraud/whatever word describes no service provided](https://www.reddit.com/r/Connecticut/comments/1x9heb6/eversource_home_insulation_program_is_a/)** <sub>GoodDogBrent · 7:19 PM</sub>
   <br>i'm too tired to explain my story but i fucking hate eversource and their home insulation energy saving program that probably took millions or billions from the feds is a fucking non-delivering shit. fuck them. edit: just having the word eversource in the title adds a little angry face to the post…
 - **[With the NBA preseason now complete, here are five things we learned about the 2026-27 Celtics. courant.com/2026/10/18/five-… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111958856020398194)** <sub>@hartfordcourant · 7:13 PM</sub>
