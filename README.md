@@ -1,18 +1,35 @@
 # CT News
 
-Last 30 days · 2229 items · updated Oct 18, 2026 7:42 PM EDT
+Last 30 days · 2239 items · updated Oct 18, 2026 9:46 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 18
 
+- **[Makes me want to go back in time](https://www.reddit.com/r/Connecticut/comments/1x9jll3/makes_me_want_to_go_back_in_time/)** <sub>ILovePublicLibraries · 9:07 PM</sub>
+  <br>Found these items at the thrift store in Newington. Apparently these aren't too old but reminds me of the time I went to these stores growing up back in the 2000s.
+- **[DMV nightmare](https://www.reddit.com/r/Connecticut/comments/1x9jdzn/dmv_nightmare/)** <sub>Odd-Patience6087 · 8:57 PM</sub>
+  <br>Hey everyone, ​I’m posting here because I need to vent, get some advice, and see if anyone else in CT (or in recovery) has dealt with this exact wall. ​Seven years ago, I got a first-time DUI. I served my time in jail, paid my debt, and paid a huge personal cost—I missed my dad passing away while I…
+- **[New Haven Man, Convicted In 2023 of Rape, Had Appeals Court Order New Trial, Convicted For Second Time: Court](https://www.reddit.com/r/Connecticut/comments/1x9ja7p/new_haven_man_convicted_in_2023_of_rape_had/)** <sub>MountainCounty9496 · 8:52 PM</sub>
+- **[Any recommendations makeup lessons?](https://www.reddit.com/r/Connecticut/comments/1x9j7v1/any_recommendations_makeup_lessons/)** <sub>TopCaterpillars · 8:48 PM</sub>
+  <br>Hi everyone, I am hoping to find someone who can teach me how to do basic makeup application. Something to give me a simple “put together” look for work or everyday. Fairfield county preferred, but willing to travel for someone great! Thanks in advance!
+- **[North American movie theaters were flooded with new films this weekend, including a video game reboot, a big budget survival thriller and a Jane Austen adaptation.](https://m.facebook.com/hartfordcourant/posts/pfbid0CQgks5p7UZENSWYXqWTkqE5fhokxeus6oH7WLVU7BYd7X9NUaS2Hii28tgg8VAgml)** <sub>Hartford Courant · 8:32 PM</sub>
+- **[Something may grab your attention and refuse to let go today. The Aquarius Moon meets Pluto at 3:49 am EDT, intensifying reactions and making certain truths harder to ignore. We may become unusually…](https://x.com/hartfordcourant/status/2111976881234796748)** <sub>@hartfordcourant · 8:25 PM</sub>
+  <br>Something may grab your attention and refuse to let go today. The Aquarius Moon meets Pluto at 3:49 am EDT, intensifying reactions and making certain truths harder to ignore. We may become unusually focused on fixing, changing, or… courant.com/2026/10/18/daily… — Hartford Courant (@hartfordcourant)…
+- **[Optimum: calling them every once in a while can save $$$](https://www.reddit.com/r/Connecticut/comments/1x9ipqh/optimum_calling_them_every_once_in_a_while_can/)** <sub>circles\_squares · 8:23 PM</sub>
+  <br>We were paying $124/month for just internet, so we called and found we were paying for a phone line because it was cheaper to pay for a bundle the last time we updated our service. We were able to get down to $65 by eliminating the phone line and had to have service to the house upgraded. It’s…
+- **[Bradley Airport: An Economic Engine That Can Do So Much More](https://www.reddit.com/r/Connecticut/comments/1x9idns/bradley_airport_an_economic_engine_that_can_do_so/)** <sub>suffieldctdemocrats · 8:07 PM</sub>
+  <br>Bradley International Airport is the biggest economic engine in House District 61 (East Granby, Suffield and Windsor Locks), supporting about 18,000 jobs, and it’s what makes the opportunity around it possible: aerospace careers our kids can build right here, and new ideas like the film and TV…
+- **[Hundreds gathered at dozens of “No Kings” protests across Connecticut on Saturday, with signs bearing some familiar slogans but with a sharper focus this time, organizers said, on voting.](https://m.facebook.com/hartfordcourant/posts/pfbid0KnMRvjMYyNPj1nQMTozTMqvCv1mpWtz4s6TBznXibxFmCw9U82Djj69uNRHSp6Cel)** <sub>Hartford Courant · 8:01 PM</sub>
 - **[Accident with Entrapment in Glastonbury](https://www.facebook.com/groups/BreakingNow/posts/2413049969434171/)** <sub>Marcus Anthony Rice · 7:31 PM</sub>
 - **[Milford Motorcycle Man](https://www.reddit.com/r/Connecticut/comments/1x9hkmh/milford_motorcycle_man/)** <sub>Apart-Combination928 · 7:28 PM</sub>
   <br>There’s a handsome young man who likes to ride his bike down beach Ave in Woodmont after his blue collar job, sometimes wears a navy bandana. we’ve exchanged eye contact quite a few times, most recently this past Saturday… if this reaches him and he’s single make yourself known honey
 - **[What is the booming noise?](https://www.reddit.com/r/Connecticut/comments/1x9hjap/what_is_the_booming_noise/)** <sub>Complete\_News\_6154 · 7:26 PM</sub>
-  <br>Sounds like it's coming from near Glastonbury? What is that?
+  <br>Update: Fall Fest in Rocky Hill
 - **[Connecticut early voting starts Monday. Here’s where you can cast a ballot.](https://www.reddit.com/r/Connecticut/comments/1x9hj6j/connecticut_early_voting_starts_monday_heres/)** <sub>Somervilledrew · 7:26 PM</sub>
+- **[🚨New West Haven Scoop!🚨 🎉Little Caesars Pizza is coming soon to West Haven! 🍕The quick service pizza shop is coming...](https://m.facebook.com/theconnecticutscoop/posts/pfbid0xgYUkQtvEGJ3rT1kL5LRFvxA36U9qxaTbyVxkDqBNuMixiSYqyFfmrNbQ4AwtCBWl)** <sub>The Connecticut Scoop · 7:25 PM</sub>
+  <br>🚨New West Haven Scoop!🚨 🎉Little Caesars Pizza is coming soon to West Haven! 🍕The quick service pizza shop is coming soon to 1088 Orange Avenue (Suite F) in West Haven; the shopping plaza home to Bubble's Laundromat and many others. Building permits were recently issued for the restaurant's…
 - **[Eversource home insulation program is a scam/fraud/whatever word describes no service provided](https://www.reddit.com/r/Connecticut/comments/1x9heb6/eversource_home_insulation_program_is_a/)** <sub>GoodDogBrent · 7:19 PM</sub>
   <br>i'm too tired to explain my story but i fucking hate eversource and their home insulation energy saving program that probably took millions or billions from the feds is a fucking non-delivering shit. fuck them. edit: just having the word eversource in the title adds a little angry face to the post…
 - **[With the NBA preseason now complete, here are five things we learned about the 2026-27 Celtics. courant.com/2026/10/18/five-… — Hartford Courant (@hartfordcourant) Oct 18, 2026](https://x.com/hartfordcourant/status/2111958856020398194)** <sub>@hartfordcourant · 7:13 PM</sub>
