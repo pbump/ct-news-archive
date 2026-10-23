@@ -1,12 +1,50 @@
 # CT News
 
-Last 30 days · 3061 items · updated Oct 22, 2026 9:52 PM EDT
+Last 30 days · 3083 items · updated Oct 23, 2026 2:47 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Friday, October 23
+
+- **[Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Brit...](https://www.facebook.com/reel/1813637909673414/)** <sub>CTPOLICELIVE · 1:37 AM</sub>
+  <br>Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Britain, CT 📅 Friday, October 23, 2026 - 1:10 a.m. 📻 Key Details -- New Britain Police reported an armed carjacking involving a 2026 white Jaguar -- Four masked individuals were…
+- **[Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Brita...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0SRRvJkPVSZPkdJzHYEmWkEqRakd49HkFZjKkbzkfUbTLm7tYMhqeYocVi14wV7SQl)** <sub>CTPOLICELIVE · 1:32 AM</sub>
+  <br>Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Britain, CT 📅 Friday, October 23, 2026 - 1:10 a.m. 📻 Key Details -- New Britain Police reported an armed carjacking involving a 2026 white Jaguar -- Four masked individuals were…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1109696131424352/)** <sub>CTPOLICELIVE · 12:09 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+
 ## Thursday, October 22
 
+- **[Registration](https://www.reddit.com/r/Connecticut/comments/1xd3ln8/registration/)** <sub>Fun-Awareness7489 · 11:51 PM</sub>
+  <br>I just turned 18 yesterday, where do I look to see view my voter registration?
+- **[Proposal spots](https://www.reddit.com/r/Connecticut/comments/1xd39cb/proposal_spots/)** <sub>Boobler1 · 11:33 PM</sub>
+  <br>Hi all, I am planning on proposing to my girlfriend of two years around christmas time and Im looking for some areas around CT that have large decorated christmas trees. Thinking something more intimate otherwise the tree in NYC would have been my go too, she just wants something a little more…
+- **[Governor Debate: War on Iran](https://www.reddit.com/r/Connecticut/comments/1xd38fs/governor_debate_war_on_iran/)** <sub>ArthurAugustyn · 11:32 PM</sub>
+  <br>Moderator: Senator Fazio, you have said on the campaign trail and also in the state legislature that the president's foreign policy has nothing to do with Connecticut. But the reality, a lot of people will disagree with that-that high tariffs, the war in Iran, and are having a financial impact on…
+- **[Governor Debate: Corruption allegations](https://www.reddit.com/r/Connecticut/comments/1xd34rv/governor_debate_corruption_allegations/)** <sub>ArthurAugustyn · 11:26 PM</sub>
+  <br>\[the auto transcription probably got a lot of the spellings of names wrong\] Moderate: Governor, we've seen a sort of unfolding scandal of mismanagement at CSCU, the state university system, involving Chancellor, former Chancellor Terrence Chang, Zolma Toro, the CCSU president John Maduco, and…
+- **[Young professionals in Central CT: escape room + costume night in Plainville on Thurs 10/29](https://www.reddit.com/r/Connecticut/comments/1xd31oc/young_professionals_in_central_ct_escape_room/)** <sub>Future\_Dare8052 · 11:22 PM</sub>
+  <br>Hey all! I run PYVOT, a young professionals group (21 to 40) through the Central CT Chambers. We're doing an escape room night next week on Thursday, October 29 at Escape from Reality in Plainville, a newer local business that just opened in May. A portion of the proceeds goes right back to them,…
+- **[As brands continue to cycle nameplates from deep in their archives, General Motors is no different](https://m.facebook.com/hartfordcourant/posts/pfbid02bhHj9fZNEKvrQybrFbUGMSBCvYLYi9t2rKARWNXT3sPjz3gq6k746YdC47FJxViRl)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[Governor Debate: Energy costs](https://www.reddit.com/r/Connecticut/comments/1xd2izs/governor_debate_energy_costs/)** <sub>ArthurAugustyn · 10:56 PM</sub>
+  <br>Moderator: We do have questions that we got from our from our viewers and readers, and we're going to mix them into some of these questions that we're asking tonight, and I want to start with energy. Everybody wants to see rate cuts, electric rate cuts, but the signs point to electric rate…
+- **[Governor Debate: Lamont on running for a third term](https://www.reddit.com/r/Connecticut/comments/1xd2hdf/governor_debate_lamont_on_running_for_a_third_term/)** <sub>ArthurAugustyn · 10:54 PM</sub>
+  <br>This question is for you, Governor Lamont. You have been governor for eight years, and you did promise to lower electricity, property taxes, and housing costs. So why would another term bring different results? Lamont: Look where we are today. You know, everybody talks about I'm going to cut the…
+- **[Experts put the likely figure at 60 to 120 billion barrels. courant.com/2026/10/22/venez… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113463000086511769)** <sub>@hartfordcourant · 10:50 PM</sub>
+- **[96% of shallow-water reef systems are already critically endangered and could collapse by 2075. courant.com/2026/10/22/clima… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113460600734945732)** <sub>@hartfordcourant · 10:40 PM</sub>
+- **[Plymouth, are any of the people at that shop in politics or are they just like this for fun](https://www.reddit.com/r/Connecticut/comments/1xd257a/plymouth_are_any_of_the_people_at_that_shop_in/)** <sub>MeatBrick64 · 10:37 PM</sub>
+  <br>they've been up for like 3 months it's really embarrassing
+- **[Experts warn that excessive caffeine can cause serious side effects, especially in children and teens. courant.com/2026/10/22/be-we… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113458534138429609)** <sub>@hartfordcourant · 10:32 PM</sub>
+- **[The technology requires a bit more attention than a traditional smartphone. courant.com/2026/10/22/apple… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113456232430289047)** <sub>@hartfordcourant · 10:23 PM</sub>
+- **[Meatme in Monroe Closed?](https://www.reddit.com/r/Connecticut/comments/1xd1uje/meatme_in_monroe_closed/)** <sub>PlayerOneDad · 10:22 PM</sub>
+  <br>Someone told me they're closed and saw that they deleted their Instagram and Google shows them as permanently closed. Anyone heard if anything caused them to suddenly close up shop without warning? Have no idea where I'll get my dino ribs now...
+- **[I'm looking for a fruit drink available in CT](https://www.reddit.com/r/Connecticut/comments/1xd1pq3/im_looking_for_a_fruit_drink_available_in_ct/)** <sub>57BeatlesPhan · 10:16 PM</sub>
+  <br>There were only 3-5 ingredients. The ingredients were listed on the front of the bottle and I believe it was made in another NE state or possibly NY. There was banana and mango flavors.
+- **[Art historians have long dated the painting to after Van Gogh checked into the asylum. courant.com/2026/10/22/van-g… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113453828146123231)** <sub>@hartfordcourant · 10:13 PM</sub>
+- **[How Old Money Kills Economies](https://www.reddit.com/r/Connecticut/comments/1xd1j3y/how_old_money_kills_economies/)** <sub>WutzTehPoint · 10:07 PM</sub>
+- **[The illumination, a result of the temple’s alignment with the sun, lasts about 20 minutes. courant.com/2026/10/22/golde… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113450593993802041)** <sub>@hartfordcourant · 10:01 PM</sub>
+- **[It’s the deadliest outbreak in Congo’s history. courant.com/2026/10/22/what-… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113448575396962789)** <sub>@hartfordcourant · 9:53 PM</sub>
 - **[From the opening statements, Gov. Ned Lamont and Republican challenger Ryan Fazio came out swinging in their first debate Thursday night as they clashed on everything from taxes and electric rates to…](https://x.com/hartfordcourant/status/2113445877222158830)** <sub>@hartfordcourant · 9:42 PM</sub>
   <br>From the opening statements, Gov. Ned Lamont and Republican challenger Ryan Fazio came out swinging in their first debate Thursday night as they clashed on everything from taxes and electric rates to President Donald Trump’s policies.… courant.com/2026/10/22/gov-l… — Hartford Courant…
 - **[A ‘Glee’ reboot is confirmed, and Lea Michele is reportedly on board for a revival of the musical dramedy series about a high school glee club.](https://x.com/hartfordcourant/status/2113444052767002644)** <sub>@hartfordcourant · 9:35 PM</sub>
@@ -15,11 +53,11 @@ Last 30 days · 3061 items · updated Oct 22, 2026 9:52 PM EDT
 - **[The 69-year-old Polish filmmaker’s are brief but unhurried, lean yet profound. courant.com/2026/10/22/pawel… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113441435114442776)** <sub>@hartfordcourant · 9:24 PM</sub>
 - **[Something comes into sharper focus today. The Sun enters Scorpio at 5:37 am EDT, beginning a month that favors depth, determination, and looking beyond appearances to understand what really matters.…](https://x.com/hartfordcourant/status/2113439037503451360)** <sub>@hartfordcourant · 9:15 PM</sub>
   <br>Something comes into sharper focus today. The Sun enters Scorpio at 5:37 am EDT, beginning a month that favors depth, determination, and looking beyond appearances to understand what really matters. Tonight, the Sun meets retrograde Venus… courant.com/2026/10/22/daily… — Hartford Courant…
-- **[Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One - Ledyard 📍 Route 117, Colonel Ledyard Highway and Gallup Hill...](https://www.facebook.com/reel/1138608562451236/)** <sub>CTPOLICELIVE · 9:04 PM</sub>
-  <br>Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One - Ledyard 📍 Route 117, Colonel Ledyard Highway and Gallup Hill Road, Ledyard, CT 📅 Thursday, October 22, 2026 - 8:08 p.m. 📻 Key Details -- Groton Town Police received a report of two blue dirt bikes stolen from the Poquonnock Bridge area --…
+- **[Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursd...](https://www.facebook.com/reel/1138608562451236/)** <sub>CTPOLICELIVE · 9:04 PM</sub>
+  <br>Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursday, October 22, 2026 - 8:08 p.m. 📻 Key Details -- Groton Town Police received a report of two blue dirt bikes stolen from the Poquonnock Bridge area -- The bikes were spotted heading…
 - **[The case has sparked debate over U.S. involvement in Mexico and national sovereignty. courant.com/2026/10/22/mexic… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113436048411721773)** <sub>@hartfordcourant · 9:03 PM</sub>
-- **[Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One - Groton 📍 Route 117, Colonel Ledyard Highway and Gallup Hill...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0369zxEzNrY4keyf8Ksug9YduVMCim8vgA3G8rFMnU5EzLPogq1n7PM88BHnfFy2Byl)** <sub>CTPOLICELIVE · 8:57 PM</sub>
-  <br>Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One - Groton 📍 Route 117, Colonel Ledyard Highway and Gallup Hill Road, Ledyard, CT 📅 Thursday, October 22, 2026 - 8:08 p.m. 📻 Key Details -- Groton Town Police received a report of two blue dirt bikes stolen from the Poquonnock Bridge area --…
+- **[Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursd...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0369zxEzNrY4keyf8Ksug9YduVMCim8vgA3G8rFMnU5EzLPogq1n7PM88BHnfFy2Byl)** <sub>CTPOLICELIVE · 8:57 PM</sub>
+  <br>Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursday, October 22, 2026 - 8:08 p.m. 📻 Key Details -- Groton Town Police received a report of two blue dirt bikes stolen from the Poquonnock Bridge area -- The bikes were spotted heading…
 - **[Argentina’s new designations include Mexico’s Nueva Familia Michoacana cartel and Ecuador’s Los Tiguerones gang. courant.com/2026/10/22/argen… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113433504482468070)** <sub>@hartfordcourant · 8:53 PM</sub>
 - **[Hamilton was born on Nevis in the mid-18th century. courant.com/2026/10/22/nevis… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113430814033674478)** <sub>@hartfordcourant · 8:42 PM</sub>
 - **[The National Park Service signaled it would begin work November 5. courant.com/2026/10/22/trump… — Hartford Courant (@hartfordcourant) Oct 23, 2026](https://x.com/hartfordcourant/status/2113428769146806567)** <sub>@hartfordcourant · 8:34 PM</sub>
