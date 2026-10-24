@@ -1,12 +1,37 @@
 # CT News
 
-Last 30 days · 3386 items · updated Oct 24, 2026 1:34 PM EDT
+Last 30 days · 3401 items · updated Oct 24, 2026 3:43 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 24
 
+- **[Long shot but are there any stores or small businesses that sell iPods for cheap in our state? It doesn’t matter what kind of iPod. Thank you!](https://www.reddit.com/r/Connecticut/comments/1xeh0mz/long_shot_but_are_there_any_stores_or_small/)** <sub>Icy\_Type\_8223 · 3:07 PM</sub>
+- **[The Warren Group LLC provides real estate and transaction data from across Connecticut. This shows the latest transactio...](https://m.facebook.com/hartfordcourant/posts/pfbid0sbF38HD8dq7fLb4gzcWsampFwNtRjzbFkMFhRi4qmcVxQ4fY5d6rkNNzFgDP78rHl)** <sub>Hartford Courant · 3:02 PM</sub>
+  <br>The Warren Group LLC provides real estate and transaction data from across Connecticut. This shows the latest transactions recorded and available across the state. All of the information is public information.
+- **[Anyone coming to nyc soon?](https://www.reddit.com/r/Connecticut/comments/1xeg4we/anyone_coming_to_nyc_soon/)** <sub>Character\_Cat\_4296 · 2:32 PM</sub>
+  <br>I was so dumb and forgot my Halloween costume at my friends in New Haven last weekend :( is anyone traveling/commuting to nyc in the next few days and willing to bring it over with you? will meet you anywhere in the city!! I would be so so eternally grateful
+- **[Betsy Palmer appeared as Pamela Voorhees for just 12 minutes in the original “Friday the 13th” movie but created an indelible character now at the center of a new streaming horror series.](https://m.facebook.com/hartfordcourant/posts/pfbid02buCCkE716ntMsPzVVaSM4vkSAqdBWtJrmtfhJbncZ6EVphhqvDy3H1CBwKJ61kz9l)** <sub>Hartford Courant · 2:31 PM</sub>
+- **[These Celebrities Waited Years to Purchase the Dream Homes They Couldn’t Stop Thinking About](https://www.realtor.com/news/celebrity-real-estate/celebrities-wait-years-purchase-dream-real-estate/)** <sub>Hannah Chambers · 2:25 PM</sub>
+  <br>Falling head-over-heels for a home without actually stepping foot in it is a universal experience—and it impacts celebrities, too. Perhaps it’s a bungalow bursting with character that’s been calling your name since childhood, but has been in the same family for generations. Maybe it’s a lavish…
+- **[Man Shot on Pine St](https://www.facebook.com/groups/BreakingNow/posts/2419044368834731/)** <sub>Marcus Anthony Rice · 2:24 PM</sub>
+  <br>Man Shot on Pine St in New Haven
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1777994963429192/)** <sub>CTPOLICELIVE · 2:23 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[🚨New Clinton Scoop!🚨 🎉Old Navy Outlet is coming soon to Clinton! 🛍️Old Navy Outlet will be bringing a new store to C...](https://m.facebook.com/theconnecticutscoop/posts/pfbid02o3iZWnVhCy9h4AM26RAzcQtUjgUaUbEUPYEXVzHCCvMHdHsFRduPNa6uWX2rz1eBl)** <sub>The Connecticut Scoop · 2:11 PM</sub>
+  <br>🚨New Clinton Scoop!🚨 🎉Old Navy Outlet is coming soon to Clinton! 🛍️Old Navy Outlet will be bringing a new store to Clinton Premium Outlets in 2027 according to permits recently filed with the town! The outlet mall is located at 20 Killingworth Turnpike in Clinton. 🛍️The outlet version of the…
+- **[Your bills are going up because of Trump's war.](https://www.reddit.com/r/Connecticut/comments/1xefge4/your_bills_are_going_up_because_of_trumps_war/)** <sub>chrismurphyct · 2:05 PM</sub>
+  <br>The average family that heats their home with oil is going to pay $1500 more this winter because of Donald Trump’s insane Iran War. Some people will go cold. Some may die. This isn’t hyperbole. This is the consequence of having a president who just doesn’t care about you. Connecticut families…
+- **[The indictment also alleges that she filed false forms in connection with client tax returns that diverted some of their refund money to her bank account and the bank account of an associate.](https://m.facebook.com/hartfordcourant/posts/pfbid02XPrVhF2KWZvqnDveFYbC1LuDeMTae9AGwQ6K4V1n8Wga5CSh6U6EurK98onY2AtHl)** <sub>Hartford Courant · 2:02 PM</sub>
+- **[Best Snowbird Destinations of 2026: Florida and Texas Dominate as Seasonal Winter Getaways](https://www.realtor.com/news/trends/best-cities-for-winter-snowbird-2026/)** <sub>Anna D'Amico · 1:52 PM</sub>
+  <br>As temperatures start dropping, the annual migration of snowbirds begins. For seasonal residents who are staying for longer than a vacation, many factors influence where they’ll hang their coat for the winter months. In a new ranking of the best cities for snowbirds from Storage Cafe , Florida and…
+- **[The answer may have changed since the last time we asked. Mercury stations retrograde in Scorpio at 3:12 AM EDT, turning our attention toward unfinished conversations, private questions, and…](https://x.com/hartfordcourant/status/2114051832913817665)** <sub>@hartfordcourant · 1:50 PM</sub>
+  <br>The answer may have changed since the last time we asked. Mercury stations retrograde in Scorpio at 3:12 AM EDT, turning our attention toward unfinished conversations, private questions, and decisions that deserve another look. A familiar… courant.com/2026/10/23/daily… — Hartford Courant…
+- **[Pond House Cafe Wedding Rehearsal](https://www.reddit.com/r/Connecticut/comments/1xeeo5o/pond_house_cafe_wedding_rehearsal/)** <sub>ShosannaDomergue · 1:33 PM</sub>
+  <br>For those who got married at the Pond House Cafe in West Hartford on a Friday night, what time was your rehearsal the day before? Trying to plan a rehearsal dinner time and the PHC is unable to provide any information for wedding rehearsal times this far out in advance. Thanks!!
+- **[The Courant’s arts picks for Oct. 25-31 include a “Scream” screening with David Arquette, an improv horror movie and a Halloween double feature.](https://m.facebook.com/hartfordcourant/posts/pfbid0DQ8jhZvNWo9Puk7ei6UhWa6gKntiQeSGzPYCw28jNP4djwYVe9n41idXoQHnTFJ2l)** <sub>Hartford Courant · 1:31 PM</sub>
+- **[In Opinion \| There was no line this year for candidates eager to run to become the state’s most important civil lawyer.](https://m.facebook.com/hartfordcourant/posts/pfbid021LeDNFwisuWWmXAEA1Yzb4hWAT1bt5AYzZ6JVBSbxw9wPNJrBWBD9cG2JDfHygzql)** <sub>Hartford Courant · 1:02 PM</sub>
 - **[Inside a 100-Year-Old Portland Colonial That Just Got a $1 Million Modern Makeover](https://www.realtor.com/news/unique-homes/portland-grant-park-1926-colonial-for-sale/)** <sub>Larissa Runkle · 12:56 PM</sub>
   <br>At 100 years old, this showstopper of a home might be in its best era yet. Thanks to years-long renovations by the current owners and a team of designers, along with the preserved romance of its original architecture, the home is downright swoon-worthy a century after it was built. Built in 1926…
 - **[Working Fire at Goodwin Hotel in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2418966638842504/)** <sub>Marcus Anthony Rice · 12:43 PM</sub>
