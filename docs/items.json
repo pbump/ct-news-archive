@@ -1,9 +1,251 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-10-24T14:39:25.604421+00:00",
+ "updated": "2026-10-24T17:34:08.053304+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://www.realtor.com/news/unique-homes/portland-grant-park-1926-colonial-for-sale/",
+   "title": "Inside a 100-Year-Old Portland Colonial That Just Got a $1 Million Modern Makeover",
+   "link": "https://www.realtor.com/news/unique-homes/portland-grant-park-1926-colonial-for-sale/",
+   "summary": "At 100 years old, this showstopper of a home might be in its best era yet. Thanks to years-long renovations by the current owners and a team of designers, along with the preserved romance of its original architecture, the home is downright swoon-worthy a century after it was built. Built in 1926…",
+   "author": "Larissa Runkle",
+   "image": "https://na.rdcpix.com/3e725747722ab8bb11b0b487c16c010ew-c4281970946srd_q80.jpg",
+   "published": "2026-10-24T16:56:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:56:00+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2418966638842504/",
+   "title": "Working Fire at Goodwin Hotel in Hartford",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2418966638842504/",
+   "summary": "",
+   "author": "Marcus Anthony Rice",
+   "image": null,
+   "published": "2026-10-24T16:43:51+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:43:51+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xedanc/trusted_car_dealerships_anyone_heard_of_wiz_autos/",
+   "title": "Trusted Car Dealerships? Anyone heard of Wiz Autos in Stratford for Superior Motors in Milford?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xedanc/trusted_car_dealerships_anyone_heard_of_wiz_autos/",
+   "summary": "Ill be bringing a mechanic to take a look at their Toyotas Rav 4s and Suburu’s Crossteks for a price range of 10-11k. All used cars. I was wondering if these dealers were known to be scammers or not? I know some dealers be lying about past accidents and the vin number. The google reviews are good…",
+   "author": "Bright-Wrongdoer-476",
+   "image": null,
+   "published": "2026-10-24T16:38:52+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:38:52+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2114033122152968692",
+   "title": "His dad was a star, but this CT football quarterback is making his own name. courant.com/2026/10/24/his-d… — Hartford Courant (@hartfordcourant) Oct 24, 2026",
+   "link": "https://x.com/hartfordcourant/status/2114033122152968692",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2114033122241073153/GGf2ylIL?format=jpg&name=800x419",
+   "published": "2026-10-24T16:35:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:35:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid033UhnmGRY5DnVfRLz8MusDmZUmMNMY2V2ATH6p1aoMk7qbhjeD66EhCFNiHcKVSjAl",
+   "title": "“Framed by stonewalls and New England fencing against a wooded backdrop, this resort-like property is a profound piece of American history,” according to its listing.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid033UhnmGRY5DnVfRLz8MusDmZUmMNMY2V2ATH6p1aoMk7qbhjeD66EhCFNiHcKVSjAl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/858642232_1540089404815562_1405146125659474800_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=35l7Z7P_lIEQ7kNvwHp8A6G&_nc_oc=AdojBlR1rwXljZBa3rHOBd2FUSYTEDCtlCbTOtkD7jCYOPU7CA1VsYWXUdkPpTHY_T0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=MNIG3KX-rxmSdCx9a5qHRA&_nc_ss=7c289&oh=00_AQOeekx7N51MAE14Sv7QPml-ixMnIPl-D-N8MX0t8xqSCw&oe=6AE2A30C",
+   "published": "2026-10-24T16:32:58+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:32:58+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xecow1/why_is_there_emission_due_date_on_my_25_year_old/",
+   "title": "Why is there emission due date on my 25 year old car?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xecow1/why_is_there_emission_due_date_on_my_25_year_old/",
+   "summary": "It's due in 2028 which makes it 26+ years old. Shouldn't it be except? It passed emissions last month.",
+   "author": "ThanksALotBud",
+   "image": "https://preview.redd.it/r6b03h3pwfxh1.jpeg?width=640&crop=smart&auto=webp&s=dba625c9db50ebefcdbaafcb25931b5382f0fd7e",
+   "published": "2026-10-24T16:14:25+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:14:25+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xecn8c/stratford_town_council_approves_homestead/",
+   "title": "Stratford Town Council Approves Homestead Exemption To Help Provide Property Tax Relief: What To Know",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xecn8c/stratford_town_council_approves_homestead/",
+   "summary": "Stratford (population 54K) approved an exemption reducing taxable assessed value of owner-occupied homes by 35% with tax bills due July 1, 2027. The 35% is the highest percentage allowed under a state law. This town joins New Milford, 10% exemption, and East Windsor, 15%. What this means is that…",
+   "author": "Mission_Count5301",
+   "image": "https://external-preview.redd.it/Xjj4O66WhFvRBPAgVWMcKw0hENoYuqbo--509LplT48.jpeg?width=640&crop=smart&auto=webp&s=b743891acbfb537874c60709e8ea22937fbf4ef8",
+   "published": "2026-10-24T16:12:31+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:12:31+00:00"
+  },
+  {
+   "id": "https://www.realtor.com/news/unique-homes/david-jameson-modernist-dc-home-for-sale/",
+   "title": "This $11 Million ‘Habitable Art’ Masterpiece Is DC’s Most Impressive Modern Home",
+   "link": "https://www.realtor.com/news/unique-homes/david-jameson-modernist-dc-home-for-sale/",
+   "summary": "A modernist masterpiece by acclaimed architect David Jameson has hit the market for $10.995 million in Washington, DC . \"[It’s] a really special house, it’s gorgeous,\" says Christopher Leary , co-founder of HRLS Partners at Sotheby's International Realty , who is listing the property along with his…",
+   "author": "Tiffani Sherman",
+   "image": "https://na.rdcpix.com/18c215fc3dd6038bee7d2b27faf34882w-c1052544192srd_q80.jpg",
+   "published": "2026-10-24T16:10:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:10:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0z1YH7B6qSqC9cKyDt9cq8NoBZiqnferfVTfq9hEGNBAAhS3C6D2MpEUbuk5KHYtkl",
+   "title": "Future phases of the project will require additional approvals from zoning officials, along with more detailed traffic studies, before construction can begin.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0z1YH7B6qSqC9cKyDt9cq8NoBZiqnferfVTfq9hEGNBAAhS3C6D2MpEUbuk5KHYtkl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/863113356_1540063324818170_6037540141970465709_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=bmxA86YIv24Q7kNvwHVPa6J&_nc_oc=AdrBKT4vPyD2aFmcIPzIMSOtHdBlx3Zr88IT6uK7rGYWL6by9UNizsBiPKsJtUNoC7c&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=MNIG3KX-rxmSdCx9a5qHRA&_nc_ss=7c289&oh=00_AQP423BY0pX7526vnsre4f4-ZKBuDzKFGJZQYOPhZgNC7Q&oe=6AE2A8A3",
+   "published": "2026-10-24T16:02:52+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T16:02:52+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2114022402216644694",
+   "title": "President Donald Trump is scheduled to campaign in Port Huron, Mich., on Sunday, Oct. 25, for GOP candidates. courant.com/2026/10/24/obama… — Hartford Courant (@hartfordcourant) Oct 24, 2026",
+   "link": "https://x.com/hartfordcourant/status/2114022402216644694",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2114022413088301058/ZpqZ3c_V?format=jpg&name=800x419",
+   "published": "2026-10-24T15:53:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:53:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xec4gc/huskies/",
+   "title": "Huskies",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xec4gc/huskies/",
+   "summary": "There’s a documentary about Geno Auriemma and UConn women’s huskies team on Apple that is excellent. I highly recommend it. It’s so emotional, especially if you were alive for the rise of the empire.",
+   "author": "circles_squares",
+   "image": null,
+   "published": "2026-10-24T15:51:45+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:51:45+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2418916695514165/",
+   "title": "Motor Vehicle accident with minor entrapment in Meriden",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2418916695514165/",
+   "summary": "",
+   "author": "AmyJo DeFelice",
+   "image": null,
+   "published": "2026-10-24T15:45:34+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:45:34+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2114019349635752417",
+   "title": "At the time of his arrest, police said three juveniles were passengers inside his vehicle. courant.com/2026/10/24/ct-ma… — Hartford Courant (@hartfordcourant) Oct 24, 2026",
+   "link": "https://x.com/hartfordcourant/status/2114019349635752417",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2112844719671648256/mGOPGy1T?format=jpg&name=800x419",
+   "published": "2026-10-24T15:41:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:41:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xebpxw/considering_move_to_wilton/",
+   "title": "Considering move to Wilton",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xebpxw/considering_move_to_wilton/",
+   "summary": "Have two kids 6 and almost 3. My husband and I both work and will have to go to the city 1-2x per week. Ok driving to south walk or Westport station if we need to. I know schools are great. And like that it has somewhat of a town. What’s the vibe like? People? Good community for young families? We…",
+   "author": "WegstoAndy",
+   "image": null,
+   "published": "2026-10-24T15:35:07+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:35:07+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2114017440904446027",
+   "title": "The 50 busiest U.S. metro areas are ranked by the change in average one-way fare from April to June 2025 to the same months of 2026, weighted by how many people fly each city pair.",
+   "link": "https://x.com/hartfordcourant/status/2114017440904446027",
+   "summary": "The 50 busiest U.S. metro areas are ranked by the change in average one-way fare from April to June 2025 to the same months of 2026, weighted by how many people fly each city pair. courant.com/2026/10/24/airfa… — Hartford Courant (@hartfordcourant) Oct 24, 2026",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2114017443421044738/VeRKSVWr?format=jpg&name=800x419",
+   "published": "2026-10-24T15:33:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:33:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02Q1kV6nTnJccWhvdUcRQkVTeteshdQdRgBwqoiqwGmPt5nR8kwMZPFQbKfUQBY6tvl",
+   "title": "The restaurant has become a true Connecticut institution and a special gathering place, according to the president and CEO of the restaurant association.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02Q1kV6nTnJccWhvdUcRQkVTeteshdQdRgBwqoiqwGmPt5nR8kwMZPFQbKfUQBY6tvl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/863492596_1540039304820572_2870056879529510539_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=ZOD4Z_jFnXAQ7kNvwGUuUQw&_nc_oc=AdpLoimbh9ETaFCpsoF3QV5d0fNMFp6Q-WGBHKa0FDzpLqUX5-uoGQDGhRzeo-eZ_l4&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=MNIG3KX-rxmSdCx9a5qHRA&_nc_ss=7c289&oh=00_AQNQWSFLFYmv6YrY9gENIYTWoCVXMp8qI8Q54QByOU4_GQ&oe=6AE2A082",
+   "published": "2026-10-24T15:32:44+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:32:44+00:00"
+  },
+  {
+   "id": "https://www.realtor.com/news/unique-homes/buffalo-triangle-house-price-cut/",
+   "title": "Iconic Triangle House Angles Its Way Back Onto the Market in Buffalo for Under $500K",
+   "link": "https://www.realtor.com/news/unique-homes/buffalo-triangle-house-price-cut/",
+   "summary": "An eye-catching triangular-shaped residence that has been the talk of the town since it was constructed in Buffalo, NY , in 2020 has once again angled its way back onto the market—this time with another price cut. The iconic Triangle House , designed by artist Ben Perrone , was originally listed…",
+   "author": "Kellie Speed",
+   "image": "https://na.rdcpix.com/40eb304081f6c6f89e0b5032643e5bbfw-c1579872901srd_q80.jpg",
+   "published": "2026-10-24T15:30:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:30:00+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2418898392182662/",
+   "title": "Car vs Tree Extrication Salisbury",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2418898392182662/",
+   "summary": "",
+   "author": "Doug Oberly",
+   "image": null,
+   "published": "2026-10-24T15:25:21+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:25:21+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2114013512670273567",
+   "title": "A shareholder is suing Roblox, alleging company leaders misled investors about the potential negative effects of age verification checks on platform growth. The lawsuit names nine current and former…",
+   "link": "https://x.com/hartfordcourant/status/2114013512670273567",
+   "summary": "A shareholder is suing Roblox, alleging company leaders misled investors about the potential negative effects of age verification checks on platform growth. The lawsuit names nine current and former officers and directors of Roblox Corp.,… {og:title}... courant.com/2026/10/24/roblo… — Hartford…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2114013515094585345/DLrnD9B3?format=jpg&name=800x419",
+   "published": "2026-10-24T15:17:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:17:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid04BDsHfb9XCcFtXt9nt4mWjd4fbXqrMqXLKLFt9qurnr4CfGnoKw3K3DtH96JG1oCl",
+   "title": "It now can help a family build stability through home ownership, preserve affordable housing, help an entrepreneur grow...",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid04BDsHfb9XCcFtXt9nt4mWjd4fbXqrMqXLKLFt9qurnr4CfGnoKw3K3DtH96JG1oCl",
+   "summary": "It now can help a family build stability through home ownership, preserve affordable housing, help an entrepreneur grow a business and give a community organization the resources it needs to serve its neighbors, the CEO said.",
+   "author": "Hartford Courant",
+   "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/857843286_1540014668156369_2071199808892257788_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=TQQF7KcvvusQ7kNvwEeTtS_&_nc_oc=AdrMarcTtTed0kbn_dZ305-i9G9yqmNN7ZtXG30TU4RS9HXi3_rSKiXkQWDBNVHWEgw&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=MNIG3KX-rxmSdCx9a5qHRA&_nc_ss=7c289&oh=00_AQNnFxsUIgNw_kgamzSXlx5xiawvmfeowju1HqMjy95_xg&oe=6AE2C01F",
+   "published": "2026-10-24T15:04:04+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T15:04:04+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid01J2FecjJ2cR6Do19WecHyvcJhN6c357uVARukasx5GTsmw99RBSKiTuoznDbaeyql",
+   "title": "Gov. Ned Lamont and Republican challenger Ryan Fazio released partial tax returns Friday showing a vast gap in wealth between the two Greenwich residents.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid01J2FecjJ2cR6Do19WecHyvcJhN6c357uVARukasx5GTsmw99RBSKiTuoznDbaeyql",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/865140473_1539990861492083_7860024887710813360_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=104&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=RiqRFsat3nQQ7kNvwHxGtoF&_nc_oc=AdqPuKVhurKlOHTltkgYnqDrpyI0FB1sAyUvRvd1IRw-87E-spouA_-3JPNNmUWlM94&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=MNIG3KX-rxmSdCx9a5qHRA&_nc_ss=7c289&oh=00_AQOr94lSIlo5kvbbdbrHRiiCBKE5-zOY0U4GsybGF5mUPA&oe=6AE29B34",
+   "published": "2026-10-24T14:33:28+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T14:33:28+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2114001656090087629",
+   "title": "By its second year, the house had become an intentional “Christ-centered” place. courant.com/2026/10/24/house… — Hartford Courant (@hartfordcourant) Oct 24, 2026",
+   "link": "https://x.com/hartfordcourant/status/2114001656090087629",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2114001663887294464/wBI3QmYD?format=jpg&name=800x419",
+   "published": "2026-10-24T14:30:00+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T14:30:00+00:00"
+  },
   {
    "id": "https://www.facebook.com/groups/BreakingNow/posts/2418844345521400/",
    "title": "Man in Critical Condition After Shooting in Bridgeport",
@@ -38,6 +280,28 @@
    "date": "2026-10-24T14:16:49+00:00"
   },
   {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xe9rvd/farmers_markets/",
+   "title": "Farmers Markets",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xe9rvd/farmers_markets/",
+   "summary": "Are there farmers markets in CT near the New Haven area? I love a good farmers market 😍",
+   "author": "HumbleHoney_",
+   "image": null,
+   "published": "2026-10-24T14:14:58+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T14:14:58+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0VWKNDBvXnhu6RoFzbkXc2kXSD8H5FyPykrjz9fBcbABgQhujCfAi296fLcjDckuUl",
+   "title": "🚨New Waterbury Scoop!🚨 🎉Little Caesars Pizza is coming soon to Waterbury! 🍕The quick service pizza shop is coming so...",
+   "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0VWKNDBvXnhu6RoFzbkXc2kXSD8H5FyPykrjz9fBcbABgQhujCfAi296fLcjDckuUl",
+   "summary": "🚨New Waterbury Scoop!🚨 🎉Little Caesars Pizza is coming soon to Waterbury! 🍕The quick service pizza shop is coming soon to 751 Wolcott Street in Waterbury; the shopping plaza home to Happy Dragon, J Stax, and many others. Little Caesars recently finalized their lease in the last few weeks according…",
+   "author": "The Connecticut Scoop",
+   "image": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-6/857980149_1185030754100041_1085286520519694446_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=ML33kHu_oqoQ7kNvwHK4vE5&_nc_oc=AdrhTttydEdxKjtZ54rVtzZ4Q8IEK2-KWmFJqVFLs7Qpl_ZJulmUG_p2jDy6JQ1VlClKXqxwJloxbHGLoBpljkv0&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=XqobjjLMQo4RVIubOuKYQQ&_nc_ss=7c289&oh=00_AQOtPhJi7UyrB5rH4voa1e6x65bHuqE6SyPwrS28KRhUUw&oe=6AE2B378",
+   "published": "2026-10-24T14:12:11+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T14:12:11+00:00"
+  },
+  {
    "id": "https://www.realtor.com/news/unique-homes/willis-polk-berkeley-home-restoration-for-sale/",
    "title": "A 1915 Willis Polk House in Berkeley Gets Its Soul Back—and Finds a Buyer",
    "link": "https://www.realtor.com/news/unique-homes/willis-polk-berkeley-home-restoration-for-sale/",
@@ -58,6 +322,17 @@
    "published": "2026-10-24T14:05:00+00:00",
    "first_seen": "2026-10-24T14:39:25.604421+00:00",
    "date": "2026-10-24T14:05:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02tg38mbHP1v5pXVZHLR1URTwrzm9xwfLM25rDqsiiRGVU5PkPhYv1sQc9RV5BHwMyl",
+   "title": "UConn unveiled a redesigned locker room to be shared by both the men’s and women’s teams as the first phase of renovations to M&T Bank Center at Gampel Pavilion was revealed on Friday in Storrs.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02tg38mbHP1v5pXVZHLR1URTwrzm9xwfLM25rDqsiiRGVU5PkPhYv1sQc9RV5BHwMyl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-xxc1-1.xx.fbcdn.net/v/t39.30808-6/865186578_1539968388160997_1264172720076021114_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=0-7B_EE-tP4Q7kNvwH8mrFY&_nc_oc=AdqVRrIcT9HcqYaZFIyTX0votIkWg2vjGtbeH-hrXLgqxUMZmDqTykBjvg05CC6FVGOMyAWVlD60rMQlAVRtnFLd&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=aHQpfk3DmzFZ-0tSwUmnZg&_nc_ss=7c289&oh=00_AQOE7e9O7gBjwB1BVvMxXAm9fMpLzHuzuXZCEzb8OwNOZQ&oe=6AE299EB",
+   "published": "2026-10-24T14:04:13+00:00",
+   "first_seen": "2026-10-24T17:34:08.053304+00:00",
+   "date": "2026-10-24T14:04:13+00:00"
   },
   {
    "id": "https://www.reddit.com/r/Connecticut/comments/1xe9cuy/survey_for_an_essay_im_working_on/",
