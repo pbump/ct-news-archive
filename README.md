@@ -1,16 +1,29 @@
 # CT News
 
-Last 30 days · 3421 items · updated Oct 24, 2026 5:56 PM EDT
+Last 30 days · 3431 items · updated Oct 24, 2026 7:53 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 24
 
+- **[President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on Nov. 3,…](https://x.com/hartfordcourant/status/2114134897799381170)** <sub>@hartfordcourant · 7:20 PM</sub>
+  <br>President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on Nov. 3, Trump has been urging Republicans to cast… courant.com/2026/10/24/trump… — Hartford Courant…
+- **[Each plaintiff will have the option to receive a payment of at least $250,000 or a potentially larger payout after a review of the extent of the abuse each plaintiff has claimed, according to the…](https://x.com/hartfordcourant/status/2114131247488213069)** <sub>@hartfordcourant · 7:05 PM</sub>
+  <br>Each plaintiff will have the option to receive a payment of at least $250,000 or a potentially larger payout after a review of the extent of the abuse each plaintiff has claimed, according to the plaintiffs’ lawyers. courant.com/2026/10/24/new-y… — Hartford Courant (@hartfordcourant) Oct 24, 2026
+- **[In Opinion \| Fazio has spent years in classrooms and working on education policy.](https://m.facebook.com/hartfordcourant/posts/pfbid0XKhrcmF3faWv2ZVFbtP9qkXmJ3qfZUzXMFEFpA2KihTSUWtq1Z8yycdmPDuhcFTJl)** <sub>Hartford Courant · 7:01 PM</sub>
+- **[Obama Returns to the Trail, Setting Up Dueling Appearances With Trump courant.com/2026/10/24/obama… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2114127583717576793)** <sub>@hartfordcourant · 6:51 PM</sub>
+- **[Send me photos of your day](https://www.reddit.com/r/Connecticut/comments/1xem6x9/send_me_photos_of_your_day/)** <sub>WranglerBoth1132 · 6:49 PM</sub>
+- **[By AARON BEARD N.C. State fired coach Dave Doeren on Saturday, ending a 14-season tenure in which he set the program’s all-time wins mark but could not make a breakthrough leap to higher success. The…](https://x.com/hartfordcourant/status/2114125576843694472)** <sub>@hartfordcourant · 6:43 PM</sub>
+  <br>By AARON BEARD N.C. State fired coach Dave Doeren on Saturday, ending a 14-season tenure in which he set the program’s all-time wins mark but could not make a breakthrough leap to higher success. The school announced the decision less… courant.com/2026/10/24/n-c-s… — Hartford Courant…
+- **[It was a Connecticut storybook hamlet teeming with nosy neighbors and quirky townies.](https://m.facebook.com/hartfordcourant/posts/pfbid02w4xDhPJhuG5iqoWi898EBxZLydMtmDCwFGfAQ4Sn5zMs16k81yDtmZV4WRpXPKfHl)** <sub>Hartford Courant · 6:32 PM</sub>
+- **[In Opinion \| My foremost concern is that talented, experienced librarians and media specialists will be driven out of their professions](https://m.facebook.com/hartfordcourant/posts/pfbid027djQ5n2JRAyATZ4zEJrDw716JnG35QhCk7pkRsm7e2HuPECKHLdDq5FudhYQazRUl)** <sub>Hartford Courant · 6:02 PM</sub>
 - **[Weird occupations](https://www.reddit.com/r/Connecticut/comments/1xekxdm/weird_occupations/)** <sub>WranglerBoth1132 · 5:51 PM</sub>
-  <br>Hi I’m Anne I’m a senior in college and I’m looking to connect and interview someone who has a weird occupation. It can be via the phone, I’m also near Middletown. Preferably not an old man because that’s scary
+  <br>Hi I’m Anne I’m a senior in college and I’m looking to connect and interview someone who has a weird occupation. It can be via the phone, I’m also near Middletown.
 - **[A half hour ago at Wood Pond, West Hartford](https://www.reddit.com/r/Connecticut/comments/1xekn0j/a_half_hour_ago_at_wood_pond_west_hartford/)** <sub>Flat\_Economist\_8763 · 5:39 PM</sub>
+- **[The 50 busiest U.S. metro areas are ranked by the change in average one-way fare from April to June 2025 to the same months of 2026, weighted by how many people fly each city pair.](https://m.facebook.com/hartfordcourant/posts/pfbid0rxf5tPNddYEanzChppsym1JsBZznrJwBKHNDj2FWTYsjwX87dAAHaSpFbDhvemarl)** <sub>Hartford Courant · 5:32 PM</sub>
 - **[Police believe the stabbing incident likely occurred on Pratt Street on or near the Green. courant.com/2026/10/24/man-d… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2114107806060003331)** <sub>@hartfordcourant · 5:32 PM</sub>
+- **[Former UConn women’s basketball star Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2.](https://m.facebook.com/hartfordcourant/posts/pfbid02PraQwm4iKXiLM7hwaNofPZxjpyVh8ABGvTLnaVrsB8A1frt1VwgbeUpcLEwN1rPml)** <sub>Hartford Courant · 5:26 PM</sub>
 - **[Former UConn women’s basketball star Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2.](https://x.com/hartfordcourant/status/2114105734212284675)** <sub>@hartfordcourant · 5:24 PM</sub>
   <br>Former UConn women’s basketball star Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2. courant.com/2026/10/24/golde… — Hartford Courant (@hartfordcourant) Oct 24, 2026
 - **[UConn’s defense developing an identity. The ‘junk-yard dogs’ have been been stopping opponents cold, and have helped turn the season around.](https://m.facebook.com/hartfordcourant/posts/pfbid036ceYWup4jgiiy6wk5AyLuHHyByKpK4seYX2vpSTyvKgW4eAr7bMUi2DBKjJnw52Al)** <sub>Hartford Courant · 5:14 PM</sub>
