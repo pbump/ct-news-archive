@@ -1,14 +1,56 @@
 # CT News
 
-Last 30 days · 3279 items · updated Oct 23, 2026 9:32 PM EDT
+Last 30 days · 3308 items · updated Oct 24, 2026 2:24 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Saturday, October 24
+
+- **[Stonington Police Run Interesting Vanity Plate 📍 Stonington, CT 📅 Saturday, October 24, 2026 - 1:16 a.m. 📻 Key Deta...](https://www.facebook.com/reel/3638581296296954/)** <sub>CTPOLICELIVE · 1:56 AM</sub>
+  <br>Stonington Police Run Interesting Vanity Plate 📍 Stonington, CT 📅 Saturday, October 24, 2026 - 1:16 a.m. 📻 Key Details -- Stonington Police requested a registration check on a Connecticut vanity plate reading HAWKTUA -- Dispatch was initially unable to locate a matching registration -- The plate…
+- **[Visiting next weekend from AZ](https://www.reddit.com/r/Connecticut/comments/1xdz0jw/visiting_next_weekend_from_az/)** <sub>gingerxi · 12:17 AM</sub>
+  <br>Hi all, got a business trip to Hartford Thursday and staying through Sunday. It’s looking gorgeous, not scared to drive. Any tips, I’m all ears!
+
 ## Friday, October 23
 
+- **[Gas pipe repair question](https://www.reddit.com/r/Connecticut/comments/1xdyouh/gas_pipe_repair_question_full_replacement_required/)** <sub>CapitalDream · 11:59 PM</sub>
+- **[Hawaii just passed a law banning Citizens United /Super PACs. We can do this too!](https://www.reddit.com/r/Connecticut/comments/1xdxnas/hawaii_just_passed_a_law_banning_citizens_united/)** <sub>Skinny-on-the-Inside · 11:03 PM</sub>
+- **[Viral streamer IShowSpeed spotted in New Haven, making stops at Yale and Sally’s Apizza](https://www.reddit.com/r/Connecticut/comments/1xdxhx4/viral_streamer_ishowspeed_spotted_in_new_haven/)** <sub>BurgerNugget12 · 10:55 PM</sub>
+- **[There’s little evidence that long runtimes are dissuading moviegoers. courant.com/2026/10/23/movie… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113826063201554723)** <sub>@hartfordcourant · 10:53 PM</sub>
+- **[New Britain loud music](https://www.reddit.com/r/Connecticut/comments/1xdxc41/new_britain_loud_music/)** <sub>Worried-Evidence-755 · 10:47 PM</sub>
+  <br>I live in new Britain, specifically near Slade and Lincoln. many weekends, someone is BLASTING music. I can hear it in my bedroom with noise cancellation headphones on. it started up tonight at 10 pm like it usually does. it will quiet a little bit, then start blasting again! and it does this for…
+- **[UConn has the edge in the all-time series against UMass, 39-38-2, after a 35-16 win under the Rentschler Field lights Friday night.](https://x.com/hartfordcourant/status/2113823401760502208)** <sub>@hartfordcourant · 10:42 PM</sub>
+  <br>UConn has the edge in the all-time series against UMass, 39-38-2, after a 35-16 win under the Rentschler Field lights Friday night. courant.com/2026/10/23/uconn… — Hartford Courant (@hartfordcourant) Oct 24, 2026
+- **[Provisions on state?](https://www.reddit.com/r/Connecticut/comments/1xdx8li/provisions_on_state/)** <sub>dirtyylicous · 10:41 PM</sub>
+  <br>Since July google has it listed as temporarily closed. Does anyone know if/when they will reopen?
+- **[UConn has the edge in the all-time series against UMass, 39-38-2, after a 35-16 win under the Rentschler Field lights Friday night.](https://m.facebook.com/hartfordcourant/posts/pfbid02bB3BYm8tugzC6XkB8SaRrPmWCuqz2kckjo1yWohUr2YJBwGRxXKwf6ssZ9ijpKjQl)** <sub>Hartford Courant · 10:33 PM</sub>
+- **[Police alleged that the firearm was found under a vehicle near the area where he had been crouching.](https://m.facebook.com/hartfordcourant/posts/pfbid0hy4xjyUp4Q6ib8MiEurz5zDwpQnB3jBgqyPwfYQE86bHESQ5waGZCxdyyLfuVDy5l)** <sub>Hartford Courant · 10:31 PM</sub>
+- **[Demonstrators, including students and labor union members, are protesting high living costs. courant.com/2026/10/23/franc… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113820311774732577)** <sub>@hartfordcourant · 10:30 PM</sub>
+- **[The quake killed at least 16 people, injure 54 and collapsed hundreds of homes. courant.com/2026/10/23/tibet… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113818658036232439)** <sub>@hartfordcourant · 10:23 PM</sub>
+- **[halloween eve punk show](https://www.reddit.com/r/Connecticut/comments/1xdwr1d/halloween_eve_punk_show/)** <sub>ur-emo-gf · 10:15 PM</sub>
+  <br>oct 30 at 10selden (10 selden st, woodbridge, ct) doors 7 / music 7:30 $12 OR $10 with a college ID (notaflof) g1rlsona / psycho brat / dogheaven / doubtersglass put together by barbarian booking WEAR YOUR WEIRD, NICHE COSTUME & COME GET EVEN WEIRDER WITH US barbarian booking’s debut show & the 1…
+- **[A few decades ago, there were fewer retirement accounts and investment products. {og:title} {article:title} courant.com/2026/10/23/money… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113816138127716428)** <sub>@hartfordcourant · 10:13 PM</sub>
+- **[An estimated 25,000 women marched on Fifth Avenue in New York City in support of women’s suffrage.](https://m.facebook.com/hartfordcourant/posts/pfbid02wJPGuqrnQq8zPMo83oeV6LbBkrnrG1JFqikjzUCS7W34LW9gJRZi9CUdF3kouxe8l)** <sub>Hartford Courant · 10:02 PM</sub>
+- **[One company makes electric cars that are inherently terrestrial, ferrying millions of drivers on roads around the world. The other shoots rockets into space and has aspirations to make it to Mars. At…](https://x.com/hartfordcourant/status/2113813449394294997)** <sub>@hartfordcourant · 10:02 PM</sub>
+  <br>One company makes electric cars that are inherently terrestrial, ferrying millions of drivers on roads around the world. The other shoots rockets into space and has aspirations to make it to Mars. At first glance, they would seem like an… courant.com/2026/10/23/behin… — Hartford Courant…
+- **[The Sun reported her brother found the images while clearing out their father’s former home. courant.com/2026/10/23/megha… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113810714968068410)** <sub>@hartfordcourant · 9:52 PM</sub>
+- **[Asbestos Removal Recommendation](https://www.reddit.com/r/Connecticut/comments/1xdwa0b/asbestos_removal_recommendation/)** <sub>ebunky · 9:51 PM</sub>
+  <br>We’d like to have the asbestos wrap removed from a few heating ducts in a basement in a single family home in Manchester and was wondering if anyone knew of a good company that is licensed to do this. We are having the entire furnace and burner replaced and ducts cleaned soon and thought it might…
+- **[There’s urgency to find something efficient and marketable before another surge in tick bites. courant.com/2026/10/23/tick-… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113807725784187089)** <sub>@hartfordcourant · 9:40 PM</sub>
+- **[It’s been an intense hurricane season in the Pacific Ocean. courant.com/2026/10/23/hurri… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113806310214946886)** <sub>@hartfordcourant · 9:34 PM</sub>
+- **[The evidence introduced at trial showed that he sexually assaulted two children younger than 10 between 2012 and 2014.](https://m.facebook.com/hartfordcourant/posts/pfbid033xDyo6yeBUiy8TKWt7ahBWqcjsqN2h97AjJpgchcAbrVa3WiDP7tmBMwzNhvVmFGl)** <sub>Hartford Courant · 9:32 PM</sub>
+- **[Door Knocking for Deena Steinberg! 10/24/2026](https://www.reddit.com/r/Connecticut/comments/1xdvue4/door_knocking_for_deena_steinberg_10242026/)** <sub>Best-Cod-3710 · 9:28 PM</sub>
+  <br>#Connecticut Residents: join us tomorrow as we canvass in support of Deena Steinberg, running for State Representative in #ManchesterCT! #CT #Election2026 #StateRepresentative
 - **[This recipe from 2026’s “A Cozy Kitchen Cookbook” maximizes flavor while minimizing effort. courant.com/2026/10/23/recip… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113803504229757059)** <sub>@hartfordcourant · 9:23 PM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1733633441515447/)** <sub>CTPOLICELIVE · 9:19 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Man Accused of Touching Himself While Driving on I-95 - Fairfield 📍 I-95 Northbound, Fairfield, CT 📅 Friday, October...](https://www.facebook.com/reel/1985857689488064/)** <sub>CTPOLICELIVE · 9:16 PM</sub>
+  <br>Man Accused of Touching Himself While Driving on I-95 - Fairfield 📍 I-95 Northbound, Fairfield, CT 📅 Friday, October 23, 2026 - 7:35 p.m. 📻 Key Details -- State Police received reports of a man allegedly masturbating while driving a white van on I-95 northbound with the lights on -- The complainant…
 - **[The author says he finds inspiration when he hits the road. courant.com/2026/10/23/how-p… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113800852091629991)** <sub>@hartfordcourant · 9:12 PM</sub>
+- **[Man Accused of Touching Himself While Driving on I-95 - Fairfield 📍 I-95 Northbound, Fairfield, CT 📅 Friday, October...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02pYktB5NyH8ttND1oa9uSbTSkPcze39TH6NwH4YEuUAVLcxBgGSUhX9zu6Dq21iCTl)** <sub>CTPOLICELIVE · 9:07 PM</sub>
+  <br>Man Accused of Touching Himself While Driving on I-95 - Fairfield 📍 I-95 Northbound, Fairfield, CT 📅 Friday, October 23, 2026 - 7:35 p.m. 📻 Key Details -- State Police received reports of a man allegedly masturbating while driving a white van on I-95 northbound with the lights on -- The complainant…
+- **[In Opinion \| Post the November midterms we must prepare to govern. The best way is to fix all the measures that have impeded good governance.](https://m.facebook.com/hartfordcourant/posts/pfbid0AbX7GZUrLNZnkdc3SV2HX6scyc2ffK7PZe1JMP8LbAps9qKFqZAj8oEcTS7Ukfwkl)** <sub>Hartford Courant · 9:02 PM</sub>
 - **[Most of the immigrants charged in California have lived in the country for at least five years. courant.com/2026/10/23/immig… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113797677058080778)** <sub>@hartfordcourant · 9:00 PM</sub>
 - **[Autumn beauty at Clatter Ridge Farm, Farmington, CT.](https://www.reddit.com/r/Connecticut/comments/1xdv86k/autumn_beauty_at_clatter_ridge_farm_farmington_ct/)** <sub>qmwnebrvtcyxuzioslfa · 8:57 PM</sub>
 - **[Dems should not take us for granted](https://www.reddit.com/r/Connecticut/comments/1xdv6wx/dems_should_not_take_us_for_granted/)** <sub>loveyoursocks · 8:55 PM</sub>
@@ -16,6 +58,8 @@ Last 30 days · 3279 items · updated Oct 23, 2026 9:32 PM EDT
 - **[Attorneys for Nikki Floris called the case ‘nonsense.’ courant.com/2026/10/23/ex-fb… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113795613909254407)** <sub>@hartfordcourant · 8:52 PM</sub>
 - **[Defense attorneys called the case “nonsense” and “baseless.” courant.com/2026/10/23/ex-fb… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113793548671684645)** <sub>@hartfordcourant · 8:43 PM</sub>
 - **[From 2022 to 2026, California billionaire wealth grew nearly tripled. courant.com/2026/10/23/prop-… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113790836227838459)** <sub>@hartfordcourant · 8:33 PM</sub>
+- **[An investigation by the Vernon Police Department found that he and another woman who knew the child conspired to repeatedly commit sexual acts on her beginning in 2012.](https://m.facebook.com/hartfordcourant/posts/pfbid02JwsAYAqADmyYM67JXurKcUgoZZKGy5nG1T1qWYX1jiJCxZX24VzGX2vgvUicwxWkl)** <sub>Hartford Courant · 8:31 PM</sub>
+- **[Dave Portnoy says UConn “could be a legitimate football school” after seeing a strong turnout for the Barstool College Football Show live outside Rentschler Field.](https://m.facebook.com/hartfordcourant/posts/pfbid0FqzpXbgWdQ2iE7yGypbnymMPkvqxJMFWxyDf7mmV1j3331DLwPPaKQU4MunQzyhtl)** <sub>Hartford Courant · 8:31 PM</sub>
 - **[MSG employees who clicked a link in an email also got cybersecurity training. {og:title} {article:title} courant.com/2026/10/23/knick… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2113788011968167959)** <sub>@hartfordcourant · 8:21 PM</sub>
 - **[Cat Adoption Event](https://www.reddit.com/r/Connecticut/comments/1xduax0/cat_adoption_event_southington_ct_1024/)** <sub>jomifer · 8:11 PM</sub>
 - **[The search for the next James Bond has narrowed to a final group of actors, according to reports. They include “Slow Horses” star Jack Lowden, Calum Turner and Josh O’Connor.](https://x.com/hartfordcourant/status/2113785311515873453)** <sub>@hartfordcourant · 8:11 PM</sub>
