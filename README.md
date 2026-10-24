@@ -1,12 +1,43 @@
 # CT News
 
-Last 30 days · 3401 items · updated Oct 24, 2026 3:43 PM EDT
+Last 30 days · 3421 items · updated Oct 24, 2026 5:56 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 24
 
+- **[Weird occupations](https://www.reddit.com/r/Connecticut/comments/1xekxdm/weird_occupations/)** <sub>WranglerBoth1132 · 5:51 PM</sub>
+  <br>Hi I’m Anne I’m a senior in college and I’m looking to connect and interview someone who has a weird occupation. It can be via the phone, I’m also near Middletown. Preferably not an old man because that’s scary
+- **[A half hour ago at Wood Pond, West Hartford](https://www.reddit.com/r/Connecticut/comments/1xekn0j/a_half_hour_ago_at_wood_pond_west_hartford/)** <sub>Flat\_Economist\_8763 · 5:39 PM</sub>
+- **[Police believe the stabbing incident likely occurred on Pratt Street on or near the Green. courant.com/2026/10/24/man-d… — Hartford Courant (@hartfordcourant) Oct 24, 2026](https://x.com/hartfordcourant/status/2114107806060003331)** <sub>@hartfordcourant · 5:32 PM</sub>
+- **[Former UConn women’s basketball star Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2.](https://x.com/hartfordcourant/status/2114105734212284675)** <sub>@hartfordcourant · 5:24 PM</sub>
+  <br>Former UConn women’s basketball star Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2. courant.com/2026/10/24/golde… — Hartford Courant (@hartfordcourant) Oct 24, 2026
+- **[UConn’s defense developing an identity. The ‘junk-yard dogs’ have been been stopping opponents cold, and have helped turn the season around.](https://m.facebook.com/hartfordcourant/posts/pfbid036ceYWup4jgiiy6wk5AyLuHHyByKpK4seYX2vpSTyvKgW4eAr7bMUi2DBKjJnw52Al)** <sub>Hartford Courant · 5:14 PM</sub>
+- **[The UConn women’s basketball team will host Army Sunday afternoon in Storrs in its final exhibition game before the regular season starts.](https://x.com/hartfordcourant/status/2114102425971806352)** <sub>@hartfordcourant · 5:11 PM</sub>
+  <br>The UConn women’s basketball team will host Army Sunday afternoon in Storrs in its final exhibition game before the regular season starts. courant.com/2026/10/24/a-fin… — Hartford Courant (@hartfordcourant) Oct 24, 2026
+- **[Several times in just the last half-decade, the New York Times has profiled a Connecticut city’s rebirth as a destination for individuals seeking a small, accessible, and affordable coastal city.](https://m.facebook.com/hartfordcourant/posts/pfbid0tCQePYEZZyuhNmVj4FTwxj2zRJNa9PPj3tPbihYki27D4UyvL25zeVSQHwvrxxHQl)** <sub>Hartford Courant · 5:01 PM</sub>
+- **[My Cat Ran Away](https://www.reddit.com/r/Connecticut/comments/1xejh9w/my_cat_ran_away/)** <sub>No\_Bottle6745 · 4:48 PM</sub>
+  <br>My cat ran away near Hollow Rd, across from Hollow Park in Woodbury, CT. He’s very shy. Please contact if you see him. We adopted him a year ago and he has a bonded twin sister. We are certain he’s stayed in the area and we’d like to know if you’ve seen him. It would be better to contact us than…
+- **[Connecticut preppers](https://www.reddit.com/r/Connecticut/comments/1xej9ws/connecticut_preppers/)** <sub>FunFreshRasperry · 4:40 PM</sub>
+  <br>Hi I’m Anne and I’m interested in the prepper community / spaces. I’m wondering if anyone would want to do an interview / connect?
+- **[His dad was a star, but this CT football quarterback is making his own name.](https://m.facebook.com/hartfordcourant/posts/pfbid09i5kqaHCkSfAMe4XNqgmU6RKJTGDbLKQefHRZ2cbU6yUt9wg9YgmiBtQYQsE6Xr3l)** <sub>Hartford Courant · 4:32 PM</sub>
+- **[The $1,500 Bailout: Taxpayers Paid Alvin Schwapp's Personal FOIC Fine Without a Council Vote](https://www.reddit.com/r/Connecticut/comments/1xeisu4/the_1500_bailout_taxpayers_paid_alvin_schwapps/)** <sub>petercfrank · 4:20 PM</sub>
+  <br>For statewide context on how Connecticut municipalities handle personal Freedom of Information Commission (FOIC) fines under C.G.S. § 1-206(b)(2): In July 2025, after five contested hearings in Docket # FIC 2024-0425 over a five-month delay in releasing Town Attorney Andrew Crumbie's contract and…
+- **[Lost Necklace](https://www.reddit.com/r/Connecticut/comments/1xeir23/lost_necklace/)** <sub>CourseSuccessful730 · 4:18 PM</sub>
+  <br>Have you seen this gold necklace lost in Blue Back Square, West Hartford?
+- **[Ashland Wants To Be Known as ‘Storytown.’ The Rogue Valley Already Has Plenty of Material.](https://www.realtor.com/news/trends/ashland-wants-to-be-known-as-storytown-the-rogue-valley-already-has-plenty-of-material/)** <sub>Winston Ross · 4:17 PM</sub>
+  <br>By the time Matt Hoffman graduated from high school in his native Ashland, Oregon, he was ready to escape. “I wanted to spread my wings,” he said. “But you travel the world a bit and realize, I grew up in a pretty amazing place.” So after a couple of decades in Los Angeles directing commercials,…
+- **[Shamar Porter scored in two different jersey numbers during Friday night’s showcase of UConn football at Rentschler Field.](https://x.com/hartfordcourant/status/2114088383840489810)** <sub>@hartfordcourant · 4:15 PM</sub>
+  <br>Shamar Porter scored in two different jersey numbers during Friday night’s showcase of UConn football at Rentschler Field. courant.com/2026/10/24/shama… — Hartford Courant (@hartfordcourant) Oct 24, 2026
+- **[Private Health Insurance](https://www.reddit.com/r/Connecticut/comments/1xeim7d/private_health_insurance/)** <sub>MapleSyrupStitcher · 4:12 PM</sub>
+  <br>In CT, if we don’t have insurance provided by an employer, are we allowed to find private insurance not from the AccessHealth marketplace? My husband is self-employed and I don’t qualify for insurance at my job. AccessHealth wants $2800 a month next year for a basic plan. One broker said it was ok…
+- **[A household with no wealth behind the paycheck is vulnerable in any state, and the study shows how common that vulnerability is across the country.](https://m.facebook.com/hartfordcourant/posts/pfbid02wuSbfNQe6kP6fdifrrpqQdwZCthn7xJBnFNiq8qpVzEQd9M931zbksVc1AZi5Zsil)** <sub>Hartford Courant · 4:02 PM</sub>
+- **[Is the shiny gold PAC badge fake? Or produced by a different manufacturer in a different year?](https://www.reddit.com/r/Connecticut/comments/1xeial9/is_the_shiny_gold_pac_badge_fake_or_produced_by_a/)** <sub>PlayboiiExx · 3:59 PM</sub>
+- **[UConn’s defense developing an identity. The ‘junk-yard dogs’ have been been stopping opponents cold, and have helped turn the season around.](https://x.com/hartfordcourant/status/2114082308454007164)** <sub>@hartfordcourant · 3:51 PM</sub>
+  <br>UConn’s defense developing an identity. The ‘junk-yard dogs’ have been been stopping opponents cold, and have helped turn the season around. courant.com/2026/10/24/dom-a… — Hartford Courant (@hartfordcourant) Oct 24, 2026
+- **[Blue Plan Activated to Elm St in Enfield](https://www.facebook.com/groups/BreakingNow/posts/2419100622162439/)** <sub>Marcus Anthony Rice · 3:44 PM</sub>
+- **[At the time of his arrest, police said three juveniles were passengers inside his vehicle.](https://m.facebook.com/hartfordcourant/posts/pfbid05jsGT7fBufH1ujqaMH4ukhfBxXArrkfRjdte5n7BYmfxWKyZj2U1ENA4PVLvpZbhl)** <sub>Hartford Courant · 3:32 PM</sub>
 - **[Long shot but are there any stores or small businesses that sell iPods for cheap in our state? It doesn’t matter what kind of iPod. Thank you!](https://www.reddit.com/r/Connecticut/comments/1xeh0mz/long_shot_but_are_there_any_stores_or_small/)** <sub>Icy\_Type\_8223 · 3:07 PM</sub>
 - **[The Warren Group LLC provides real estate and transaction data from across Connecticut. This shows the latest transactio...](https://m.facebook.com/hartfordcourant/posts/pfbid0sbF38HD8dq7fLb4gzcWsampFwNtRjzbFkMFhRi4qmcVxQ4fY5d6rkNNzFgDP78rHl)** <sub>Hartford Courant · 3:02 PM</sub>
   <br>The Warren Group LLC provides real estate and transaction data from across Connecticut. This shows the latest transactions recorded and available across the state. All of the information is public information.
