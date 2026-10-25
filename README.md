@@ -1,17 +1,38 @@
 # CT News
 
-Last 30 days · 3449 items · updated Oct 24, 2026 10:32 PM EDT
+Last 30 days · 3460 items · updated Oct 25, 2026 3:46 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Sunday, October 25
+
+- **[Two Arrested After Stolen Vehicle Stop Uncovers Loaded Gun, Brass Knuckles - North Haven 📍 North Haven, CT 📅 Tuesday,...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0Q1Csezb56QETgcWaavHCjDESRmKcMvNMcPc2dNwHTTJhmH6M23nACt2nuEYz5DW3l)** <sub>CTPOLICELIVE · 12:45 AM</sub>
+  <br>Two Arrested After Stolen Vehicle Stop Uncovers Loaded Gun, Brass Knuckles - North Haven 📍 North Haven, CT 📅 Tuesday, October 20, 2026 📻 Key Details -- North Haven Police stopped a vehicle displaying a canceled registration plate that did not match the vehicle description -- Officers identified the…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/917175404662996/)** <sub>CTPOLICELIVE · 12:25 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Two Armed Suspects Steal Mercedes in Downtown Carjacking - Hartford 📍 Allyn Street, Hartford, CT 📅 Saturday, October...](https://www.facebook.com/reel/27969125296095252/)** <sub>CTPOLICELIVE · 12:23 AM</sub>
+  <br>Two Armed Suspects Steal Mercedes in Downtown Carjacking - Hartford 📍 Allyn Street, Hartford, CT 📅 Saturday, October 24, 2026 - 11:55 p.m. 📻 Key Details -- Hartford Police reported an armed carjacking on Allyn Street in downtown Hartford -- Two younger Black males wearing black hoodies were…
+- **[Two Armed Suspects Steal Mercedes in Downtown Carjacking - Hartford 📍 Allyn Street, Hartford, CT 📅 Saturday, October...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02Fey2q9CDGZjWQbEupCU3AEkVPNudJhE1JgG3EgqqPvCVqvukWg3z4EcfRa4pH2Uzl)** <sub>CTPOLICELIVE · 12:20 AM</sub>
+  <br>Two Armed Suspects Steal Mercedes in Downtown Carjacking - Hartford 📍 Allyn Street, Hartford, CT 📅 Saturday, October 24, 2026 - 11:55 p.m. 📻 Key Details -- Hartford Police reported an armed carjacking on Allyn Street in downtown Hartford -- Two younger Black males wearing black hoodies were…
+
 ## Saturday, October 24
 
+- **[New Escape Room Open in Plainville, CT](https://www.reddit.com/r/Connecticut/comments/1xescoz/new_escape_room_open_in_plainville_ct/)** <sub>Positive-Weekend-484 · 11:58 PM</sub>
+  <br>Looking for adventure? Stop by Escape from Reality in Plainville, CT and experience an escape room! Escapefromrealityct.com
+- **[New to New London from Louisiana](https://www.reddit.com/r/Connecticut/comments/1xerfqj/new_to_new_london_from_louisiana/)** <sub>normal\_jaso · 11:09 PM</sub>
+  <br>Like the title says, I’m new here, just got set up here with a group of guys I’m working with and only in town for a few weeks on a job. While I’m here though I do wanna meet some new people, make friends, and have some fun. Kinda feel like a foreigner here being from the south and never having…
+- **[Rollover Accident into a Waterway in East Haddam](https://www.facebook.com/groups/BreakingNow/posts/2419372592135242/)** <sub>Marcus Anthony Rice · 11:09 PM</sub>
+- **[The destruction caused by the heat, smoke, and water used by the firefighters is enormous.](https://m.facebook.com/hartfordcourant/posts/pfbid02bhWSnYM7mPk1jupZnMPXefpkji3ypkMpKZGKvpJ39weXSCCyNfB1b2LTeKhFsJ1xl)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[Rockville?](https://www.reddit.com/r/Connecticut/comments/1xeqqu5/rockville/)** <sub>llgreenbean · 10:33 PM</sub>
+  <br>I really hope this doesn't seem trifling, but I'm wondering about this new mural painted in the Rockville section of Vernon. I will say it looks very nice, bright vibrant colors and subjectively speaking I personally enjoy it. I just wonder what on earth this scene has to do with Rockville? It…
+- **[The George Washington Bridge, connecting New York City with New Jersey, was dedicated. It was the world’s longest suspension bridge at the time.](https://m.facebook.com/hartfordcourant/posts/pfbid02HYHZ21gcZyCF8LDK2knQy34vXaBMpDxigLNGR99MmLGMqVLYVoRNowDbUZcpZAwhl)** <sub>Hartford Courant · 10:32 PM</sub>
 - **[Enders Island](https://www.reddit.com/r/Connecticut/comments/1xeqf67/enders_island/)** <sub>Fluffy-Discipline668 · 10:16 PM</sub>
   <br>Enders Island is an 11-acre island in Mystic connected to Mason’s Island by a causeway. It is home to a Catholic retreat, but the public is free to walk about the grounds. To Connecticut gardeners it’s known for its dahlias and is most popular in August and September.
 - **[(Post on Nextdoor) Hello neighbors, my name is Brittany and I’m 13 years old.](https://www.reddit.com/r/Connecticut/comments/1xeqdag/post_on_nextdoor_hello_neighbors_my_name_is/)** <sub>Equivalent-Leg1214 · 10:14 PM</sub>
 - **[Why volunteers are gluing seeds to clam shells in Connecticut](https://www.reddit.com/r/Connecticut/comments/1xeqd5b/why_volunteers_are_gluing_seeds_to_clam_shells_in/)** <sub>fenrislorsrai · 10:14 PM</sub>
   <br>The approach consists of attaching eelgrass seeds to the clam’s shells. When the clams are released into the sound, they bury into the sediment, taking the seeds down to the bottom and effectively planting them. When they conducted drone imagery to check in on their results this year, they found…
+- **[In Opinion \| Putin is an enemy of the United States. Ever since he came to power, he has missed no chance to undermine American interests](https://m.facebook.com/hartfordcourant/posts/pfbid02YD9gacKgN8mkNF6bcAVujqyWekFKesnt3m8yNzgB7EkyfBCGGcRyqwJTjZJjZznl)** <sub>Hartford Courant · 10:02 PM</sub>
 - **[What we value may look different in softer light today. Venus retrograde re-enters Libra at 5:11 am EDT, bringing beauty, balance, money, relationships, taste, and personal priorities back under…](https://x.com/hartfordcourant/status/2114175789717487674)** <sub>@hartfordcourant · 10:02 PM</sub>
   <br>What we value may look different in softer light today. Venus retrograde re-enters Libra at 5:11 am EDT, bringing beauty, balance, money, relationships, taste, and personal priorities back under review. Something we dismissed could suddenly… courant.com/2026/10/24/daily… — Hartford Courant…
 - **[There’s Much to be Done](https://www.reddit.com/r/Connecticut/comments/1xeq0a1/theres_much_to_be_done/)** <sub>ateam1984 · 9:55 PM</sub>
