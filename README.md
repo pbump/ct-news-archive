@@ -1,14 +1,45 @@
 # CT News
 
-Last 30 days · 3551 items · updated Oct 25, 2026 5:52 PM EDT
+Last 30 days · 3569 items · updated Oct 25, 2026 7:41 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 25
 
+- **[A Republican lawmaker questioned Elon Musk’s argument for throttling Ukraine’s access to SpaceX’s Starlink satellite terminals, arguing that Ukrainian forces use the system defensively in the war…](https://x.com/hartfordcourant/status/2114497511473766710)** <sub>@hartfordcourant · 7:21 PM</sub>
+  <br>A Republican lawmaker questioned Elon Musk’s argument for throttling Ukraine’s access to SpaceX’s Starlink satellite terminals, arguing that Ukrainian forces use the system defensively in the war with Russia. courant.com/2026/10/25/musks… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[President Donald Trump’s administration is withholding records documenting the scope of his influence over management of the Kennedy Center, according to attorneys for a Democratic lawmaker…](https://x.com/hartfordcourant/status/2114496227945373814)** <sub>@hartfordcourant · 7:16 PM</sub>
+  <br>President Donald Trump’s administration is withholding records documenting the scope of his influence over management of the Kennedy Center, according to attorneys for a Democratic lawmaker challenging the Republican president’s plan to clo… courant.com/2026/10/25/judge… — Hartford Courant…
+- **[By R. Eric Thomas, Tribune Content Agency Dear Eric: I am 75 years old. My wife and I have been married for 45 years. My wife suffers from treatment-resistant depression and/or bipolar disorder. My…](https://x.com/hartfordcourant/status/2114488208582930930)** <sub>@hartfordcourant · 6:44 PM</sub>
+  <br>By R. Eric Thomas, Tribune Content Agency Dear Eric: I am 75 years old. My wife and I have been married for 45 years. My wife suffers from treatment-resistant depression and/or bipolar disorder. My wife has been undergoing treatment of… courant.com/2026/10/25/askin… — Hartford Courant…
+- **[Pat Ricard cleared the way both on Skattebo’s big OT run and on Devin Singletary’s 30-yard walk-off TD scamper with 7:25 remaining in the extra period to end the game.](https://x.com/hartfordcourant/status/2114486111695159498)** <sub>@hartfordcourant · 6:35 PM</sub>
+  <br>Pat Ricard cleared the way both on Skattebo’s big OT run and on Devin Singletary’s 30-yard walk-off TD scamper with 7:25 remaining in the extra period to end the game. courant.com/2026/10/25/giant… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Authorities said he was previously convicted in federal court on narcotics trafficking and firearm possession charges and was sentenced to 160 months in prison.](https://m.facebook.com/hartfordcourant/posts/pfbid02EbUwBWZJH3SwkHt84bzUA3TRMqW1dxykJPo9KLU6MRw2X3wFFGeJYQTuYPqUHL9Pl)** <sub>Hartford Courant · 6:32 PM</sub>
+- **[Beautiful Autumn](https://www.reddit.com/r/Connecticut/comments/1xffpfh/beautiful_autumn/)** <sub>senatorduff · 6:26 PM</sub>
+  <br>Walking over the Merritt Parkway in Norwalk with the sun setting earlier these days, I am reminded that it’s been a beautiful fall this year in Connecticut.
+- **[By STEVE MEGARGEE MILWAUKEE (AP) — Freddy Peralta spent his first eight major league seasons trying to help the Milwaukee Brewers earn the World Series berth that continually eluded them. Peralta is…](https://x.com/hartfordcourant/status/2114482789923889522)** <sub>@hartfordcourant · 6:22 PM</sub>
+  <br>By STEVE MEGARGEE MILWAUKEE (AP) — Freddy Peralta spent his first eight major league seasons trying to help the Milwaukee Brewers earn the World Series berth that continually eluded them. Peralta is finally in the Fall Classic. So are… courant.com/2026/10/25/milwa… — Hartford Courant…
+- **[Man Reports Gun Threat, Possible Kidnapping of Girlfriend - Stonington 📍 Mechanic Street, Stonington, CT 📅 Sunday, Oc...](https://www.facebook.com/reel/1447057834065618/)** <sub>CTPOLICELIVE · 6:20 PM</sub>
+  <br>Man Reports Gun Threat, Possible Kidnapping of Girlfriend - Stonington 📍 Mechanic Street, Stonington, CT 📅 Sunday, October 25, 2026 - 5:52 p.m. 📻 Key Details -- Stonington Police responded after a man reported being threatened with a firearm on Mechanic Street -- The caller stated he saw the weapon…
+- **[Man Reports Gun Threat, Possible Kidnapping of Girlfriend - Stonington 📍 Mechanic Street, Stonington, CT 📅 Sunday, Oc...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0423r17UHDYPHRjBhopH1u1G1NxUMckRpK5ENy2VQYVErU1Wg9cK6etwouQ6i3hdLl)** <sub>CTPOLICELIVE · 6:17 PM</sub>
+  <br>Man Reports Gun Threat, Possible Kidnapping of Girlfriend - Stonington 📍 Mechanic Street, Stonington, CT 📅 Sunday, October 25, 2026 - 5:52 p.m. 📻 Key Details -- Stonington Police responded after a man reported being threatened with a firearm on Mechanic Street -- The caller stated he saw the weapon…
+- **[Sarah Strong scored 19 points in 23 minutes to lead the UConn women pastr Army in the final preseason tune-up. The season starts Nov. 2.](https://x.com/hartfordcourant/status/2114480962402709824)** <sub>@hartfordcourant · 6:15 PM</sub>
+  <br>Sarah Strong scored 19 points in 23 minutes to lead the UConn women pastr Army in the final preseason tune-up. The season starts Nov. 2. courant.com/2026/10/25/sarah… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Motorcycle Accident in Bristol](https://www.facebook.com/groups/BreakingNow/posts/2420233678715800/)** <sub>Marcus Anthony Rice · 6:13 PM</sub>
+- **[Hunter’s Moon](https://www.reddit.com/r/Connecticut/comments/1xffcv4/hunters_moon/)** <sub>hoffman4 · 6:11 PM</sub>
+  <br>Fairfield County
+- **[By JANIE McCAULEY SAN FRANCISCO (AP) — Natalie Nakase’s shake-up of the Golden State Valkyries’ starting lineup for Game 4 of the WNBA Finals brought back memories of a similar move made by Warriors…](https://x.com/hartfordcourant/status/2114478050184220744)** <sub>@hartfordcourant · 6:03 PM</sub>
+  <br>By JANIE McCAULEY SAN FRANCISCO (AP) — Natalie Nakase’s shake-up of the Golden State Valkyries’ starting lineup for Game 4 of the WNBA Finals brought back memories of a similar move made by Warriors coach Steve Kerr in the… {og:title} {article:title} courant.com/2026/10/25/lineu… — Hartford Courant…
+- **[The Dolphins arrived at MetLife Stadium without a win. The Jets made sure they left with one. courant.com/2026/10/25/winle… — Hartford Courant (@hartfordcourant) Oct 25, 2026](https://x.com/hartfordcourant/status/2114475105220751681)** <sub>@hartfordcourant · 5:52 PM</sub>
+- **[President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue…](https://x.com/hartfordcourant/status/2114473172833558644)** <sub>@hartfordcourant · 5:44 PM</sub>
+  <br>President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue to grow. “I have… courant.com/2026/10/25/trump… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Why volunteers are gluing seeds to clam shells in Connecticut](https://www.reddit.com/r/Connecticut/comments/1xfep6z/why_volunteers_are_gluing_seeds_to_clam_shells_in/)** <sub>gnew18 · 5:42 PM</sub>
 - **[Hartford Athletic will be heading to Detroit for the first round of the USL Championship playoffs, after wrapping up the regular season on Saturday.](https://x.com/hartfordcourant/status/2114471098955809041)** <sub>@hartfordcourant · 5:36 PM</sub>
   <br>Hartford Athletic will be heading to Detroit for the first round of the USL Championship playoffs, after wrapping up the regular season on Saturday. courant.com/2026/10/25/hartf… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Moving forward, researchers hope to better understand how individual dietary components interact with a person’s underlying health and inflammatory state.](https://m.facebook.com/hartfordcourant/posts/pfbid04NuhZ4GLNsHhpk1bf62tzRQYkJTpnUA4YjVuD4CunoHBA8kDRypfHvhYmXFHKEpql)** <sub>Hartford Courant · 5:32 PM</sub>
+- **[Fragrance free massage places?](https://www.reddit.com/r/Connecticut/comments/1xfds6z/fragrance_free_massage_places/)** <sub>Ok-Detective7794 · 5:03 PM</sub>
+  <br>apologies for such a niche request, but I get bad skin allergies when fragrance is used on my skin or around me, even scented candles and natural essential oils trigger rashes and itching. does anyone know of a fragrance free massage place in CT? my neck and back are so tense lately as I’ve just…
 - **[Any bakeries with Great British Bake Off style desserts near Willimantic/Mansfield/Manchester area?](https://www.reddit.com/r/Connecticut/comments/1xfdjcs/any_bakeries_with_great_british_bake_off_style/)** <sub>WhisperMeadow123 · 4:54 PM</sub>
   <br>Watching the current series, if you know, you know. Thanks! 😊
 - **[Criminal statute question](https://www.reddit.com/r/Connecticut/comments/1xfdhlh/criminal_statute_question/)** <sub>MountainCounty9496 · 4:52 PM</sub>
