@@ -1,14 +1,39 @@
 # CT News
 
-Last 30 days · 3431 items · updated Oct 24, 2026 7:53 PM EDT
+Last 30 days · 3449 items · updated Oct 24, 2026 10:32 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Saturday, October 24
 
+- **[Enders Island](https://www.reddit.com/r/Connecticut/comments/1xeqf67/enders_island/)** <sub>Fluffy-Discipline668 · 10:16 PM</sub>
+  <br>Enders Island is an 11-acre island in Mystic connected to Mason’s Island by a causeway. It is home to a Catholic retreat, but the public is free to walk about the grounds. To Connecticut gardeners it’s known for its dahlias and is most popular in August and September.
+- **[(Post on Nextdoor) Hello neighbors, my name is Brittany and I’m 13 years old.](https://www.reddit.com/r/Connecticut/comments/1xeqdag/post_on_nextdoor_hello_neighbors_my_name_is/)** <sub>Equivalent-Leg1214 · 10:14 PM</sub>
+- **[Why volunteers are gluing seeds to clam shells in Connecticut](https://www.reddit.com/r/Connecticut/comments/1xeqd5b/why_volunteers_are_gluing_seeds_to_clam_shells_in/)** <sub>fenrislorsrai · 10:14 PM</sub>
+  <br>The approach consists of attaching eelgrass seeds to the clam’s shells. When the clams are released into the sound, they bury into the sediment, taking the seeds down to the bottom and effectively planting them. When they conducted drone imagery to check in on their results this year, they found…
+- **[What we value may look different in softer light today. Venus retrograde re-enters Libra at 5:11 am EDT, bringing beauty, balance, money, relationships, taste, and personal priorities back under…](https://x.com/hartfordcourant/status/2114175789717487674)** <sub>@hartfordcourant · 10:02 PM</sub>
+  <br>What we value may look different in softer light today. Venus retrograde re-enters Libra at 5:11 am EDT, bringing beauty, balance, money, relationships, taste, and personal priorities back under review. Something we dismissed could suddenly… courant.com/2026/10/24/daily… — Hartford Courant…
+- **[There’s Much to be Done](https://www.reddit.com/r/Connecticut/comments/1xeq0a1/theres_much_to_be_done/)** <sub>ateam1984 · 9:55 PM</sub>
+- **[“I’m trying to recall the interior windshield cleaner your wife prefers you to use rather than vinegar.”](https://m.facebook.com/hartfordcourant/posts/pfbid034s5kWRufMRRDMU5w48qwPMjEk5zAZoUdCma4BDxJXcnq2Zvzhyq5mMxfGA42St3Kl)** <sub>Hartford Courant · 9:32 PM</sub>
+- **[(near Southington) walk-in shower recommendation](https://www.reddit.com/r/Connecticut/comments/1xepexu/near_southington_walkin_shower_recommendation/)** <sub>Ok-Tell9175 · 9:25 PM</sub>
+  <br>Hey y'all, Can anyone recommend a decent walk-in shower installation company around the Southington area? (looking for non-tile walk-in style). Many of you kind people have recommended great contractors here before, and I actually found my current furnace maintenance person through this group,…
+- **[Shamar Porter scored in two different jersey numbers during Friday night’s showcase of UConn football at Rentschler Field.](https://m.facebook.com/hartfordcourant/posts/pfbid02uzGPy4651vD6vhqCHCE58WFtx4tfQ2Ys5ooNhJ6CxgTRjrEbRiL4oWfkKSFz7yMsl)** <sub>Hartford Courant · 9:01 PM</sub>
+- **[Question for people familiar with Stafford/Route 190](https://www.reddit.com/r/Connecticut/comments/1xeolls/question_for_people_familiar_with_staffordroute/)** <sub>Current-Photo2857 · 8:44 PM</sub>
+  <br>When you are driving west on 190 and have just passed the school on your right and are coming up on Crystal Lake Rd on your left, there is a big hill on the left and at night there is a huge structure at the top of it all lit up. We think it’s too big to be someone’s house but as far as we can tell…
+- **[In Opinion \| Stay calm, support good candidates, do whatever you can to get out the vote, and vote as soon as you can](https://m.facebook.com/hartfordcourant/posts/pfbid02AcwRDD2roryTHmP6ZZfTbkufaugmvbN9hLaxvBsc76NadRhBfBCn4Phnc3oUEUQal)** <sub>Hartford Courant · 8:32 PM</sub>
+- **[Hunter Falls From Tree in Sheffield MA, Lifestar Transport](https://www.facebook.com/groups/BreakingNow/posts/2419269048812263/)** <sub>Marcus Anthony Rice · 8:27 PM</sub>
+- **[In Opinion \| It’s obvious Mr Fazio doesn’t care about schoolchildren.](https://m.facebook.com/hartfordcourant/posts/pfbid02EvbPjjzkuKYzMmB8bsQnaPSeTFgmnCZSqioUXuQTZ1jbSYZKVnDtLuS7dDUZkBYMl)** <sub>Hartford Courant · 8:01 PM</sub>
+- **[Hubbard Park from Guiffrida Park 10/24/2026.](https://www.reddit.com/r/Connecticut/comments/1xenm5c/hubbard_park_from_guiffrida_park_10242026/)** <sub>ZachYeamans · 7:58 PM</sub>
+- **[Shooting on Orchard St in New Haven](https://www.facebook.com/groups/BreakingNow/posts/2419248148814353/)** <sub>Marcus Anthony Rice · 7:50 PM</sub>
+- **[The UConn women’s basketball team will host Army Sunday afternoon in Storrs in its final exhibition game before the regular season starts.](https://m.facebook.com/hartfordcourant/posts/pfbid02DmRqssCG7aAk49vvLWwTvCQUGsjNFwsbMaxq1Yg6Bo8fx2Msipz3UmA3gXRE1AUbl)** <sub>Hartford Courant · 7:35 PM</sub>
+- **[Amtrak meetup in Groton November 5](https://www.reddit.com/r/Connecticut/comments/1xen3ax/amtrak_meetup_in_groton_november_5/)** <sub>Dry-Specialist-2150 · 7:32 PM</sub>
+  <br>ACTION ALERT: Amtrak Open House Events in CT and RI Wed. 11/4 - South Kingstown Thurs. 11/5 - Groton Stop by one of Amtrak's Capacity Planning Study Open House events and let them know you'd like to see Shore Line East get extended to Mystic and Westerly! Amtrak will be holding two sessions of the…
 - **[President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on Nov. 3,…](https://x.com/hartfordcourant/status/2114134897799381170)** <sub>@hartfordcourant · 7:20 PM</sub>
   <br>President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on Nov. 3, Trump has been urging Republicans to cast… courant.com/2026/10/24/trump… — Hartford Courant…
+- **[💎Local Gem: Fable Underworld💎 ‼️I checked out a cool speakeasy located in Downtown Southington. If you know me, you kn...](https://m.facebook.com/theconnecticutscoop/posts/pfbid02NaKAdwqy2fDnmFMpa3ffrMxtN9gyPenMam7VrHTH3DrmF7GUcuv2FT6mt4EW8sXul)** <sub>The Connecticut Scoop · 7:09 PM</sub>
+  <br>💎Local Gem: Fable Underworld💎 ‼️I checked out a cool speakeasy located in Downtown Southington. If you know me, you know I love a good speakeasy experience! This is no exception. 🍹Fable Underworld is an amazing after-hours speakeasy located inside Fable; a daytime teahouse, whimsical boutique with…
+- **[Looking for something fun to do before your Halloween parties?](https://www.reddit.com/r/Connecticut/comments/1xemkwy/looking_for_something_fun_to_do_before_your/)** <sub>Sad-Tomatillo3462 · 7:08 PM</sub>
 - **[Each plaintiff will have the option to receive a payment of at least $250,000 or a potentially larger payout after a review of the extent of the abuse each plaintiff has claimed, according to the…](https://x.com/hartfordcourant/status/2114131247488213069)** <sub>@hartfordcourant · 7:05 PM</sub>
   <br>Each plaintiff will have the option to receive a payment of at least $250,000 or a potentially larger payout after a review of the extent of the abuse each plaintiff has claimed, according to the plaintiffs’ lawyers. courant.com/2026/10/24/new-y… — Hartford Courant (@hartfordcourant) Oct 24, 2026
 - **[In Opinion \| Fazio has spent years in classrooms and working on education policy.](https://m.facebook.com/hartfordcourant/posts/pfbid0XKhrcmF3faWv2ZVFbtP9qkXmJ3qfZUzXMFEFpA2KihTSUWtq1Z8yycdmPDuhcFTJl)** <sub>Hartford Courant · 7:01 PM</sub>
