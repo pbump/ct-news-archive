@@ -1,12 +1,26 @@
 # CT News
 
-Last 30 days · 3543 items · updated Oct 25, 2026 3:19 PM EDT
+Last 30 days · 3551 items · updated Oct 25, 2026 5:52 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 25
 
+- **[Hartford Athletic will be heading to Detroit for the first round of the USL Championship playoffs, after wrapping up the regular season on Saturday.](https://x.com/hartfordcourant/status/2114471098955809041)** <sub>@hartfordcourant · 5:36 PM</sub>
+  <br>Hartford Athletic will be heading to Detroit for the first round of the USL Championship playoffs, after wrapping up the regular season on Saturday. courant.com/2026/10/25/hartf… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Any bakeries with Great British Bake Off style desserts near Willimantic/Mansfield/Manchester area?](https://www.reddit.com/r/Connecticut/comments/1xfdjcs/any_bakeries_with_great_british_bake_off_style/)** <sub>WhisperMeadow123 · 4:54 PM</sub>
+  <br>Watching the current series, if you know, you know. Thanks! 😊
+- **[Criminal statute question](https://www.reddit.com/r/Connecticut/comments/1xfdhlh/criminal_statute_question/)** <sub>MountainCounty9496 · 4:52 PM</sub>
+  <br>Under Connecticut 53a-181(a)(4) it is a misdemeanor to publicly exhibit, distribute, post up or advertise any offensive, indecent or abusive matter concerning any person with intent to cause inconvenience, annoyance or alarm, or recklessly creating a risk thereof What is this statute written to…
+- **[Dropped your ID?](https://www.reddit.com/r/Connecticut/comments/1xfd0pu/dropped_your_id_comedic_post/)** <sub>TriStateGirl · 4:33 PM</sub>
+  <br>So, this was on the side of the road at a bus stop in Shelton, CT. SpongeBob are you on here? I didn't pickup your ID because germs. I hope you get it back. You also need to get it the DMV. Your ID expired in 2003. Anyways, I thought a comedic post would break up the weekend. I hope everyone's…
+- **[A search of his Apple account allegedly revealed photos, videos and messages connecting him to possession of firearms and trafficking of machine gun conversion devices.](https://m.facebook.com/hartfordcourant/posts/pfbid0CdgmmZ2JME9w7pM4zghyk7VhTXFmexUiYbi2J7WPsj9CKhc7zna3cT1nbBb1JXUTl)** <sub>Hartford Courant · 4:32 PM</sub>
+- **[A great number of plant diseases elect potatoes as their hosts.](https://m.facebook.com/hartfordcourant/posts/pfbid0MiBrqNxgBKzXQbDtYbPjHbhPjZDBspYQfiuXPepAQDvXA2iHczoKfDGCn21FgdFDl)** <sub>Hartford Courant · 3:32 PM</sub>
+- **[Cracks on I-291 West Road](https://www.reddit.com/r/Connecticut/comments/1xfb3qg/cracks_on_i291_west_road/)** <sub>Asleep-Credit-4696 · 3:17 PM</sub>
+  <br>I was driving on I-291 West and noticed the cracks right before exit 1D (Windsor) has gotten deeper and has spread out! Has anyone else noticed this?
+- **[Connecticut Politicians: Spamming text messages does not make me want to vote for you more.](https://www.reddit.com/r/Connecticut/comments/1xfatko/connecticut_politicians_spamming_text_messages/)** <sub>WestTransportation12 · 3:06 PM</sub>
+  <br>I get sending maybe a few in the run up to the election but I have been getting multiple a day at this point. I’ve just started blocking numbers it’s like dealing with scammers. If you want your campaign to reach people, do a campaign that resonates with people, be out and about and active in…
 - **[President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue…](https://x.com/hartfordcourant/status/2114428254681518221)** <sub>@hartfordcourant · 2:45 PM</sub>
   <br>President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue to grow. “I have… courant.com/2026/10/25/trump… — Hartford Courant (@hartfordcourant) Oct 25, 2026
 - **[Juliens Cheesecake](https://www.reddit.com/r/Connecticut/comments/1xfa1pt/juliens_cheesecake/)** <sub>HeartofAScouser · 2:35 PM</sub>
