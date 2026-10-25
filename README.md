@@ -1,16 +1,49 @@
 # CT News
 
-Last 30 days · 3523 items · updated Oct 25, 2026 12:50 PM EDT
+Last 30 days · 3543 items · updated Oct 25, 2026 3:19 PM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, October 25
 
+- **[President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue…](https://x.com/hartfordcourant/status/2114428254681518221)** <sub>@hartfordcourant · 2:45 PM</sub>
+  <br>President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue to grow. “I have… courant.com/2026/10/25/trump… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Juliens Cheesecake](https://www.reddit.com/r/Connecticut/comments/1xfa1pt/juliens_cheesecake/)** <sub>HeartofAScouser · 2:35 PM</sub>
+  <br>Hey everyone I’m trying to get a cheesecake from Juliens either the bakery or the farm store for my wife birthday. Does anyone know if they still make them?
+- **[Why do people take advantage of the trusting. Sad!](https://www.reddit.com/r/Connecticut/comments/1xfa05k/why_do_people_take_advantage_of_the_trusting_sad/)** <sub>Proper-Dog-756 · 2:34 PM</sub>
+- **[Upcoming shows include touring companies, a symphony orchestra collaboration and the 25th go-round for one of the biggest dance gatherings of the year.](https://m.facebook.com/hartfordcourant/posts/pfbid0VYB6b72uFXepMCdF9DkyFJv5nrE1c5Xi5JCRVwygquTrkCFvArYZuw5vcgtsJwHZl)** <sub>Hartford Courant · 2:32 PM</sub>
+- **[Chapman Falls 10/24/26](https://www.reddit.com/r/Connecticut/comments/1xf9ro5/chapman_falls_102426/)** <sub>annamariagirl · 2:24 PM</sub>
+- **[🚨New East Haven Scoop!🚨 🎉A new tavern is planned for East Haven! 🍽️J. Charles Tavern is coming soon to Trolley Squar...](https://m.facebook.com/theconnecticutscoop/posts/pfbid02N4wJ6fTh8o8RS5j6Xt9wjbufzxLZMjqchZXv5H6QM7Rt7wk52bTdx6rLEJB76NoJl)** <sub>The Connecticut Scoop · 2:18 PM</sub>
+  <br>🚨New East Haven Scoop!🚨 🎉A new tavern is planned for East Haven! 🍽️J. Charles Tavern is coming soon to Trolley Square at 370 Hemingway Avenue in East Haven! The restaurant recently applied for permits to convert the former Koi Sushi space into a steakhouse and tavern. The space was also previously…
+- **[Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail courant.com/2026/10/25/obama… — Hartford Courant (@hartfordcourant) Oct 25, 2026](https://x.com/hartfordcourant/status/2114421261224845778)** <sub>@hartfordcourant · 2:18 PM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1137906291955897/)** <sub>CTPOLICELIVE · 2:13 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Manresa Wilds Project unanimously approved for development in Norwalk](https://www.reddit.com/r/Connecticut/comments/1xf9e5i/manresa_wilds_project_unanimously_approved_for/)** <sub>KlooShanko · 2:09 PM</sub>
+  <br>I’m extremely excited for this project to open public coastal and nature preservation space in Fairfield County. It’s so rare these days!
+- **[Why Housing Affordability Is the Top Issue for Gen Z Voters Ahead of Midterms](https://www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/)** <sub>Julie Gerstein · 2:01 PM</sub>
+  <br>As the U.S. heads into midterms, housing affordability remains a top concern—especially among Gen Z voters, who are currently age 18 to 29. A recent CNBC poll found that housing costs are the top political issue for voters aged 18 to 34 and men aged 18 to 49—not surprising, since homeownership…
+- **[DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday.](https://x.com/hartfordcourant/status/2114416884363702455)** <sub>@hartfordcourant · 2:00 PM</sub>
+  <br>DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday. courant.com/2026/10/25/you-c… — Hartford Courant (@hartfordcourant) Oct 25, 2026
+- **[Lamont is attacking federal debt. CT still owes about $80 billion](https://www.reddit.com/r/Connecticut/comments/1xf90gv/lamont_is_attacking_federal_debt_ct_still_owes/)** <sub>Somervilledrew · 1:54 PM</sub>
+- **[The home at the Connecticut vineyard is described by as a quintessential Cape.](https://m.facebook.com/hartfordcourant/posts/pfbid02ssBnyt9AaqtrRFPGpEB6qs6bJy3uzRvMbvTfszEsYPGTuwXq1qTUnGGyQqj3PHVXl)** <sub>Hartford Courant · 1:33 PM</sub>
+- **[Victorian in the Front, Glass in the Back: DC’s Iconic ‘Barcode House’ Is Listed for $1.65 Million](https://www.realtor.com/news/unique-homes/iconic-barcode-house-for-sale-dupont-circle-dc/)** <sub>Kellie Speed · 1:33 PM</sub>
+  <br>The iconic " Barcode House " in Washington DC's Dupont Circle has just hit the market for $1.65 million. Nicknamed for its striking all-glass rear addition designed by architect David Jamieson , the 3,224-square-foot Washington, DC , townhouse offers a unique investment opportunity for the next…
+- **[A Midcentury Pumphouse on the Rappahannock River Was Transformed Into a Jaw-Dropping $1.15 Miillio Retreat](https://www.realtor.com/news/unique-homes/fredericksburg-pumphouse-waterfront-home/)** <sub>Kellie Speed · 1:18 PM</sub>
+  <br>A former pumphouse along the Rappahannock River in Fredericksburg, VA has been transformed into a jaw-dropping two-story residence. Listed for $1,150,000, the one-bedroom dwelling features a top-floor living and dining area overlooking the river, with sleeping accommodations tucked away one level…
+- **[Halloween Séance at the Meriden sober bar/cafe](https://www.reddit.com/r/Connecticut/comments/1xf82es/halloween_séance_at_the_meriden_sober_barcafe/)** <sub>Useful\_Risk2032 · 1:17 PM</sub>
+  <br>Hello! Apologies if this isn't allowed; I'm very new to using Reddit. My family owns a cafe/sober bar and live music venue in Meriden, and we're having a Halloween Séance! I know there's an audience for it, I'm just struggling to reach the interested folks through our usual platforms so here I am!…
+- **[Best place to buy gummies along the shoreline?](https://www.reddit.com/r/Connecticut/comments/1xf7ud5/best_place_to_buy_gummies_along_the_shoreline/)** <sub>theconnecticutman · 1:08 PM</sub>
+  <br>Please don’t say “drive to MA”, I’m not driving to MA just to save a few bucks Also I’m only interested in gummies, no other sorts of products. TIA!
+- **[Spark Apartments Windsor](https://www.reddit.com/r/Connecticut/comments/1xf7nt5/spark_apartments_windsor/)** <sub>Lime-Outrageous · 1:01 PM</sub>
+  <br>Hello! Looking to get an apartment in the Windsor area with my girlfriend and came across the Spark apt complex. Seems reasonably priced with amenities. Has anyone ever lived in any of these units? If so, any recommendations/advice/suggestions?? Thanks guys.
+- **[☕️ A NEW café just opened in New Haven, CT, and you're going to want to add this one to your list! The Connecticut Scoop...](https://www.facebook.com/reel/1632566948515101/)** <sub>That CT Mom · 12:51 PM</sub>
+  <br>☕️ A NEW café just opened in New Haven, CT, and you're going to want to add this one to your list! The Connecticut Scoop 📍 MILA Café in New Haven is serving up delicious food, beautiful pastries, and specialty coffee drinks! We tried their gorgeous flower pastry 🌸, a trio of empanadas (classic,…
 - **[Why do people take advantage of the trusting. Sad!](https://www.reddit.com/r/Connecticut/comments/1xf73ey/why_do_people_take_advantage_of_the_trusting_sad/)** <sub>Delicious-Engine7363 · 12:39 PM</sub>
   <br>She doesn't even look to be in need.
 - **[Relocating to CT - Brookfield/Danbury opinions and insights please! Commute, family vibe, etc](https://www.reddit.com/r/Connecticut/comments/1xf6ylb/relocating_to_ct_brookfielddanbury_opinions_and/)** <sub>living0nmusic · 12:34 PM</sub>
   <br>Hi all! My family is relocating back to CT for my partner’s new job in NYC. We lived in southern CT for 5 years during college so we know most of Fairfield County well, but haven’t spent a lot of time in Danbury and have never been to Brookfield. We found a home in Brookfield we are excited about…
+- **[The “Annie” team, from its young star to a director and dog trainer steeped in “Annie” lore, are united in honoring the legacy of the historic play that took its first steps in Connecticut.](https://m.facebook.com/hartfordcourant/posts/pfbid02ZY8pm7YwqNzQ3skMzzqTkgvPqHw2S4ehRiNPiWoQYsHqdCuL5QaQgBS9rPJqpHSpl)** <sub>Hartford Courant · 12:33 PM</sub>
 - **[Just say this today.](https://www.reddit.com/r/Connecticut/comments/1xf6iro/just_say_this_today/)** <sub>Delicious-Engine7363 · 12:17 PM</sub>
   <br>Couldn't they have worded it better 😂
 - **[At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M’s Stadium courant.com/2026/10/25/at-le… — Hartford Courant (@hartfordcourant) Oct 25, 2026](https://x.com/hartfordcourant/status/2114390965393752436)** <sub>@hartfordcourant · 12:17 PM</sub>
