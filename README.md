@@ -1,12 +1,34 @@
 # CT News
 
-Last 30 days · 3585 items · updated Oct 25, 2026 9:41 PM EDT
+Last 30 days · 3595 items · updated Oct 26, 2026 2:56 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Monday, October 26
+
+- **[Any recommendations for vein specialists in Connecticut?](https://www.reddit.com/r/Connecticut/comments/1xfno99/any_recommendations_for_vein_specialists_in/)** <sub>cassfoundthis · 12:52 AM</sub>
+  <br>Does anyone have firsthand experience with a vein specialist in Connecticut for varicose veins? What made you choose them, and how was the consultation? Recommendations for practices to compare would be helpful, especially ones that explain treatment options, insurance coverage, and costs clearly.
+
 ## Sunday, October 25
 
+- **[I-84E Hartford Hit & Run tonight (10/25; 7:30p)](https://www.reddit.com/r/Connecticut/comments/1xfmobj/i84e_hartford_hit_run_tonight_1025_730p/)** <sub>NeuroDivrgntNeighbor · 11:57 PM</sub>
+  <br>It’s a long shot but I wonder if anyone might have been on I-84 East right before the I-91 exchange at 7:30pm tonight. (Sunday, October 25, 2026; Hartford) I’m hoping someone might have caught a hit & run on their dash cam or maybe noted a plate # or vehicle type. A large black SUV was going way…
+- **[Boycott Target: The Target Boycott Is NOT Over. Nearly Two Years Later, Organizers and Shoppers Are Still Refusing to Return.](https://www.reddit.com/r/Connecticut/comments/1xfkv6w/boycott_target_the_target_boycott_is_not_over/)** <sub>ateam1984 · 10:23 PM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/29444753471797906/)** <sub>CTPOLICELIVE · 10:21 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Wrong-Way Van Driver Arrested After Refusing to Stop on Route 25 - Bridgeport 📍 Route 25 / I-95 Northbound, Bridgeport...](https://www.facebook.com/reel/2316389715826272/)** <sub>CTPOLICELIVE · 10:18 PM</sub>
+  <br>Wrong-Way Van Driver Arrested After Refusing to Stop on Route 25 - Bridgeport 📍 Route 25 / I-95 Northbound, Bridgeport, CT 📅 Sunday, October 25, 2026 - 8:57 p.m. 📻 Key Details -- State Police received reports of a white Sprinter van traveling southbound in the northbound lanes of Route 25 at a high…
+- **[Wrong-Way Van Driver Arrested After Refusing to Stop on Route 25 - Bridgeport 📍 Route 25 / I-95 Northbound, Bridgeport...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0bUBkzGosmrpW12MdU5TzFqohUZB5whS7J1KRwv589tCuofXZToVUkiVkcS7FAQR5l)** <sub>CTPOLICELIVE · 10:08 PM</sub>
+  <br>Wrong-Way Van Driver Arrested After Refusing to Stop on Route 25 - Bridgeport 📍 Route 25 / I-95 Northbound, Bridgeport, CT 📅 Sunday, October 25, 2026 - 8:57 p.m. 📻 Key Details -- State Police received reports of a white Sprinter van traveling southbound in the northbound lanes of Route 25 at a high…
+- **[BOLO Issued for BMW Linked to New Jersey Officer-Involved Shooting 📍 Westchester County, NY / Connecticut 📅 Sunday,...](https://www.facebook.com/reel/1446156030997643/)** <sub>CTPOLICELIVE · 9:46 PM</sub>
+  <br>BOLO Issued for BMW Linked to New Jersey Officer-Involved Shooting 📍 Westchester County, NY / Connecticut 📅 Sunday, October 25, 2026 - 9:27 p.m. 📻 Key Details -- State Police Troop A received a BOLO from Westchester County authorities for a vehicle reportedly linked to an officer-involved shooting…
+- **[This $8 Million Rancho Santa Fe Estate Features a Secret Botanical Garden with a 100-Year-Old Dragon Tree](https://www.realtor.com/news/unique-homes/rancho-santa-fe-estate-botanical-garden-18245-paseo-victoria/)** <sub>Larissa Runkle · 9:44 PM</sub>
+  <br>Behind the gates of a three acre property in Rancho Santa Fe, CA is a garden that’s drawing nearly as much attention as the home itself. The five-bedroom estate at 18245 Paseo Victoria has just returned to the market for $7,999,000, its lowest asking price since it was first listed in 2024 for…
+- **[BOLO Issued for BMW Linked to New Jersey Officer-Involved Shooting 📍 Westchester County, NY / Connecticut 📅 Sunday, O...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02prETAShKB9zr1biaDbC5YuaDpyMTfLJ7KxHbVsV2ZbTKwa4Kuon2SWeTNvcieDGzl)** <sub>CTPOLICELIVE · 9:42 PM</sub>
+  <br>BOLO Issued for BMW Linked to New Jersey Officer-Involved Shooting 📍 Westchester County, NY / Connecticut 📅 Sunday, October 25, 2026 - 9:27 p.m. 📻 Key Details -- State Police Troop A received a BOLO from Westchester County authorities for a vehicle reportedly linked to an officer-involved shooting…
+- **[Fall colors](https://www.reddit.com/r/Connecticut/comments/1xfjwk6/fall_colors/)** <sub>beeequeue · 9:36 PM</sub>
+  <br>Awesome hike at Giuffrida State Park today. We could see all the way to the Sound, Hartford and MA peaks. Only complaint is that some people haven’t heard of Leave No Trace.
 - **[DC Studios scored a modest, R-rated win with “Clayface,” landing a $24 million opening weekend, according to studio estimates Sunday.](https://m.facebook.com/hartfordcourant/posts/pfbid0oDYkJibmsdHXnyzMXDe8WxLiBhtNCjV9RAS2FScZpC6WUre44Mo3C1rnYLhCMswMl)** <sub>Hartford Courant · 9:31 PM</sub>
 - **[any info on slimy bob's guitar ripoff](https://www.reddit.com/r/Connecticut/comments/1xfjd8s/any_info_on_slimy_bobs_guitar_ripoff/)** <sub>4omisme · 9:11 PM</sub>
   <br>very obscure guitar shop that j mascis from dinosaur jr bought his first guitar from. north main st, waterbury
