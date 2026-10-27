@@ -1,12 +1,48 @@
 # CT News
 
-Last 30 days · 3776 items · updated Oct 26, 2026 10:07 PM EDT
+Last 30 days · 3796 items · updated Oct 27, 2026 3:43 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Tuesday, October 27
+
+- **[Shooting Victim Dropped Off by Vehicle at HOCC/New Britain Hospital](https://www.facebook.com/groups/BreakingNow/posts/2421608848578283/)** <sub>Marcus Anthony Rice · 3:15 AM</sub>
+- **[Death Investigation near Ram Island in Stonington](https://www.facebook.com/groups/BreakingNow/posts/2421594788579689/)** <sub>Marcus Anthony Rice · 2:53 AM</sub>
+- **[where’s everyone going for halloween?](https://www.reddit.com/r/Connecticut/comments/1xgkrqd/wheres_everyone_going_for_halloween/)** <sub>smalltalkisntfun · 2:07 AM</sub>
+- **[Worker Suffers Electrical Shock in Bridgeport](https://www.facebook.com/groups/BreakingNow/posts/2421548725250962/)** <sub>Marcus Anthony Rice · 1:38 AM</sub>
+- **[This is the dirt they can find on this guy?](https://www.reddit.com/r/Connecticut/comments/1xgj0zf/this_is_the_dirt_they_can_find_on_this_guy/)** <sub>Fun-Frosting-7239 · 12:25 AM</sub>
+  <br>No shade if you have legitimate reasons not to vote for this man, but the Republican opposition is really digging for smears against this guy if all they've got is "he explained the Pride flag to his students" and "he put up his own campaign sign in his own classroom." Give me a break. And I looked…
+- **[Have you given birth at Yale recently?](https://www.reddit.com/r/Connecticut/comments/1xgisho/have_you_given_birth_at_yale_recently/)** <sub>sunsetmarshmallow · 12:12 AM</sub>
+  <br>I'm curious to know what baby and postpartum supplies they had for you vs what I should bring! Thanks!
+
 ## Monday, October 26
 
+- **[Local eggs](https://www.reddit.com/r/Connecticut/comments/1xghezm/local_eggs/)** <sub>bowie2019 · 11:02 PM</sub>
+  <br>Where have you found local eggs to be tastier and healthier than grocery store eggs, and how can I find them?
+- **[The owners of Elvis Presley’s music are suing Anthropic for using the rock icon’s songs without permission to train AI models.](https://m.facebook.com/hartfordcourant/posts/pfbid02vZU4eNSrm5Nb67J66HUe7e3YpwGE1JE5wP4DShV6Zibqs5RuGU2qrwiPUW7jZ8mZl)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[Staff have had encounters — word is, it’s Mamma Lillie. courant.com/2026/10/26/back-… — Hartford Courant (@hartfordcourant) Oct 27, 2026](https://x.com/hartfordcourant/status/2114913026377728235)** <sub>@hartfordcourant · 10:52 PM</sub>
+- **[If you’re looking for gothic vibes, terrifying haunted attractions or allegedly real ghosts, Reno will not disappoint you this spooky season](https://x.com/hartfordcourant/status/2114911191797477579)** <sub>@hartfordcourant · 10:44 PM</sub>
+  <br>If you’re looking for gothic vibes, terrifying haunted attractions or allegedly real ghosts, Reno will not disappoint you this spooky season courant.com/2026/10/26/how-r… — Hartford Courant (@hartfordcourant) Oct 27, 2026
+- **[By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges…](https://x.com/hartfordcourant/status/2114908557665538199)** <sub>@hartfordcourant · 10:34 PM</sub>
+  <br>By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges ahead of an election that could… courant.com/2026/10/26/trump… — Hartford Courant (@hartfordcourant) Oct…
+- **[By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges…](https://x.com/hartfordcourant/status/2114905543626064271)** <sub>@hartfordcourant · 10:22 PM</sub>
+  <br>By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges ahead of an election that could… courant.com/2026/10/26/trump… — Hartford Courant (@hartfordcourant) Oct…
+- **[Apartments near New London](https://www.reddit.com/r/Connecticut/comments/1xggjof/apartments_near_new_london/)** <sub>DangerousBread6653 · 10:21 PM</sub>
+  <br>I am looking at apartments within ~25 min of new London, CT. I am looking for a 1 bedroom, pet friendly spot (28lb corgi). My budget is reasonable, I want to spend $2,100 or less each month total. I’ve already viewed The Sound in East Lyme, The Ledges in Groton, and Waterford Woods in Waterford.…
+- **[Hunter Full Moon](https://www.reddit.com/r/Connecticut/comments/1xggghr/hunter_full_moon/)** <sub>mollyofreddit · 10:16 PM</sub>
+  <br>I am obsessed with the moon! But especially when it's full. Taken on my Nikon coolpixp1100
+- **[Roseland pizza](https://www.reddit.com/r/Connecticut/comments/1xggeor/roseland_pizza/)** <sub>suremagnolia456 · 10:14 PM</sub>
+  <br>People have raved about it in Derby but it never seems to be on the bigger lists of know. Pizza places. Is it some Hidden gem that folks don’t know?
+- **[By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges…](https://x.com/hartfordcourant/status/2114903457295442379)** <sub>@hartfordcourant · 10:14 PM</sub>
+  <br>By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges ahead of an election that could… courant.com/2026/10/26/trump… — Hartford Courant (@hartfordcourant) Oct…
+- **[NEW PASTA SPOT in New Haven with $10 pasta bowls?! 🍝🇮🇹 The Connecticut Scoop Meet Twirl, one of New Haven’s newest re...](https://www.facebook.com/reel/1095163113317449/)** <sub>That CT Mom · 10:08 PM</sub>
+  <br>NEW PASTA SPOT in New Haven with $10 pasta bowls?! 🍝🇮🇹 The Connecticut Scoop Meet Twirl, one of New Haven’s newest restaurants bringing fresh pasta, homemade Sunday sauce, and cozy Italian vibes to Connecticut! We stopped in and started with a classic Caesar salad before trying their spaghetti with…
+- **[By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges…](https://x.com/hartfordcourant/status/2114900928440471913)** <sub>@hartfordcourant · 10:04 PM</sub>
+  <br>By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges ahead of an election that could… courant.com/2026/10/26/trump… — Hartford Courant (@hartfordcourant) Oct…
+- **[Traffic Advisory Rt 9 Newington](https://www.facebook.com/groups/BreakingNow/posts/2421409471931554/)** <sub>Doug Oberly · 10:03 PM</sub>
+- **[In Opinion \| Yes, in 1979 the Iranians took over our embassy in Tehran along with 66 American hostages. But that was nev...](https://m.facebook.com/hartfordcourant/posts/pfbid02RcFce9eC9h2RvsCEkpBvS4UUTDro7v53GG836qGfaRyZSR1qjUQv4Q2CjuTnwzmAl)** <sub>Hartford Courant · 10:01 PM</sub>
+  <br>In Opinion \| Yes, in 1979 the Iranians took over our embassy in Tehran along with 66 American hostages. But that was never a “war” though it was a crisis. Reagan easily dealt with the problem and got our hostages released.
 - **[By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges…](https://x.com/hartfordcourant/status/2114898403054276853)** <sub>@hartfordcourant · 9:54 PM</sub>
   <br>By BILL BARROW and SOPHIE BATES CORINTH, Miss. (AP) — President Donald Trump heads Monday to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans’ challenges ahead of an election that could… courant.com/2026/10/26/trump… — Hartford Courant (@hartfordcourant) Oct…
 - **[The royals are coming, and the Caribbean wants to be heard. courant.com/2026/10/26/carib… — Hartford Courant (@hartfordcourant) Oct 27, 2026](https://x.com/hartfordcourant/status/2114895663011876979)** <sub>@hartfordcourant · 9:43 PM</sub>
