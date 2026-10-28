@@ -1,12 +1,42 @@
 # CT News
 
-Last 30 days · 3979 items · updated Oct 27, 2026 9:46 PM EDT
+Last 30 days · 3999 items · updated Oct 28, 2026 3:30 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Wednesday, October 28
+
+- **[Defending Hawaii’s Law Ending Corporate Spending in Elections (Grassroot Institute of Hawaii v. Lopez)](https://www.reddit.com/r/Connecticut/comments/1xhehdz/defending_hawaiis_law_ending_corporate_spending/)** <sub>earthly\_marsian · 12:22 AM</sub>
+  <br>I wish CT had something similar to stop corporations from spending money to support or oppose candidates, political parties, political committees or ballot measures. Earlier I saw a post but it disappeared before I could read it and was the same law that Hawaii passed. I know there are some…
+
 ## Tuesday, October 27
 
+- **[Connecticut State Police Lose K-9](https://www.facebook.com/groups/BreakingNow/posts/2422552071817294/)** <sub>Bruce Fontaine · 11:55 PM</sub>
+- **[A winning $100,000 Cash5 ticket was claimed Monday, Oct. 26 by a Connecticut resident, according to the CT Lottery.](https://m.facebook.com/hartfordcourant/posts/pfbid026p7nvMWy1LXgoMEowaEpxqNu6nsebWsBgELEdMVQJKqg25ZMi67fi7pANmXqRxEvl)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[You don’t have to let cost get in the way of a good celebration. {og:title} {article:title} courant.com/2026/10/27/tailg… — Hartford Courant (@hartfordcourant) Oct 28, 2026](https://x.com/hartfordcourant/status/2115275623589421067)** <sub>@hartfordcourant · 10:53 PM</sub>
+- **[As the lead singer and lyricist in The Penetrators, Gary Heffern inspired future Pearl Jam singer Eddie Vedder and others. Heffern, 72, died in his native Finland.](https://m.facebook.com/hartfordcourant/posts/pfbid036YpwrkxMbsdFCGbP39QA3NgPUnHyaiqQopybCj43mWtVToJwcm1G9bsCrBhdSEe8l)** <sub>Hartford Courant · 10:46 PM</sub>
+- **[That’s because Israelis vote for parties and not candidates. courant.com/2026/10/27/israe… — Hartford Courant (@hartfordcourant) Oct 28, 2026](https://x.com/hartfordcourant/status/2115272884801159385)** <sub>@hartfordcourant · 10:42 PM</sub>
+- **[21-year-old goes into hospital for a broken ankle, dies from being overmedicated. Private equity is buying hospitals and bleeding them dry.](https://www.reddit.com/r/Connecticut/comments/1xhcj0z/21yearold_goes_into_hospital_for_a_broken_ankle/)** <sub>KrankenwagenKolya · 10:40 PM</sub>
+- **[ya looking for new friendships in the Willimantic area?](https://www.reddit.com/r/Connecticut/comments/1xhce6d/ya_looking_for_new_friendships_in_the_willimantic/)** <sub>hopeful\_wanderer62 · 10:34 PM</sub>
+- **[One of the biggest points of confusion is Original Medicare vs. Medicare Advantage. courant.com/2026/10/27/navig… — Hartford Courant (@hartfordcourant) Oct 28, 2026](https://x.com/hartfordcourant/status/2115270883451252776)** <sub>@hartfordcourant · 10:34 PM</sub>
+- **[According to authorities, he was tied to a plan involving six Florida men who beat and kidnapped two people during a carjacking in Danbury in 2024.](https://m.facebook.com/hartfordcourant/posts/pfbid02xq4nMpYPHdNKXG7PghHw8W4Fj3yd34MUDF1fQKpkzmjJuxNAoXT4BCcfyveCfE7Ml)** <sub>Hartford Courant · 10:32 PM</sub>
+- **[By ZAK GILBERT ST. PETERSBURG, Fla. (AP) — Robert Gasser delivered in the World Series unlike any left-handed starter since Sandy Koufax. Gasser faced the minimum over six dominant innings, pitching…](https://x.com/hartfordcourant/status/2115267826659242294)** <sub>@hartfordcourant · 10:22 PM</sub>
+  <br>By ZAK GILBERT ST. PETERSBURG, Fla. (AP) — Robert Gasser delivered in the World Series unlike any left-handed starter since Sandy Koufax. Gasser faced the minimum over six dominant innings, pitching the Milwaukee Brewers to the brink… courant.com/2026/10/27/brewe… — Hartford Courant…
+- **[Pole Classes?](https://www.reddit.com/r/Connecticut/comments/1xhc4nl/pole_classes/)** <sub>OkraLol · 10:21 PM</sub>
+  <br>I’ve been so interested in trying out a Pole class as I’ve heard it’s SO GOOD for your upper body strength. Does anyone have any studio recommendations? Central CT preferably:)
+- **[Working Fire New Britain](https://www.facebook.com/groups/BreakingNow/posts/2422486488490519/)** <sub>Doug Oberly · 10:11 PM</sub>
+- **[TAMPA, Fla. — Talking before Monday’s third game of the World Series, Tampa Bay Rays manager Kevin Cash made the first step to climbing out of a two-games-to-none deficit sound so reasonably doable.…](https://x.com/hartfordcourant/status/2115265077678846137)** <sub>@hartfordcourant · 10:11 PM</sub>
+  <br>TAMPA, Fla. — Talking before Monday’s third game of the World Series, Tampa Bay Rays manager Kevin Cash made the first step to climbing out of a two-games-to-none deficit sound so reasonably doable. Score some early runs, get… courant.com/2026/10/27/rays-… — Hartford Courant (@hartfordcourant) Oct…
+- **[By ROB MAADDI ST. PETERSBURG, Fla. (AP) — Jackson Chourio set the tone at the plate, Brice Turang sparked an historic offensive outburst and Robert Gasser shut the door on the mound. The Milwaukee…](https://x.com/hartfordcourant/status/2115263889067671737)** <sub>@hartfordcourant · 10:06 PM</sub>
+  <br>By ROB MAADDI ST. PETERSBURG, Fla. (AP) — Jackson Chourio set the tone at the plate, Brice Turang sparked an historic offensive outburst and Robert Gasser shut the door on the mound. The Milwaukee Brewers are one victory from their… courant.com/2026/10/27/brewe… — Hartford Courant…
+- **[Follow-up: went propane dual fuel (Bryant Evolution 5-ton + 97% modulating LP furnace) in CT — first week of real data](https://www.reddit.com/r/Connecticut/comments/1xhbsxb/followup_went_propane_dual_fuel_bryant_evolution/)** <sub>eat\_a\_burrito · 10:05 PM</sub>
+- **[In Opinion \| We can’t blame these problems on someone else, we did it to ourselves, therefore, it is up to us to work our way out.](https://m.facebook.com/hartfordcourant/posts/pfbid0m2yXNmRPFZ4J7YYf6FVxPEFydtCUM1xM6VTXfjErnMjVp2J1eWVhFSG9GQzNuvA8l)** <sub>Hartford Courant · 10:02 PM</sub>
+- **[By RONALD BLUM ST. PETERSBURG, Fla. (AP) — Taylor Walls stabbed at Brice Turang’s sharp grounder and felt it glance off his glove. “Knife in the chest,” the Tampa Bay Rays shortstop said. Tampa Bay’s…](https://x.com/hartfordcourant/status/2115260583851200609)** <sub>@hartfordcourant · 9:53 PM</sub>
+  <br>By RONALD BLUM ST. PETERSBURG, Fla. (AP) — Taylor Walls stabbed at Brice Turang’s sharp grounder and felt it glance off his glove. “Knife in the chest,” the Tampa Bay Rays shortstop said. Tampa Bay’s first… courant.com/2026/10/27/rays-… — Hartford Courant (@hartfordcourant) Oct 28, 2026
+- **[In their final debate before next week’s election, Gov. Ned Lamont and Republican challenger Ryan Fazio blasted each other Tuesday night on electricity prices, taxes, home heating oil, and affordable…](https://x.com/hartfordcourant/status/2115257450785878404)** <sub>@hartfordcourant · 9:40 PM</sub>
+  <br>In their final debate before next week’s election, Gov. Ned Lamont and Republican challenger Ryan Fazio blasted each other Tuesday night on electricity prices, taxes, home heating oil, and affordable housing. The candidates also… courant.com/2026/10/27/final… — Hartford Courant (@hartfordcourant)…
+- **[It is the fastest-growing Ebola outbreak in history. courant.com/2026/10/27/congo… — Hartford Courant (@hartfordcourant) Oct 28, 2026](https://x.com/hartfordcourant/status/2115255564473119008)** <sub>@hartfordcourant · 9:33 PM</sub>
 - **[New York’s first subway line opened to the public, running 9.1 miles from Manhattan’s City Hall to Harlem and carrying more than 100,000 passengers on its first day.](https://m.facebook.com/hartfordcourant/posts/pfbid036BCn4dWynUdnVqKWqougkksRcmow4YTg5d6Y66VMfawCv857Bft9TyWvR8vFpgcUl)** <sub>Hartford Courant · 9:31 PM</sub>
 - **[The UConn men’s basketball team put on another defensive clinic in its third preseason exhibition win, beating Purdue, 76-53, in Hartford.](https://x.com/hartfordcourant/status/2115252420850725340)** <sub>@hartfordcourant · 9:20 PM</sub>
   <br>The UConn men’s basketball team put on another defensive clinic in its third preseason exhibition win, beating Purdue, 76-53, in Hartford. courant.com/2026/10/27/uconn… — Hartford Courant (@hartfordcourant) Oct 28, 2026
