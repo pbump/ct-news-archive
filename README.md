@@ -1,14 +1,55 @@
 # CT News
 
-Last 30 days · 4562 items · updated Oct 30, 2026 9:17 PM EDT
+Last 30 days · 4590 items · updated Oct 31, 2026 3:01 AM EDT
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Saturday, October 31
+
+- **[Need help finding entry level legal job](https://www.reddit.com/r/Connecticut/comments/1xk1gyo/need_help_finding_entry_level_legal_job/)** <sub>legalaspirer · 1:00 AM</sub>
+  <br>Can someone please send some leads for entry level jobs in the legal field? I did my BS in Political Science and finished all coursework for ABA certified paralegal studies. I am yet to complete the internship component of the paralegal certification program. I am looking for any kind of job or…
+
 ## Friday, October 30
 
+- **[Pedestrian crashes involving kids rise in Connecticut on Halloween](https://www.reddit.com/r/Connecticut/comments/1xk05j2/pedestrian_crashes_involving_kids_rise_in/)** <sub>ILovePublicLibraries · 11:47 PM</sub>
+- **[Manchester approves Main Street changes and parking requirements](https://www.reddit.com/r/Connecticut/comments/1xk053u/manchester_approves_main_street_changes_and/)** <sub>ILovePublicLibraries · 11:47 PM</sub>
+- **[Man driving wrong way during fatal North Haven crash was in country illegally: DHS](https://www.reddit.com/r/Connecticut/comments/1xk04di/man_driving_wrong_way_during_fatal_north_haven/)** <sub>fredelta · 11:46 PM</sub>
+- **[19-Year-Old Arrested Following Marketplace Rolex Robbery at Dairy Queen - Norwich 📍 Dairy Queen, 159 Norwich Avenue, Ta...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0FPgWBsYjSteF8QrS7McmqXLUPB8Mhtup6sEAw5MrCjr4ipA8bjZBrq5JRFuZrYe3l)** <sub>CTPOLICELIVE · 11:15 PM</sub>
+  <br>19-Year-Old Arrested Following Marketplace Rolex Robbery at Dairy Queen - Norwich 📍 Dairy Queen, 159 Norwich Avenue, Taftville, Norwich, CT 📅 Friday, October 30, 2026 - 1:21 p.m. 📻 Key Details -- Norwich Police responded to a reported robbery involving a Facebook Marketplace meetup for two Rolex…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/941974672104425/)** <sub>CTPOLICELIVE · 11:13 PM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Kardashian’s father died from esophageal cancer in 2003.](https://m.facebook.com/hartfordcourant/posts/pfbid02MZEa2BehVjviN8irc43k9xyS6pzPDN6iaBPLcitAuuBPd9RZNHFG9E3jEcDxfUw9l)** <sub>Hartford Courant · 11:02 PM</sub>
+- **[Two helicopters collided and crashed into a farm field. courant.com/2026/10/30/orego… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116362818496671999)** <sub>@hartfordcourant · 10:53 PM</sub>
+- **[The technology could help make deeper learning a must-have feature of K-12 education. {og:title} {article:title} courant.com/2026/10/30/schoo… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116359867510256054)** <sub>@hartfordcourant · 10:41 PM</sub>
+- **[Stewart was a celebrated Shakespearean actor, spending over 15 years with the Royal Shakespeare Company.](https://m.facebook.com/hartfordcourant/posts/pfbid02UNuKvT4AyqqvnhSvjqL9jpcfNcgkoavCJJqFyrm5T1hitXnWuqnwKhYy5dDwhSfql)** <sub>Hartford Courant · 10:32 PM</sub>
+- **[By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled,…](https://x.com/hartfordcourant/status/2116357605391995266)** <sub>@hartfordcourant · 10:32 PM</sub>
+  <br>By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled, according to a person familiar with the… courant.com/2026/10/30/trump… — Hartford Courant…
+- **[Happy Chalk Night you guys!](https://www.reddit.com/r/Connecticut/comments/1xjymt7/happy_chalk_night_you_guys/)** <sub>EmpireCentralRailRd · 10:28 PM</sub>
+  <br>n/m
+- **[LOS ANGELES — Liev Schreiber owned up to his intense behavior at the “Nocturne” premiere last week, apologizing for scolding a red carpet reporter. “I didn’t do well,” the Emmy-winning “Ray…](https://x.com/hartfordcourant/status/2116355626385219990)** <sub>@hartfordcourant · 10:24 PM</sub>
+  <br>LOS ANGELES — Liev Schreiber owned up to his intense behavior at the “Nocturne” premiere last week, apologizing for scolding a red carpet reporter. “I didn’t do well,” the Emmy-winning “Ray… courant.com/2026/10/30/hit-m… — Hartford Courant (@hartfordcourant) Oct 31, 2026
+- **[Amazon was one of the heaviest weights on the market. courant.com/2026/10/30/tech-… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116352653189886392)** <sub>@hartfordcourant · 10:12 PM</sub>
+- **[Hartford CT, Goodwin Park ; Lost Calisthenics equipment Adventures. 8/10 nice location definitely need some repair order than that it’s fun!](https://www.reddit.com/r/Connecticut/comments/1xjy63w/hartford_ct_goodwin_park_lost_calisthenics/)** <sub>Omarionyyourslgreat · 10:05 PM</sub>
+- **[In Opinion \| It serves our common interest to work with China and the international community to develop a common framework of AI regulations and protections.](https://m.facebook.com/hartfordcourant/posts/pfbid0STcrK9szQJaPfQRBfD8a5UHwzSYLtjBXppGYVca1XpA1uA4ZEwiz2anaZwTVfh31l)** <sub>Hartford Courant · 10:03 PM</sub>
+- **[By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled,…](https://x.com/hartfordcourant/status/2116350365033537735)** <sub>@hartfordcourant · 10:03 PM</sub>
+  <br>By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled, according to a person familiar with the… courant.com/2026/10/30/trump… — Hartford Courant…
+- **[It won 53 seats in Tuesday’s voting, while the main opposition secured 48. courant.com/2026/10/30/negot… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116347571736104962)** <sub>@hartfordcourant · 9:52 PM</sub>
+- **[Fun/Big-House Neighborhoods to go Trick or Treating?](https://www.reddit.com/r/Connecticut/comments/1xjxu54/funbighouse_neighborhoods_to_go_trick_or_treating/)** <sub>Spyda1221 · 9:49 PM</sub>
+  <br>You know those moments as you’re casually driving around Connecticut, and you turn down a street by accident; and your jaw drops at the sight of some of the most INCREDIBLE looking houses you’ve ever seen? I was wondering if anyone knows (or lives in) any of these unique, architectural areas. I…
+- **[Authorities said Friday the inquiries are at a very early stage. courant.com/2026/10/30/princ… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116345727332856283)** <sub>@hartfordcourant · 9:45 PM</sub>
+- **[Several European diplomats objected to being photographed with Russia’s top diplomat. courant.com/2026/10/30/g20-a… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116343364589154633)** <sub>@hartfordcourant · 9:35 PM</sub>
+- **[A Stamford resident recently scored the Cash5 top prize for the Oct. 24 drawing…after winning it previously in July, according to the CT Lottery.](https://m.facebook.com/hartfordcourant/posts/pfbid032XZDvoQ9xpw8mCbJ3dYBdxdSfV8Z2XHG5yFVznrp2ss3UsiuPkB4B5Yrnmo6hZWyl)** <sub>Hartford Courant · 9:31 PM</sub>
+- **[Delivering career training online to high schoolers can be challenging. courant.com/2026/10/30/onlin… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116340248112251353)** <sub>@hartfordcourant · 9:23 PM</sub>
+- **[How far did this travel?](https://www.reddit.com/r/Connecticut/comments/1xjx84n/how_far_did_this_travel/)** <sub>Krispy0782 · 9:18 PM</sub>
+  <br>Found in Bethany CT. Does anyone recognize the name or message? Would love to know where it came from!
+- **[By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled,…](https://x.com/hartfordcourant/status/2116337455091605703)** <sub>@hartfordcourant · 9:12 PM</sub>
+  <br>By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled, according to a person familiar with the… courant.com/2026/10/30/trump… — Hartford Courant…
+- **[How far did this travel?](https://www.reddit.com/r/Connecticut/comments/1xjx2l7/how_far_did_this_travel/)** <sub>Krispy0782 · 9:11 PM</sub>
+  <br>Balloon found in Bethany, CT Does anyone recognize the name or message? I’m really curious where it came from!
 - **[By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled,…](https://x.com/hartfordcourant/status/2116335594687070416)** <sub>@hartfordcourant · 9:05 PM</sub>
   <br>By MICHELLE L. PRICE and SEUNG MIN KIM WASHINGTON (AP) — President Donald Trump has rescheduled weekend campaign rallies in a pair of critical Midwestern states that he had previously canceled, according to a person familiar with the… courant.com/2026/10/30/as-ea… — Hartford Courant…
+- **[Police learned that a male allegedly pointed a firearm with an activated red laser at multiple victims in a vehicle.](https://m.facebook.com/hartfordcourant/posts/pfbid0U2UvF1TaeUBjjqBskenu1K3q3we4fhGq9sfgcd4XUp6EHB4qmmKh6skAc4egPNv4l)** <sub>Hartford Courant · 9:03 PM</sub>
 - **[A perfect reflection of the lake in Manchester](https://www.reddit.com/r/Connecticut/comments/1xjwvl2/a_perfect_reflection_of_the_lake_in_manchester/)** <sub>Technical-Lettuce136 · 9:02 PM</sub>
 - **[Raves and costume parties within an hour of torrington.](https://www.reddit.com/r/Connecticut/comments/1xjwql2/raves_and_costume_parties_within_an_hour_of/)** <sub>AppointmentIcy3871 · 8:56 PM</sub>
   <br>I have been trying to get out more and make friends since I really dont have any Im 25. No luck so far cause i find it hard to talk to people. I do find it easy to dance though and recently have being going to raves. Does anyone know any good spots or upcoming events? I wanted to go to toads place…
@@ -16,6 +57,7 @@ Last 30 days · 4562 items · updated Oct 30, 2026 9:17 PM EDT
 - **[Lewy body dementia is the second-most-common form of degenerative dementia, behind Alzheimer’s disease. courant.com/2026/10/30/patri… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116330049183809889)** <sub>@hartfordcourant · 8:42 PM</sub>
 - **[Naugatuck Valley Educated.](https://www.reddit.com/r/Connecticut/comments/1xjwagm/naugatuck_valley_educated/)** <sub>MrBoWiggly · 8:36 PM</sub>
   <br>Dan Orlovsky ladies and gentlemen. Went to Shelton High school.
+- **[Police learned that the alleged abuse occurred on multiple occasions over the summer.](https://m.facebook.com/hartfordcourant/posts/pfbid02D6sAzeZvuE7ZmLL5JMfZq2vf4TSbPq9j2p23Q68nnxzwWsvG7vXStaidv3oqU1Sl)** <sub>Hartford Courant · 8:31 PM</sub>
 - **[The day starts with emotional clarity and ends with a little friction around what everyone actually wants. The Cancer Moon trines Mercury in Scorpio at 3:01 am EDT, making it easier to say what we…](https://x.com/hartfordcourant/status/2116327135912575378)** <sub>@hartfordcourant · 8:31 PM</sub>
   <br>The day starts with emotional clarity and ends with a little friction around what everyone actually wants. The Cancer Moon trines Mercury in Scorpio at 3:01 am EDT, making it easier to say what we mean, trust our instincts, and have honest… courant.com/2026/10/30/daily… — Hartford Courant…
 - **[Trump’s own operation is supporting a so-called spoiler third-party candidate in a key Ohio Senate race. courant.com/2026/10/30/alask… — Hartford Courant (@hartfordcourant) Oct 31, 2026](https://x.com/hartfordcourant/status/2116325332739391947)** <sub>@hartfordcourant · 8:24 PM</sub>
