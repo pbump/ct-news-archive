@@ -1,12 +1,23 @@
 # CT News
 
-Last 30 days · 4733 items · updated Oct 31, 2026 10:38 PM EDT
+Last 30 days · 4739 items · updated Nov 1, 2026 4:40 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Sunday, November 1
+
+- **[First Report / Post Breaking](https://www.facebook.com/groups/BreakingNow/posts/2427101634695671/)** <sub>Joan Maddie · 2:11 AM</sub>
+  <br>First Report / Post Breaking News Here ⬇️⬇️⬇️ ▆▅▃▂▁𝟏𝐬𝐭𝐑𝐞𝐩𝐨𝐫𝐭▁▂▃▅▆▓ 𝗪𝗵𝗲𝗿𝗲 𝗼𝘂𝗿 𝗳𝗼𝗹𝗹𝗼𝘄𝗲𝗿𝘀 𝗰𝗮𝗻 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲 𝗶𝗻 𝗿𝗲𝗮𝗹 𝘁𝗶𝗺𝗲. 𝙋𝙤𝙨𝙩 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙢𝙖𝙟𝙤𝙧 𝙝𝙚𝙧𝙚 𝙖𝙣𝙙 𝙬𝙚 𝙘𝙖𝙣 𝙘𝙤𝙣𝙛𝙞𝙧𝙢 𝙞𝙩, 𝙬𝙚 𝙬𝙞𝙡𝙡 𝙢𝙤𝙫𝙚 𝙞𝙩 𝙩𝙤 𝙖 𝙛𝙪𝙡𝙡 𝙣𝙚𝙬𝙨 𝙥𝙤𝙨𝙩 𝙬𝙞𝙩𝙝 𝙘𝙧𝙚𝙙𝙞𝙩. Report Breaking News Here. This Blog is for the Month of November This is a running…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/965666406166828/)** <sub>CTPOLICELIVE · 2:00 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[Hot off the press! Best license plate frame idea wins.](https://www.reddit.com/r/Connecticut/comments/1xktm5f/hot_off_the_press_best_license_plate_frame_idea/)** <sub>ateam1984 · 12:03 AM</sub>
+
 ## Saturday, October 31
 
+- **[E-Bike Vs Pedestrian Martha's Vinyard](https://www.facebook.com/groups/BreakingNow/posts/2426939138045254/)** <sub>Doug Oberly · 11:35 PM</sub>
+- **[Woman Injured , Male in Custody After Short Standoff with Police in Colchester](https://www.facebook.com/groups/BreakingNow/posts/2426919291380572/)** <sub>Marcus Anthony Rice · 11:08 PM</sub>
+- **[Now may be the time to think about investing some money in your existing home.](https://m.facebook.com/hartfordcourant/posts/pfbid0Wg99HQ1aheqFjUvbVTh2oTXHiUZUgDk4ws6qXVH2sEByeavs2X1Jk3tKHWQAJuSjl)** <sub>Hartford Courant · 11:01 PM</sub>
 - **[What can I do to remove wax on my car’s trim? I tried everything, but nothing seems to work. Any ideas?](https://m.facebook.com/hartfordcourant/posts/pfbid02V2UK3QKkBN3kB4LnVQZqycjxYJ82oGiYngB5hDFoSKByqJreGMSG6hXdJox6enQ8l)** <sub>Hartford Courant · 10:32 PM</sub>
 - **[President George W. Bush nominated Judge Samuel Alito to the Supreme Court.](https://m.facebook.com/hartfordcourant/posts/pfbid02XRpjW1NAn6Ns2PN1JMUz2Z34PEfTAbTu7g8TZNob3w5Zr12L49v3jxad4GEA2KU6l)** <sub>Hartford Courant · 10:02 PM</sub>
 - **[In Opinion \| Just when you thought it could not get any worse for the Republican Party, we have the two leading Republic...](https://m.facebook.com/hartfordcourant/posts/pfbid02aDTMVC1ibzGayLLY9jUofaKheYkv5NrdiJp9kx9CtGvSnGu7QQ29QQ1VhKo7QoA8l)** <sub>Hartford Courant · 9:31 PM</sub>
