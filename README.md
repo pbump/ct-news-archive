@@ -1,12 +1,25 @@
 # CT News
 
-Last 30 days · 4869 items · updated Nov 1, 2026 9:47 PM EST
+Last 30 days · 4876 items · updated Nov 2, 2026 5:00 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Monday, November 2
+
+- **[Housing Week Ahead: Monthly Trends Data, Mortgage Rates, and Jobs Report](https://www.realtor.com/news/trends/housing-week-ahead-video-jobs-report-november-2-2026/)** <sub>Jake Krimmel · 4:36 AM</sub>
+  <br>With all eyes on Election Day , this marks a relatively light week for new Realtor.com economics research reports and housing market indicators. On Wednesday, I'll be issuing our October monthly housing trends report, taking a look at whether elevated mortgage rates caused buyers or sellers to pull…
+- **[Sandy Hook, CT native chats about his upbringing and first season as a Pro Soccer player](https://www.reddit.com/r/Connecticut/comments/1xlrolm/sandy_hook_ct_native_chats_about_his_upbringing/)** <sub>Late\_Mistake\_993 · 3:20 AM</sub>
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2197150074547061/)** <sub>CTPOLICELIVE · 2:25 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+
 ## Sunday, November 1
 
+- **[Contractors for bathroom remodel](https://www.reddit.com/r/Connecticut/comments/1xlndu7/contractors_for_bathroom_remodel/)** <sub>EarFlaky9268 · 11:05 PM</sub>
+- **[🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🚧Demolition begins on former Cromwell hot...](https://m.facebook.com/theconnecticutscoop/posts/pfbid0u7bfbppuvP8LEHHWXfuKCUEXuAad9ovijCyGYHskp9Nktx9VCWbWfcC9e6ZpMMNil)** <sub>The Connecticut Scoop · 9:32 PM</sub>
+  <br>🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🚧Demolition begins on former Cromwell hotel ahead of mixed-use development 🔗 https://www.facebook.com/share/p/1LeH3TY7zX/ • • ☕️Torrington Savings Bank & 7 Brew eyes for site in Southington 🔗…
+- **[The loss of a son to war often embitters those left behind. Helen and Bob could have wandered down any one of those paths; instead, ennobled by their son’s sacrifice, they chose to do good.](https://m.facebook.com/hartfordcourant/posts/pfbid0VVfdhZRzTCMP953KhiFKx42T5cPjfwHWq6zQibPCmhkKaCjweU9K7fqTJQBmAH6dl)** <sub>Hartford Courant · 9:32 PM</sub>
+- **[Chris Murphy hospitalized for stroke](https://www.reddit.com/r/Connecticut/comments/1xllf56/chris_murphy_hospitalized_for_stroke/)** <sub>ffff-f-fingerpuppets · 9:24 PM</sub>
 - **[A citizen of Honduras pleaded guilty to unlawful entry into the United States after being arrested on several charges in Stamford, officials said.](https://m.facebook.com/hartfordcourant/posts/pfbid06zVmoUbRWSdufhr1YtjuMo2M7wUDNfphqLDGAFqDYK8UPErJfE6xGuwYrJ4vFb2Xl)** <sub>Hartford Courant · 8:31 PM</sub>
 - **[WEST PALM BEACH, Fla. (AP) — A business jet carrying 9 people crashed in a Florida neighborhood Sunday, erupting in a massive fireball. The Learjet 60 was carrying nine people when it crashed in a…](https://x.com/hartfordcourant/status/2117055103815299093)** <sub>@hartfordcourant · 7:44 PM</sub>
   <br>WEST PALM BEACH, Fla. (AP) — A business jet carrying 9 people crashed in a Florida neighborhood Sunday, erupting in a massive fireball. The Learjet 60 was carrying nine people when it crashed in a residential area in Florida’s… courant.com/2026/11/01/jet-n… — Hartford Courant (@hartfordcourant) Nov…

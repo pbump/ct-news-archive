@@ -1,16 +1,93 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-11-02T02:47:44.211690+00:00",
+ "updated": "2026-11-02T10:00:22.761840+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://www.realtor.com/news/trends/housing-week-ahead-video-jobs-report-november-2-2026/",
+   "title": "Housing Week Ahead: Monthly Trends Data, Mortgage Rates, and Jobs Report",
+   "link": "https://www.realtor.com/news/trends/housing-week-ahead-video-jobs-report-november-2-2026/",
+   "summary": "With all eyes on Election Day , this marks a relatively light week for new Realtor.com economics research reports and housing market indicators. On Wednesday, I'll be issuing our October monthly housing trends report, taking a look at whether elevated mortgage rates caused buyers or sellers to pull…",
+   "author": "Jake Krimmel",
+   "image": "https://na.rdcpix.com/fcabafc861af7ebcbd4acf362ee35c1aw-c2963755443srd_q80.jpg",
+   "published": "2026-11-02T09:36:00+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T09:36:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xlrolm/sandy_hook_ct_native_chats_about_his_upbringing/",
+   "title": "Sandy Hook, CT native chats about his upbringing and first season as a Pro Soccer player",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xlrolm/sandy_hook_ct_native_chats_about_his_upbringing/",
+   "summary": "",
+   "author": "Late_Mistake_993",
+   "image": "https://external-preview.redd.it/Pc5DyUSH2yvw4079ccZHNFs3WmGzyGviYByeSJ8pyK8.jpeg?width=320&crop=smart&auto=webp&s=fbf1751416940922a935febb7cf45fb57e01bc73",
+   "published": "2026-11-02T08:20:54+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T08:20:54+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/videos/2197150074547061/",
+   "title": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/videos/2197150074547061/",
+   "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/886984594_897836850086778_2611962633469778640_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=l0FbuiWklyAQ7kNvwEwPjtj&_nc_oc=Adr4cVoyTTHQzW37VxFLRb9MnnDESTGj02CBwGlYvFWAF6qSnPLBGrEA5CPZi7YNk4IFjFOXDbRDAhfVo9ZqIcXK&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=jUp5blcFTxniIMqHm9o7ig&_nc_ss=7c289&oh=00_AQSjbhygOFH8PJeEZtkWLV6d8ZAcVYZzYUbCL7NAq5wanw&oe=6AEE2A92",
+   "published": "2026-11-02T07:25:29+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T07:25:29+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xlndu7/contractors_for_bathroom_remodel/",
+   "title": "Contractors for bathroom remodel",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xlndu7/contractors_for_bathroom_remodel/",
+   "summary": "",
+   "author": "EarFlaky9268",
+   "image": null,
+   "published": "2026-11-02T04:05:57+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T04:05:57+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0u7bfbppuvP8LEHHWXfuKCUEXuAad9ovijCyGYHskp9Nktx9VCWbWfcC9e6ZpMMNil",
+   "title": "🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🚧Demolition begins on former Cromwell hot...",
+   "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0u7bfbppuvP8LEHHWXfuKCUEXuAad9ovijCyGYHskp9Nktx9VCWbWfcC9e6ZpMMNil",
+   "summary": "🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🚧Demolition begins on former Cromwell hotel ahead of mixed-use development 🔗 https://www.facebook.com/share/p/1LeH3TY7zX/ • • ☕️Torrington Savings Bank & 7 Brew eyes for site in Southington 🔗…",
+   "author": "The Connecticut Scoop",
+   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/865688150_1193643719905411_394341525060563815_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=U3o3KFao6Q4Q7kNvwHXKJvv&_nc_oc=Adr-e2xw3B6dfBLblJKZOGs28mTsbZef0mTjQuTolTfA27EfkwgaGDC0zMi2N_TpHVpcRY84dWQE4oTgdYXhV5rQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4ef6YPY7YlNKYSQQdsDH1g&_nc_ss=7c289&oh=00_AQTb6hH3xZiQpOxVqCPu-wp1J752offAk9EcFvMuBl62lA&oe=6AEE20E5",
+   "published": "2026-11-02T02:32:50+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T02:32:50+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0VVfdhZRzTCMP953KhiFKx42T5cPjfwHWq6zQibPCmhkKaCjweU9K7fqTJQBmAH6dl",
+   "title": "The loss of a son to war often embitters those left behind. Helen and Bob could have wandered down any one of those paths; instead, ennobled by their son’s sacrifice, they chose to do good.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0VVfdhZRzTCMP953KhiFKx42T5cPjfwHWq6zQibPCmhkKaCjweU9K7fqTJQBmAH6dl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/876710202_1549031013921401_3945982863167742228_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=8-EsBlNXMQIQ7kNvwEd41Z5&_nc_oc=AdqEhPEjbSiuvyzRvY_-VTY3lyvTevLBh1V8_iL1mIkxGUo_G-NlvMiMVLMoQN5HQH2fGaF2Rp7HZUJSf1uwiwdE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MG9LFebBFF22I6DFvalSGA&_nc_ss=7c289&oh=00_AQQ_WAhNlQZJqPJgeZshj4fXsFXiAt0r2OKcup4UiKROWQ&oe=6AEE359C",
+   "published": "2026-11-02T02:32:07+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T02:32:07+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xllf56/chris_murphy_hospitalized_for_stroke/",
+   "title": "Chris Murphy hospitalized for stroke",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xllf56/chris_murphy_hospitalized_for_stroke/",
+   "summary": "",
+   "author": "ffff-f-fingerpuppets",
+   "image": "https://external-preview.redd.it/v5AXVnLMsQRH4Uv-bIq_M4M3GdScHtqrKBdx4dSRIec.jpeg?width=640&crop=smart&auto=webp&s=074461e7a80681e5dab96b68e99cc0d436bcdf7c",
+   "published": "2026-11-02T02:24:22+00:00",
+   "first_seen": "2026-11-02T10:00:22.761840+00:00",
+   "date": "2026-11-02T02:24:22+00:00"
+  },
   {
    "id": "https://m.facebook.com/hartfordcourant/posts/pfbid06zVmoUbRWSdufhr1YtjuMo2M7wUDNfphqLDGAFqDYK8UPErJfE6xGuwYrJ4vFb2Xl",
    "title": "A citizen of Honduras pleaded guilty to unlawful entry into the United States after being arrested on several charges in Stamford, officials said.",
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid06zVmoUbRWSdufhr1YtjuMo2M7wUDNfphqLDGAFqDYK8UPErJfE6xGuwYrJ4vFb2Xl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/866592139_1548993533925149_4488366999001317633_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=111&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=4OsOsDfcEr4Q7kNvwHMXFXv&_nc_oc=AdrOtD7MDnXIsM1zhmlkY7FAMGszex-lN6FJYt7jSCHdrn8-n7IB8JGsgMAqiAsxMRTFpRANKUPFBeIrG3meGjjI&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=OMPuQC06Rz_I-PPSTy3vYQ&_nc_ss=7c289&oh=00_AQSfddeglMixD8XraCOY5r4hmBTfFWiP35RAV3BYr7PaRg&oe=6AEDAD57",
+   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/866592139_1548993533925149_4488366999001317633_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=111&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=4OsOsDfcEr4Q7kNvwGgezfF&_nc_oc=Adp3oA-m3oV_ianDNH1rfB9AAPydORP6-Y7bWZedxUTkxcH0ZhKJi3TJj03x7E0aDteyadhrZARV4iSpdAdeZNOs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=MG9LFebBFF22I6DFvalSGA&_nc_ss=7c289&oh=00_AQQpEN-mLheUSiIibZV3NpkwBEM_F63KtOYxPzdWhRGAVA&oe=6AEE1DD7",
    "published": "2026-11-02T01:31:23+00:00",
    "first_seen": "2026-11-02T02:47:44.211690+00:00",
    "date": "2026-11-02T01:31:23+00:00"
@@ -32,7 +109,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0QfS7RWnJFrg6PjpBfQ65hU8MmJRtc312vFfAuNUE3iAs8papupSvqpECTohU14oKl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/869274074_1548957100595459_1070509945137104746_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=E5g1-1DNx8QQ7kNvwHzqHXs&_nc_oc=Ado1SSEO1F5DFUC5jfVUENTPEWycAIvLhLV77Tvv6a3GFsQJg3WBW--He8WxAAMWBYVW2sGWxD8irPfyaPqUWCQr&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=OMPuQC06Rz_I-PPSTy3vYQ&_nc_ss=7c289&oh=00_AQT_-mLIPiaPOnFRVuf5n2p_xIcVY3QeYliLcWDYnob_1w&oe=6AEDC928",
+   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/869274074_1548957100595459_1070509945137104746_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=E5g1-1DNx8QQ7kNvwEpmb6J&_nc_oc=AdraKFT6PCq0gN1p461Y2_VvagfvHXrFOdQCwtpbazym2Fo3EXolkmuz8s1I-R755vu3MCk48LOw7A3UfTY7rWdQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=MG9LFebBFF22I6DFvalSGA&_nc_ss=7c289&oh=00_AQQ0lxK0jHv8RncTcn6Q_cogns9C--8aRCAyzzjcJG-36g&oe=6AEE39A8",
    "published": "2026-11-02T00:32:31+00:00",
    "first_seen": "2026-11-02T02:47:44.211690+00:00",
    "date": "2026-11-02T00:32:31+00:00"
@@ -98,7 +175,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0d3AMnDG3fVEPW1Hcu8qdgHnSNVqTtHRphwttSfwYRoN64jLfBZ9Fsv5kS3p44mkol",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/886552021_1548923627265473_8973729191084180742_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=7_cCMCMwEScQ7kNvwHEkT-Q&_nc_oc=AdpkvdiHRdl2D6TjkPolkuihbNdJNODlK7JTj1CAFh0dmj3IYv2pJ8yQfiQchoDmar0UTOB2v3iYdPe4HVOoyoYu&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=OMPuQC06Rz_I-PPSTy3vYQ&_nc_ss=7c289&oh=00_AQTKpGOXO0ajTho6Ucb-H0Wt5LCS_DuVTiRIOAjctRJYQw&oe=6AEDBFB1",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886552021_1548923627265473_8973729191084180742_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=7_cCMCMwEScQ7kNvwFj6igZ&_nc_oc=AdrMOUDnzX8SGE0R5xCAq9EPRt6U74PAmgjmI3tIfuV2VtXVtfYElWjSDKkgay8V2gr162zeP8fqOsAbtTJI8Q7s&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MG9LFebBFF22I6DFvalSGA&_nc_ss=7c289&oh=00_AQQha12BxB0HYKGWGdVOq6UPMoiR5RJIzhMEG7JYzoNFNA&oe=6AEE3031",
    "published": "2026-11-01T23:32:49+00:00",
    "first_seen": "2026-11-02T02:47:44.211690+00:00",
    "date": "2026-11-01T23:32:49+00:00"
@@ -142,7 +219,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid04cTMwJcJ3snfh98ryq8r8VAw2LTZoLbAF9GeMasYhV4M1pbT4noTu5yqhx3U9z7wl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/863246226_1548890390602130_8796629770626797285_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=6NUw_vBrw40Q7kNvwGMpyub&_nc_oc=AdrsBOXQ2LibwmkId7qHtjlpCNQilCAKTEyotkfLvRrhpEynpb6CK8JEOslcs5XaVGEEJhNiuF_dt75Y8iktJjI-&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=OMPuQC06Rz_I-PPSTy3vYQ&_nc_ss=7c289&oh=00_AQRQFG4Q6OzgxFAS2FQN8-h58FGJzMUPKioG7tc-noUuOg&oe=6AEDDA40",
+   "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/863246226_1548890390602130_8796629770626797285_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=6NUw_vBrw40Q7kNvwGZ667Q&_nc_oc=AdqS5EaoV4XJtArATHkNeiAA0X0gGcgVJkheV_oJFUYrNk4iFINU0Upvd44G0jh-rqnNliXenXGX4leoWNFa88ho&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=MG9LFebBFF22I6DFvalSGA&_nc_ss=7c289&oh=00_AQTi5zT4HxdZNvZIZ9lD-GeccAzjnRdGqbMPLm7kLy4_Cw&oe=6AEE1280",
    "published": "2026-11-01T22:32:06+00:00",
    "first_seen": "2026-11-01T23:51:02.940185+00:00",
    "date": "2026-11-01T22:32:06+00:00"
@@ -296,7 +373,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0Sb3eee7y3t9mt56TYxLLwG4fZrz8zWRY7kR49Y6gkyQxKG1mPKkrp1UHqZH5untkl",
    "summary": "🚨New Chester Scoop!🚨 🎉Finally got the chance to check out the newer Three Fates Coffee, Wine, Cocktail bar in Chester! 🍹The cocktail lounge opened its doors this summer featuring a curated selection of craft cocktails, artisan coffee, and local wines in Downtown Chester. The lounge is located at 1…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/877621853_1193449596591490_7488780406843299580_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e21142&_nc_ohc=z_1Gn-7H29QQ7kNvwG2WMQb&_nc_oc=Ado8H-rknyTuMtq8UbgoXI4ZZmH3DIeqtBZb5vkXsFG-lnkxg7iIaKV1v-HO4Gjmk6o&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=tlQsc_isdn3Q_N1XEzf7zw&_nc_ss=7c289&oh=00_AQRyiYUWHSWB-zxKDskUBfGkqmRMV5kFCPhbfL3uoa0uJw&oe=6AEDD942",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/877621853_1193449596591490_7488780406843299580_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e21142&_nc_ohc=z_1Gn-7H29QQ7kNvwETbpel&_nc_oc=Adq7fPsdecVqfmKvpjEZmneW9RVon_Jf5LhnQr3qJtLXzhEUy0gOMVN-LGOVCtH1WDis7FcIWwydeFclHqAEQOIF&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4ef6YPY7YlNKYSQQdsDH1g&_nc_ss=7c289&oh=00_AQSvzm25_8OPqopU-ZYIBaVZyAugGvG635lyh_7PkyDKxw&oe=6AEE1182",
    "published": "2026-11-01T20:50:13+00:00",
    "first_seen": "2026-11-01T23:51:02.940185+00:00",
    "date": "2026-11-01T20:50:13+00:00"
