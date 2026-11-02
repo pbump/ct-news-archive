@@ -1,12 +1,26 @@
 # CT News
 
-Last 30 days · 4860 items · updated Nov 1, 2026 6:51 PM EST
+Last 30 days · 4869 items · updated Nov 1, 2026 9:47 PM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
 ## Sunday, November 1
 
+- **[A citizen of Honduras pleaded guilty to unlawful entry into the United States after being arrested on several charges in Stamford, officials said.](https://m.facebook.com/hartfordcourant/posts/pfbid06zVmoUbRWSdufhr1YtjuMo2M7wUDNfphqLDGAFqDYK8UPErJfE6xGuwYrJ4vFb2Xl)** <sub>Hartford Courant · 8:31 PM</sub>
+- **[WEST PALM BEACH, Fla. (AP) — A business jet carrying 9 people crashed in a Florida neighborhood Sunday, erupting in a massive fireball. The Learjet 60 was carrying nine people when it crashed in a…](https://x.com/hartfordcourant/status/2117055103815299093)** <sub>@hartfordcourant · 7:44 PM</sub>
+  <br>WEST PALM BEACH, Fla. (AP) — A business jet carrying 9 people crashed in a Florida neighborhood Sunday, erupting in a massive fireball. The Learjet 60 was carrying nine people when it crashed in a residential area in Florida’s… courant.com/2026/11/01/jet-n… — Hartford Courant (@hartfordcourant) Nov…
+- **[Connecticut’s wetland law includes soils classified as poorly drained, very poorly drained, alluvial, or floodplain.](https://m.facebook.com/hartfordcourant/posts/pfbid0QfS7RWnJFrg6PjpBfQ65hU8MmJRtc312vFfAuNUE3iAs8papupSvqpECTohU14oKl)** <sub>Hartford Courant · 7:32 PM</sub>
+- **[One enthusiastic yes could change the shape of our day… The Moon joins assertive Mars in Leo this morning, making it easier to act on an idea we’ve only been talking about. By the Moon’s meeting with…](https://x.com/hartfordcourant/status/2117049572065173596)** <sub>@hartfordcourant · 7:22 PM</sub>
+  <br>One enthusiastic yes could change the shape of our day… The Moon joins assertive Mars in Leo this morning, making it easier to act on an idea we’ve only been talking about. By the Moon’s meeting with Jupiter at 5:50 PM… courant.com/2026/11/01/daily… — Hartford Courant (@hartfordcourant) Nov 2, 2026
+- **[Made a watercolor painting at one of my favorite spots in Connecticut](https://www.reddit.com/r/Connecticut/comments/1xlio0s/made_a_watercolor_painting_at_one_of_my_favorite/)** <sub>anthony27sal · 7:10 PM</sub>
+- **[Help Available?](https://www.reddit.com/r/Connecticut/comments/1xlijfj/help_available/)** <sub>Authenticity\_Core · 7:04 PM</sub>
+  <br>Hello all! I hope you’re doing well. I need emergency surgery that requires sedation. In order to get that, I need someone to accompany me and sign me out, agree to stay with me for 24 hours. I don’t have that. I’m 51 years old. I recently left an abusive marriage. I don’t know what to do to get…
+- **[If someone hits you on the highway, best to NOT get out of your car to inspect the damages...in the middle of oncoming traffic](https://www.reddit.com/r/Connecticut/comments/1xlibhw/if_someone_hits_you_on_the_highway_best_to_not/)** <sub>constaleah · 6:55 PM</sub>
+  <br>So I was on the highway on Thursday, and traffic stopped well before the exit ramp I wanted to use. i slowed down and stopped in the long, long line and was waiting patiently to exit, when someone hit someone right from behind, right beside me. i saw the entire thing out my window. their bumper…
+- **[By JANIE McCAULEY SAN FRANCISCO (AP) — A fresh WNBA CHAMPIONS T-shirt over her uniform, Gabby Williams cradled the shiny MVP trophy in one arm and gave it a kiss. She held up a No. 1 with her left…](https://x.com/hartfordcourant/status/2117042129352475015)** <sub>@hartfordcourant · 6:52 PM</sub>
+  <br>By JANIE McCAULEY SAN FRANCISCO (AP) — A fresh WNBA CHAMPIONS T-shirt over her uniform, Gabby Williams cradled the shiny MVP trophy in one arm and gave it a kiss. She held up a No. 1 with her left hand, then hugged and high-fived her… courant.com/2026/11/01/gabby… — Hartford Courant…
+- **[Federal officials said a search of the vehicle led to the discovery of cocaine hidden in two compartments that were installed under each front seat.](https://m.facebook.com/hartfordcourant/posts/pfbid0d3AMnDG3fVEPW1Hcu8qdgHnSNVqTtHRphwttSfwYRoN64jLfBZ9Fsv5kS3p44mkol)** <sub>Hartford Courant · 6:32 PM</sub>
 - **[With visiting fans taking over MetLife Stadium, the Jets (2-6) squandered a nine-point halftime lead and fell to the Raiders (4-4), 38-33, on a sunny, 60-degree Sunday afternoon.](https://x.com/hartfordcourant/status/2117032788578767184)** <sub>@hartfordcourant · 6:15 PM</sub>
   <br>With visiting fans taking over MetLife Stadium, the Jets (2-6) squandered a nine-point halftime lead and fell to the Raiders (4-4), 38-33, on a sunny, 60-degree Sunday afternoon. courant.com/2026/11/01/raide… — Hartford Courant (@hartfordcourant) Nov 1, 2026
 - **[Sheila Chepkirui of Kenya won the women’s race of the New York City Marathon for the second time in three years on Sunday while Andreas Almgren of Sweden was victorious in his debut in the distance.](https://x.com/hartfordcourant/status/2117029224510865466)** <sub>@hartfordcourant · 6:01 PM</sub>
