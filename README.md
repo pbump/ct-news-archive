@@ -1,12 +1,36 @@
 # CT News
 
-Last 30 days · 5338 items · updated Nov 4, 2026 9:45 PM EST
+Last 30 days · 5353 items · updated Nov 5, 2026 4:52 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Thursday, November 5
+
+- **[Black Excellence](https://www.reddit.com/r/Connecticut/comments/1xoeawj/black_excellence/)** <sub>fliptestyes · 4:23 AM</sub>
+- **[Homebuilder Stocks Surge After Democratic Sweep as Hopes Rise for Affordability Gains](https://www.realtor.com/news/trends/homebuilder-stocks-midterms-democratic-sweep-pultegroup/)** <sub>Anna D'Amico · 4:12 AM</sub>
+  <br>Homebuilders and housing suppliers saw significant jumps in their share prices following Tuesday’s midterm elections. At the closing bell on Wednesday, shares of major builders Lennar and PulteGroup were up more than 7% on the day, and D.R. Horton rose more than 8%. Suppliers showed similar…
+- **[WH nightly walks](https://www.reddit.com/r/Connecticut/comments/1xod03m/wh_nightly_walks/)** <sub>SoilFuzzy2569 · 2:57 AM</sub>
+  <br>I 17m live in west haven and I like going on nightly walks, and do dumb things, but it gets lonely. Hmu if your in the area and wanna join, male or female, age don't matter
+- **[New Haven library employee, 67, dies after being struck by car](https://www.reddit.com/r/Connecticut/comments/1xoc3fa/new_haven_library_employee_67_dies_after_being/)** <sub>ILovePublicLibraries · 1:57 AM</sub>
+  <br>What a devastating tragic situation especially for a library community in the city of New Haven. Sad to hear of this shocking moment. I bet she was a wonderful library employee at the main library. She will be missed dearly.
+- **[Trying to find a mugshot from the year 2000](https://www.reddit.com/r/Connecticut/comments/1xobi91/trying_to_find_a_mugshot_from_the_year_2000/)** <sub>thatisnotmyknob · 1:20 AM</sub>
+  <br>The arrest happened in Greenwich. Its not online. Would a FOIA work? Its also my mugshot. I'm not being invasive. I've never seen it and It was a fun night.
+
 ## Wednesday, November 4
 
+- **[Outage in Southington](https://www.reddit.com/r/Connecticut/comments/1xo9bvo/outage_in_southington/)** <sub>Lumpy\_Balance806 · 11:16 PM</sub>
+  <br>Anyone know why?? Mt Vernon / Jude Lane area
+- **[Leo quoted a Dylan protest song in his 2026 book.](https://m.facebook.com/hartfordcourant/posts/pfbid0Zs5gXm8EengtvwGh5XsghrMDPMBrq8k7HKZ2NRERR9hjpyAtVacxcMtBrey2BHDl)** <sub>Hartford Courant · 11:01 PM</sub>
+- **[Frightening Encounter In New Haven Tonight](https://www.reddit.com/r/Connecticut/comments/1xo8nzk/frightening_encounter_in_new_haven_tonight/)** <sub>Bjorge861 · 10:42 PM</sub>
+  <br>It was around 9pm when I left a bar in New Haven after hanging out with a couple of friends. I was walking on Chapel Street to my car when I was approached by a man, who looked to be homeless. He asked me for the time and I told him the time. Then he asked me if I could buy him a drink and I said…
+- **[Ronald Reagan opened his presidential library in Simi Valley, California; attending were President George H.W. Bush and former Presidents Jimmy Carter, Gerald R. Ford and Richard Nixon.](https://m.facebook.com/hartfordcourant/posts/pfbid02hT3RQ1uLbjnhAeBYC5ztkU9VrXMxBMz8CuPpifxyPDZ7msoa9PZXUvfaCCectWK6l)** <sub>Hartford Courant · 10:30 PM</sub>
+- **[Machines would not accept paper ballots when polls opened Tuesday because of a programming glitch. courant.com/2026/11/03/elect… — Hartford Courant (@hartfordcourant) Nov 5, 2026](https://x.com/hartfordcourant/status/2118179749243625794)** <sub>@hartfordcourant · 10:13 PM</sub>
+- **[She will be the first Democrat elected governor in Texas since the 1990s. courant.com/2026/11/03/elect… — Hartford Courant (@hartfordcourant) Nov 5, 2026](https://x.com/hartfordcourant/status/2118177486072611189)** <sub>@hartfordcourant · 10:04 PM</sub>
+- **[A Democrat had not won a Senate race in Kansas since 1932 courant.com/2026/11/03/kansa… — Hartford Courant (@hartfordcourant) Nov 5, 2026](https://x.com/hartfordcourant/status/2118174716192034871)** <sub>@hartfordcourant · 9:53 PM</sub>
+- **[Smart thermostats are the latest innovation in efficiently heating and cooling your home. We’ve rounded up some of the best. {og:title} {article:title}](https://x.com/hartfordcourant/status/2118171950577000692)** <sub>@hartfordcourant · 9:42 PM</sub>
+  <br>Smart thermostats are the latest innovation in efficiently heating and cooling your home. We’ve rounded up some of the best. {og:title} {article:title} courant.com/2026/11/03/9-sma… — Hartford Courant (@hartfordcourant) Nov 5, 2026
+- **[UConn women’s basketball star Sarah Strong earned another preseason recognition on Wednesday, as she was named to the Wade Trophy watch list.](https://m.facebook.com/hartfordcourant/posts/pfbid02t2hDNoky7EHP4CqiadRpix7ZB2LhTzHZjXqSqhKTiLoUhYG4bo7PU7aB63mnHG39l)** <sub>Hartford Courant · 9:31 PM</sub>
 - **[Do you dream of hosting the perfect Thanksgiving dinner? Picking lovely table decor can be a great place to start {og:title} {article:title}](https://x.com/hartfordcourant/status/2118168934641750043)** <sub>@hartfordcourant · 9:30 PM</sub>
   <br>Do you dream of hosting the perfect Thanksgiving dinner? Picking lovely table decor can be a great place to start {og:title} {article:title} courant.com/2026/11/04/best-… — Hartford Courant (@hartfordcourant) Nov 5, 2026
 - **[Bluetooth beanies are a novel way to listen to your favorite tunes while out and about. Try these top picks. {og:title} {article:title}](https://x.com/hartfordcourant/status/2118167165891133563)** <sub>@hartfordcourant · 9:23 PM</sub>
@@ -14,6 +38,7 @@ Last 30 days · 5338 items · updated Nov 4, 2026 9:45 PM EST
 - **[CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era courant.com/2026/11/04/cvs-t… — Hartford Courant (@hartfordcourant) Nov 5, 2026](https://x.com/hartfordcourant/status/2118163901468528966)** <sub>@hartfordcourant · 9:10 PM</sub>
 - **[Parolee Arrested After Gun and Drugs Seized During Apartment Raid - Stamford 📍 Stamford, CT 📅 Wednesday, November 4,...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0NfEcRafPzVer2YQJTn96JKzZ6n9XnBNbqY9k3xBTbGTTvAeDgWhkrnr7s1taDMZ8l)** <sub>CTPOLICELIVE · 9:03 PM</sub>
   <br>Parolee Arrested After Gun and Drugs Seized During Apartment Raid - Stamford 📍 Stamford, CT 📅 Wednesday, November 4, 2026 📻 Key Details -- A joint investigation by Bridgeport and Stamford Police led to the arrest of a 30-year-old parolee on multiple firearm and narcotics charges -- Task Force…
+- **[Britney Spears put her little sister, Jamie Lynn, and ex Kevin Federline on blast, publicly vowing to “find a new family” rather than continue enduring how they have been treating her in recent years.](https://m.facebook.com/hartfordcourant/posts/pfbid02BkUGz6q3avqvM6rW97zz39meowmwzp4FJ3Ke5dcgu2B4mWEzfKqiRUacbiBg7pVZl)** <sub>Hartford Courant · 9:01 PM</sub>
 - **[A climbing anchor suffered a “catastrophic failure” during an attempted rappel, officials said. courant.com/2026/11/04/color… — Hartford Courant (@hartfordcourant) Nov 5, 2026](https://x.com/hartfordcourant/status/2118161391378923756)** <sub>@hartfordcourant · 9:00 PM</sub>
 - **[Requesting changes to bill due dates can ease cash flow management. {og:title} {article:title} courant.com/2026/11/04/asked… — Hartford Courant (@hartfordcourant) Nov 5, 2026](https://x.com/hartfordcourant/status/2118159367262314891)** <sub>@hartfordcourant · 8:52 PM</sub>
 - **[My take.](https://www.reddit.com/r/Connecticut/comments/1xo6aif/my_take/)** <sub>Alpha\_Mad\_Dog · 8:44 PM</sub>
