@@ -1,16 +1,50 @@
 # CT News
 
-Last 30 days · 5331 items · updated Nov 5, 2026 9:51 PM EST
+Last 30 days · 5343 items · updated Nov 6, 2026 4:56 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Friday, November 6
+
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1663255125474726/)** <sub>CTPOLICELIVE · 12:43 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+
 ## Thursday, November 5
 
+- **[How is it living in Connecticut, USA ?](https://www.reddit.com/r/Connecticut/comments/1xp48fb/how_is_it_living_in_connecticut_usa/)** <sub>explainthis\_clarissa · 11:54 PM</sub>
+- **[Weird boom sounds near Windsor Ave, Meriden.](https://www.reddit.com/r/Connecticut/comments/1xp3hy2/weird_boom_sounds_near_windsor_ave_meriden/)** <sub>Charming-Assistant64 · 11:13 PM</sub>
+- **[MVA Head-On Ashford #ashford #BreakingNow 249 Ashford Center Rd 2 car MVA Head-On LifeStar Auto-Launch Mansfield Ambulance mutual aid - 2nd Ambulance in 11:00PM](https://www.facebook.com/groups/BreakingNow/posts/2432439360828565/)** <sub>Doug Oberly · 11:01 PM</sub>
+- **[Did anyone see something flying over Ridge Rd in Hamden tonight at around 7pm?](https://www.reddit.com/r/Connecticut/comments/1xp369h/did_anyone_see_something_flying_over_ridge_rd_in/)** <sub>Interesting\_Slice277 · 10:55 PM</sub>
+  <br>A drone was my best guess even tho I know nothing about them.. It was dark and I couldnt take a pic since I was driving. There were several lights on it including arrows thay were lit up. Just wondering if anyone else saw it. BTW, I am not implying it was some alien conspiracy.
+- **[Experts warn that the U.S. could face a shortage of 157,000 engineers and technicians by 2030. courant.com/2026/11/05/commu… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118551482152759672)** <sub>@hartfordcourant · 10:50 PM</sub>
+- **[Service allows members to order from Uber Eats with no delivery fees for orders over $25. courant.com/2026/11/05/amazo… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118549453145608702)** <sub>@hartfordcourant · 10:42 PM</sub>
+- **[To be inducted, toys must be iconic and engage multiple generations. courant.com/2026/11/05/toy-h… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118547436956250507)** <sub>@hartfordcourant · 10:34 PM</sub>
+- **[Temp jobs](https://www.reddit.com/r/Connecticut/comments/1xp2rg2/temp_jobs/)** <sub>throughcracker · 10:33 PM</sub>
+  <br>I'm asking for me, but also hoping this can become a general post. Does anyone have any recommendations for good temp agencies or short term jobs in general? I'll be visiting home for about a month next spring and want to make some extra money while I'm there.
+- **[Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026](https://www.facebook.com/reel/1515186530467973/)** <sub>CTPOLICELIVE · 10:23 PM</sub>
+  <br>Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026 - 11:07 a.m. (West Hartford) / 11:23 a.m. (Southington Walmart) 📻 Key Details -- Southington Police are seeking additional information about a man involved in disturbances and vehicle…
+- **[Iranian authorities are targeting dissent amid an ongoing U.S. war, worsening economic crisis. courant.com/2026/11/05/iran-… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118544205001687139)** <sub>@hartfordcourant · 10:21 PM</sub>
+- **[One headlight](https://www.reddit.com/r/Connecticut/comments/1xp2gl4/one_headlight/)** <sub>Reasonable\_Pay6151 · 10:18 PM</sub>
+  <br>How is it there are so many vehicles driving our roads with one headlamp out?
+- **[Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02mQVa74Evwf59tvXvooEwh7QyHrj86pkUE5ujUyJKtENjpv2qCt4UXvdxt6BC3FDYl)** <sub>CTPOLICELIVE · 10:13 PM</sub>
+  <br>Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026 - 11:07 a.m. (West Hartford) / 11:23 a.m. (Southington Walmart) 📻 Key Details -- Southington Police are seeking additional information about a man involved in disturbances and vehicle…
+- **[None of the injuries are believed to be life-threatening. courant.com/2026/11/05/iowa-… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118541958830321684)** <sub>@hartfordcourant · 10:12 PM</sub>
+- **[How is the nightlife at Foxwoods after the shrine shutdown?](https://www.reddit.com/r/Connecticut/comments/1xp24ak/how_is_the_nightlife_at_foxwoods_after_the_shrine/)** <sub>MemeNRG · 10:01 PM</sub>
+  <br>Basically the title I actually haven’t been to Foxwoods since they announced the shrine was being shut down. I typically go to Mohegan for nightlife related activities but I was thinking of giving Foxwoods another chance so any feedback on how it is currently whether that be the scorpion bar or the…
+- **[In Opinion Those who create the mess should help pay to clean it up.](https://m.facebook.com/hartfordcourant/posts/pfbid0reKK6sB1Fvgz1aimR9y4bG1DpmMSY48k4MCBQUpPw1MP3HyJSYiHLJWvmoLf22UVl)** <sub>Hartford Courant · 10:01 PM</sub>
+- **[Over his 50-year career, Malkovich has performed live in 47 countries. courant.com/2026/11/05/john-… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118539243530178646)** <sub>@hartfordcourant · 10:01 PM</sub>
+- **[Recent CT homebuyers: what are we in for as first time shoppers?](https://www.reddit.com/r/Connecticut/comments/1xp22o4/recent_ct_homebuyers_what_are_we_in_for_as_first/)** <sub>New\_Negotiation3034 · 9:59 PM</sub>
+  <br>we will begin our search next sumet once my partner begins working, at which point we expect an annual gross around $170k/yr. We will have $130-140k ready to put down. We’re thinking of looking for homes in the $425-475k range. north haven, Branford, and Wallingford are our top 3, with interest in…
+- **[In his victory speech, he referred to Vice President JD Vance as “habibi.” courant.com/2026/11/05/elect… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118537355887800767)** <sub>@hartfordcourant · 9:54 PM</sub>
 - **[Jordan Firstman is utterly, hopelessly sincere with his feature film directorial debut. courant.com/2026/11/05/club-… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118533851983045009)** <sub>@hartfordcourant · 9:40 PM</sub>
+- **[Recommendations for meeting people in CT](https://www.reddit.com/r/Connecticut/comments/1xp1l2g/recommendations_for_meeting_people_in_ct/)** <sub>PurpleLove321 · 9:34 PM</sub>
+  <br>Looking to connect with other shy, introverted women over 30 early 40s in Connecticut! I’m naturally quiet and a little reserved, but I’m making a conscious effort to get out more, meet new people, and step outside my comfort zone. I’d love to connect with women who enjoy good conversation, library…
 - **[The second-ranked UConn women fell to No. 5 Michigan, 77-66, in Ann Arbor on Thursday night. courant.com/2026/11/05/no-5-… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118532095446221129)** <sub>@hartfordcourant · 9:33 PM</sub>
 - **[The 2026 Songwriters Hall of Fame inductee will attend a screening of “Kenny Loggins: Convictions Of The Heart” Friday at the Coronado Island Film Festival.](https://x.com/hartfordcourant/status/2118528843468157090)** <sub>@hartfordcourant · 9:20 PM</sub>
   <br>The 2026 Songwriters Hall of Fame inductee will attend a screening of “Kenny Loggins: Convictions Of The Heart” Friday at the Coronado Island Film Festival. courant.com/2026/11/05/kenny… — Hartford Courant (@hartfordcourant) Nov 6, 2026
+- **[What are they doing on Route 2 in Colchester cutting out sections of pavement?](https://www.reddit.com/r/Connecticut/comments/1xp182m/what_are_they_doing_on_route_2_in_colchester/)** <sub>yuuuge\_butts · 9:16 PM</sub>
+  <br>They're cutting rectangles of pavement out and filling them with concrete. Why just seemingly random sections?
 - **[While it’s far from lacking in memory-lane sentimentality, it’s more aimed at now than it may appear. courant.com/2026/11/05/i-pla… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118526659682841032)** <sub>@hartfordcourant · 9:11 PM</sub>
 - **[The Artemis II launch produced three surges of “perturbations” in the ionosphere. courant.com/2026/11/05/lunar… — Hartford Courant (@hartfordcourant) Nov 6, 2026](https://x.com/hartfordcourant/status/2118524865888034962)** <sub>@hartfordcourant · 9:04 PM</sub>
 - **[To be inducted, toys must be iconic and engage multiple generations.](https://m.facebook.com/hartfordcourant/posts/pfbid0jLahFkSZ2MTkv9rn7TjGL3pSiquJXWo58qYMKLXsEm7agCqksmvFR8JJQ73T1zuDl)** <sub>Hartford Courant · 9:01 PM</sub>
@@ -8142,21 +8176,3 @@ Last 30 days · 5331 items · updated Nov 5, 2026 9:51 PM EST
 - **[Jayden Ross and Colben Landrew will both play major roles for the UConn men’s basketball team this season, but the question is: Who will start?](https://x.com/hartfordcourant/status/2107777179761209841)** <sub>@hartfordcourant · 6:16 AM</sub>
   <br>Jayden Ross and Colben Landrew will both play major roles for the UConn men’s basketball team this season, but the question is: Who will start? courant.com/2026/10/07/uconn… — Hartford Courant (@hartfordcourant) Oct 7, 2026
 - **[He’s accused of opening a woman’s absentee ballot and showing her how to change her vote. courant.com/2026/10/07/forme… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107774746469323165)** <sub>@hartfordcourant · 6:07 AM</sub>
-- **[“Into the Woods,” “The Heart of Rock & Roll” and “The King & I” will grace the Goodspeed Opera House stage in 2027. courant.com/2026/10/07/goods… — Hartford Courant (@hartfordcourant) Oct 7, 2026](https://x.com/hartfordcourant/status/2107770714149298176)** <sub>@hartfordcourant · 5:51 AM</sub>
-- **[A petition calls for the city to work directly with families to identify the most hazardous areas near the school and to inform them of the measures they could implement.](https://x.com/hartfordcourant/status/2107769219446186287)** <sub>@hartfordcourant · 5:45 AM</sub>
-  <br>A petition calls for the city to work directly with families to identify the most hazardous areas near the school and to inform them of the measures they could implement. courant.com/2026/10/07/paren… — Hartford Courant (@hartfordcourant) Oct 7, 2026
-- **[The listing says the community “emerged as a focus of continued public and private investment, with significant redevelopment activity occurring](https://x.com/hartfordcourant/status/2107766748925624469)** <sub>@hartfordcourant · 5:35 AM</sub>
-  <br>The listing says the community “emerged as a focus of continued public and private investment, with significant redevelopment activity occurring courant.com/2026/10/07/site-… — Hartford Courant (@hartfordcourant) Oct 7, 2026
-- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2150514782547730/)** <sub>CTPOLICELIVE · 2:06 AM</sub>
-  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
-- **[Shelton Man Charged in August Road Rage Shooting on I-95 - West Haven 📍 I-95, West Haven to Milford, CT 📅 Saturday, Au...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0orT7FaMBWg3KnURwcGZfARft4ATy4gPs6TTwN6754RPe6cQcbZ1BkETBf6bT1q1kl)** <sub>CTPOLICELIVE · 2:04 AM</sub>
-  <br>Shelton Man Charged in August Road Rage Shooting on I-95 - West Haven 📍 I-95, West Haven to Milford, CT 📅 Saturday, August 1, 2026 - 7:26 p.m. / Arrested Tuesday, October 6, 2026 📻 Key Details -- State Police investigated after a driver reported their vehicle had been shot at during a road rage…
-- **[Need a job...](https://www.reddit.com/r/Connecticut/comments/1wzobwx/need_a_job/)** <sub>t8jr0000 · 1:24 AM</sub>
-  <br>Hey im a 18 year old in ct who honestly desperately needs a job. Im in Berlin ct and it would be profound if anyone has any opportunities or recommendations to go about this. Ill be honest I worked at dominos for a year so thats the bit of experience i have. Looking for part time since im in…
-- **[Urgent doggy rehoming!!!](https://www.reddit.com/r/Connecticut/comments/1wznupl/urgent_doggy_rehoming/)** <sub>jennysnotokay · 12:55 AM</sub>
-- **[Connecticut shouldn’t be a state.](https://www.reddit.com/r/Connecticut/comments/1wznisw/connecticut_shouldnt_be_a_state/)** <sub>Master\_Ad8470 · 12:36 AM</sub>
-  <br>It’s literally a pointless state with no real culture or nothing at all….. and if you guys point out “NaTUrE, FOuR SeASon” .. it’s literally like anywheres in New England and to certain point as any part of the country as well. It has no identity, it has nothing.. sad to say Detroit has more…
-
-## Tuesday, October 6
-
-- **[Car vs Pole, Partially Rolled Over on Weston St in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2401104453962056/)** <sub>Marcus Anthony Rice · 10:57 PM</sub>

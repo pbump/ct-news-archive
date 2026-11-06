@@ -1,9 +1,218 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-11-06T02:51:38.228057+00:00",
+ "updated": "2026-11-06T09:56:58.404548+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/videos/1663255125474726/",
+   "title": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/videos/1663255125474726/",
+   "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-lax3-1.xx.fbcdn.net/v/t15.5256-10/893869784_1847050046298444_1615524318871977773_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=-DC0pB6x6PQQ7kNvwF2sXfy&_nc_oc=AdpfSpWDuYbZDArzdEcP3GZORKibaFy-t1qwbKK_95mp9VJOFRmUd63ocdY66QWbfibNlGcf0v2tvNZeKRkWoShT&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=W0aq00bg3WuwTYHl_04ntw&_nc_ss=7f289&oh=00_AQQtpITueZTnnijV4fgdqB1BTpA_WJXzQEWXIsRRGfhhaQ&oe=6AF36DE4",
+   "published": "2026-11-06T05:43:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T05:43:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp48fb/how_is_it_living_in_connecticut_usa/",
+   "title": "How is it living in Connecticut, USA ?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp48fb/how_is_it_living_in_connecticut_usa/",
+   "summary": "",
+   "author": "explainthis_clarissa",
+   "image": null,
+   "published": "2026-11-06T04:54:24+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T04:54:24+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp3hy2/weird_boom_sounds_near_windsor_ave_meriden/",
+   "title": "Weird boom sounds near Windsor Ave, Meriden.",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp3hy2/weird_boom_sounds_near_windsor_ave_meriden/",
+   "summary": "",
+   "author": "Charming-Assistant64",
+   "image": null,
+   "published": "2026-11-06T04:13:21+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T04:13:21+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2432439360828565/",
+   "title": "MVA Head-On Ashford #ashford #BreakingNow 249 Ashford Center Rd 2 car MVA Head-On LifeStar Auto-Launch Mansfield Ambulance mutual aid - 2nd Ambulance in 11:00PM",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2432439360828565/",
+   "summary": "",
+   "author": "Doug Oberly",
+   "image": null,
+   "published": "2026-11-06T04:01:49+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T04:01:49+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp369h/did_anyone_see_something_flying_over_ridge_rd_in/",
+   "title": "Did anyone see something flying over Ridge Rd in Hamden tonight at around 7pm?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp369h/did_anyone_see_something_flying_over_ridge_rd_in/",
+   "summary": "A drone was my best guess even tho I know nothing about them.. It was dark and I couldnt take a pic since I was driving. There were several lights on it including arrows thay were lit up. Just wondering if anyone else saw it. BTW, I am not implying it was some alien conspiracy.",
+   "author": "Interesting_Slice277",
+   "image": null,
+   "published": "2026-11-06T03:55:47+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:55:47+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118551482152759672",
+   "title": "Experts warn that the U.S. could face a shortage of 157,000 engineers and technicians by 2030. courant.com/2026/11/05/commu… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118551482152759672",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118551489006182400/P2ov2ZDx?format=jpg&name=800x419",
+   "published": "2026-11-06T03:50:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:50:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118549453145608702",
+   "title": "Service allows members to order from Uber Eats with no delivery fees for orders over $25. courant.com/2026/11/05/amazo… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118549453145608702",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118549455964114944/gdCln2df?format=jpg&name=800x419",
+   "published": "2026-11-06T03:42:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:42:00+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118547436956250507",
+   "title": "To be inducted, toys must be iconic and engage multiple generations. courant.com/2026/11/05/toy-h… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118547436956250507",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118547439758041088/8s9TNAsU?format=jpg&name=800x419",
+   "published": "2026-11-06T03:34:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:34:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp2rg2/temp_jobs/",
+   "title": "Temp jobs",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp2rg2/temp_jobs/",
+   "summary": "I'm asking for me, but also hoping this can become a general post. Does anyone have any recommendations for good temp agencies or short term jobs in general? I'll be visiting home for about a month next spring and want to make some extra money while I'm there.",
+   "author": "throughcracker",
+   "image": null,
+   "published": "2026-11-06T03:33:57+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:33:57+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/reel/1515186530467973/",
+   "title": "Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026",
+   "link": "https://www.facebook.com/reel/1515186530467973/",
+   "summary": "Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026 - 11:07 a.m. (West Hartford) / 11:23 a.m. (Southington Walmart) 📻 Key Details -- Southington Police are seeking additional information about a man involved in disturbances and vehicle…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/890618299_1616483342767933_4143230319029684736_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=9pixaoaR5pkQ7kNvwE0_a3D&_nc_oc=AdoV5ECyzk_QjGzxX0aW0KkWaKnpgzKbOXWt8ibigBzgb6AySy6PbPF-kS4oFwMSNbxb2LUNmzvx-7pEARxD9b-8&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=W0aq00bg3WuwTYHl_04ntw&_nc_ss=7f289&oh=00_AQQwoV0b8AeGoYVLxTxaX1PeHAXPdvJxQ4TkDS21IetHeg&oe=6AF35A1C",
+   "published": "2026-11-06T03:23:45+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:23:45+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118544205001687139",
+   "title": "Iranian authorities are targeting dissent amid an ongoing U.S. war, worsening economic crisis. courant.com/2026/11/05/iran-… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118544205001687139",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118544209611296768/HukcnMDZ?format=jpg&name=800x419",
+   "published": "2026-11-06T03:21:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:21:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp2gl4/one_headlight/",
+   "title": "One headlight",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp2gl4/one_headlight/",
+   "summary": "How is it there are so many vehicles driving our roads with one headlamp out?",
+   "author": "Reasonable_Pay6151",
+   "image": null,
+   "published": "2026-11-06T03:18:22+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:18:22+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02mQVa74Evwf59tvXvooEwh7QyHrj86pkUE5ujUyJKtENjpv2qCt4UXvdxt6BC3FDYl",
+   "title": "Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026",
+   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02mQVa74Evwf59tvXvooEwh7QyHrj86pkUE5ujUyJKtENjpv2qCt4UXvdxt6BC3FDYl",
+   "summary": "Man Goes on Destructive Rampage in Two CT Towns 📍 West Hartford and Southington, CT 📅 Sunday, November 1, 2026 - 11:07 a.m. (West Hartford) / 11:23 a.m. (Southington Walmart) 📻 Key Details -- Southington Police are seeking additional information about a man involved in disturbances and vehicle…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/890872968_1604565208381292_4944787332863747534_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=b3xjCcQTdyUQ7kNvwG99wPk&_nc_oc=AdrfJVoOm6z7Hl61_ZxkrJKJY3ZDXDmj3rYpe08GBLFjFVIKDnB5S5c0uZcy3p7_D_DB2sPVoxYKkAxJi7_Stcp1&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=W0aq00bg3WuwTYHl_04ntw&_nc_ss=7f289&oh=00_AQT7B9atcZ_rPOMWp-WH8faiS1KtYJkQZWPULBp_Wl_4Vw&oe=6AF38B39",
+   "published": "2026-11-06T03:13:12+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:13:12+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118541958830321684",
+   "title": "None of the injuries are believed to be life-threatening. courant.com/2026/11/05/iowa-… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118541958830321684",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118542023007387648/AwDbFUrh?format=jpg&name=800x419",
+   "published": "2026-11-06T03:12:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:12:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp24ak/how_is_the_nightlife_at_foxwoods_after_the_shrine/",
+   "title": "How is the nightlife at Foxwoods after the shrine shutdown?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp24ak/how_is_the_nightlife_at_foxwoods_after_the_shrine/",
+   "summary": "Basically the title I actually haven’t been to Foxwoods since they announced the shrine was being shut down. I typically go to Mohegan for nightlife related activities but I was thinking of giving Foxwoods another chance so any feedback on how it is currently whether that be the scorpion bar or the…",
+   "author": "MemeNRG",
+   "image": null,
+   "published": "2026-11-06T03:01:09+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:01:09+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0reKK6sB1Fvgz1aimR9y4bG1DpmMSY48k4MCBQUpPw1MP3HyJSYiHLJWvmoLf22UVl",
+   "title": "In Opinion Those who create the mess should help pay to clean it up.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0reKK6sB1Fvgz1aimR9y4bG1DpmMSY48k4MCBQUpPw1MP3HyJSYiHLJWvmoLf22UVl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/889541944_1553320436825792_8880361180619177004_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=5hJOS2dcbaoQ7kNvwE1NMgE&_nc_oc=AdrTIHkepozJQP_HT9UQEynD9j-FGq_isNKh1TsQHdDqn775OYaFf0RS89qwTAgwLE3eVTF5oIM5pmGhYl4Dwwde&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=LpQLuSGLD94vTU6lEKbd6Q&_nc_ss=7c289&oh=00_AQRdBPSVAwlOSFFM_rkUcgGswBeNxaNY_aQLfg-gU6qkTQ&oe=6AF36BB2",
+   "published": "2026-11-06T03:01:05+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:01:05+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118539243530178646",
+   "title": "Over his 50-year career, Malkovich has performed live in 47 countries. courant.com/2026/11/05/john-… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118539243530178646",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118539250350071811/LGnwmEZS?format=jpg&name=800x419",
+   "published": "2026-11-06T03:01:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T03:01:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp22o4/recent_ct_homebuyers_what_are_we_in_for_as_first/",
+   "title": "Recent CT homebuyers: what are we in for as first time shoppers?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp22o4/recent_ct_homebuyers_what_are_we_in_for_as_first/",
+   "summary": "we will begin our search next sumet once my partner begins working, at which point we expect an annual gross around $170k/yr. We will have $130-140k ready to put down. We’re thinking of looking for homes in the $425-475k range. north haven, Branford, and Wallingford are our top 3, with interest in…",
+   "author": "New_Negotiation3034",
+   "image": null,
+   "published": "2026-11-06T02:59:05+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T02:59:05+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2118537355887800767",
+   "title": "In his victory speech, he referred to Vice President JD Vance as “habibi.” courant.com/2026/11/05/elect… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
+   "link": "https://x.com/hartfordcourant/status/2118537355887800767",
+   "summary": "",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2118537358517600256/mV4o-gUm?format=jpg&name=800x419",
+   "published": "2026-11-06T02:54:00+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T02:54:00+00:00"
+  },
   {
    "id": "https://x.com/hartfordcourant/status/2118533851983045009",
    "title": "Jordan Firstman is utterly, hopelessly sincere with his feature film directorial debut. courant.com/2026/11/05/club-… — Hartford Courant (@hartfordcourant) Nov 6, 2026",
@@ -14,6 +223,17 @@
    "published": "2026-11-06T02:40:00+00:00",
    "first_seen": "2026-11-06T02:51:38.228057+00:00",
    "date": "2026-11-06T02:40:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp1l2g/recommendations_for_meeting_people_in_ct/",
+   "title": "Recommendations for meeting people in CT",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp1l2g/recommendations_for_meeting_people_in_ct/",
+   "summary": "Looking to connect with other shy, introverted women over 30 early 40s in Connecticut! I’m naturally quiet and a little reserved, but I’m making a conscious effort to get out more, meet new people, and step outside my comfort zone. I’d love to connect with women who enjoy good conversation, library…",
+   "author": "PurpleLove321",
+   "image": null,
+   "published": "2026-11-06T02:34:50+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T02:34:50+00:00"
   },
   {
    "id": "https://x.com/hartfordcourant/status/2118532095446221129",
@@ -36,6 +256,17 @@
    "published": "2026-11-06T02:20:00+00:00",
    "first_seen": "2026-11-06T02:51:38.228057+00:00",
    "date": "2026-11-06T02:20:00+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xp182m/what_are_they_doing_on_route_2_in_colchester/",
+   "title": "What are they doing on Route 2 in Colchester cutting out sections of pavement?",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xp182m/what_are_they_doing_on_route_2_in_colchester/",
+   "summary": "They're cutting rectangles of pavement out and filling them with concrete. Why just seemingly random sections?",
+   "author": "yuuuge_butts",
+   "image": null,
+   "published": "2026-11-06T02:16:57+00:00",
+   "first_seen": "2026-11-06T09:56:58.404548+00:00",
+   "date": "2026-11-06T02:16:57+00:00"
   },
   {
    "id": "https://x.com/hartfordcourant/status/2118526659682841032",
@@ -65,7 +296,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0jLahFkSZ2MTkv9rn7TjGL3pSiquJXWo58qYMKLXsEm7agCqksmvFR8JJQ73T1zuDl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/891646706_1553279996829836_3669607142509656661_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=104&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=sDzXjy6rOdAQ7kNvwHy37eY&_nc_oc=AdrJu46mZqbaD9v9b2CuRyJapc1kf_Lo-Xf8JNIBTshDEpdxrOVq0xM4afR6kXfF4KVmOozKI2lZMoVCvF3bd_BX&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=V78EiIwYHuKooHsgVdrh1w&_nc_ss=7c289&oh=00_AQTl_E5dnZyIoSy-zh1mSVl8tBEEInaZnMF4h_i6-Me8RQ&oe=6AF308D5",
+   "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/891646706_1553279996829836_3669607142509656661_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=104&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=sDzXjy6rOdAQ7kNvwHhiaLA&_nc_oc=Ado69rJCkUKu85BdDbszuhGrp5zftyLHLmQP5fTogGpF9bPX24PfZekMd_aw2E8tjmppdB8UPnAoeUJpgic839Aj&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=LpQLuSGLD94vTU6lEKbd6Q&_nc_ss=7c289&oh=00_AQQ2S9ssi9E-Q81RhiaAojbxQFXwHEBgAT1fpJaCMDQmVA&oe=6AF37955",
    "published": "2026-11-06T02:01:24+00:00",
    "first_seen": "2026-11-06T02:51:38.228057+00:00",
    "date": "2026-11-06T02:01:24+00:00"
@@ -175,7 +406,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02ZB4hQXUxFhmhKVdsdg4Q474YGVVsX8ujFh2gWtABYjUqrSkijbwAESd6zeCVfXbTl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/890846928_1553236770167492_3336604963321437672_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=FVcPMIuc8hEQ7kNvwH0OfaQ&_nc_oc=AdryGgC1RwmZWDRVOXhM3fXmV-6M8C6B0PYCVqBIpl-mjZePLbsu5yWB9xCRhKHrzpTYrpnuAuID1VqX2pz-8ktC&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=V78EiIwYHuKooHsgVdrh1w&_nc_ss=7c289&oh=00_AQQh_WD8PmsKdxiOrEpUSvSGEp58Wp7L5cP6JvY73b4GeA&oe=6AF30D38",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/890846928_1553236770167492_3336604963321437672_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=FVcPMIuc8hEQ7kNvwHpEvPS&_nc_oc=AdoU5N10_NU64WPGu8cVQyOxil7r0NZtkds_3oU-J01hVZOXHTpcvR7BllodjReCkC_1VNq7v5qFytOILlDe7GOa&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=LpQLuSGLD94vTU6lEKbd6Q&_nc_ss=7c289&oh=00_AQQTAGaCXhbrqlduHJACRVv5oCUXKr-fgXYlKqM8dQvEvw&oe=6AF37DB8",
    "published": "2026-11-06T00:54:50+00:00",
    "first_seen": "2026-11-06T02:51:38.228057+00:00",
    "date": "2026-11-06T00:54:50+00:00"
@@ -230,7 +461,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02GB1L4dyr1FHJgTLeG2bFQGQcXTH5mnsRJ3hSAfU6RUxLP7NFEJUxVPJjYfjVmpXYl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/858382053_1553219943502508_7144498296726997546_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=dIAPAg6tVQAQ7kNvwE3JUbh&_nc_oc=AdpjTILnUnOGi206g-u1Z5nA1_yAnkVmKPgG7ZMJ97DVMCJVYzsVXCIUISZvxx_eIl9wdLS1btMkhi_EPUlfW9iJ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=V78EiIwYHuKooHsgVdrh1w&_nc_ss=7c289&oh=00_AQSTEMAcdCna4EkYxlxA2hOZj7UaRS8TEE03pLfcg36VaQ&oe=6AF31E1E",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/858382053_1553219943502508_7144498296726997546_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=dIAPAg6tVQAQ7kNvwGL9vE9&_nc_oc=AdpIED6uEPA0jfGbSK4xDnxyvwHCtzKK-gkSDjo8u1YCq84jXm9GV9TveikNALcewrJygtPi0nh5IWmCxbLQLy_G&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=LpQLuSGLD94vTU6lEKbd6Q&_nc_ss=7c289&oh=00_AQSNHntw7XmsZknO89i_1HnL-xnvTmyt5CZFqESCI338CA&oe=6AF3565E",
    "published": "2026-11-06T00:30:32+00:00",
    "first_seen": "2026-11-06T02:51:38.228057+00:00",
    "date": "2026-11-06T00:30:32+00:00"
@@ -58545,105 +58776,6 @@
    "published": "2026-10-07T10:07:00+00:00",
    "first_seen": "2026-10-07T14:45:57.003457+00:00",
    "date": "2026-10-07T10:07:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2107770714149298176",
-   "title": "“Into the Woods,” “The Heart of Rock & Roll” and “The King & I” will grace the Goodspeed Opera House stage in 2027. courant.com/2026/10/07/goods… — Hartford Courant (@hartfordcourant) Oct 7, 2026",
-   "link": "https://x.com/hartfordcourant/status/2107770714149298176",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2107770716170924033/mWbRjkTb?format=jpg&name=800x419",
-   "published": "2026-10-07T09:51:00+00:00",
-   "first_seen": "2026-10-07T14:45:57.003457+00:00",
-   "date": "2026-10-07T09:51:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2107769219446186287",
-   "title": "A petition calls for the city to work directly with families to identify the most hazardous areas near the school and to inform them of the measures they could implement.",
-   "link": "https://x.com/hartfordcourant/status/2107769219446186287",
-   "summary": "A petition calls for the city to work directly with families to identify the most hazardous areas near the school and to inform them of the measures they could implement. courant.com/2026/10/07/paren… — Hartford Courant (@hartfordcourant) Oct 7, 2026",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2107769226886864896/XYW-w83j?format=jpg&name=420x420_2",
-   "published": "2026-10-07T09:45:00+00:00",
-   "first_seen": "2026-10-07T14:45:57.003457+00:00",
-   "date": "2026-10-07T09:45:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2107766748925624469",
-   "title": "The listing says the community “emerged as a focus of continued public and private investment, with significant redevelopment activity occurring",
-   "link": "https://x.com/hartfordcourant/status/2107766748925624469",
-   "summary": "The listing says the community “emerged as a focus of continued public and private investment, with significant redevelopment activity occurring courant.com/2026/10/07/site-… — Hartford Courant (@hartfordcourant) Oct 7, 2026",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2106102369876373505/LdaQ8Pkr?format=jpg&name=420x420_2",
-   "published": "2026-10-07T09:35:00+00:00",
-   "first_seen": "2026-10-07T14:45:57.003457+00:00",
-   "date": "2026-10-07T09:35:00+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/CTPOLICELIVE/videos/2150514782547730/",
-   "title": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...",
-   "link": "https://m.facebook.com/CTPOLICELIVE/videos/2150514782547730/",
-   "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/838910588_1786258855942385_4101126664168248245_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=Lso1tFH7NAgQ7kNvwG1wN0o&_nc_oc=AdqNLOtjppNjE773dZzlMJdhyTLynmLbF3D1oihEhSvIA8XU4XRb_RSMlCyLejR0cX4&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=nrU_RfYWzoBN-Kr1gvEGng&_nc_ss=7c289&oh=00_AQMUvJNoN96Lc6pSxaGt6HXwxq7hswV0euicFJaUkcRHuQ&oe=6ACBADC5",
-   "published": "2026-10-07T06:06:34+00:00",
-   "first_seen": "2026-10-07T07:44:09.908019+00:00",
-   "date": "2026-10-07T06:06:34+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0orT7FaMBWg3KnURwcGZfARft4ATy4gPs6TTwN6754RPe6cQcbZ1BkETBf6bT1q1kl",
-   "title": "Shelton Man Charged in August Road Rage Shooting on I-95 - West Haven 📍 I-95, West Haven to Milford, CT 📅 Saturday, Au...",
-   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0orT7FaMBWg3KnURwcGZfARft4ATy4gPs6TTwN6754RPe6cQcbZ1BkETBf6bT1q1kl",
-   "summary": "Shelton Man Charged in August Road Rage Shooting on I-95 - West Haven 📍 I-95, West Haven to Milford, CT 📅 Saturday, August 1, 2026 - 7:26 p.m. / Arrested Tuesday, October 6, 2026 📻 Key Details -- State Police investigated after a driver reported their vehicle had been shot at during a road rage…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/825328737_1571298675041279_2915541067085364862_n.webp?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=K5YrZRml_4EQ7kNvwFF6IUp&_nc_oc=AdoxahxvyNnesz6I3sGE2eqT1ezxaJFpJQLHIV15NPm3D3unxwBd5ePFuO1-mmrLWAA&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=nrU_RfYWzoBN-Kr1gvEGng&_nc_ss=7c289&oh=00_AQMWFGQJKlewbpU9u2cBE1q8AliXw1x5IPmp8orZN576AA&oe=6ACBABDF",
-   "published": "2026-10-07T06:04:49+00:00",
-   "first_seen": "2026-10-07T07:44:09.908019+00:00",
-   "date": "2026-10-07T06:04:49+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1wzobwx/need_a_job/",
-   "title": "Need a job...",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1wzobwx/need_a_job/",
-   "summary": "Hey im a 18 year old in ct who honestly desperately needs a job. Im in Berlin ct and it would be profound if anyone has any opportunities or recommendations to go about this. Ill be honest I worked at dominos for a year so thats the bit of experience i have. Looking for part time since im in…",
-   "author": "t8jr0000",
-   "image": null,
-   "published": "2026-10-07T05:24:27+00:00",
-   "first_seen": "2026-10-07T07:44:09.908019+00:00",
-   "date": "2026-10-07T05:24:27+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1wznupl/urgent_doggy_rehoming/",
-   "title": "Urgent doggy rehoming!!!",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1wznupl/urgent_doggy_rehoming/",
-   "summary": "",
-   "author": "jennysnotokay",
-   "image": null,
-   "published": "2026-10-07T04:55:57+00:00",
-   "first_seen": "2026-10-07T07:44:09.908019+00:00",
-   "date": "2026-10-07T04:55:57+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1wznisw/connecticut_shouldnt_be_a_state/",
-   "title": "Connecticut shouldn’t be a state.",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1wznisw/connecticut_shouldnt_be_a_state/",
-   "summary": "It’s literally a pointless state with no real culture or nothing at all….. and if you guys point out “NaTUrE, FOuR SeASon” .. it’s literally like anywheres in New England and to certain point as any part of the country as well. It has no identity, it has nothing.. sad to say Detroit has more…",
-   "author": "Master_Ad8470",
-   "image": null,
-   "published": "2026-10-07T04:36:20+00:00",
-   "first_seen": "2026-10-07T07:44:09.908019+00:00",
-   "date": "2026-10-07T04:36:20+00:00"
-  },
-  {
-   "id": "https://www.facebook.com/groups/BreakingNow/posts/2401104453962056/",
-   "title": "Car vs Pole, Partially Rolled Over on Weston St in Hartford",
-   "link": "https://www.facebook.com/groups/BreakingNow/posts/2401104453962056/",
-   "summary": "",
-   "author": "Marcus Anthony Rice",
-   "image": null,
-   "published": "2026-10-07T02:57:19+00:00",
-   "first_seen": "2026-10-07T07:44:09.908019+00:00",
-   "date": "2026-10-07T02:57:19+00:00"
   }
  ]
 }
