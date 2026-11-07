@@ -1,12 +1,59 @@
 # CT News
 
-Last 30 days · 5314 items · updated Nov 6, 2026 8:43 PM EST
+Last 30 days · 5336 items · updated Nov 7, 2026 2:49 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Saturday, November 7
+
+- **[Are y'all really going to take this kind of slander?](https://www.reddit.com/r/Connecticut/comments/1xpypq7/are_yall_really_going_to_take_this_kind_of_slander/)** <sub>King\_Coda · 12:39 AM</sub>
+- **[Wrote to Rep Hayes re: Jeffries](https://www.reddit.com/r/Connecticut/comments/1xpykrs/wrote_to_rep_hayes_re_jeffries/)** <sub>ThisResolve · 12:31 AM</sub>
+  <br>Wanted to share here because I’m fired up and I hope you all will join me. There was a checkbox to request a reply so I did that, not necessarily expecting one though. Here’s what I wrote, I went a little more cathartic than your standard letter to a congressperson. Dear Congresswoman Hayes,…
+- **[Good quality and clean massage place recommendation.](https://www.reddit.com/r/Connecticut/comments/1xpy2em/good_quality_and_clean_massage_place/)** <sub>Then\_External1842 · 12:03 AM</sub>
+  <br>Hi, for Christmas I want to bring my parents to a massage place and I’m looking for some recommendations. My parents work 13 hours a day, so they have really stiff muscles and pretty bad back pain, so I want to bring them to a place to relax and get good quality massage.
+
 ## Friday, November 6
 
+- **[…blow that phone up PLEASE](https://www.reddit.com/r/Connecticut/comments/1xpxxm7/blow_that_phone_up_please/)** <sub>JayfireY · 11:56 PM</sub>
+  <br>Source from the screenshot: Axios Jim Himes claims he has not received ONE phone call about opposing Hakeem Jeffries to be the speaker of the house. LETS GIVE HIM LOTS OF PHONE CALLS NOW For District 4, you are Southwestern Connecticut, which includes: Bridgeport, Stamford, Norwalk, Greenwich,…
+- **[Niche perfume in CT!](https://www.reddit.com/r/Connecticut/comments/1xpxng8/niche_perfume_in_ct/)** <sub>vulturerodeo · 11:40 PM</sub>
+  <br>Lower Forms in New Haven started carrying niche perfume about a year ago. They just added so many new brands! Gorgeous selection 16 Fountain Street 📍
+- **[I'm gonna miss you, Connecticut Sun (July 2011)](https://www.reddit.com/r/Connecticut/comments/1xpx3wa/im_gonna_miss_you_connecticut_sun_july_2011/)** <sub>TylerFortier\_Photo · 11:10 PM</sub>
+  <br>Captured : 29 July 2011 Camera : Canon EoS Rebel T2i Shutter : 1/640 Aperture : F5.6 ISO : 3200 Editing : Adobe Lightroom
+- **[Who is the kindest person in Connecticut?](https://www.reddit.com/r/Connecticut/comments/1xpx0r9/who_is_the_kindest_person_in_connecticut/)** <sub>rockyvwasbest · 11:05 PM</sub>
+  <br>Genuine question. Who do you nominate as the kindest person in CT? There's so much negativity and aggression all the time that I want to take a moment to personally shout out the kindest people in the state ... small business owners, that random act of kindness from someone you never saw again,…
+- **[Teen Shot in New Britain](https://www.facebook.com/groups/BreakingNow/posts/2433556404050194/)** <sub>Marcus Anthony Rice · 11:02 PM</sub>
+- **[His wife and children confirmed the director’s death to Italian press agency Ansa.](https://m.facebook.com/hartfordcourant/posts/pfbid032JTNLqECxN4iuZyovQPWjGg9V5brihD9u45mBU7uAArnfSEWBgnzjcokDpjAayzMl)** <sub>Hartford Courant · 11:01 PM</sub>
+- **[MVA Car vs Tree Entrapment Stafford](https://www.facebook.com/groups/BreakingNow/posts/2433549900717511/)** <sub>Doug Oberly · 10:53 PM</sub>
+- **[Thomas Markle was taken into custody near Tampa. courant.com/2026/11/06/fathe… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118914345690173688)** <sub>@hartfordcourant · 10:52 PM</sub>
+- **[Similar demonstrations are expect in other countries on Friday and Saturday. courant.com/2026/11/06/prote… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118911378190655700)** <sub>@hartfordcourant · 10:40 PM</sub>
+- **[Anyone hear about the potential ham radio shooting in Norwich?](https://www.reddit.com/r/Connecticut/comments/1xpwinj/anyone_hear_about_the_potential_ham_radio/)** <sub>CurrentElectrical736 · 10:38 PM</sub>
+  <br>It happened near the Dairy Queen in Taftville. They were supposedly arguing over frequencies.
+- **[He came from one of the nation’s richest families and spent a half century in public service. courant.com/2026/11/06/jay-r… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118908888531480785)** <sub>@hartfordcourant · 10:30 PM</sub>
+- **[Any samba schools nearby?](https://www.reddit.com/r/Connecticut/comments/1xpwajj/any_samba_schools_nearby/)** <sub>Unlucky-Laugh5218 · 10:26 PM</sub>
+  <br>Hey everyone, I’ve been trying to learn Brazilian samba for a little while, but I can’t find any classes or places that offer it. Does anyone have suggestions for places that offer samba classes, or maybe even a samba school? 😞
+- **[No suspicious items have been found, but the threats have raised concerns. courant.com/2026/11/06/europ… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118907051795505158)** <sub>@hartfordcourant · 10:23 PM</sub>
+- **[He was convicted of murdering 190 children and one adult. courant.com/2026/11/06/kenya… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118903820101009894)** <sub>@hartfordcourant · 10:10 PM</sub>
+- **[Experts say tons of food from school meals is wasted each year. courant.com/2026/11/06/clima… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118902317336392002)** <sub>@hartfordcourant · 10:04 PM</sub>
+- **[39 people, mostly students, were killed when the Kelly Barnes Dam in Georgia burst, sending a wall of water through Toccoa Falls College.](https://m.facebook.com/hartfordcourant/posts/pfbid02ZttjtcpqVsCXfCiJNWQk5fRcoa44WxekHZ7gYb7a6paaJMaV88PgCDHog7VurC1Jl)** <sub>Hartford Courant · 10:01 PM</sub>
+- **[The former All-Pro wide receiver said he was acting in self-defense. courant.com/2026/11/06/anton… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118898786382528982)** <sub>@hartfordcourant · 9:50 PM</sub>
+- **[Birthday In December](https://www.reddit.com/r/Connecticut/comments/1xpvg1b/birthday_in_december/)** <sub>LazyDog6473 · 9:42 PM</sub>
+  <br>Hi everyone my birthday is in December and me and my gf have decided we want to go up to Connecticut, we live in NY, what are some cool places to see, we are going to week of Christmas, what are some towns we should go to? What do they have?
+- **[The Trump administration imposed new limits on federal student loans this fall. courant.com/2026/11/06/educa… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118896766623924674)** <sub>@hartfordcourant · 9:42 PM</sub>
+- **[MVA Rollover after a Police Pursuit Vernon](https://www.facebook.com/groups/BreakingNow/posts/2433483834057451/)** <sub>Doug Oberly · 9:34 PM</sub>
+- **[Supplies of the free Puppuccino container are limited as the coffee giant rolls out its lineup year-end beverages and treats.](https://x.com/hartfordcourant/status/2118894515448590368)** <sub>@hartfordcourant · 9:33 PM</sub>
+  <br>Supplies of the free Puppuccino container are limited as the coffee giant rolls out its lineup year-end beverages and treats. courant.com/2026/11/06/starb… — Hartford Courant (@hartfordcourant) Nov 7, 2026
+- **[Prosecutors said three people were indicted on charges of wire fraud and aggravated identity theft. courant.com/2026/11/06/ai-co… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118892193855226161)** <sub>@hartfordcourant · 9:24 PM</sub>
+- **[Yemen’s military and the Houthi rebels traded accusations over responsibility. courant.com/2026/11/06/yemen… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118888960394924073)** <sub>@hartfordcourant · 9:11 PM</sub>
+- **[His wife and children confirmed the director’s death to Italian press agency Ansa. courant.com/2026/11/06/tinto… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118886996001054875)** <sub>@hartfordcourant · 9:03 PM</sub>
+- **[In Photos \| Take a trip across Connecticut in October 2026.](https://m.facebook.com/hartfordcourant/posts/pfbid08WJdd4svoB5WnYtM7Wm1uTDV9a3DNs64bgVv4b8Ef4NzoNLtmpbEdzBBHM4pEhmnl)** <sub>Hartford Courant · 9:01 PM</sub>
+- **[Officials announced a $280,000 partnership to help the island confront emergencies. courant.com/2026/11/06/puert… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118884145761784051)** <sub>@hartfordcourant · 8:52 PM</sub>
+- **[On Friday, Legacy Recordings releases the “Britney (25th Anniversary Edition).” courant.com/2026/11/06/music… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118882163357524160)** <sub>@hartfordcourant · 8:44 PM</sub>
+- **[something falling from sky](https://www.reddit.com/r/Connecticut/comments/1xpu264/something_falling_from_sky/)** <sub>Professional\_Fly\_446 · 8:31 PM</sub>
+  <br>in wethersfield tonight at 730 740pm i saw what looked like some kinda spacecraft or something falling straight down. it sounded like a loud low jet and i was looking NE. cant find anything online but i wanna know if anyone else saw it or knows what it is
+- **[“She was not drafted because she was my girlfriend,” Bueckers said. courant.com/2026/11/06/paige… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118878920996946222)** <sub>@hartfordcourant · 8:31 PM</sub>
+- **[Riverbend at Farminton Senior Living, Open House, November 21, 10:00 to 1:00 PM](https://www.reddit.com/r/Connecticut/comments/1xptzse/riverbend_at_farminton_senior_living_open_house/)** <sub>RiverbendFarmington · 8:28 PM</sub>
 - **[Zoo Atlanta is one of three U.S. zoos housing pandas, reflecting China’s global panda diplomacy. courant.com/2026/11/06/giant… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118876377466220664)** <sub>@hartfordcourant · 8:21 PM</sub>
 - **[The father of the co-pilot called his daughter a ‘gifted’ pilot, passionate and talented. courant.com/2026/11/06/she-c… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118874638902034565)** <sub>@hartfordcourant · 8:14 PM</sub>
 - **[CT Functional medicine doc recs?](https://www.reddit.com/r/Connecticut/comments/1xptkyc/ct_functional_medicine_doc_recs/)** <sub>Late-Permit-9412 · 8:08 PM</sub>
@@ -15,8 +62,11 @@ Last 30 days · 5314 items · updated Nov 6, 2026 8:43 PM EST
   <br>We need to move our treadmill from our basement to a spare bedroom upstairs. Does anyone have recommendations for movers in the Enfield area?
 - **[Yall wanna meet people? Come to local DIY music](https://www.reddit.com/r/Connecticut/comments/1xptj3m/yall_wanna_meet_people_come_to_local_diy_music/)** <sub>Excellent\_Tank\_1656 · 8:06 PM</sub>
 - **[Political advertising must be removed by midnight before election day. courant.com/2026/11/06/new-z… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118872121954709826)** <sub>@hartfordcourant · 8:04 PM</sub>
+- **[According to airport officials, the restaurants were opened as part of CAA’s broader strategy “to modernize the terminal and enhance the dining experience.”](https://m.facebook.com/hartfordcourant/posts/pfbid02u3tRAMk7oXKZ86cbQdukYAG5u2KjwZNywJZkpZvEnvvN3gA6b4J5nJEHXux5U99Fl)** <sub>Hartford Courant · 8:01 PM</sub>
 - **[NED LAMONT. FIX MY POWER!!](https://www.reddit.com/r/Connecticut/comments/1xptbeh/ned_lamont_fix_my_power/)** <sub>Dazzling-Attorney891 · 7:56 PM</sub>
   <br>NED LAMONT. YOU ARE A SCOURGE UPON THE STATE OF CONNECTICUT. YOU TYRANT. YOU FIEND. RESTORE MY POWER AT ONCE. YOU BEND OVER BACKWARDS TO THE WHIMS OF EVERSOURCE, YOU WEAK SPINELESS COWARD. I COUNT DOWN THE DAYS UNTIL YOUR LIBERAL ASS IS VOTED OUT!!! DISGUSTING WHAT YOUVE DONE TO MY STATE. I PAY OUT…
+- **[Do you know someone who served or is currently serving in the military? Submit your Veterans to be included in our speci...](https://m.facebook.com/hartfordcourant/posts/pfbid02VVLk8NkD7ZS9yBGRhzGhrjjdqBVf7kuTEPHE87vpvVxsCFgbPLUpNZ7iWmPcm4a9l)** <sub>Hartford Courant · 7:54 PM</sub>
+  <br>Do you know someone who served or is currently serving in the military? Submit your Veterans to be included in our special tribute pages coming in the Hartford Courant this Veterans Day. The deadline to submit is midnight on Sunday.
 - **[The lawsuit was part of the Trump administration’s effort to stop alleged illegal voting. courant.com/2026/11/06/us-el… — Hartford Courant (@hartfordcourant) Nov 7, 2026](https://x.com/hartfordcourant/status/2118869544592703990)** <sub>@hartfordcourant · 7:54 PM</sub>
 - **[The four police agents were shot while responding to a suspicious person reported near West Colfax and Wadsworth Thursday night, a spokesperson said. The shooter was also killed by police gunfire.](https://x.com/hartfordcourant/status/2118867071488430456)** <sub>@hartfordcourant · 7:44 PM</sub>
   <br>The four police agents were shot while responding to a suspicious person reported near West Colfax and Wadsworth Thursday night, a spokesperson said. The shooter was also killed by police gunfire. courant.com/2026/11/06/lakew… — Hartford Courant (@hartfordcourant) Nov 7, 2026
@@ -8120,27 +8170,3 @@ Last 30 days · 5314 items · updated Nov 6, 2026 8:43 PM EST
   <br>This fall, Massachusetts voters will decide whether to allow homes on smaller lots. Boosters hope the initiative will transform the state's lagging housing market and promote starter homes. Question 7 , if passed, would change the state's laws so that a single-family home could be built on a lot…
 - **[HGTV’s Jonathan Knight Spent Big on a Custom Luxury Kitchen—Even Though He Admits He Doesn’t Cook](https://www.realtor.com/news/celebrity-real-estate/new-kids-on-the-block-and-hgtv-star-jonathan-knight-opens-up-massachusetts-farmhouse-he-fixed-for-himself/)** <sub>Karli Mullane · 4:13 AM</sub>
   <br>When New Kids on the Block member and HGTV star Jonathan Knight isn’t on the road touring or filming home renovations in cities across the country, the Boston native heads to the neighborhood block that truly makes his heart sing—a dead-end street in Essex, MA . Knight owns four adjacent homes,…
-- **[Wool sweaters?](https://www.reddit.com/r/Connecticut/comments/1x0hu7a/wool_sweaters/)** <sub>PurelyBrowsing · 12:38 AM</sub>
-  <br>Anywhere in central or eastern CT that sells authentic ‘Irish’ sweaters? Got one recently on my trip to Ireland and love it and they’re appropriate for work. I don’t wanna buy online, sizing is hard to judge and a pain to return. Some places like men’s warehouse or similar might have one or two,…
-- **[We're moving to Oxford next year. What do we need to know?](https://www.reddit.com/r/Connecticut/comments/1x0hh41/were_moving_to_oxford_next_year_what_do_we_need/)** <sub>jgroub · 12:18 AM</sub>
-  <br>We're looking at building a new house at the The Bridges at Oxford Greens. What supermarkets are the best and/or cheapest? What's the best Costco in the area? How's that Quarry Walk shopping center? I see they're still building there - what else is coming in there? What are some hidden gems in town…
-
-## Wednesday, October 7
-
-- **[Her first words after waking up were: “Where am I?” and “Who are you?” courant.com/2026/10/07/chris… — Hartford Courant (@hartfordcourant) Oct 8, 2026](https://x.com/hartfordcourant/status/2108027642746200440)** <sub>@hartfordcourant · 10:52 PM</sub>
-- **[The hurricane center’s forecast has the storm’s maximum winds peaking at 110 mph. courant.com/2026/10/07/alaba… — Hartford Courant (@hartfordcourant) Oct 8, 2026](https://x.com/hartfordcourant/status/2108025644739166426)** <sub>@hartfordcourant · 10:44 PM</sub>
-- **[Stocks felt pressure as yields cranked higher in the bond market. courant.com/2026/10/07/finan… — Hartford Courant (@hartfordcourant) Oct 8, 2026](https://x.com/hartfordcourant/status/2108022907574059057)** <sub>@hartfordcourant · 10:33 PM</sub>
-- **[New Haven Shakespeare Reading Group](https://www.reddit.com/r/Connecticut/comments/1x0fejd/new_haven_shakespeare_reading_group/)** <sub>Civil-Jaguar-692 · 10:29 PM</sub>
-  <br>Would anyone be interested in getting together somewhere every week or so and doing a table reading of one of his plays? I'm guessing we'd need 6 to 7 people for most of them. I haven't done anything like this before but I saw that there are not really any similar groups out there. If you're a…
-- **[Supermarket Sweep (Apr 20 1966)](https://www.reddit.com/r/Connecticut/comments/1x0fdt3/supermarket_sweep_apr_20_1966/)** <sub>RogerJamesSmith · 10:28 PM</sub>
-  <br>Food Fair in Branford.
-- **[The county Agricultural Commissioner’s Office has partnered with Salinas company High Degree to test out the use of soil steaming — in which specialized equipment is used to inject high-temperature…](https://x.com/hartfordcourant/status/2108019948303814855)** <sub>@hartfordcourant · 10:21 PM</sub>
-  <br>The county Agricultural Commissioner’s Office has partnered with Salinas company High Degree to test out the use of soil steaming — in which specialized equipment is used to inject high-temperature steam into the soil before berry crops are… courant.com/2026/10/07/berry… — Hartford Courant…
-- **[Any local bands playing bars this Saturday around New Haven/Litchfield county?](https://www.reddit.com/r/Connecticut/comments/1x0f6ut/any_local_bands_playing_bars_this_saturday_around/)** <sub>Fearless-Mix4663 · 10:18 PM</sub>
-  <br>Looking for some live music Saturday night. Wife and I have a night to ourselves. We are in Watertown but will drive pretty much anywhere within reason. So, who’s playing? Local bands and fans, let us know where you’re at this Saturday. Thanks in advance.
-- **[Yankees manager Aaron Boone expects his team to bounce back and will send former Harvard-Westlake standout Max Fried to the mound against Tampa Bay’s Nick Martinez in Game 3 on Wednesday in New York.](https://x.com/hartfordcourant/status/2108017539527639254)** <sub>@hartfordcourant · 10:12 PM</sub>
-  <br>Yankees manager Aaron Boone expects his team to bounce back and will send former Harvard-Westlake standout Max Fried to the mound against Tampa Bay’s Nick Martinez in Game 3 on Wednesday in New York. courant.com/2026/10/07/alds-… — Hartford Courant (@hartfordcourant) Oct 8, 2026
-- **[He was convicted of killing 13 people in the 2009 shooting rampage. courant.com/2026/10/07/firin… — Hartford Courant (@hartfordcourant) Oct 8, 2026](https://x.com/hartfordcourant/status/2108015267649384886)** <sub>@hartfordcourant · 10:02 PM</sub>
-- **[The campaign will determine the fate of Prime Minister Benjamin Netanyahu. courant.com/2026/10/07/oct-7… — Hartford Courant (@hartfordcourant) Oct 8, 2026](https://x.com/hartfordcourant/status/2108012622176043434)** <sub>@hartfordcourant · 9:52 PM</sub>
-- **[Time for the annual when are you turning on your heat thread.](https://www.reddit.com/r/Connecticut/comments/1x0ek86/time_for_the_annual_when_are_you_turning_on_your/)** <sub>iguess12 · 9:47 PM</sub>
-  <br>No heat till trick or treat, then it's wood insert time to supplement gas boiler.
