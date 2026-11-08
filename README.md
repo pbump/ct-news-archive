@@ -1,12 +1,26 @@
 # CT News
 
-Last 30 days · 5286 items · updated Nov 7, 2026 8:39 PM EST
+Last 30 days · 5278 items · updated Nov 8, 2026 2:55 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Sunday, November 8
+
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2632596563876747/)** <sub>CTPOLICELIVE · 12:20 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+
 ## Saturday, November 7
 
+- **[Scooter Accident with Loss of Consciousness in Hartford](https://www.facebook.com/groups/BreakingNow/posts/2434640150608486/)** <sub>Marcus Anthony Rice · 11:09 PM</sub>
+- **[Multi-Car Accident I-84 East in Plainville, One Unresponsive 5 Transports](https://www.facebook.com/groups/BreakingNow/posts/2434637663942068/)** <sub>Marcus Anthony Rice · 11:05 PM</sub>
+- **[Are there any specific things I need to do with the car during the winter to keep it running properly going forward?](https://m.facebook.com/hartfordcourant/posts/pfbid021sLbCgBJhg5zSyfRHucQ7anFRbzxnRcgxRdesU8fnUy5xy3yxTfycJjWNZP2Q4sYl)** <sub>Hartford Courant · 11:01 PM</sub>
+- **[\[USA\] A bad driver never misses their exit](https://www.reddit.com/r/Connecticut/comments/1xqov8q/usa_a_bad_driver_never_misses_their_exit/)** <sub>devletmillet · 10:38 PM</sub>
+- **[Don’t rule out a detached stand-alone screened porch.](https://m.facebook.com/hartfordcourant/posts/pfbid0ha9JVMRFjPeHtijGGs49j9UvtBnB557A5Jd4cHZGAuLDWui2BcoPgkpcUa46VkUsl)** <sub>Hartford Courant · 10:00 PM</sub>
+- **[North Pole Express](https://www.reddit.com/r/Connecticut/comments/1xqnipk/north_pole_express/)** <sub>dirtyballerinatights · 9:25 PM</sub>
+  <br>I have 2 First Class tickets for 12/1 for $250. DM if interested.
+- **[Holiday Markets](https://www.reddit.com/r/Connecticut/comments/1xqnim1/holiday_markets/)** <sub>Excellent-Deer4784 · 9:25 PM</sub>
+- **[Washington state’s original Tacoma Narrows Bridge, nicknamed “Galloping Gertie,” collapsed into Puget Sound during a windstorm just four months after opening to traffic.](https://m.facebook.com/hartfordcourant/posts/pfbid0E7yCaf8y2svnU1nDjbpYc55vAf8n2BjJzqg6kmhi3NwbELoJuB4BnaJe5SyvqaAsl)** <sub>Hartford Courant · 9:01 PM</sub>
 - **[Call Rep. Jim Himes - said he had received no calls and that "Jeffries absolutely will be speaker."](https://www.reddit.com/r/Connecticut/comments/1xqme0u/call_rep_jim_himes_said_he_had_received_no_calls/)** <sub>Bancai · 8:26 PM</sub>
   <br>As per title from the yahoo article HERE
 - **[A Connecticut man has been sentenced after committing an armed robbery at Westfarms Mall, officials said.](https://m.facebook.com/hartfordcourant/posts/pfbid028i6gvy8XU87DkdXytpkTzuFWKeFrGqvobnPnnBURzuA8AxgPsLCgAMSkPPSuozkql)** <sub>Hartford Courant · 8:01 PM</sub>
@@ -8071,32 +8085,3 @@ Last 30 days · 5286 items · updated Nov 7, 2026 8:39 PM EST
   <br>As U.S. homebuyers scrutinize the surge of mortgage rates and debate the Federal Reserve's next move, an even bigger story has been unfolding across global trading floors that directly affects Americans' pocketbooks. For the past month, global bond markets have been in the grips of a historic…
 - **[America’s Hottest Market No More: This New England City Just Dropped Out of the Top 20](https://www.realtor.com/news/trends/manchester-nh-hottest-markets-report-september-2026/)** <sub>Snejana Farberov · 4:37 AM</sub>
   <br>The Midwest and Northeast went toe to toe in September, with each region claiming 10 spots in the Realtor.com® August 2026 Hottest Housing Markets ranking , but one longtime frontrunner was notably absent from the top 20. Manchester-Nashua, NH , once New England's go-to affordable alternative to…
-- **[Macy’s Family Fall Fashion Event](https://www.reddit.com/r/Connecticut/comments/1x1bi4x/macys_family_fall_fashion_event/)** <sub>StorageMaterial7290 · 12:00 AM</sub>
-  <br>If you’re looking for something fun 🤩 and festive 🍁 to do this weekend, Macy’s is the place to be! This Saturday we are having a very eventful day celebrating our welcome into the fall season. We will be doing PUMPKIN DECORATING 🎃 while also giving away 50 FREE PUMPKINS TO THE FIRST 50 RSVPS! We…
-
-## Thursday, October 8
-
-- **[Single Issue](https://www.reddit.com/r/Connecticut/comments/1x1b10k/single_issue/)** <sub>ryzrocker · 11:35 PM</sub>
-  <br>It never should have been authorized in the first place, but if you are a Democrat and are running for Senate or Congress and the absolute abolishment of ICE isn't part of your platform, I hope you lose. Either be an opposition party or GTFO. Related: https://www.reddit.com/r/EyesOnIce/s/i5gxLysF70
-- **[Nowadays, the large array of SUVs available for consumers can be a lot to think about. Manufacturers have models in every fleet trying to earn consumers’ business regardless of market.](https://m.facebook.com/hartfordcourant/posts/pfbid0ke2hg6J6TtCojQBjk24RcUzdEYtobwUaesVdBwyNQv6TaxtVQbho653J35tZw23nl)** <sub>Hartford Courant · 11:02 PM</sub>
-- **[Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech,…](https://x.com/hartfordcourant/status/2108389609830809634)** <sub>@hartfordcourant · 10:50 PM</sub>
-  <br>Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech, described as a “drunken babble.” courant.com/2026/10/08/opini… — Hartford Courant (@hartfordcourant) Oct…
-- **[Russian authorities have kept a tight lid on information about the case. courant.com/2026/10/08/russi… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108387998194630797)** <sub>@hartfordcourant · 10:44 PM</sub>
-- **[In all, at least a dozen demonstrators interrupted the president. courant.com/2026/10/08/trump… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108385664026677373)** <sub>@hartfordcourant · 10:34 PM</sub>
-- **[Sean “Diddy” Combs’ prison release date has been pushed back by several weeks amid allegations he’d been living a pampered lifestyle behind bars.](https://m.facebook.com/hartfordcourant/posts/pfbid035FnjzeTfpeMqrauNhCcF5PbRqJ5qyx5Kfx2JCESUu5x9Yrme4GMiEkrMUjP6Zmsgl)** <sub>Hartford Courant · 10:31 PM</sub>
-- **[Victor Mesa’s Mesa’s tiebreaking, two-run homer off Max Fried in the sixth inning lifted Tampa Bay over the New York Yankees 4-3 on Wednesday night for a three-game sweep of their AL Division Series.](https://x.com/hartfordcourant/status/2108382769097183678)** <sub>@hartfordcourant · 10:23 PM</sub>
-  <br>Victor Mesa’s Mesa’s tiebreaking, two-run homer off Max Fried in the sixth inning lifted Tampa Bay over the New York Yankees 4-3 on Wednesday night for a three-game sweep of their AL Division Series. courant.com/2026/10/08/rays-… — Hartford Courant (@hartfordcourant) Oct 9, 2026
-- **[Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026](https://www.facebook.com/reel/1838622320787927/)** <sub>CTPOLICELIVE · 10:15 PM</sub>
-  <br>Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026 - 9:53 p.m. 📻 Key Details -- New London Police responded to Chappell Street after reports of shots fired and a caller stating that he had been shot -- A caller reported hearing three gunshots and…
-- **[Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02VqCbq6AGLNYH2V9JhTqaMTijmE4Z7bZakwSN6HJPTyBkj2u4JJxDEc2iUtr7yGfTl)** <sub>CTPOLICELIVE · 10:12 PM</sub>
-  <br>Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026 - 9:53 p.m. 📻 Key Details -- New London Police responded to Chappell Street after reports of shots fired and a caller stating that he had been shot -- A caller reported hearing three gunshots and…
-- **[Daniela Fuentes was sent to the country under President Trump’s immigration policy. courant.com/2026/10/08/immig… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108380036373823667)** <sub>@hartfordcourant · 10:12 PM</sub>
-- **[Any good Cajun restaurants?](https://www.reddit.com/r/Connecticut/comments/1x19e2z/any_good_cajun_restaurants/)** <sub>ferokaktus · 10:10 PM</sub>
-  <br>Having just spent three months in Atlanta, I'm really missing good Cajun food. Anywhere nearby I can get catfish, redfish, etouffe, gumbo?
-- **[The storm has become the first Atlantic system this year to reach hurricane strength. courant.com/2026/10/08/hurri… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108378212988309548)** <sub>@hartfordcourant · 10:05 PM</sub>
-- **[In Opinion \|Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whi...](https://m.facebook.com/hartfordcourant/posts/pfbid0fFMvhrVLYPNfqCnQbzCwGgX1M7eEdWsWSYSeE28mD4T2kCq83FR97aUnM5jec1x1l)** <sub>Hartford Courant · 10:02 PM</sub>
-  <br>In Opinion \|Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech, described as a “drunken babble.”
-- **[AI can help you research products and narrow your choices, but don’t trust it for everything. {og:title} {article:title} courant.com/2026/10/08/what-… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108375071442031084)** <sub>@hartfordcourant · 9:52 PM</sub>
-- **[A report said she had asked a Trump donor to pay a $100,000 credit card bill. courant.com/2026/10/08/rubio… — Hartford Courant (@hartfordcourant) Oct 9, 2026](https://x.com/hartfordcourant/status/2108372438442471433)** <sub>@hartfordcourant · 9:42 PM</sub>
-- **[Visiting Family In Westport](https://www.reddit.com/r/Connecticut/comments/1x18s72/visiting_family_in_westport_where_should_i_stay/)** <sub>Low-Description-7501 · 9:40 PM</sub>
-  <br>Hello, For thanksgiving going to be going to CT with 6 people. Host family lives in Westport, CT. Was looking for places to stay along the commuter rail (short uber is fine to make the last leg as we'll ultimately have a car waiting for us). Was wondering where to stay - I was hoping to find a…

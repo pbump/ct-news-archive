@@ -1,9 +1,108 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-11-08T01:39:20.685558+00:00",
+ "updated": "2026-11-08T07:55:52.680127+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://m.facebook.com/CTPOLICELIVE/videos/2632596563876747/",
+   "title": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...",
+   "link": "https://m.facebook.com/CTPOLICELIVE/videos/2632596563876747/",
+   "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
+   "author": "CTPOLICELIVE",
+   "image": "https://scontent-msp1-1.xx.fbcdn.net/v/t15.5256-10/894321135_1679066540673217_2122723100558599787_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=JuStTeV5Gd0Q7kNvwEe5S8g&_nc_oc=AdqWXxZwOhd1LHDoOdCJb2j_wQB6OEFwZNnWqeyr1i441e0N2lZwBRNiQyvXRmSBV5m9Z7aKVTeUWaC6hgV40imn&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&_nc_gid=jPERzPK6QNfupj3PR-8dwQ&_nc_ss=7c289&oh=00_AQRseiuC3mR4OXUCQnGChgabsAC3s2RuXg7CeB__5wwOLg&oe=6AF60111",
+   "published": "2026-11-08T05:20:19+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T05:20:19+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2434640150608486/",
+   "title": "Scooter Accident with Loss of Consciousness in Hartford",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2434640150608486/",
+   "summary": "",
+   "author": "Marcus Anthony Rice",
+   "image": null,
+   "published": "2026-11-08T04:09:09+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T04:09:09+00:00"
+  },
+  {
+   "id": "https://www.facebook.com/groups/BreakingNow/posts/2434637663942068/",
+   "title": "Multi-Car Accident I-84 East in Plainville, One Unresponsive 5 Transports",
+   "link": "https://www.facebook.com/groups/BreakingNow/posts/2434637663942068/",
+   "summary": "",
+   "author": "Marcus Anthony Rice",
+   "image": null,
+   "published": "2026-11-08T04:05:28+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T04:05:28+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid021sLbCgBJhg5zSyfRHucQ7anFRbzxnRcgxRdesU8fnUy5xy3yxTfycJjWNZP2Q4sYl",
+   "title": "Are there any specific things I need to do with the car during the winter to keep it running properly going forward?",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid021sLbCgBJhg5zSyfRHucQ7anFRbzxnRcgxRdesU8fnUy5xy3yxTfycJjWNZP2Q4sYl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/893314444_1555461949944974_4518750153413678222_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=111&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=5LkCcQe6t5gQ7kNvwGmEUoj&_nc_oc=AdrIQiQjy3cNXJg1zQedgtlweITj1La4GoLPHglodRyvfJvugubct2DsEX03uRssZvk8VMAnqHbQpXoL2dXJw8SD&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&_nc_gid=Bu026Bhpxl4Vj-svDCV1yQ&_nc_ss=7c289&oh=00_AQRwOQT_3uB4DTYKxJcq8PVb--bw4mNstZ-_9U6L4Wf05A&oe=6AF5E5F9",
+   "published": "2026-11-08T04:01:05+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T04:01:05+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xqov8q/usa_a_bad_driver_never_misses_their_exit/",
+   "title": "[USA] A bad driver never misses their exit",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xqov8q/usa_a_bad_driver_never_misses_their_exit/",
+   "summary": "",
+   "author": "devletmillet",
+   "image": null,
+   "published": "2026-11-08T03:38:31+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T03:38:31+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0ha9JVMRFjPeHtijGGs49j9UvtBnB557A5Jd4cHZGAuLDWui2BcoPgkpcUa46VkUsl",
+   "title": "Don’t rule out a detached stand-alone screened porch.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0ha9JVMRFjPeHtijGGs49j9UvtBnB557A5Jd4cHZGAuLDWui2BcoPgkpcUa46VkUsl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/897606037_1555418159949353_3822292950190214947_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=iwNmAd6uHR0Q7kNvwFYbKcY&_nc_oc=Adq3rxpLsSjvVDpKFF9GS1fZcSjfNFym73vVeTxoI1GmCWoyBsHN3GIqWCLCJNu_BusPendJMOtL6CXijNdH4vzv&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&_nc_gid=Bu026Bhpxl4Vj-svDCV1yQ&_nc_ss=7c289&oh=00_AQTTn5H1xSe2MraBuUFuZQCTVENi7B591Dib0XPvzKMC9w&oe=6AF5F3FF",
+   "published": "2026-11-08T03:00:52+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T03:00:52+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xqnipk/north_pole_express/",
+   "title": "North Pole Express",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xqnipk/north_pole_express/",
+   "summary": "I have 2 First Class tickets for 12/1 for $250. DM if interested.",
+   "author": "dirtyballerinatights",
+   "image": null,
+   "published": "2026-11-08T02:25:11+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T02:25:11+00:00"
+  },
+  {
+   "id": "https://www.reddit.com/r/Connecticut/comments/1xqnim1/holiday_markets/",
+   "title": "Holiday Markets",
+   "link": "https://www.reddit.com/r/Connecticut/comments/1xqnim1/holiday_markets/",
+   "summary": "",
+   "author": "Excellent-Deer4784",
+   "image": null,
+   "published": "2026-11-08T02:25:03+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T02:25:03+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0E7yCaf8y2svnU1nDjbpYc55vAf8n2BjJzqg6kmhi3NwbELoJuB4BnaJe5SyvqaAsl",
+   "title": "Washington state’s original Tacoma Narrows Bridge, nicknamed “Galloping Gertie,” collapsed into Puget Sound during a windstorm just four months after opening to traffic.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0E7yCaf8y2svnU1nDjbpYc55vAf8n2BjJzqg6kmhi3NwbELoJuB4BnaJe5SyvqaAsl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/897082010_1555376163286886_1405051428482228424_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=8cK7h7vaubEQ7kNvwEu5Fnl&_nc_oc=AdqVCTp3vZl1reRYNGR6-B5395f_xzIQIn14AGxsX-KfgOLea8Wjv2drLJaF75mPk5lApgfWqs47EQHhP16-RdYB&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&_nc_gid=Bu026Bhpxl4Vj-svDCV1yQ&_nc_ss=7c289&oh=00_AQQ32gHZzCD2qR64cgEfH7apc7CGkuim_-1Re0bv8PTSqQ&oe=6AF5F66B",
+   "published": "2026-11-08T02:01:06+00:00",
+   "first_seen": "2026-11-08T07:55:52.680127+00:00",
+   "date": "2026-11-08T02:01:06+00:00"
+  },
   {
    "id": "https://www.reddit.com/r/Connecticut/comments/1xqme0u/call_rep_jim_himes_said_he_had_received_no_calls/",
    "title": "Call Rep. Jim Himes - said he had received no calls and that \"Jeffries absolutely will be speaker.\"",
@@ -21,7 +120,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid028i6gvy8XU87DkdXytpkTzuFWKeFrGqvobnPnnBURzuA8AxgPsLCgAMSkPPSuozkql",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/890196449_1555330553291447_3175803267628353231_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=UiI03vdn_4kQ7kNvwHRQWhb&_nc_oc=AdrIKw_eGUK2s3iTQVcI5LZlIiJmosl8yNKNrVtQ28npjEtZxSuZ4cqOqbOA7q7lqno&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=EobnMkBWQnfvDk51dWvoRQ&_nc_ss=7c289&oh=00_AQScRf83_DwMt7SNgEAftPWoMEOq5Lntbm009VcTaGQ7Kg&oe=6AF5A040",
+   "image": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/890196449_1555330553291447_3175803267628353231_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=UiI03vdn_4kQ7kNvwHCQGqU&_nc_oc=AdqVsyDDD810c7RCjkidQ8qJhcz0db6b8lUDUQJXOXQ2A7jWgS9CK2YfcCsaOyX15Wk4_EWxByR8bAZhVDZZvGCk&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&_nc_gid=Bu026Bhpxl4Vj-svDCV1yQ&_nc_ss=7c289&oh=00_AQTYDiV-2bariBtBpUtNa6PBstff1j3xzdnnR_LWykKf5g&oe=6AF610C0",
    "published": "2026-11-08T01:01:06+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-08T01:01:06+00:00"
@@ -54,7 +153,7 @@
    "link": "https://www.facebook.com/reel/4250776761849674/",
    "summary": "Man Reportedly Brandishes Knife, Steals Beer - New Haven 📍 Market360, 777 Chapel Street, New Haven, CT 📅 Saturday, November 7, 2026 - 7:11 p.m. 📻 Key Details -- New Haven Police responded to a reported robbery after a man brandished a knife and stole beer -- The suspect was described as a heavy-set…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/893320845_1842554120416505_5336876142713803488_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=Se3BiQDVfjIQ7kNvwFHMj8x&_nc_oc=Adpd7czGrCmsIMGP-K96sjjvA6mtrYEAklvvyakzFn4oC3Rg91Ss9olWpyI4gc9sOzebSE9PI8tC9LYVCquZ67Ws&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=2dnahnXy_rKD1TDy2wBy4Q&_nc_ss=7c289&oh=00_AQRSD_5PgH9wYSiXjXdGL8XBf1PI22g2gdOCqzbJR5RTSA&oe=6AF5A501",
+   "image": "https://scontent-msp1-1.xx.fbcdn.net/v/t15.5256-10/893320845_1842554120416505_5336876142713803488_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=Se3BiQDVfjIQ7kNvwE4yrpl&_nc_oc=Adqfn4pf7QDaoWML7mwKjK3MpVDfT2lhDkI2Fwg-3_vQhPIBTeAIqdp7DJrtw_bUJ2jlNQ3BlVKQnH0lYh9qlwRb&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&_nc_gid=jPERzPK6QNfupj3PR-8dwQ&_nc_ss=7c289&oh=00_AQQy0cIB2YM5FnZNC5oG4eeJejdYJQigCJpbTIGiONrs5Q&oe=6AF5DD41",
    "published": "2026-11-08T00:34:49+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-08T00:34:49+00:00"
@@ -65,7 +164,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid04CYNaoSTTNLEDECy6gqdYKUoavevZuehzDBCmuuK2BHhudTxansgtXdrbiRdGR6Gl",
    "summary": "Man Reportedly Brandishes Knife, Steals Beer - New Haven 📍 Market360, 777 Chapel Street, New Haven, CT 📅 Saturday, November 7, 2026 - 7:11 p.m. 📻 Key Details -- New Haven Police responded to a reported robbery after a man brandished a knife and stole beer -- The suspect was described as a heavy-set…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/895707420_1606774551493691_7880979645171297457_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=UFkNhNpM3kEQ7kNvwGFM3x0&_nc_oc=AdrJQdntxPKs13GyMCiKArY8bgyc5wwHzCbCP7rqIX7bRcKTxVSB59yRN20MvTWJl2NQObYRRfm16Udd5z2C2gWI&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=2dnahnXy_rKD1TDy2wBy4Q&_nc_ss=7c289&oh=00_AQQLHUHrvMmeaGbmA0XP2efdt_Au2KJVrJNS72CCZIG9Gg&oe=6AF5AC4F",
+   "image": "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/895707420_1606774551493691_7880979645171297457_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=UFkNhNpM3kEQ7kNvwE-Y59I&_nc_oc=Adps8VFMAg7IRbAgWEN-4XhUv9eVv-Rnb-PNyGnwcXPRr09jN2boY4QSW6RZ6PxA-WX0yhuYdErnd3nG-mCh6st4&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&_nc_gid=jPERzPK6QNfupj3PR-8dwQ&_nc_ss=7c289&oh=00_AQQqCOr0YpMkg2UFTzHTndz_98RJOBvOG3FE19Ji_vTS4w&oe=6AF5E48F",
    "published": "2026-11-08T00:30:45+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-08T00:30:45+00:00"
@@ -76,7 +175,7 @@
    "link": "https://www.facebook.com/groups/BreakingNow/posts/2434487320623769/",
    "summary": "",
    "author": "Marcus Anthony Rice",
-   "image": "https://scontent.fixm4-1.fna.fbcdn.net/v/t15.5256-10/893632646_1008833315579730_6610571588802598594_n.jpg?stp=dst-jpg_tt6&cstp=mx1314x706&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=117846&_nc_ohc=i2CDPf2XRhkQ7kNvwGouwwt&_nc_oc=AdqyUBCSbh05bBsY82P_-2l-h5LWcUlFEZO3rMJIse827dlQ5soV6OMquCNWdHygOxs&_nc_zt=23&_nc_ht=scontent.fixm4-1.fna&_nc_gid=TKY3u-H7ixTsc8HUxxiy8Q&_nc_ss=7b289&oh=00_AQRuX7RmEPAxB-E6l8_Kqd6vZt0yNatuWTbn1YVxKb25kQ&oe=6AF5B0D2",
+   "image": "https://scontent.fixd1-2.fna.fbcdn.net/v/t15.5256-10/893632646_1008833315579730_6610571588802598594_n.jpg?stp=dst-jpg_tt6&cstp=mx1314x706&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=117846&_nc_ohc=i2CDPf2XRhkQ7kNvwGWQzQs&_nc_oc=AdqjSt5SGRJhPL72Fc_BJoCI-Doqwn4KjLw0FRFQvlI3R-WYxdkbt1DHVlxKzFS-FSvVZ6_xfg0zcHsE8K-enrAs&_nc_zt=23&_nc_ht=scontent.fixd1-2.fna&_nc_gid=0zV7PCG-8MAjNhEh7nCS8w&_nc_ss=78289&oh=00_AQSj1eHgHPjBC5hadSEdyUw7HaeCdEXSpj7TX1P6TIS6sw&oe=6AF5E912",
    "published": "2026-11-08T00:20:58+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-08T00:20:58+00:00"
@@ -109,7 +208,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02n4cFaFvUdAnxZd8jG4igkX2mzCPRpBLW3CnWSgmVGtU2WySzVoPaWPbVnVLzWJcnl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/894839734_1555283886629447_2718947687460800108_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=LjoFO3eOxpMQ7kNvwHj2sjJ&_nc_oc=AdoWs78Jd2Q39x__DoF3S1w-BrZRvMpfTy7DrRL1dqNFK_eWkzY0CU7yT3WwwDDvLGY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=EobnMkBWQnfvDk51dWvoRQ&_nc_ss=7c289&oh=00_AQRI_qqJoPOckbuGHZVGFEBv5d9mX1mNYyqNTkDyRPW9KA&oe=6AF5B9C6",
+   "image": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/894839734_1555283886629447_2718947687460800108_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=LjoFO3eOxpMQ7kNvwE2a3vb&_nc_oc=AdpdA_kf9qnwbwBcbxOoKZt9KJHPW6rtH6ZM1bJXgN0aCzyUU4rAdjhDI4Kb_NkIJtnxNe8jWsmmqiwrODTl8Pt_&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&_nc_gid=Bu026Bhpxl4Vj-svDCV1yQ&_nc_ss=7c289&oh=00_AQRElFQww_CHcIlYuSMRrbhigtdJaV-ZkHGxn8iMpArASA&oe=6AF5F206",
    "published": "2026-11-08T00:01:20+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-08T00:01:20+00:00"
@@ -142,7 +241,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0WdjzLpXLzajFvJtmsru2XENTCyB8dBJQxq5o7AVgtxWCdbNse7KjktrzHssvTRefl",
    "summary": "🚨New ‘Hartford’ Scoop!🚨 ‼️A Downtown Hartford vintage & gift shop has announced its planned closure. 🐂Gentle Bull Shop announced plans to close its physical storefront in Downtown Hartford at the end of the month as they look ahead to the next chapter of the brand. The shop is located at 45 Pratt…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/895876869_1199749115961538_1073446034747279063_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e21142&_nc_ohc=bg6I8HtvlQAQ7kNvwHy58Jq&_nc_oc=Ado9R67Z_-Dw_Qtrz_v416fm0cFza0F2RkpdUcxOdj1oz2GrKrYzXB3bQWNbiYkVz_O1iLYDv7e3bAdckReYnSQ7&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=PIjTER-86FU6AHY33t_dww&_nc_ss=7c289&oh=00_AQTkTf-_MH1j4qdvIqOHd6uW57HAReuN7C4Gs3kUmygFMA&oe=6AF5AD56",
+   "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/895876869_1199749115961538_1073446034747279063_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e21142&_nc_ohc=bg6I8HtvlQAQ7kNvwHwRqTn&_nc_oc=AdpPRuGBxlC30NLKpAtTf4UTba_ZubLMtVsrSc3gegxKoJTn89pVhwMicjUIfnDKfzk3FcNA2r4QJIQW_KfRvQ2l&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=tewMcEezAOOBiro9gTTEhA&_nc_ss=7c289&oh=00_AQSo_rQZ1knAOCDSWMiETIyL33lnDDHg9JLYMhs69cFvOA&oe=6AF5E596",
    "published": "2026-11-07T23:19:12+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-07T23:19:12+00:00"
@@ -153,7 +252,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid032Md4Si7fsnrTnj39ijJ3HhexsmTtxGKrpMUszhkVjDonoBUC7XGNRbo8FRwJosXkl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/891290374_1555248159966353_4632016047119485678_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=m-CjwlsxJCoQ7kNvwGId3N0&_nc_oc=AdqybmE-tk7iLXznKmssU2juYdOfAnOrYJqTfW6lJ4Fu_vc1vnZUm9WzDDFu8ttYe-U&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=EobnMkBWQnfvDk51dWvoRQ&_nc_ss=7c289&oh=00_AQRSsgA1CuGTabSRkQZM2IAxe0GTY7E5znAbWMDQwB3PpQ&oe=6AF5A0D9",
+   "image": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/891290374_1555248159966353_4632016047119485678_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=m-CjwlsxJCoQ7kNvwHkj7QB&_nc_oc=AdqeYybOr9G9u3lxI-M31o4Nq9CyuMLqSb5ijSK0mCth54RvRYqwKojc6Wt5Kjc9JCE&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=gYYYW-_lQvuu1AQDU35FNg&_nc_ss=7c289&oh=00_AQRL-YdmvhkciY-oHuVlVs8zxmyXJ-N2vos1DAxCWEdKMQ&oe=6AF5D919",
    "published": "2026-11-07T23:01:15+00:00",
    "first_seen": "2026-11-08T01:39:20.685558+00:00",
    "date": "2026-11-07T23:01:15+00:00"
@@ -219,7 +318,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0d85bVDLi9yiBFh1tEMxmvsrxvFjXdhWm8jjbJKrqwzJjAHUHcyy1tKmrjHmbM7cPl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/899271365_1555212573303245_8731154807758851616_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=vIBOaMOTE0QQ7kNvwENZEA3&_nc_oc=AdrrkUKJxrsGM-yIe7ovs61vpAutqxrQGwaPnRmAboPgJP-uYQMfWI9OkCPMQl1Y_3A&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=EobnMkBWQnfvDk51dWvoRQ&_nc_ss=7c289&oh=00_AQTZGRbhajqtJ-xBf40tI5MeUuDWDVYX7MxeRBkLzbZVnw&oe=6AF5B286",
+   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/899271365_1555212573303245_8731154807758851616_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=vIBOaMOTE0QQ7kNvwFW_WsZ&_nc_oc=AdqUWib0MAuidEc7NHZOupIRaG4sOurGNZdS4teAqmxO6hWOGibKkyMl1NGWz8GNkRs&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=vXMIuu--AHtkRqnlCGe_OQ&_nc_ss=7c289&oh=00_AQTUMmsu1fOY-2sp-OWIYYq3slNlAXOysHt_AUHeSK4vbA&oe=6AF5B286",
    "published": "2026-11-07T22:01:05+00:00",
    "first_seen": "2026-11-07T22:27:02.151988+00:00",
    "date": "2026-11-07T22:01:05+00:00"
@@ -263,7 +362,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/videos/1096985823210593/",
    "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/894089972_2077909186238991_5944305588692104988_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=Wrk7OntIxJUQ7kNvwGj4mfT&_nc_oc=AdpEeCsa5vw-4sb_-mJVaj68uZZBu-YhS4KZYvhiCN8svsvNZSu-_6WrJCYsKXaZ6V-l1KvyAnIYv3e3zeODn0uH&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=2dnahnXy_rKD1TDy2wBy4Q&_nc_ss=7c289&oh=00_AQQtISdZ3hbE5qM6QECr2tifIqIsEiJUkfj00ZErSgIT-w&oe=6AF59CC3",
+   "image": "https://scontent-msp1-1.xx.fbcdn.net/v/t15.5256-10/894879557_2077782486251661_631319444438620516_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=104&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=4Sffy6sZF3YQ7kNvwHszOzC&_nc_oc=AdoMjdwDfGgEs97xRwmVv6nvTrUFhNRmOy21lfVoUNr3VwTNFyfLnG1tlTIUL2H1p_QExba8JOjn3guHsHiQC7Rv&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&_nc_gid=jPERzPK6QNfupj3PR-8dwQ&_nc_ss=7c289&oh=00_AQSHIf4-tKMMAKy2lbF2GURoeGInatF0fuAiEn9nl9cH-Q&oe=6AF5EF37",
    "published": "2026-11-07T21:21:51+00:00",
    "first_seen": "2026-11-07T22:27:02.151988+00:00",
    "date": "2026-11-07T21:21:51+00:00"
@@ -384,7 +483,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid02z6ThhJgLuNkUPBKp3GGi8NuHydnmeyP798GXJTNbnrBYVoECWdyAUtmwkEEuwoLyl",
    "summary": "🚨New Foxwoods Scoop!🚨 🎉David Burke Prime is NOW OPEN at Foxwoods! 🥩The steakhouse has officially reopened its doors to the public yesterday at Foxwoods Resort Casino! They are located on the lower restaurant level of the Grand Pequot Casino. 🥩The reopening is an exciting milestone for one of…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/896545977_1199641049305678_6522313226886745078_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e21142&_nc_ohc=d2gR5wXxr6MQ7kNvwGPCs-O&_nc_oc=Adp93wypp5c9a2MdDUCyRItOekl9U-0WpFuGtBoXQgII-MkGujsAkRVtUIEbxxWNBbcX5iAJy7oUCb4G0pLKDgmB&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=PIjTER-86FU6AHY33t_dww&_nc_ss=7c289&oh=00_AQSR2ZbCIxjSIxBRjbavlt9SuWkl5ic3i50F62v6_X78lg&oe=6AF592AC",
+   "image": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/896545977_1199641049305678_6522313226886745078_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e21142&_nc_ohc=d2gR5wXxr6MQ7kNvwHL7X0U&_nc_oc=AdookrXE1mtRrl-7WwuoUyw-zmnuTSHaM4DBFNoUKrobR-g8WpDjcEZDFzsBeTM099snVrklCeCVrk5oqXzmB-0q&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=tewMcEezAOOBiro9gTTEhA&_nc_ss=7c289&oh=00_AQQF23moOO1xGRSdcYtJhfK0w0foySwCYlzG7tV_RxLevg&oe=6AF6032C",
    "published": "2026-11-07T20:21:51+00:00",
    "first_seen": "2026-11-07T22:27:02.151988+00:00",
    "date": "2026-11-07T20:21:51+00:00"
@@ -57962,193 +58061,6 @@
    "published": "2026-10-09T08:37:00+00:00",
    "first_seen": "2026-10-09T10:24:30.256844+00:00",
    "date": "2026-10-09T08:37:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1x1bi4x/macys_family_fall_fashion_event/",
-   "title": "Macy’s Family Fall Fashion Event",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1x1bi4x/macys_family_fall_fashion_event/",
-   "summary": "If you’re looking for something fun 🤩 and festive 🍁 to do this weekend, Macy’s is the place to be! This Saturday we are having a very eventful day celebrating our welcome into the fall season. We will be doing PUMPKIN DECORATING 🎃 while also giving away 50 FREE PUMPKINS TO THE FIRST 50 RSVPS! We…",
-   "author": "StorageMaterial7290",
-   "image": "https://external-preview.redd.it/hAbipMv74NKKP-feN-7i2mNM4hDTa2hzVZWpFqED15s.jpeg?width=640&crop=smart&auto=webp&s=3751078fc2b8357a528f76797d48926379a1e363",
-   "published": "2026-10-09T04:00:52+00:00",
-   "first_seen": "2026-10-09T10:24:30.256844+00:00",
-   "date": "2026-10-09T04:00:52+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1x1b10k/single_issue/",
-   "title": "Single Issue",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1x1b10k/single_issue/",
-   "summary": "It never should have been authorized in the first place, but if you are a Democrat and are running for Senate or Congress and the absolute abolishment of ICE isn't part of your platform, I hope you lose. Either be an opposition party or GTFO. Related: https://www.reddit.com/r/EyesOnIce/s/i5gxLysF70",
-   "author": "ryzrocker",
-   "image": null,
-   "published": "2026-10-09T03:35:17+00:00",
-   "first_seen": "2026-10-09T10:24:30.256844+00:00",
-   "date": "2026-10-09T03:35:17+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0ke2hg6J6TtCojQBjk24RcUzdEYtobwUaesVdBwyNQv6TaxtVQbho653J35tZw23nl",
-   "title": "Nowadays, the large array of SUVs available for consumers can be a lot to think about. Manufacturers have models in every fleet trying to earn consumers’ business regardless of market.",
-   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0ke2hg6J6TtCojQBjk24RcUzdEYtobwUaesVdBwyNQv6TaxtVQbho653J35tZw23nl",
-   "summary": "",
-   "author": "Hartford Courant",
-   "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/841283225_1524197166404786_5938987986417485755_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=iJQvAcRXctUQ7kNvwG8NynL&_nc_oc=AdroKo9AxjwBaMRJdqhTCmGtUGYrSj-icq6v60AkgajBDw_KYvAyyzuv19siH_fj8t0&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=KkpgY1PJEdP99vu3cWasuQ&_nc_ss=7c289&oh=00_AQMybWapi60W-3KvNiIQ1dc4qY23axpC1wtKXQe2s1_GTg&oe=6ACE9CA3",
-   "published": "2026-10-09T03:02:06+00:00",
-   "first_seen": "2026-10-09T10:24:30.256844+00:00",
-   "date": "2026-10-09T03:02:06+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108389609830809634",
-   "title": "Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech,…",
-   "link": "https://x.com/hartfordcourant/status/2108389609830809634",
-   "summary": "Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech, described as a “drunken babble.” courant.com/2026/10/08/opini… — Hartford Courant (@hartfordcourant) Oct…",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108160741488418816/TtO-wgfI?format=jpg&name=420x420_2",
-   "published": "2026-10-09T02:50:00+00:00",
-   "first_seen": "2026-10-09T10:24:30.256844+00:00",
-   "date": "2026-10-09T02:50:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108387998194630797",
-   "title": "Russian authorities have kept a tight lid on information about the case. courant.com/2026/10/08/russi… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "link": "https://x.com/hartfordcourant/status/2108387998194630797",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108388000992251905/XJGxLpEz?format=jpg&name=800x419",
-   "published": "2026-10-09T02:44:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:44:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108385664026677373",
-   "title": "In all, at least a dozen demonstrators interrupted the president. courant.com/2026/10/08/trump… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "link": "https://x.com/hartfordcourant/status/2108385664026677373",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108385669559029762/wHh9GdLN?format=jpg&name=800x419",
-   "published": "2026-10-09T02:34:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:34:00+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid035FnjzeTfpeMqrauNhCcF5PbRqJ5qyx5Kfx2JCESUu5x9Yrme4GMiEkrMUjP6Zmsgl",
-   "title": "Sean “Diddy” Combs’ prison release date has been pushed back by several weeks amid allegations he’d been living a pampered lifestyle behind bars.",
-   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid035FnjzeTfpeMqrauNhCcF5PbRqJ5qyx5Kfx2JCESUu5x9Yrme4GMiEkrMUjP6Zmsgl",
-   "summary": "",
-   "author": "Hartford Courant",
-   "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/840578035_1524180099739826_8530518621684085178_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=2x2xc0vKxioQ7kNvwG1ihKk&_nc_oc=AdpbdnW2Woe0d5e8L12EIL2MPUucTXWqIQEMKMOnjL0Qjml2CBKGoJmAWz4Kt-2yKkQ&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=KkpgY1PJEdP99vu3cWasuQ&_nc_ss=7c289&oh=00_AQPOc0t9SwY3lNho3zyj2lbxIgVPu75NaZjMWCjROL9Oig&oe=6ACE9291",
-   "published": "2026-10-09T02:31:37+00:00",
-   "first_seen": "2026-10-09T10:24:30.256844+00:00",
-   "date": "2026-10-09T02:31:37+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108382769097183678",
-   "title": "Victor Mesa’s Mesa’s tiebreaking, two-run homer off Max Fried in the sixth inning lifted Tampa Bay over the New York Yankees 4-3 on Wednesday night for a three-game sweep of their AL Division Series.",
-   "link": "https://x.com/hartfordcourant/status/2108382769097183678",
-   "summary": "Victor Mesa’s Mesa’s tiebreaking, two-run homer off Max Fried in the sixth inning lifted Tampa Bay over the New York Yankees 4-3 on Wednesday night for a three-game sweep of their AL Division Series. courant.com/2026/10/08/rays-… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108382771722756097/dija3uJF?format=jpg&name=800x419",
-   "published": "2026-10-09T02:23:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:23:00+00:00"
-  },
-  {
-   "id": "https://www.facebook.com/reel/1838622320787927/",
-   "title": "Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026",
-   "link": "https://www.facebook.com/reel/1838622320787927/",
-   "summary": "Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026 - 9:53 p.m. 📻 Key Details -- New London Police responded to Chappell Street after reports of shots fired and a caller stating that he had been shot -- A caller reported hearing three gunshots and…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t15.5256-10/842196960_2203425350596960_3617511648111084153_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=8U73SSq7f5gQ7kNvwHjI_qX&_nc_oc=AdoUn2yR2d-nUO3WYRGWjoBWbhg9lItIWrgLS-BRGGOW6RBhCuJ2cSX70Rd9Aoa_588&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=EfBzI1h2athKF3LUEu62mA&_nc_ss=7c289&oh=00_AQMWBWUYJxKfI9ZyVmLzbCm-Tl_zFV-Xp6g1uAKhiSdGMg&oe=6ACE8D2C",
-   "published": "2026-10-09T02:15:06+00:00",
-   "first_seen": "2026-10-09T10:24:30.256844+00:00",
-   "date": "2026-10-09T02:15:06+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02VqCbq6AGLNYH2V9JhTqaMTijmE4Z7bZakwSN6HJPTyBkj2u4JJxDEc2iUtr7yGfTl",
-   "title": "Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026",
-   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid02VqCbq6AGLNYH2V9JhTqaMTijmE4Z7bZakwSN6HJPTyBkj2u4JJxDEc2iUtr7yGfTl",
-   "summary": "Man Shot on Chappell Street - New London 📍 Chappell Street, New London, CT 📅 Thursday, October 8, 2026 - 9:53 p.m. 📻 Key Details -- New London Police responded to Chappell Street after reports of shots fired and a caller stating that he had been shot -- A caller reported hearing three gunshots and…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/839671203_1573260358178444_85622182272936442_n.jpg?stp=dst-jpg_p590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=1TBMErG-wxkQ7kNvwEHI1Q9&_nc_oc=AdoPx3JrjTtWve1_0MZAv1rOd6pt34jXPd7rw3IYHjcgZ97Xm9kxKcgfOxLFo79YD3M&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=EfBzI1h2athKF3LUEu62mA&_nc_ss=7c289&oh=00_AQN29mGm0yqI02HwLMzGEubaHSTJ6kapIir9Py4zPZMvPg&oe=6ACE8568",
-   "published": "2026-10-09T02:12:12+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:12:12+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108380036373823667",
-   "title": "Daniela Fuentes was sent to the country under President Trump’s immigration policy. courant.com/2026/10/08/immig… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "link": "https://x.com/hartfordcourant/status/2108380036373823667",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108380045676822529/JXy1hU2t?format=jpg&name=800x419",
-   "published": "2026-10-09T02:12:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:12:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1x19e2z/any_good_cajun_restaurants/",
-   "title": "Any good Cajun restaurants?",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1x19e2z/any_good_cajun_restaurants/",
-   "summary": "Having just spent three months in Atlanta, I'm really missing good Cajun food. Anywhere nearby I can get catfish, redfish, etouffe, gumbo?",
-   "author": "ferokaktus",
-   "image": null,
-   "published": "2026-10-09T02:10:32+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:10:32+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108378212988309548",
-   "title": "The storm has become the first Atlantic system this year to reach hurricane strength. courant.com/2026/10/08/hurri… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "link": "https://x.com/hartfordcourant/status/2108378212988309548",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108378218675818497/SrWA4_l5?format=jpg&name=800x419",
-   "published": "2026-10-09T02:05:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:05:00+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0fFMvhrVLYPNfqCnQbzCwGgX1M7eEdWsWSYSeE28mD4T2kCq83FR97aUnM5jec1x1l",
-   "title": "In Opinion |Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whi...",
-   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0fFMvhrVLYPNfqCnQbzCwGgX1M7eEdWsWSYSeE28mD4T2kCq83FR97aUnM5jec1x1l",
-   "summary": "In Opinion |Did you hear about Johnson on March 4,1865? He drank heavily the night before, consumed three glasses of whiskey and a glass of French brandy that morning before delivering his inaugural speech, described as a “drunken babble.”",
-   "author": "Hartford Courant",
-   "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/841297570_1524161229741713_5074707555074914500_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=111&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=-8H-V4dlszsQ7kNvwHgQglU&_nc_oc=AdoH_tfsjXTfzOKXohNICb8tZlsdfXXxKGOoPfOS-8yGR37QWpO3teRet92CCOJdMl4&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=KkpgY1PJEdP99vu3cWasuQ&_nc_ss=7c289&oh=00_AQPiMNf-OZx5vrswkqo9EOsFo0HAyNDX1lCp9G_U4pWgDg&oe=6ACE9D92",
-   "published": "2026-10-09T02:02:22+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T02:02:22+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108375071442031084",
-   "title": "AI can help you research products and narrow your choices, but don’t trust it for everything. {og:title} {article:title} courant.com/2026/10/08/what-… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "link": "https://x.com/hartfordcourant/status/2108375071442031084",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108375074055020545/SBWJlYzQ?format=jpg&name=800x419",
-   "published": "2026-10-09T01:52:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T01:52:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2108372438442471433",
-   "title": "A report said she had asked a Trump donor to pay a $100,000 credit card bill. courant.com/2026/10/08/rubio… — Hartford Courant (@hartfordcourant) Oct 9, 2026",
-   "link": "https://x.com/hartfordcourant/status/2108372438442471433",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2108372440896163841/QP8FF_0z?format=jpg&name=800x419",
-   "published": "2026-10-09T01:42:00+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T01:42:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1x18s72/visiting_family_in_westport_where_should_i_stay/",
-   "title": "Visiting Family In Westport",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1x18s72/visiting_family_in_westport_where_should_i_stay/",
-   "summary": "Hello, For thanksgiving going to be going to CT with 6 people. Host family lives in Westport, CT. Was looking for places to stay along the commuter rail (short uber is fine to make the last leg as we'll ultimately have a car waiting for us). Was wondering where to stay - I was hoping to find a…",
-   "author": "Low-Description-7501",
-   "image": null,
-   "published": "2026-10-09T01:40:03+00:00",
-   "first_seen": "2026-10-09T03:03:42.854448+00:00",
-   "date": "2026-10-09T01:40:03+00:00"
   }
  ]
 }
