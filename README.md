@@ -1,12 +1,38 @@
 # CT News
 
-Last 30 days · 5217 items · updated Nov 8, 2026 9:01 PM EST
+Last 30 days · 5208 items · updated Nov 9, 2026 4:25 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Monday, November 9
+
+- **[The old cemetery in Windsor](https://www.reddit.com/r/Connecticut/comments/1xrlv36/the_old_cemetery_in_windsor/)** <sub>ILovePublicLibraries · 2:56 AM</sub>
+  <br>Palisado Cemetery
+- **[Line for the shuttles at Bradley 12:30am](https://www.reddit.com/r/Connecticut/comments/1xrjxjx/line_for_the_shuttles_at_bradley_1230am/)** <sub>joeph0to · 12:58 AM</sub>
+- **[40th birthday ideas in SE Connecticut/RI area](https://www.reddit.com/r/Connecticut/comments/1xrjjjd/40th_birthday_ideas_in_se_connecticutri_area/)** <sub>860beck · 12:35 AM</sub>
+  <br>Hey hey, so I’m turning 40 this week, and my husband and I are new to the area. We don’t drink, but don’t mind driving a bit. Would love some recommendations for something fun to celebrate! We don’t really have any friends in the area yet so it would just be the two of us. About us: -introverted…
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2215618215972198/)** <sub>CTPOLICELIVE · 12:26 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+
 ## Sunday, November 8
 
+- **[Defend the Minnesota 15! Hands off our Movements! Sat 11/14](https://www.reddit.com/r/Connecticut/comments/1xriph3/defend_the_minnesota_15_hands_off_our_movements/)** <sub>dnp2020 · 11:49 PM</sub>
+  <br>In the early months of 2026, thousands of people around Minnesota gathered together to protect their neighbors from ICE's campaign of terror, halting the hated operation “ Metro Surge .” Months later, the Trump administration indicted 15 of those people on federal charges for their involvement in…
+- **[Get Flock & ALPR cameras Out of CT!](https://www.reddit.com/r/Connecticut/comments/1xrhj62/get_flock_alpr_cameras_out_of_ct/)** <sub>gilbertmose · 10:45 PM</sub>
+  <br>Bring your picket sign and attend an action near you! Let's build the movement in the streets to defend our communities and push AI powered surveillance out.
+- **[Pedestrian Struck by Vehicle - Norwich 📍 Geer Avenue and West Thames Street, Norwich, CT 📅 Sunday, November 8, 2026 -...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0S9w2xNvovLic6j8ursk8srhfeBJ9yn9FzFZMaAf1KvTfnPxSWfdktsYeJ8qrgYy6l)** <sub>CTPOLICELIVE · 10:13 PM</sub>
+  <br>Pedestrian Struck by Vehicle - Norwich 📍 Geer Avenue and West Thames Street, Norwich, CT 📅 Sunday, November 8, 2026 - 10:07 p.m. 📻 Key Details -- A pedestrian was reportedly struck by a vehicle at the intersection of Geer Avenue and West Thames Street -- Serious injuries were reported -- West…
+- **[Everything was going right for Hartford Athletic in the USL playoffs Saturday, until suddenly it wasn’t.](https://m.facebook.com/hartfordcourant/posts/pfbid02ajvqe5yr1uusJS7V2fAfRVcEbLf8P2YJvpsyarTcX78Ct76BmJo3x3QX855NhBj4l)** <sub>Hartford Courant · 10:01 PM</sub>
+- **[Ragged Mountain Hike](https://www.reddit.com/r/Connecticut/comments/1xrg7ah/ragged_mountain_hike/)** <sub>Disastrous\_Sky6288 · 9:37 PM</sub>
+  <br>So me and my friend were both 14 and I have hiked a good amount but not this hike he hiked when he was younger but no other experience do you think it would we ok if me and him hiked it alone.
+- **[Rural communities may be among the hardest hit by a proposed federal rule.](https://m.facebook.com/hartfordcourant/posts/pfbid0YpeN2nofSW4ztr8penyhUX3LcPNRGHCoHRmd9RT4Cem4XunGD7KotdGp57TM3rsfl)** <sub>Hartford Courant · 9:00 PM</sub>
+- **[Jewelry Store Robbery Ends With Arrest, Two Guns Seized - Hartford 📍 Fine Gold Jewelry Store, 33 William Shorty Campbe...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02Rxns1FQXxM7L9LhmLj1cyn1aDhj4cQHHTaCCxMTYKLy1uqRpkNoKUv3wPiC7YRFrl)** <sub>CTPOLICELIVE · 8:51 PM</sub>
+  <br>Jewelry Store Robbery Ends With Arrest, Two Guns Seized - Hartford 📍 Fine Gold Jewelry Store, 33 William Shorty Campbell Street, Hartford, CT 📅 Friday, November 6, 2026 - 2:20 p.m. 📻 Key Details -- Hartford Police responded to an armed robbery in progress at Fine Gold Jewelry Store after employees…
+- **[Who, if anybody, should primary Blumenthal in 2028?](https://www.reddit.com/r/Connecticut/comments/1xrf7gf/who_if_anybody_should_primary_blumenthal_in_2028/)** <sub>AlexZedKawa02 · 8:47 PM</sub>
+  <br>So, with Blumenthal running for re-election despite being 82 years old by the end of his term, a lot of people in this sub have been calling for him to be primaried by somebody younger. I also would like to see him primaried, not just because of his age, but also because he's one of the last…
+- **[🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🧸Toys''R''Us brings stores to Westfarms a...](https://m.facebook.com/theconnecticutscoop/posts/pfbid02LMTKdW3vLzpWh3J1MkXKRNVhsKcm3uXThmztWZ9AhcPypRSk2ZfcWbQ1uz3j4JkKl)** <sub>The Connecticut Scoop · 8:24 PM</sub>
+  <br>🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🧸Toys''R''Us brings stores to Westfarms and Tanger Outlets, Foxwoods! 🔗 https://www.facebook.com/share/p/1DuVC3ss8e/ • • 🎅🏻Spirit Christmas opens stores in Manchester & Milford! 🔗 https://www.facebook.com/share/p/1CK7ysnQk5/…
 - **[Veteran Connecticut Republicans saw the warning signs. Then they lost their seats](https://www.reddit.com/r/Connecticut/comments/1xreoqf/veteran_connecticut_republicans_saw_the_warning/)** <sub>Somervilledrew · 8:20 PM</sub>
 - **[Vintage video equipment/electronics](https://www.reddit.com/r/Connecticut/comments/1xreceh/vintage_video_equipmentelectronics/)** <sub>wellatgrammar · 8:03 PM</sub>
   <br>I’m looking for a place or person who has interest in vintage electronics, mostly related to video equipment. I have a Sony CVP-G500 (color video printer, state of the art when it came out!) that I’d like to get to a good home. They go for a pretty penny on eBay, so there’s clearly a market for…
@@ -7970,43 +7996,3 @@ Last 30 days · 5217 items · updated Nov 8, 2026 9:01 PM EST
   <br>Police are investigating after a homeless community in Milford reportedly faced weeks of verbal harassment and physical attacks, something advocates say is part of a pattern of increasing hate toward unhoused people. courant.com/2026/10/10/polic… — Hartford Courant (@hartfordcourant) Oct 10, 2026
 - **[In the U.S. alone, women own more than 40% of all small businesses, generating $2.8 billion in revenue and employing 12.6 million workers.](https://x.com/hartfordcourant/status/2108853394785902687)** <sub>@hartfordcourant · 5:33 AM</sub>
   <br>In the U.S. alone, women own more than 40% of all small businesses, generating $2.8 billion in revenue and employing 12.6 million workers. courant.com/2026/10/10/a-uco… — Hartford Courant (@hartfordcourant) Oct 10, 2026
-- **[Certain election laws in Connecticut are very convolutive, making the ballot access process unnecessarily confusing and even unequal](https://x.com/hartfordcourant/status/2108850995543314941)** <sub>@hartfordcourant · 5:23 AM</sub>
-  <br>Certain election laws in Connecticut are very convolutive, making the ballot access process unnecessarily confusing and even unequal courant.com/2026/10/10/opini… — Hartford Courant (@hartfordcourant) Oct 10, 2026
-- **[A Connecticut orchard is raising money to fight breast cancer through pumpkin picking. courant.com/2026/10/10/ct-or… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108848635395850649)** <sub>@hartfordcourant · 5:14 AM</sub>
-- **[Connecticut Veterans Calendar (10 October 2026)](https://www.reddit.com/r/Connecticut/comments/1x2ao3v/connecticut_veterans_calendar_10_october_2026/)** <sub>Desperate\_Record8247 · 5:08 AM</sub>
-  <br>Connect with local support, community events, and the VOB directory in the October 10, 2026, Connecticut Veterans Bulletin calendar edition. Read the latest updates today! ctvetsbulletin.org/2026/10/10/cvb-connecticut-veterans-calendar-10-october-2026/
-- **[The George Gershwin opera “Porgy and Bess,” featuring an all-Black cast, opened on Broadway, beginning a run of 124 performances.](https://x.com/hartfordcourant/status/2108846117060264101)** <sub>@hartfordcourant · 5:04 AM</sub>
-  <br>The George Gershwin opera “Porgy and Bess,” featuring an all-Black cast, opened on Broadway, beginning a run of 124 performances. courant.com/2026/10/10/today… — Hartford Courant (@hartfordcourant) Oct 10, 2026
-- **[Anyone wanna ski?](https://www.reddit.com/r/Connecticut/comments/1x2735c/anyone_wanna_ski/)** <sub>Bulky\_Jellyfish1751 · 1:28 AM</sub>
-  <br>Around Norwalk?
-
-## Friday, October 9
-
-- **[A great year for Golf Land car shows on Friday nights in Vernon, CT](https://www.reddit.com/r/Connecticut/comments/1x25c8m/a_great_year_for_golf_land_car_shows_on_friday/)** <sub>ILovePublicLibraries · 11:50 PM</sub>
-  <br>Here are pictures from Friday October 9 -- the last show of the season We had twenty cruise night shows at Golf Land in town this year and we finished strong with an average of 120+ cars throughout the season, $12k in donations that go to the local nonprofit food pantry, endless amounts of fun,…
-- **[Structure Fire LifeStar Requested Willington #willingtonct #BreakingNow 25 Senior Way Residential Structure Fire Now requesting LifeStar to the scene Burn victim 11:40PM](https://www.facebook.com/groups/BreakingNow/posts/2403970827008752/)** <sub>Doug Oberly · 11:49 PM</sub>
-- **[Car vs Pedestrian Putnam](https://www.facebook.com/groups/BreakingNow/posts/2403956267010208/)** <sub>Doug Oberly · 11:27 PM</sub>
-- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2487511454994103/)** <sub>CTPOLICELIVE · 11:04 PM</sub>
-  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
-- **[Founded in 2017 in Utah, Kizik makes sneakers you tie when you first take them out of the box, then use hands-free. {og:title} {article:title}](https://x.com/hartfordcourant/status/2108752033486454934)** <sub>@hartfordcourant · 10:50 PM</sub>
-  <br>Founded in 2017 in Utah, Kizik makes sneakers you tie when you first take them out of the box, then use hands-free. {og:title} {article:title} courant.com/2026/10/09/enjoy… — Hartford Courant (@hartfordcourant) Oct 10, 2026
-- **[West Rock in New Haven was looking spectacular today.](https://www.reddit.com/r/Connecticut/comments/1x245um/west_rock_in_new_haven_was_looking_spectacular/)** <sub>\_EfficientAvocado · 10:45 PM</sub>
-- **[Jewelry Store](https://www.reddit.com/r/Connecticut/comments/1x24578/jewelry_store/)** <sub>Hardshdaily · 10:44 PM</sub>
-  <br>I'm looking to get something like this done. Any recommendations on where to go on CT?
-- **[A mega-tsunami triggered by a huge landslide at Vajont Dam in northern Italy destroyed villages and caused approximately 2,000 deaths.](https://x.com/hartfordcourant/status/2108749919964025208)** <sub>@hartfordcourant · 10:42 PM</sub>
-  <br>A mega-tsunami triggered by a huge landslide at Vajont Dam in northern Italy destroyed villages and caused approximately 2,000 deaths. courant.com/2026/10/09/today… — Hartford Courant (@hartfordcourant) Oct 10, 2026
-- **[I feel validated. I’ve always said the weather in CT sucks. There’s a few nice weeks in spring and fall, and rest of year it’s either too cold or too humid. We basically have the worst weather in the…](https://www.reddit.com/r/Connecticut/comments/1x23wtk/i_feel_validated_ive_always_said_the_weather_in/)** <sub>EvanderTheGreat · 10:32 PM</sub>
-- **[“There is a power differential inherent in fraternities,” said Adam M. McCready, an associate professor at the University of Connecticut who studies Greek life](https://x.com/hartfordcourant/status/2108747467139293550)** <sub>@hartfordcourant · 10:32 PM</sub>
-  <br>“There is a power differential inherent in fraternities,” said Adam M. McCready, an associate professor at the University of Connecticut who studies Greek life courant.com/2026/10/09/embra… — Hartford Courant (@hartfordcourant) Oct 10, 2026
-- **[Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Frida...](https://www.facebook.com/reel/1497277572455954/)** <sub>CTPOLICELIVE · 10:24 PM</sub>
-  <br>Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Friday, October 9, 2026 - 10:00 p.m. 📻 Key Details -- Woodbridge emergency crews responded to 10Selden during a live music event after a woman reportedly struck her head during a mosh pit…
-- **[Stamford ct local recommendations](https://www.reddit.com/r/Connecticut/comments/1x23p91/stamford_ct_local_recommendations/)** <sub>capjoe30 · 10:21 PM</sub>
-  <br>Hi everyone! I’m hosting a backyard party at my house in Fairfield County, CT this spring for about 150 guests and am looking for top local recommendations! I’m open to hiring a single catering company or booking separate, specialized small businesses for different parts of the setup: 1 Food /…
-- **[Whenever its agents appear, they strike fear into the hearts of otherwise innocent people who wanted to share a dream. courant.com/2026/10/09/opini… — Hartford Courant (@hartfordcourant) Oct 10, 2026](https://x.com/hartfordcourant/status/2108744489166659779)** <sub>@hartfordcourant · 10:20 PM</sub>
-- **[Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Frid...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02zBgoY6bhZZqMcabnmMxVxZUswowyLKD4eURvxKjv7PiG7iMTFrewdbh6k2p8NQFal)** <sub>CTPOLICELIVE · 10:17 PM</sub>
-  <br>Woman Seriously Injured During Mosh Pit at 10Selden - Woodbridge 📍 10Selden, 10 Selden Street, Woodbridge, CT 📅 Friday, October 9, 2026 - 10:00 p.m. 📻 Key Details -- Woodbridge emergency crews responded to 10Selden during a live music event after a woman reportedly struck her head during a mosh pit…
-- **[By HOLLY RAMER CONCORD, N.H. (AP) — For Jessica Renda, the breaking point was a particularly chaotic Christmas season. Consumed by her eldest daughter’s mental and behavioral health struggles, she…](https://x.com/hartfordcourant/status/2108742083909505096)** <sub>@hartfordcourant · 10:11 PM</sub>
-  <br>By HOLLY RAMER CONCORD, N.H. (AP) — For Jessica Renda, the breaking point was a particularly chaotic Christmas season. Consumed by her eldest daughter’s mental and behavioral health struggles, she stopped exercising or doing… courant.com/2026/10/09/careg… — Hartford Courant (@hartfordcourant) Oct…
-- **[Police recovered two stolen vehicles after investigating a report of individuals who were allegedly driving through a neighborhood in Ledyard checking vehicles in driveways for unlocked doors.](https://m.facebook.com/hartfordcourant/posts/pfbid027ebbsvuatgkFiXqZiWAeA1JxKpb7F12sZRpFYPsvV4FE3z4kzU3i9LNZSG2f25cul)** <sub>Hartford Courant · 10:03 PM</sub>
-- **[By DARKO BANDIC SPLIT, Croatia (AP) — It began with a hijacked wedding photo shoot and turned into a very unexpected but exciting trip across the world. Ashton and Zachary Smith from Philadelphia are…](https://x.com/hartfordcourant/status/2108740110430720045)** <sub>@hartfordcourant · 10:03 PM</sub>
-  <br>By DARKO BANDIC SPLIT, Croatia (AP) — It began with a hijacked wedding photo shoot and turned into a very unexpected but exciting trip across the world. Ashton and Zachary Smith from Philadelphia are guests in Croatia this week after… courant.com/2026/10/09/us-ne… — Hartford Courant…
