@@ -1,12 +1,52 @@
 # CT News
 
-Last 30 days · 5196 items · updated Nov 10, 2026 9:14 PM EST
+Last 30 days · 5200 items · updated Nov 11, 2026 4:29 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Wednesday, November 11
+
+- **[Propane prices.](https://www.reddit.com/r/Connecticut/comments/1xtcvjj/propane_prices/)** <sub>AffectionateNerve329 · 3:50 AM</sub>
+  <br>I’m shopping around for live propane prices because mine just went up 40 cents. Please post your town, company and the price. Stratford, Pioneer Gas: $3.13
+- **[Topless Man Dancing Outside Van Prompts Police Response - Fairfield 📍 I-95 Northbound Fairfield Service Plaza, 165 Rou...](https://www.facebook.com/reel/1836539647630623/)** <sub>CTPOLICELIVE · 1:24 AM</sub>
+  <br>Topless Man Dancing Outside Van Prompts Police Response - Fairfield 📍 I-95 Northbound Fairfield Service Plaza, 165 Round Hill Road, Fairfield, CT 📅 Tuesday, November 10, 2026 - 11:35 p.m. 📻 Key Details -- State Police responded after reports of a topless man dancing and jumping around outside a…
+- **[Topless Man Dancing Outside Van Prompts Police Response - Fairfield 📍 I-95 Northbound Fairfield Service Plaza, 165 Roun...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0kvKardtwjPuYKMaPHXp3V9rVmkcqTwSPbL9TMcH12JmccDaxsLCJuAhfgt33RUPel)** <sub>CTPOLICELIVE · 1:19 AM</sub>
+  <br>Topless Man Dancing Outside Van Prompts Police Response - Fairfield 📍 I-95 Northbound Fairfield Service Plaza, 165 Round Hill Road, Fairfield, CT 📅 Tuesday, November 10, 2026 - 11:35 p.m. 📻 Key Details -- State Police responded after reports of a topless man dancing and jumping around outside a…
+- **[Does anyone know how CT actually audits automated speed camera tickets? (Error rates, oversight, etc.)](https://www.reddit.com/r/Connecticut/comments/1xta50z/does_anyone_know_how_ct_actually_audits_automated/)** <sub>EmotionNotFhound · 1:02 AM</sub>
+  <br>I'm trying to dig into how Connecticut actually handles the review process for our speed and red-light camera tickets, but I've hit a wall. The public info says a human operator reviews every violation before a ticket gets mailed out. But I can't find any details on the actual quality control: -…
+- **[Hmm I wonder why](https://www.reddit.com/r/Connecticut/comments/1xt9iwx/hmm_i_wonder_why/)** <sub>TBoucher8 · 12:28 AM</sub>
+- **[Fatal Car vs Tree Accident in Granville Mass.](https://www.facebook.com/groups/BreakingNow/posts/2438000726939095/)** <sub>Marcus Anthony Rice · 12:08 AM</sub>
+
 ## Tuesday, November 10
 
+- **[Strong Arm Robbery at East Hartford Convenience Store](https://www.facebook.com/groups/BreakingNow/posts/2437990736940094/)** <sub>Marcus Anthony Rice · 11:58 PM</sub>
+- **[English & Spanish Wedding DJ Recommendations?](https://www.reddit.com/r/Connecticut/comments/1xt8m0b/english_spanish_wedding_dj_recommendations/)** <sub>calcitemerged · 11:38 PM</sub>
+  <br>Does anyone have any recommendations for a bilingual English and Spanish speaking DJ? We are getting married next year in Hartford. My fiancés family primarily speaks Spanish and mine primarily speaks English. I want to make sure both families have a great time celebrating and that we have a DJ…
+- **[Hartford Man Charged in Massachusetts Arson Spree 📍 Swampscott and Marlborough, MA 📅 Wednesday, October 7, 2026](https://www.facebook.com/reel/1848801836546802/)** <sub>CTPOLICELIVE · 11:28 PM</sub>
+  <br>Hartford Man Charged in Massachusetts Arson Spree 📍 Swampscott and Marlborough, MA 📅 Wednesday, October 7, 2026 - 2:04 a.m. first alleged fire 📻 Key Details -- Federal prosecutors charged Haroldo Rodrigues-Jardim Neto, 28, of Hartford, in connection with three fires allegedly set during the early…
+- **[Hartford Man Charged in Massachusetts Arson Spree 📍 Swampscott and Marlborough, MA 📅 Wednesday, October 7, 2026](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0xFSPC68sjWXiPrSw73WjecqvUqrd7zDnq64ffS8SPHzD8h9T5KfTMhkCNQjU8sXul)** <sub>CTPOLICELIVE · 11:15 PM</sub>
+  <br>Hartford Man Charged in Massachusetts Arson Spree 📍 Swampscott and Marlborough, MA 📅 Wednesday, October 7, 2026 - 2:04 a.m. first alleged fire 📻 Key Details -- Federal prosecutors charged Haroldo Rodrigues-Jardim Neto, 28, of Hartford, in connection with three fires allegedly set during the early…
+- **[Did anyone see the crazy lady yelling slurs on Broadway around 630-7?](https://www.reddit.com/r/Connecticut/comments/1xt807l/did_anyone_see_the_crazy_lady_yelling_slurs_on/)** <sub>MeatBrick64 · 11:06 PM</sub>
+  <br>EDIT: sorry, in New Haven I was going to a show at toads place and even from in my Uber I heard this lady yelling "FUCK YOU f slur " etc and just generally losing her mind, it was near Lululemon or something. is this normal?
+- **[Automated Speed Enforcement Citation](https://www.reddit.com/r/Connecticut/comments/1xt7t9w/automated_speed_enforcement_citation/)** <sub>Arg-Nico · 10:56 PM</sub>
+  <br>I got a ticket for going 47 in a 35 by the prospect Camara. Funny part is that it was my parents driving my car to pick me up from the airport. But they make it clear that the owner of vehicle is liable. This system is a joke.
+- **[I compared what Connecticut hospitals charge for common medical procedures. Same procedure, more than a 17x price difference.](https://www.reddit.com/r/Connecticut/comments/1xt7sy7/i_compared_what_connecticut_hospitals_charge_for/)** <sub>DependentRun6816 · 10:55 PM</sub>
+  <br>Health insurers are required to publish the rates they’ve negotiated with hospitals (Transparency in Coverage rule), but the files are enormous and practically unreadable for a normal person. So I scraped nearly 1,300 of those price points across Connecticut and put them on a map. For a CT scan, I…
+- **[Loaded Glock Left in Diner Bathroom Leads to Nearly 4 Years in Federal Prison - Norwalk 📍 Post Road Diner, 312 Connecti...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid09Ft6Y7DWQujsobTFW8tvqPNQMKfD5q5JVm3LMWURHkxv1Zt32zVo8jqRyBtaC7Tgl)** <sub>CTPOLICELIVE · 9:43 PM</sub>
+  <br>Loaded Glock Left in Diner Bathroom Leads to Nearly 4 Years in Federal Prison - Norwalk 📍 Post Road Diner, 312 Connecticut Avenue, Norwalk, CT 📅 Wednesday, September 13, 2023 - Incident / Tuesday, November 10, 2026 - Sentencing 📻 Key Details -- Christopher Miles was sentenced to 46 months in…
+- **[Electric blankets are popular, but they have their share of risks and need special care to keep you and your home safe. {og:title} {article:title}](https://x.com/hartfordcourant/status/2120346660643442691)** <sub>@hartfordcourant · 9:43 PM</sub>
+  <br>Electric blankets are popular, but they have their share of risks and need special care to keep you and your home safe. {og:title} {article:title} courant.com/2026/11/10/elect… — Hartford Courant (@hartfordcourant) Nov 11, 2026
+- **[“Friendsgiving” is typically a less formal, potluck-style Thanksgiving meal shared among friends. Here are the best tools to make it memorable. {og:title} {article:title}](https://x.com/hartfordcourant/status/2120343564580237522)** <sub>@hartfordcourant · 9:31 PM</sub>
+  <br>“Friendsgiving” is typically a less formal, potluck-style Thanksgiving meal shared among friends. Here are the best tools to make it memorable. {og:title} {article:title} courant.com/2026/11/10/best-… — Hartford Courant (@hartfordcourant) Nov 11, 2026
+- **[A mob of up to 2,000 white supremacists killed dozens of African Americans in Wilmington, North Carolina, burned Black-o...](https://m.facebook.com/hartfordcourant/posts/pfbid0CQ9rSMsMrtjmj9DTerQtC9pjuGzypmRQNUrDrTLhQHwk826iQ2o5fm66jBr1HGMNl)** <sub>Hartford Courant · 9:30 PM</sub>
+  <br>A mob of up to 2,000 white supremacists killed dozens of African Americans in Wilmington, North Carolina, burned Black-owned businesses and forced the mayor, police chief and aldermen to resign at gunpoint.
+- **[Inflation remains noticeably above the Federal Reserve’s target of 2%. courant.com/2026/11/10/infla… — Hartford Courant (@hartfordcourant) Nov 11, 2026](https://x.com/hartfordcourant/status/2120341301627339169)** <sub>@hartfordcourant · 9:22 PM</sub>
+- **[Four Masked Men Flee Home Depot With Cart Full of Tools - Fairfield 📍 Home Depot, Fairfield, CT 📅 Tuesday, November...](https://www.facebook.com/reel/1691600029235959/)** <sub>CTPOLICELIVE · 9:19 PM</sub>
+  <br>Four Masked Men Flee Home Depot With Cart Full of Tools - Fairfield 📍 Home Depot, Fairfield, CT 📅 Tuesday, November 10, 2026 - 8:55 p.m. 📻 Key Details -- Fairfield Police issued a BOLO after four men reportedly stole a cart full of tools from the Home Depot in Fairfield -- The group fled in a black…
+- **[Pressure from rising yields in the bond market undercut stocks following the report. courant.com/2026/11/10/wall-… — Hartford Courant (@hartfordcourant) Nov 11, 2026](https://x.com/hartfordcourant/status/2120339074095411408)** <sub>@hartfordcourant · 9:13 PM</sub>
+- **[Four Masked Men Flee Home Depot With Cart Full of Tools - Fairfield 📍 Home Depot, Fairfield, CT 📅 Tuesday, November...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0QrUAJogk6i2CikxAc243GXCMX32GagNLBZqiRp3pdrYoAe7aaVdbCaFVAv3Wuw7bl)** <sub>CTPOLICELIVE · 9:11 PM</sub>
+  <br>Four Masked Men Flee Home Depot With Cart Full of Tools - Fairfield 📍 Home Depot, Fairfield, CT 📅 Tuesday, November 10, 2026 - 8:55 p.m. 📻 Key Details -- Fairfield Police issued a BOLO after four men reportedly stole a cart full of tools from the Home Depot in Fairfield -- The group fled in a black…
 - **[Both sides remain far apart on key issues. courant.com/2026/11/10/russi… — Hartford Courant (@hartfordcourant) Nov 11, 2026](https://x.com/hartfordcourant/status/2120336387320754177)** <sub>@hartfordcourant · 9:02 PM</sub>
 - **[The Connecticut Post Mall (Milford. CT)](https://www.reddit.com/r/Connecticut/comments/1xt5fta/the_connecticut_post_mall_milford_ct/)** <sub>ILovePublicLibraries · 8:59 PM</sub>
   <br>Credit: u/Kenneth1751
@@ -7895,35 +7935,3 @@ Last 30 days · 5196 items · updated Nov 10, 2026 9:14 PM EST
 - **[Seeing the username u/NoTextInCTYet made me beg the question: When did texting get introduced to the state of CT for the very first time?](https://www.reddit.com/r/Connecticut/comments/1x3xh86/seeing_the_username_unotextinctyet_made_me_beg/)** <sub>DunDonese · 5:37 AM</sub>
   <br>When was the last year there was "no text in CT yet?" Can u/NoTextInCTYet chime in along with everyone else here, please? What was the first-ever text message sent in CT and when was it sent?
 - **[The new culinary director wants fresh, seasonal food to be ‘deeply satisfying’ courant.com/2026/10/12/ct-lu… — Hartford Courant (@hartfordcourant) Oct 12, 2026](https://x.com/hartfordcourant/status/2109578514387075237)** <sub>@hartfordcourant · 5:34 AM</sub>
-- **[The public stake in a private defense contractor is latest in direct government investment in areas the administration considers critical to national security.](https://x.com/hartfordcourant/status/2109575860076314756)** <sub>@hartfordcourant · 5:24 AM</sub>
-  <br>The public stake in a private defense contractor is latest in direct government investment in areas the administration considers critical to national security. courant.com/2026/10/12/major… — Hartford Courant (@hartfordcourant) Oct 12, 2026
-- **[The best thing about the move is that the brew system was ready to go from day one. courant.com/2026/10/12/a-ct-… — Hartford Courant (@hartfordcourant) Oct 12, 2026](https://x.com/hartfordcourant/status/2109573411789742565)** <sub>@hartfordcourant · 5:14 AM</sub>
-- **[Former Miami Dolphins wide receiver Tyreek Hill took the stand in a civil case brought by his estranged wife, slamming her claims that he physically abused her as “false allegations.”](https://x.com/hartfordcourant/status/2109570562217414990)** <sub>@hartfordcourant · 5:03 AM</sub>
-  <br>Former Miami Dolphins wide receiver Tyreek Hill took the stand in a civil case brought by his estranged wife, slamming her claims that he physically abused her as “false allegations.” courant.com/2026/10/12/tyree… — Hartford Courant (@hartfordcourant) Oct 12, 2026
-- **[Homeowner’s Guide to the Midterm Election Ballot Measures: Key Initiatives on Property Taxes, Zoning, and Affordable Housing](https://www.realtor.com/news/real-estate-news/2026-midterm-election-homeowners-ballot-measures-property-tax/)** <sub>Tristan Navera · 5:00 AM</sub>
-  <br>Voters in 10 states will have the chance to approve ballot measures this year, including a half-dozen changes to property taxes and one that could change statewide zoning. The 2026 midterm elections include six different proposed changes to property tax systems, all in states across the South and…
-- **[Mortgage Rates Hitting 8% This Year Is Not Impossible—and Yet, That Shouldn’t Be Buyers’ Biggest Concern](https://www.realtor.com/advice/finance/mortgage-rates-8-percent-2026-money-monday/)** <sub>Dina Sartore-Bodo · 4:37 AM</sub>
-  <br>Last week, mortgage rates hit a three-year high—a headline that has been on repeat for several months. In fact, in less than four months, the rate has risen a percentage point. The average rate on 30-year fixed home loans rose to 6.49% for the week ending July 9 —now it stands at 7.40% for the week…
-- **[Housing Week Ahead: Home Sales, Luxury Trends, and New Inflation Data](https://www.realtor.com/news/trends/housing-week-ahead-video-data-reports-october-12-2026/)** <sub>Danielle Hale · 4:17 AM</sub>
-  <br>The coming week will bring a steady stream of housing market indicators, as well as new reports from the Realtor.com economics team. On Wednesday, senior economist Anthony Smith will have a look at the latest pricing trends in the luxury market with the September Monthly Luxury Report. On Thursday,…
-- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1430837595679459/)** <sub>CTPOLICELIVE · 2:39 AM</sub>
-  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
-- **[Armed Robbery Suspects Lead Police on Pursuit Into New Haven - Hamden 📍 Turnor Avenue, Hamden, CT 📅 Sunday, October 1...](https://www.facebook.com/reel/1045825585175182/)** <sub>CTPOLICELIVE · 2:26 AM</sub>
-  <br>Armed Robbery Suspects Lead Police on Pursuit Into New Haven - Hamden 📍 Turnor Avenue, Hamden, CT 📅 Sunday, October 11, 2026 - 3:10 p.m. / Pursuit 10:22 p.m. 📻 Key Details -- Hamden Police responded after a mother reported her 17-year-old son had been robbed at gunpoint by four males on Turnor…
-- **[Armed Robbery Suspects Lead Police on Pursuit Into New Haven - Hamden 📍 Turnor Avenue, Hamden, CT 📅 Sunday, October 1...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02q6XnUm3ygYCXq5oBzjQPgPWchhrikMj1HZdBYq6CF6cXiTkULXGBz5GmFFQ9y5PBl)** <sub>CTPOLICELIVE · 2:19 AM</sub>
-  <br>Armed Robbery Suspects Lead Police on Pursuit Into New Haven - Hamden 📍 Turnor Avenue, Hamden, CT 📅 Sunday, October 11, 2026 - 3:10 p.m. / Pursuit 10:22 p.m. 📻 Key Details -- Hamden Police responded after a mother reported her 17-year-old son had been robbed at gunpoint by four males on Turnor…
-- **[This dating app called Thursday had an in-person event in Hartford last week on the 8th, how was it?](https://www.reddit.com/r/Connecticut/comments/1x3srpr/this_dating_app_called_thursday_had_an_inperson/)** <sub>Federal\_Mousse\_4531 · 12:45 AM</sub>
-  <br>I was thinking of going but I was skeptical of the whole thing, so I decided to stay put since the venue was about an hour north of me. (Plus there wasn’t any age range beyond needing to be 21 or older.) Can anyone who attended this event - which I think was at the Arch St. Tavern - lmk if it was…
-
-## Sunday, October 11
-
-- **[NHVCC x Rosetint present:](https://www.reddit.com/r/Connecticut/comments/1x3rofv/nhvcc_x_rosetint_present/)** <sub>NewHavenCraftClub · 11:45 PM</sub>
-- **[Turtle soup?](https://www.reddit.com/r/Connecticut/comments/1x3rlfa/turtle_soup/)** <sub>PeaCompetitive8947 · 11:40 PM</sub>
-  <br>Does anyone know any restaurants in the area, or even supermarkets, that sell turtle soup?
-- **[Transcend Beer - Plainville, CT Halloween Party 2026](https://www.reddit.com/r/Connecticut/comments/1x3qmds/transcend_beer_plainville_ct_halloween_party_2026/)** <sub>Far-Cellist8921 · 10:48 PM</sub>
-- **[Reflective Road Paint](https://www.reddit.com/r/Connecticut/comments/1x3qdem/reflective_road_paint/)** <sub>hawgwild8988 · 10:35 PM</sub>
-  <br>I just love how cities in CT don’t turn on their street lights and also don’t have reflective road paint. It’s so reassuring just trying to guess where the traffic lanes are when we get even the smallest amount of rain.
-- **[Heavy Fire Showing Residential Wethersfield](https://www.facebook.com/groups/BreakingNow/posts/2405921303480371/)** <sub>Doug Oberly · 10:32 PM</sub>
-  <br>Heavy Fire Showing Residential Wethersfield #wethersfieldct #BreakingNow 289 Maple St Arriving FD has heavy fire showing from a 2.5 story resdential 10:30PM Photo courtesy of BreakingNow Member Scott Harris on scene and via the BN Zello App
-- **[The Jessica Chastain horror “Other Mommy” topped the North American box office this weekend with a bigger audience than expected.](https://m.facebook.com/hartfordcourant/posts/pfbid02P5gfehdjKzTGcS3GySmCXHJujJrkR3R9rYxHSnHFzMHciWTybiw9dmTQnaCnEZ7Pl)** <sub>Hartford Courant · 10:32 PM</sub>
-- **[Where do I find my little pony g4 that isn’t thrifting? Like dead stock stores, ect](https://www.reddit.com/r/Connecticut/comments/1x3qau3/where_do_i_find_my_little_pony_g4_that_isnt/)** <sub>zombieunicornkitty · 10:31 PM</sub>
