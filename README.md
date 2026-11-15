@@ -1,12 +1,43 @@
 # CT News
 
-Last 30 days · 5050 items · updated Nov 14, 2026 9:54 PM EST
+Last 30 days · 5050 items · updated Nov 15, 2026 5:13 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Sunday, November 15
+
+- **[Trump lost the midterm elections because he’s been too busy picking fights with Iran — mostly so he has some good starting material for his next Nobel Peace Prize nomination — instead of holding down…](https://x.com/hartfordcourant/status/2121908571201777744)** <sub>@hartfordcourant · 5:10 AM</sub>
+  <br>Trump lost the midterm elections because he’s been too busy picking fights with Iran — mostly so he has some good starting material for his next Nobel Peace Prize nomination — instead of holding down the fort at home. courant.com/2026/11/15/rache… — Hartford Courant (@hartfordcourant) Nov 15, 2026
+- **[Four members of the Clutter family of Holcomb, Kansas, were found murdered in their home. (Two men were later convicted of the killings and hanged in a case made famous by the Truman Capote book “In…](https://x.com/hartfordcourant/status/2121906118880284708)** <sub>@hartfordcourant · 5:00 AM</sub>
+  <br>Four members of the Clutter family of Holcomb, Kansas, were found murdered in their home. (Two men were later convicted of the killings and hanged in a case made famous by the Truman Capote book “In Cold Blood.”) courant.com/2026/11/15/today… — Hartford Courant (@hartfordcourant) Nov 15, 2026
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2169864013910468/)** <sub>CTPOLICELIVE · 4:08 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+- **[New to New Haven!](https://www.reddit.com/r/Connecticut/comments/1xwphkl/new_to_new_haven/)** <sub>Sfn\_y2 · 2:33 AM</sub>
+- **[Wrong-Way Crash Into Tractor-Trailer on I-84 - Waterbury 📍 I-84 Westbound, between Exits 18 and 17, Waterbury, CT 📅...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02UwEmNNtaQeon1iGcYWuXiuqKAE4Htmmsq5nPWQ6WHdMeJHHpX216SQUujooz2W82l)** <sub>CTPOLICELIVE · 1:58 AM</sub>
+  <br>Wrong-Way Crash Into Tractor-Trailer on I-84 - Waterbury 📍 I-84 Westbound, between Exits 18 and 17, Waterbury, CT 📅 Sunday, November 15, 2026 - 1:44 a.m. 📻 Key Details -- A wrong-way head-on crash involving a tractor-trailer and a Mazda was reported on I-84 westbound between Exits 18 and 17 --…
+- **[Need help finding New Haven Dog Abusers](https://www.reddit.com/r/Connecticut/comments/1xwnwqe/need_help_finding_new_haven_dog_abusers/)** <sub>CatsAllDayErDay · 12:58 AM</sub>
+  <br>@TheRealPaulMueller shared this blurred video on his tiktok account of two women and 1 male abusing a dog in a vehicle. It has been sent to him multiple times and he has been in contact with police. There is a $5000 reward if an arrest and conviction is made. Please share in your local group chats…
+- **[Thinking of moving to CT](https://www.reddit.com/r/Connecticut/comments/1xwnobs/thinking_of_moving_to_ct/)** <sub>HoThereMeLord · 12:44 AM</sub>
+  <br>I currently reside in Florida, been here a long time. This will always be my home I guess but I just need to leave this state. I can’t even begin to explain why New England calls to me but I’ve been researching several areas around CT and it just seems like such a perfect place for me. I’ve never…
+
 ## Saturday, November 14
 
+- **[Anyone else in manchester / vernon area been seeing drones at night?](https://www.reddit.com/r/Connecticut/comments/1xwmppr/anyone_else_in_manchester_vernon_area_been_seeing/)** <sub>Icy101yt · 11:50 PM</sub>
+  <br>I’ve been seeing these drones from sunset to sunrise for months. Finally decided to get one on camera. Anyone know whats up? I doubt its just a kid or anything. They’re always circling around the same areas at nightime
+- **[3 Alarm Fire in West](https://www.facebook.com/groups/BreakingNow/posts/2442714283134406/)** <sub>Marcus Anthony Rice · 11:19 PM</sub>
+  <br>3 Alarm Fire in West Haven
+- **[John, I need your opinion about this. I purchased a 2025 Cadillac XT4 new about two years ago.](https://m.facebook.com/hartfordcourant/posts/pfbid024obqLzCxRcVBvjxZunsDkQmiUeispuN2uoSrVwMq7eNrVsCrmmFpAJVirvBpisagl)** <sub>Hartford Courant · 11:01 PM</sub>
+- **[Worthwhile Reads in Bristol](https://www.reddit.com/r/Connecticut/comments/1xwkpwx/worthwhile_reads_in_bristol/)** <sub>ILovePublicLibraries · 10:01 PM</sub>
+  <br>A used bookstore near downtown in Bristol It's one of the biggest used bookstores in the state of Connecticut. It has everything you're probably looking for. In addition to books, there are movies and music to keep them entertained. There's a wide variety of everything -- anything fiction (ex.…
+- **[In Opinion \| Here in Connecticut, we must resurrect the Connecticut Prescription Drug Shortage Task Force, passed into l...](https://m.facebook.com/hartfordcourant/posts/pfbid0Grse3RPrXXaKyn5USHSzEydt13tUPw323UZdk9YrT78EaBge563xMzCdh6ZvGoVNl)** <sub>Hartford Courant · 10:00 PM</sub>
+  <br>In Opinion \| Here in Connecticut, we must resurrect the Connecticut Prescription Drug Shortage Task Force, passed into law in 2025 with a mission to address challenges in prescription drug access and pharmacy care across Connecticut.
+- **[Two Fairfield Town Vehicles Stolen, One Recovered 📍 Fairfield, CT / West Haven area 📅 Saturday, November 14, 2026 -...](https://www.facebook.com/reel/1894215918237719/)** <sub>CTPOLICELIVE · 9:51 PM</sub>
+  <br>Two Fairfield Town Vehicles Stolen, One Recovered 📍 Fairfield, CT / West Haven area 📅 Saturday, November 14, 2026 - 8:58 p.m. 📻 Key Details -- Fairfield Police issued a BOLO after two Fairfield town vehicles were stolen -- One was described as a dark brown-red Crown Victoria displaying Connecticut…
+- **[Two Fairfield Town Vehicles Stolen, One Recovered 📍 Fairfield, CT / West Haven area 📅 Saturday, November 14, 2026](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0HCK9cjNqciM9rM8pAFAqHT5LvXvhchu579ZLEURmvmoVPv8BGcnvsmWX4AgDesisl)** <sub>CTPOLICELIVE · 9:47 PM</sub>
+  <br>Two Fairfield Town Vehicles Stolen, One Recovered 📍 Fairfield, CT / West Haven area 📅 Saturday, November 14, 2026 - 8:58 p.m. 📻 Key Details -- Fairfield Police issued a BOLO after two Fairfield town vehicles were stolen -- One was described as a dark brown-red Crown Victoria displaying Connecticut…
+- **[Would anyone join a group for young people in CT?](https://www.reddit.com/r/Connecticut/comments/1xwjv9o/would_anyone_join_a_group_for_young_people_in_ct/)** <sub>Outrageous\_Tip8476 · 9:17 PM</sub>
+  <br>Hi! My friends and I are always talking about how there is not much to do in CT at night and I had an idea to come to Reddit. I’d love to make a group of preferably single 21-30 ish year olds where we can all share fun events happening in CT. Like for example: paint and sip nights, specialty events…
 - **[According to court records, officers found a Ruger SR40 .40 caliber pistol on the floor of the car.](https://m.facebook.com/hartfordcourant/posts/pfbid04R73xTdYcRotJS9nm24hEufXFzdSZJ61NcLP7RJcpA6GNEYcGD3kjan1uCciosTrl)** <sub>Hartford Courant · 9:01 PM</sub>
 - **[ConnectiCare / Molina](https://www.reddit.com/r/Connecticut/comments/1xwj7jn/connecticare_molina/)** <sub>gnew18 · 8:43 PM</sub>
   <br>I’m not quite certain how a non-profit gets “sold” to a for profit company, but clearly it can be done. It’s enrollment time. I am so glad to be switching from ConnectiCare (now Molina). Anyone else?
@@ -7722,30 +7753,3 @@ Last 30 days · 5050 items · updated Nov 14, 2026 9:54 PM EST
 - **[This tree puts on quite a display in mid-October. Hill-Stead Museum grounds, Farmington.](https://www.reddit.com/r/Connecticut/comments/1x7ci7x/this_tree_puts_on_quite_a_display_in_midoctober/)** <sub>Flat\_Economist\_8763 · 6:20 AM</sub>
 - **[A GoFundMe started to raise money for the family said she was in intensive care and that she has “been making some small improvements.”](https://x.com/hartfordcourant/status/2111039172387410207)** <sub>@hartfordcourant · 6:18 AM</sub>
   <br>A GoFundMe started to raise money for the family said she was in intensive care and that she has “been making some small improvements.” courant.com/2026/10/16/polic… — Hartford Courant (@hartfordcourant) Oct 16, 2026
-- **[We’ve tried education, prevention and other measures, and those efforts will continue, but the governor believes we also need to have additional tools available to manage the population and keep…](https://x.com/hartfordcourant/status/2111034939332255787)** <sub>@hartfordcourant · 6:02 AM</sub>
-  <br>We’ve tried education, prevention and other measures, and those efforts will continue, but the governor believes we also need to have additional tools available to manage the population and keep people safe.” courant.com/2026/10/16/as-ct… — Hartford Courant (@hartfordcourant) Oct 16, 2026
-- **[Meteorologists talk the wildfire risk in Connecticut courant.com/2026/10/16/wildf… — Hartford Courant (@hartfordcourant) Oct 16, 2026](https://x.com/hartfordcourant/status/2111032166306009408)** <sub>@hartfordcourant · 5:51 AM</sub>
-- **[Eversource filed a lawsuit on Thursday challenging state regulators’ decision to cut more than $500 million from the company’s reimbursement for responding to a series of powerful storms in…](https://x.com/hartfordcourant/status/2111030612194668714)** <sub>@hartfordcourant · 5:44 AM</sub>
-  <br>Eversource filed a lawsuit on Thursday challenging state regulators’ decision to cut more than $500 million from the company’s reimbursement for responding to a series of powerful storms in Connecticut. courant.com/2026/10/16/evers… — Hartford Courant (@hartfordcourant) Oct 16, 2026
-- **[Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public.](https://x.com/hartfordcourant/status/2111028379029770375)** <sub>@hartfordcourant · 5:36 AM</sub>
-  <br>Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public. courant.com/2026/10/16/reade… — Hartford Courant (@hartfordcourant) Oct 16, 2026
-- **[“I receive complaints about unsafe staffing levels frequently throughout the week,” a union leader said. “You have a skill mix that is unbalanced. You have burnout. We don’t have enough nurses aides…](https://x.com/hartfordcourant/status/2111025237978423455)** <sub>@hartfordcourant · 5:23 AM</sub>
-  <br>“I receive complaints about unsafe staffing levels frequently throughout the week,” a union leader said. “You have a skill mix that is unbalanced. You have burnout. We don’t have enough nurses aides and techs. courant.com/2026/10/16/nurse… — Hartford Courant (@hartfordcourant) Oct 16, 2026
-- **[Are you a chocoholic or do you prefer something more sour? courant.com/2026/10/16/cts-f… — Hartford Courant (@hartfordcourant) Oct 16, 2026](https://x.com/hartfordcourant/status/2111023029685752139)** <sub>@hartfordcourant · 5:14 AM</sub>
-- **[American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” salutes during a victory ceremony after they had won gold and bronze medals in…](https://x.com/hartfordcourant/status/2111020268738973837)** <sub>@hartfordcourant · 5:03 AM</sub>
-  <br>American athletes Tommie Smith and John Carlos sparked controversy at the Mexico City Olympics by giving “Black power” salutes during a victory ceremony after they had won gold and bronze medals in the 200-meter race. courant.com/2026/10/16/today… — Hartford Courant (@hartfordcourant) Oct 16, 2026
-- **[‘We Moved 7,000 Miles From Oregon to New Zealand To Get a Fresh Start in Our 60s’](https://www.realtor.com/news/first-person/move-oregon-new-zealand-fresh-start-investment-visa/)** <sub>Snejana Farberov · 4:35 AM</sub>
-  <br>Six months ago, Andrew and Kendall Crosby "overturned the bucket" on their comfortable, well-settled life in Bend, OR , packed up their belongings, and traveled 7,000 miles across the globe to start a brand-new chapter in Auckland, New Zealand . Both in their early 60s and semiretired, the Crosbys…
-- **[Exploring Lease Options](https://www.reddit.com/r/Connecticut/comments/1x79qih/exploring_lease_options/)** <sub>Beneficial\_Hippo2392 · 3:25 AM</sub>
-  <br>I’m planning to relocate to Hartford, CT, in early November and am currently exploring affordable rental options near downtown Hartford. Since I’m new to the area and don’t have any personal connections there, I wanted to reach out and ask if you could share any advice, recommendations, or insights…
-- **[ICE arrest by the state library at noon today, watch out](https://www.reddit.com/r/Connecticut/comments/1x77ya3/ice_arrest_by_the_state_library_at_noon_today/)** <sub>Born-Abroad3388 · 1:36 AM</sub>
-
-## Thursday, October 15
-
-- **[Anyone using propane for heating their house? I could use some advice.](https://www.reddit.com/r/Connecticut/comments/1x765ya/anyone_using_propane_for_heating_their_house_i/)** <sub>Practical\_Okra3217 · 11:54 PM</sub>
-  <br>I’m currently using propane for my on demand hot water, stove and emergency generator. I do have a line going to the furnace area. The house is a ranch and is 1800 square feet and has an oil fired hot air furnace that is about 25 years old. I was thinking of upgrading to a 1000 gal tank and getting…
-- **[Car vs Teenage Pedestrian with Serious Injuries in West Hartford](https://www.facebook.com/groups/BreakingNow/posts/2410087833063718/)** <sub>Marcus Anthony Rice · 11:37 PM</sub>
-- **[Ford makes the long haul with an aesthetically pleasing and proven F-150 Lobo edition pickup truck that is ready for all consumers.](https://m.facebook.com/hartfordcourant/posts/pfbid0nmYtYRf71Rn2fYXRMDnKENX1evo9Dg3x41y1w6cS8qZJNseZuXPpHPikLHr4Dfmjl)** <sub>Hartford Courant · 11:02 PM</sub>
-- **[Unions To Yale: "We'll Turn This Campus Upside Down"](https://www.reddit.com/r/Connecticut/comments/1x75524/unions_to_yale_well_turn_this_campus_upside_down/)** <sub>louisrinaldi · 11:00 PM</sub>
-- **[Vermicomposting in CT](https://www.reddit.com/r/Connecticut/comments/1x752s3/vermicomposting_in_ct/)** <sub>Beentherenoclue · 10:56 PM</sub>
-  <br>I have been vermicomposting for over three years and think the worms are starting to outgrow my bin. I am not interested in getting a larger or a second bin. Anyone want to start their own bin and get some free red wigglers? If you're new to vermicomposting, you will need to keep the worms inside…
