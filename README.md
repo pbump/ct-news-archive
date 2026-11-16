@@ -1,12 +1,37 @@
 # CT News
 
-Last 30 days · 4951 items · updated Nov 15, 2026 8:26 PM EST
+Last 30 days · 4947 items · updated Nov 16, 2026 3:12 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
 
+## Monday, November 16
+
+- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/2632526003839247/)** <sub>CTPOLICELIVE · 2:29 AM</sub>
+  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
+
 ## Sunday, November 15
 
+- **[Woman Convicted for Mass-Mailing Sexual Misconduct Accusations About Former Teacher](https://www.reddit.com/r/Connecticut/comments/1xxgd13/woman_convicted_for_massmailing_sexual_misconduct/)** <sub>MountainCounty9496 · 11:41 PM</sub>
+  <br>This case is currently on appeal, do you think the mass mailing was harassment or protected under the first amendment?
+- **[More CT people should know about this guy! Mystic’s own "Jack Johnson"](https://www.reddit.com/r/Connecticut/comments/1xxfpei/more_ct_people_should_know_about_this_guy_mystics/)** <sub>KindofACosmicGumbo · 11:04 PM</sub>
+  <br>Will Evans, used to front Barefoot Truth. He plays banjo, didgeridoo, guitar and loops everything live, with very Jack Johnson energy. He’s playing Park City Music Hall in Bridgeport on Nov. 20th if anyone in the area wants to check him out! Tickets: Will Evans Tickets (Heads up, I work with his…
+- **[Costco Parking Requires Fearlessness and Creativity](https://www.reddit.com/r/Connecticut/comments/1xxfia3/costco_parking_requires_fearlessness_and/)** <sub>iamsirjoshua · 10:54 PM</sub>
+- **[Why are lady Huskies basketball having a lackluster season lately?](https://www.reddit.com/r/Connecticut/comments/1xxengs/why_are_lady_huskies_basketball_having_a/)** <sub>ILovePublicLibraries · 10:09 PM</sub>
+  <br>Seems like they don't know how to play a good game against a ranked team this year for our Huskies in women's basketball. Better get back to their own roots with better coaching and better team with good players with solid skill to win games. I get it happens once a while but two losses in the…
+- **[UConn’s field hockey team survived penalty strokes to beat Princeton Sunday and advance to NCAA Final Four, where Tracey Fuchs, one of the program’s all-time great, awaits.](https://m.facebook.com/hartfordcourant/posts/pfbid02nn1BSf1Ai4RxvFyptpBjjPjRPrm8FodnzxYmfZaWByLJ77kQEki3eGkt66YkDG3Vl)** <sub>Hartford Courant · 10:01 PM</sub>
+- **[Looking for renting a 1BHK near Wilton](https://www.reddit.com/r/Connecticut/comments/1xxefsn/looking_for_renting_a_1bhk_near_wilton/)** <sub>Better-Banana-6065 · 9:59 PM</sub>
+  <br>Hi everyone! I’ll be joining ASML at the Wilton campus in December and am looking for accommodation nearby. I’m looking for a private room with an attached bathroom in Wilton or the surrounding areas, such as Norwalk, Stamford, or nearby locations. If anyone has a room available or knows of any…
+- **[Recommendations for a Seamstress/Tailor to Work on Vintage Jacket.](https://www.reddit.com/r/Connecticut/comments/1xxdx0s/recommendations_for_a_seamstresstailor_to_work_on/)** <sub>DCgull28 · 9:32 PM</sub>
+  <br>I am looking for a seamstress or tailor who can work on an Alorna by Forstmann wool coat. I need the sleeves altered and would like to have buttons added. Appreciate any recommendations.
+- **[Arethusa Eggnog](https://www.reddit.com/r/Connecticut/comments/1xxdw1l/arethusa_eggnog/)** <sub>Caje\_ · 9:31 PM</sub>
+  <br>1st bottle down!
+- **[Which Metro North station to park at Thanksgiving eve?](https://www.reddit.com/r/Connecticut/comments/1xxdtvl/which_metro_north_station_to_park_at_thanksgiving/)** <sub>the\_famous\_boat · 9:28 PM</sub>
+  <br>Hi, I'm anticipating Thanksgiving eve to be a very busy transit day. We're planning on heading down to NYC on Thanksgiving eve after work -- which Metro North station (West Haven vs. New haven. vs others in the area) would be our best shot for finding parking? Thanks in advance!
+- **[Both had to sweat it out over the weekend, but what's a few extra hours when you've been waiting 150 years?](https://m.facebook.com/hartfordcourant/posts/pfbid02du5VX5RoSpF6Spvi7CructmAicFqhUHvXt61ePp2oBoKC2xdwyejwM5R6ibjTu2rl)** <sub>Hartford Courant · 9:00 PM</sub>
+- **[🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🛍️Ross Dress for Less & Panda Express com...](https://m.facebook.com/theconnecticutscoop/posts/pfbid029KVDJz4Weq7mwQ9nmJbygPq9oiYM4RV7Smfz9tbX2pteYim1AxwFUHBXkFEpFahWl)** <sub>The Connecticut Scoop · 8:49 PM</sub>
+  <br>🚨Weekly Round-Up Scoops!🚨 👀Check out our top stories from the last week! • 🛍️Ross Dress for Less & Panda Express coming soon to Hartford 🔗 https://www.facebook.com/share/p/1EqokDoguJ/ • • 🛒H Mart buys former Stop & Shop in Stamford! 🔗 https://www.facebook.com/share/p/1FNkJQacMd/ • • 🍪Crumbl Cookies…
+- **[Motorist will be contending with the closure later this week for multiple days due to road work.](https://m.facebook.com/hartfordcourant/posts/pfbid021qNr6cdUE4yH8EEvsKVJYvutcWsihE5J3hk9e9aJRAdcLNHUJ2ZxH6a6fbdUGrUDl)** <sub>Hartford Courant · 8:30 PM</sub>
 - **[Over 45 friends?](https://www.reddit.com/r/Connecticut/comments/1xxc983/over_45_friends/)** <sub>Authenticity\_Core · 8:11 PM</sub>
   <br>Happy evening all! I am a 51-year-old female in North Central Connecticut. I am looking to connect with friends. I’m on Stitch and Meetup. I’m locally active. I’m wondering if there might be others on here, within my age group, who would like to meet up, that I could invite to activities. I’m…
 - **[The UConn women’s basketball team looked shell-shocked as No. 7 Louisville took control from the tap, never trailed and routed the visiting Huskies Sunday.](https://m.facebook.com/hartfordcourant/posts/pfbid03ZJgqH7R7XaSJWt9fmZ4cUw4WnNVxzEd6xqVqCnz6B93Vv8qyjstLnsEWpmP3sLUl)** <sub>Hartford Courant · 7:36 PM</sub>
@@ -7588,36 +7613,3 @@ Last 30 days · 4951 items · updated Nov 15, 2026 8:26 PM EST
 - **[Both sides in the dispute over a 100-unit affordable housing proposal in are locked into what could be a long-term wait.](https://x.com/hartfordcourant/status/2111385785538630095)** <sub>@hartfordcourant · 5:16 AM</sub>
   <br>Both sides in the dispute over a 100-unit affordable housing proposal in are locked into what could be a long-term wait. courant.com/2026/10/17/devel… — Hartford Courant (@hartfordcourant) Oct 17, 2026
 - **[The person was fatally shot by police during a well-being check on Friday night. courant.com/2026/10/17/one-p… — Hartford Courant (@hartfordcourant) Oct 17, 2026](https://x.com/hartfordcourant/status/2111381812840693791)** <sub>@hartfordcourant · 5:00 AM</sub>
-- **[Bristol Police shot and killed someone during a wellness check Friday night.](https://www.reddit.com/r/Connecticut/comments/1x84ci4/bristol_police_shot_and_killed_someone_during_a/)** <sub>KleetsNews · 3:47 AM</sub>
-  <br>Bristol Police Statement on Facebook: "On October 16th, 2026, at approximately 8:30pm Officers responded to a residence in the Chippens Hill Section of Bristol for a well-being check. During the course of the investigation, an Officer was forced to discharge his firearm, fatally striking the…
-- **[Did anyone else have an absolutely absurd increase in kwph this month??](https://www.reddit.com/r/Connecticut/comments/1x83ur6/did_anyone_else_have_an_absolutely_absurd/)** <sub>hoya\_swapper · 3:16 AM</sub>
-  <br>My eversource bill says my utilization is up 245% and my bill tripled. There is zero about my tiny apartment life that has changed to impact my energy use that much. If anything it should have gone down with the weather cooling off. Not up, and certainly not to the MOON. I did have a new neighbor…
-- **[📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...](https://m.facebook.com/CTPOLICELIVE/videos/1107520681857104/)** <sub>CTPOLICELIVE · 2:37 AM</sub>
-  <br>📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…
-- **[Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a....](https://www.facebook.com/reel/1126026469975816/)** <sub>CTPOLICELIVE · 2:32 AM</sub>
-  <br>Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m. 📻 Key Details -- Norwich Police initially responded to a disturbance involving a man reportedly acting erratically on a front porch on Sandy Lane -- Officers later located a man…
-- **[Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0Mz8NwP7fV7C811aiyPcFeTSUGcVdrp9Npq4gn4zEu2Qj46okdx2n8u1GN9rYS5MGl)** <sub>CTPOLICELIVE · 2:22 AM</sub>
-  <br>Man Stabbed in Back, Becomes Unresponsive - Norwich 📍 Sandy Lane, Norwich, CT 📅 Saturday, October 17, 2026 1:59 a.m. 📻 Key Details -- Norwich Police initially responded to a disturbance involving a man reportedly acting erratically on a front porch on Sandy Lane -- Officers later located a man…
-- **[One person is dead following an officer-involved shooting in Bristol on Friday night.](https://m.facebook.com/hartfordcourant/posts/pfbid036uTm7meMK1PJgsvXyNKoNiUxfB242adzc4YHoxEyisLiUcDJmwFP1XpVmaXFBWASl)** <sub>Hartford Courant · 1:46 AM</sub>
-- **[Submitted with love and respect.](https://www.reddit.com/r/Connecticut/comments/1x828ob/submitted_with_love_and_respect/)** <sub>Maleficent-Toe4747 · 1:39 AM</sub>
-- **[Seeking Rapid Rehousing program info](https://www.reddit.com/r/Connecticut/comments/1x81l99/seeking_rapid_rehousing_program_info/)** <sub>Own\_Wolf4455 · 1:01 AM</sub>
-  <br>Anyone have any info on the rapid rehousing programs in ct or have any contact info of someone who might? Asking for a family member of mine who is currently in a dv shelter with 3 kiddos. The shelter hasn't provided any assistance with housing .any information would be helpful thank you in advance
-- **[Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, N...](https://www.facebook.com/reel/2258618688029512/)** <sub>CTPOLICELIVE · 12:42 AM</sub>
-  <br>Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, North Haven, CT 📅 Friday, October 16, 2026 - 11:40 p.m. 📻 Key Details -- State Police received multiple 911 calls reporting a pickup truck traveling northbound in the southbound…
-- **[Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, N...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid02pxtYHz4MjZ63shzXFzHnwtjeboGpcR9iaujMrpsDCYaSsR5oLz4RdZXh6CkX4sPrl)** <sub>CTPOLICELIVE · 12:34 AM</sub>
-  <br>Woman Killed After Man Drives Pickup Truck Wrong Way on I-91 - North Haven 📍 I-91 Southbound, between Exits 9 and 8, North Haven, CT 📅 Friday, October 16, 2026 - 11:40 p.m. 📻 Key Details -- State Police received multiple 911 calls reporting a pickup truck traveling northbound in the southbound…
-
-## Friday, October 16
-
-- **[Corrected absentee ballot](https://www.reddit.com/r/Connecticut/comments/1x7zive/corrected_absentee_ballot/)** <sub>weeeee\_w33 · 11:04 PM</sub>
-  <br>Did any other cities get corrected absentee ballots sent out? I've been doing absentee most of the time for close to 20 years and have never gotten a "oops our bad, here's a corrected one to resend."
-- **[Officer Involved Shooting Bristol](https://www.facebook.com/groups/BreakingNow/posts/2411103292962172/)** <sub>Doug Oberly · 11:02 PM</sub>
-- **[In Opinion \| Enabling Russia to export oil makes a mockery of American values, American interests, and the clearly expressed will of the American public.](https://m.facebook.com/hartfordcourant/posts/pfbid032XSSiN8ZvPPWCqkK98ZdTc94FjJsYxPqjT24KRcRKd9PFxWxcJ9QJohTAPFXXvUtl)** <sub>Hartford Courant · 10:02 PM</sub>
-- **[By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…](https://x.com/hartfordcourant/status/2111274506337591444)** <sub>@hartfordcourant · 9:54 PM</sub>
-  <br>By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president’s false claims about… courant.com/2026/10/16/trump… — Hartford Courant (@hartfordcourant) Oct 17,…
-- **[Nice restaurants for special celebration with girlfriend?](https://www.reddit.com/r/Connecticut/comments/1x7y3ky/nice_restaurants_for_special_celebration_with/)** <sub>ATTILMTY · 9:48 PM</sub>
-  <br>Hello! I am looking for a nice restaurant to celebrate mine and my girlfriend’s year and a half anniversary. I am in Middlesex county, but wouldn’t mind driving anywhere under an hour. Price isn’t really an issue for me, I’ll take her anywhere nice :)
-- **[By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…](https://x.com/hartfordcourant/status/2111271517019357554)** <sub>@hartfordcourant · 9:42 PM</sub>
-  <br>By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president’s false claims about… courant.com/2026/10/16/trump… — Hartford Courant (@hartfordcourant) Oct 17,…
-- **[By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the…](https://x.com/hartfordcourant/status/2111269554508755141)** <sub>@hartfordcourant · 9:34 PM</sub>
-  <br>By BILL BARROW ATLANTA (AP) — Donald Trump’s midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president’s false claims about… courant.com/2026/10/16/trump… — Hartford Courant (@hartfordcourant) Oct 17,…
