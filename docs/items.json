@@ -1,16 +1,71 @@
 {
  "feed_title": "CT News",
  "feed_link": "https://rss.app",
- "updated": "2026-11-22T00:49:06.617292+00:00",
+ "updated": "2026-11-22T07:31:03.419461+00:00",
  "retention_days": 30,
  "items": [
+  {
+   "id": "https://x.com/hartfordcourant/status/2124342361920544888",
+   "title": "This CT high school soccer team exited the state tournament in the first round last year, this year it finished unbeaten and rallied to win a state title.",
+   "link": "https://x.com/hartfordcourant/status/2124342361920544888",
+   "summary": "This CT high school soccer team exited the state tournament in the first round last year, this year it finished unbeaten and rallied to win a state title. courant.com/2026/11/21/class… — Hartford Courant (@hartfordcourant) Nov 22, 2026",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2124340771075616769/2qZxwgQC?format=jpg&name=800x419",
+   "published": "2026-11-22T03:21:00+00:00",
+   "first_seen": "2026-11-22T07:31:03.419461+00:00",
+   "date": "2026-11-22T03:21:00+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02DwVXdmo7dZRhn9H5nKYGpArtSRrmgnQx1PPb2geMyeLedTGQiKD8pDaRD7x3QvT1l",
+   "title": "An estimated 83 million TV viewers tuned in to the CBS primetime soap opera “Dallas” to find out “who shot J.R.”",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02DwVXdmo7dZRhn9H5nKYGpArtSRrmgnQx1PPb2geMyeLedTGQiKD8pDaRD7x3QvT1l",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/916889726_1571162548374914_6186984726461168405_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=kxVeZkmdAkMQ7kNvwGscpE4&_nc_oc=AdrzfUColNUydH4o3paCO_RP-0NiW33NuZx3-zrzGG1jegfSLfWSaKyHqoc1BKOetxkW9SJg-E0dY2_sZy-9ePjM&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=bkvF1PflWEJ1Yuo0nlM85g&_nc_ss=7c289&oh=00_AQQ1SzTl3PUamyuKGDhStNs_bSawj4yegBP8FMdNefPveg&oe=6B085378",
+   "published": "2026-11-22T03:01:06+00:00",
+   "first_seen": "2026-11-22T07:31:03.419461+00:00",
+   "date": "2026-11-22T03:01:06+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0DXgiDaXJqaUexwAhTePRjqYzmnePjB4Ap2b99xtdQEBXvR9aYpKHjSuDEcVEN6RFl",
+   "title": "In Opinion | I hope Democrats also investigate Musk’s ties to China and to the recently ousted Nvidia Chief Executive Jensen Huang.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0DXgiDaXJqaUexwAhTePRjqYzmnePjB4Ap2b99xtdQEBXvR9aYpKHjSuDEcVEN6RFl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/926875250_1571119545045881_6796307122881747357_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=9PM4V4Bj8_EQ7kNvwGfmcHb&_nc_oc=AdrbTxlioOKbrHrkEKHrcwFQilYWID89HPFDb3PrR6S18Z1mGqHMKOMHOIGt8-MiLPVhjuxN2SITk4H006yNKqvY&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=bkvF1PflWEJ1Yuo0nlM85g&_nc_ss=7c289&oh=00_AQTBl5AbpkLnEPQx1hQbNYSUvLBQfNt-ERs9gqH1migY5Q&oe=6B086720",
+   "published": "2026-11-22T02:00:55+00:00",
+   "first_seen": "2026-11-22T07:31:03.419461+00:00",
+   "date": "2026-11-22T02:00:55+00:00"
+  },
+  {
+   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02wsvqQZNHNENG1xwdrXmpVJg2WzekjxfnCzDXVxJ9TkswpPMZuw2rpUkxQfj8iT8Pl",
+   "title": "In Opinion | I can’t believe that Hartford is still a one-horse, 5- to 9-town.",
+   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02wsvqQZNHNENG1xwdrXmpVJg2WzekjxfnCzDXVxJ9TkswpPMZuw2rpUkxQfj8iT8Pl",
+   "summary": "",
+   "author": "Hartford Courant",
+   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/915668544_1571080405049795_2020577415205030621_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=HTpgmFqX5OQQ7kNvwFzd-c9&_nc_oc=Adr2xtBOmIDdB0FvzeUi1wSumGMkXpu_UZfzuEZsf1nY5VhY1z8mW63qmwqscOx3eEQJ29GJJMcay1S4nzKFXe66&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=bkvF1PflWEJ1Yuo0nlM85g&_nc_ss=7c289&oh=00_AQSZWEJsNBE6FR4LySH3vsCFGgAzNx4NIsKEvI-bT4A0Ew&oe=6B085B01",
+   "published": "2026-11-22T01:01:21+00:00",
+   "first_seen": "2026-11-22T07:31:03.419461+00:00",
+   "date": "2026-11-22T01:01:21+00:00"
+  },
+  {
+   "id": "https://x.com/hartfordcourant/status/2124305364791279910",
+   "title": "A bigger world is calling, but we don’t have to rush out the door. The Sun enters Sagittarius at 2:23 AM EST, beginning a season of curiosity, exploration, and renewed interest in what’s possible.…",
+   "link": "https://x.com/hartfordcourant/status/2124305364791279910",
+   "summary": "A bigger world is calling, but we don’t have to rush out the door. The Sun enters Sagittarius at 2:23 AM EST, beginning a season of curiosity, exploration, and renewed interest in what’s possible. The Moon enters Taurus at 5:09… courant.com/2026/11/21/daily… — Hartford Courant (@hartfordcourant)…",
+   "author": "@hartfordcourant",
+   "image": "https://pbs.twimg.com/card_img/2124305371632201728/SJAvNAUE?format=jpg&name=800x419",
+   "published": "2026-11-22T00:54:00+00:00",
+   "first_seen": "2026-11-22T07:31:03.419461+00:00",
+   "date": "2026-11-22T00:54:00+00:00"
+  },
   {
    "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02AuE8MS1mQSn2MwBTe8VEhFb5Abp5xHSY9RyANrG8EJpu2PWVStBYDxPQYDyxyo6bl",
    "title": "The UConn football team clinched bowl eligibility for the fourth time in five years with a 29-21 win over Old Dominion in the final game at Rentschler Field this season.",
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02AuE8MS1mQSn2MwBTe8VEhFb5Abp5xHSY9RyANrG8EJpu2PWVStBYDxPQYDyxyo6bl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/916917106_1571049045052931_1814615027784979986_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=nQVN6lw79isQ7kNvwHBuLai&_nc_oc=Adr2q5QZey_-n0ARhW9ycJpOJdegVw9hXYn7qZq8hgmd2uhOvneRo-P9XXwPbNEA_80eiJQEAvgHpHEGRkkMbZN8&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=g6aNmr55LzOM0stNeaLRHg&_nc_ss=7c289&oh=00_AQRhiBBMrXTueUYljIZqHSMvF_qwAIG-j7mk1weKgDVAZA&oe=6B07F2AE",
+   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/916917106_1571049045052931_1814615027784979986_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=nQVN6lw79isQ7kNvwHBuLai&_nc_oc=Adr2q5QZey_-n0ARhW9ycJpOJdegVw9hXYn7qZq8hgmd2uhOvneRo-P9XXwPbNEA_80eiJQEAvgHpHEGRkkMbZN8&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=bkvF1PflWEJ1Yuo0nlM85g&_nc_ss=7c289&oh=00_AQRuN4q9JA3iuBbwKqKAUmFULYPqv6fS9PBK_0vY4lu5sw&oe=6B08632E",
    "published": "2026-11-22T00:11:26+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-22T00:11:26+00:00"
@@ -32,7 +87,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0oLt44KhALkoVMWA6PshZtQxLyNws9JZAAkS9YUtM1skSsGpT7pdwiWwJ5XCbUkiPl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/914923442_1571042491720253_4574337975009700349_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=r1w1Sk73130Q7kNvwGenFdN&_nc_oc=AdqNHeIKQIaPXct3m_mVuMCpJxVyXFrZqGXsXsbXQqqB89JBfspasBDc_pjsXbz9_fY17_ZUhQqiIGha1EkZjtnN&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=g6aNmr55LzOM0stNeaLRHg&_nc_ss=7c289&oh=00_AQRQ8R2ctSGh6pwEykF8hUbrC3bz1ud7UUgfywUVWQal4w&oe=6B07FFE6",
+   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/914923442_1571042491720253_4574337975009700349_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=r1w1Sk73130Q7kNvwGenFdN&_nc_oc=AdqNHeIKQIaPXct3m_mVuMCpJxVyXFrZqGXsXsbXQqqB89JBfspasBDc_pjsXbz9_fY17_ZUhQqiIGha1EkZjtnN&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=bkvF1PflWEJ1Yuo0nlM85g&_nc_ss=7c289&oh=00_AQTnVp6okaCr27pwbf_ONOV_VKn-sFpzEfNvb-ne2qa-Rw&oe=6B087066",
    "published": "2026-11-22T00:01:18+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-22T00:01:18+00:00"
@@ -43,7 +98,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0maYtwBsEcsvGaZTuqTxwxLqGA66A3E2nRCW86qfEf6CVrMShdiF19WdUCo5cwcuhl",
    "summary": "🚨New ‘New Britain’ Scoop! 🎅🏼New Britain’s East Side Restaurant has been transformed into a Bavarian Christmas village! We even got a special visit from Santa Claus during our visit! 🎄The interior has been all decked out with Christmas decorations; just in time for your holiday parties and…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/915927514_1214407861162330_4550645681642840839_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=y9-ncxQA6moQ7kNvwGnYCdP&_nc_oc=AdoT7-qrqmOF8PjYAFMoVVTfiqgcL5mY2dHrZxuSSEqQ3HXhQ9NtB82hKIHltut0KFpcZ_I5E12rb60vwBV9wtZe&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=27gIz49SOerBTB_tFH2wJw&_nc_ss=7c289&oh=00_AQTmOezgsoxEk-vy0BAV2XGNMXYCJ7fOWxrE-vzQYpiQ1A&oe=6B07FE91",
+   "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/915927514_1214407861162330_4550645681642840839_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=y9-ncxQA6moQ7kNvwERAQ-K&_nc_oc=AdoVKYw0MSBsOHY7-9YQLjDY71IUJ76KwAl-YfIMHamWC9vsNxJ6490wbZFdwOit6tQ&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=JXLAEDaWx90BmTtzAMbhPg&_nc_ss=79289&oh=00_AQSB8HB6CsE8a4A7DDsQT9M363lxGO8KbD_9ki_Ns0fwSg&oe=6B086F11",
    "published": "2026-11-21T23:46:03+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-21T23:46:03+00:00"
@@ -65,7 +120,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02q5u7gZvXedyWL14mGa8h94fhzvMafyJrMVHAk6pMbkDWoZwWmjJy3SyNmkZWUnZsl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/915876815_1571004681724034_7467501278097272970_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=VSPbBNgEIGgQ7kNvwESm4Dd&_nc_oc=AdqIdXpaSx1NgX7Zu9Auv43Wh5qHEIYhYlRB3Z0YrGu8WldLDZwsmwVhmOLKAt-xttHJ_yAAQQaRnSbi-VK6RpRg&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=g6aNmr55LzOM0stNeaLRHg&_nc_ss=7c289&oh=00_AQTJaZ0KP7WhtRmr1t2Dh8WggyldVuYZBw9pcmUnl9fhYg&oe=6B080522",
+   "image": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/915876815_1571004681724034_7467501278097272970_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=VSPbBNgEIGgQ7kNvwEFNgdI&_nc_oc=AdriPrr3szkWqY4UCj80peaYFLzFX8uEql4LbEueXu6xHiFXU9wDwm3zlPD9DvJ7i6AofimFNj19GeVKZyPdh56c&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=MTIZULSTlSMpK-hFRcYiTw&_nc_ss=7c289&oh=00_AQQI-ACyZMpI1zk-mpormulA1pS1BkbFID74lZB6IBNqNQ&oe=6B083D62",
    "published": "2026-11-21T23:00:56+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-21T23:00:56+00:00"
@@ -98,7 +153,7 @@
    "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0oLmhEtJHa4M31q8CHX922A3y91yziYW42ovGpdx78amJV8RsyAP1N8bG9syvEv7Dl",
    "summary": "",
    "author": "Hartford Courant",
-   "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/921771572_1570968768394292_9127583244493329945_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=bUSWcLXOMzIQ7kNvwHJwsbz&_nc_oc=AdoNVExOMHXkIhUwcRxm5pIHyxtCRZXAVGpNm0zWQZHnX0sDfSy_l9m_VthZwo85nxGEZHwI6klVPTPnexg2hiSa&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=g6aNmr55LzOM0stNeaLRHg&_nc_ss=7c289&oh=00_AQSADU77s1j6iivYubgmYu_ht8s0ZPXZdqWeAFlVIPFLXQ&oe=6B080C5D",
+   "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/921771572_1570968768394292_9127583244493329945_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=bUSWcLXOMzIQ7kNvwFjS6z6&_nc_oc=AdoGLr3zm4_Y3aNtrnvmhBcgwCF1e3RWLrZQxLFKRDcsP3azpTcT6_WzvgydL8OXeOBwgGq2qfJZ-QCyt2EJJvw4&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=u2P8RZ9MiKPhqp4o2EsYeQ&_nc_ss=79289&oh=00_AQRRZSFmOgHlCz-RJ319PXN00utV3FNoeQuuYfbhywbrxA&oe=6B080C5D",
    "published": "2026-11-21T22:01:13+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-21T22:01:13+00:00"
@@ -109,7 +164,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid0uTV79v3B5RxU42bEstHauzyDTjbntG4Uv4cr4nqFWERNRyiQ6TYnvLav4Kra7qH5l",
    "summary": "🚨New West Hartford Scoop!🚨 🎉A new sports lounge is eyes for West Hartford! 🍻Three Brothers Sports Lounge has applied for building permits to open a new lounge & bar at 1000 Farmington Avenue in West Hartford, next door to Yemerica Coffee. 🍹Building plans call for extensive renovations to the vacant…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/923086377_1214338051169311_85485036610507142_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=PBZGF1JFqQkQ7kNvwG-XleF&_nc_oc=AdqQXtEv35sNPulG7PjAE_EGafL9jN0Dakb8t8Ajx1HRXH8eJKN_v4JumFZWeAPrF18F_uSbSEeHqTIlRWV04Uuv&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=27gIz49SOerBTB_tFH2wJw&_nc_ss=7c289&oh=00_AQTGGPy_w-dmSBPlqFXc6zmWERU8VeMlEWxx_xu6aI9NMw&oe=6B08286C",
+   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/923086377_1214338051169311_85485036610507142_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=PBZGF1JFqQkQ7kNvwE7XmYm&_nc_oc=AdoKiAniukuonZq5f8fKvE8GltNyz-72CnatG4luDDw4ncP8wUSw0Lnslgb7UXERp9s&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=JXLAEDaWx90BmTtzAMbhPg&_nc_ss=79289&oh=00_AQTZpnm05ubz5K8eoEf_O6hxlwxHUM2wQMDPmSaD7JbT1A&oe=6B0860AC",
    "published": "2026-11-21T21:46:48+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-21T21:46:48+00:00"
@@ -142,7 +197,7 @@
    "link": "https://www.facebook.com/groups/BreakingNow/posts/2450085142397320/",
    "summary": "",
    "author": "Branden Hughes",
-   "image": null,
+   "image": "https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/926234870_10164756288921855_3705021305739482297_n.jpg?stp=dst-jpg_tt6&cstp=mx1249x789&ctp=p843x403&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=rFVVcSd-2wIQ7kNvwF8sTxg&_nc_oc=AdoxDYiCrJ_i1if3vV5lBJ3ZdYRZM5n5lxrgnmQSOpLNRM_PLGvqo0FCq_YR0Efwp19FYx4krYsOxt3AaYPTw7sC&_nc_zt=23&_nc_ht=scontent-iev1-1.xx&_nc_gid=zPeuDRKK7yeJSsX249zr5w&_nc_ss=7b180&oh=00_AQSF1bMB0i5AhqDTTIXkD2dyJhNxyjB3ruWhGWHrR5In2Q&oe=6B087000",
    "published": "2026-11-21T20:49:57+00:00",
    "first_seen": "2026-11-22T00:49:06.617292+00:00",
    "date": "2026-11-21T20:49:57+00:00"
@@ -197,7 +252,7 @@
    "link": "https://www.facebook.com/groups/BreakingNow/posts/2450008849071616/",
    "summary": "",
    "author": "Casey Jones",
-   "image": "https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/916890606_1133164299637988_4879130287216919695_n.jpg?stp=dst-jpg_tt6&cstp=mx1448x1086&ctp=s720x720&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-lAGSa4fHGkQ7kNvwF3xTgV&_nc_oc=Ado0X7f60v6g53EL06Q80uMjD3_Jpl0ZLiRouh1PtuPwmJFlvSbzs_AGPfBvpiwJtp0vYwLONZWhfL-E4DJf8gop&_nc_zt=23&_nc_ht=scontent-iev1-1.xx&_nc_gid=5DGWi_ZHVC2v2HiLJNiXbQ&_nc_ss=7e289&oh=00_AQQVHBOjqnMeW1SH5sZwCwkXJMc9AmzYSM1CauN1LuDOsg&oe=6B080AA4",
+   "image": "https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/916890606_1133164299637988_4879130287216919695_n.jpg?stp=dst-jpg_tt6&cstp=mx1448x1086&ctp=s720x720&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-lAGSa4fHGkQ7kNvwFA4Z0W&_nc_oc=AdrJ5BbYubh9zbxQxXoBOx-jv-Z1D5PcoSr1AnW-rlNIPkMcqxHhuiZGgJgvg5cDhgl6jeuLlLVahA1rNy9WtZG5&_nc_zt=23&_nc_ht=scontent-iev1-1.xx&_nc_gid=zPeuDRKK7yeJSsX249zr5w&_nc_ss=7b180&oh=00_AQTIuhrLisvuj8o1iA1vBfbohKqRwkrmdMw9hXBDLCm-ug&oe=6B087B24",
    "published": "2026-11-21T18:57:00+00:00",
    "first_seen": "2026-11-21T20:52:25.229005+00:00",
    "date": "2026-11-21T18:57:00+00:00"
@@ -252,7 +307,7 @@
    "link": "https://m.facebook.com/theconnecticutscoop/posts/pfbid037aUEEW1PQ66DTkVt71HJhrRt7kQ4qKuzXLPmkXKn9vveaHU3UVXkRz5kmyAsTeHdl",
    "summary": "🚨New Oxford Scoop! 🚨 🎉A new fish market is coming to Oxford! 🐟East Coast Fish Market will be opening its doors at 248 Oxford Road in Oxford! They will celebrate their grand opening weekend on November 27th through November 29th from 10:30am-6:00pm. 🦞The new market will carry fresh seafood, fried…",
    "author": "The Connecticut Scoop",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/921585433_1214146414521808_6275041475629594783_n.jpg?stp=dst-jpg_p640x640_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=96akpfhskYQQ7kNvwGFuuwW&_nc_oc=Adoq_hIQEyO6iguY0xj61p0n9sO8ToeZjYXzA7pe6DbohFBYUtLmn_KV9YaF6_huTLvgdgBZvAl5wTI7daqvb3Sl&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=27gIz49SOerBTB_tFH2wJw&_nc_ss=7c289&oh=00_AQQJlgTKyKndcVSYAQVI-VwmpFKoi1-d-yOAbdczWAfxYw&oe=6B081E31",
+   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/921585433_1214146414521808_6275041475629594783_n.jpg?stp=dst-jpg_p640x640_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=96akpfhskYQQ7kNvwGnZEKs&_nc_oc=AdrFxjmQfr8h-yLr4d8SEpfwtaFmXvGtppyA-hZ3cpjdEYw2qoIKVa2dquOAbKDF_Ms&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=JXLAEDaWx90BmTtzAMbhPg&_nc_ss=79289&oh=00_AQTeMlIVOHwidSvJZbWs8ItAuVpxYMnzyYhb_V1vPJpMjA&oe=6B085671",
    "published": "2026-11-21T17:06:40+00:00",
    "first_seen": "2026-11-21T20:52:25.229005+00:00",
    "date": "2026-11-21T17:06:40+00:00"
@@ -428,7 +483,7 @@
    "link": "https://m.facebook.com/CTPOLICELIVE/videos/1678045310691190/",
    "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
    "author": "CTPOLICELIVE",
-   "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/896137809_1329429572605965_3293153687222601357_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=NC8JSIuC9WcQ7kNvwH71Jx5&_nc_oc=Adqo071tTzc6BYPxaQjdakJ403QpasZHDk15qDISu3SAEwzRI7a_0mgXpVp0tC7u48ZCFX5M3zLtRds6I7i0B-cu&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=gynzZHEgtOJzsQDe3N-xVQ&_nc_ss=7c289&oh=00_AQQWptWRQqHl9cx8Bywik8gEbq26Lxl2O8pRuLLh2ZjxIw&oe=6B080FBE",
+   "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/896137809_1329429572605965_3293153687222601357_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=NC8JSIuC9WcQ7kNvwGj9OXB&_nc_oc=Adp0HCeEEkfyvNManb7f3v-XLLV8xfjeTRbAlNKufS4rTB-UF-tgQbVd1OWuWP6RxCvlCfhINSUbRp1CNfpFlGR6&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=UEz_pRgEBY_K4qBoo0RMPw&_nc_ss=79289&oh=00_AQTrKC3K3HAC3w3jqI96X47m77H8NM7pLhAzZonvBU_hMA&oe=6B08803E",
    "published": "2026-11-21T13:00:22+00:00",
    "first_seen": "2026-11-21T15:04:02.267114+00:00",
    "date": "2026-11-21T13:00:22+00:00"
@@ -49602,347 +49657,6 @@
    "published": "2026-10-23T09:00:00+00:00",
    "first_seen": "2026-10-23T12:10:59.045169+00:00",
    "date": "2026-10-23T09:00:00+00:00"
-  },
-  {
-   "id": "https://www.facebook.com/reel/1813637909673414/",
-   "title": "Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Brit...",
-   "link": "https://www.facebook.com/reel/1813637909673414/",
-   "summary": "Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Britain, CT 📅 Friday, October 23, 2026 - 1:10 a.m. 📻 Key Details -- New Britain Police reported an armed carjacking involving a 2026 white Jaguar -- Four masked individuals were…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/863444601_2557350328064324_8076791655303500438_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=S_1Ed1hUR2wQ7kNvwHvM1sU&_nc_oc=AdrGkSJsiaMYzBk8lNjmx0HU2twW5VMFtlDydaXRorM6D9qKrVdPM9_dU0aFyCrGshxpeHZkIeg9UeSkPjvwS2SJ&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=n5zJ4tLlmkEeEKG9pSKufw&_nc_ss=7c289&oh=00_AQNppfEI2tOaahWFoUjNTN8_OoJVTuCF5CC6APeCNbT7YA&oe=6AE111A2",
-   "published": "2026-10-23T05:37:42+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T05:37:42+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0SRRvJkPVSZPkdJzHYEmWkEqRakd49HkFZjKkbzkfUbTLm7tYMhqeYocVi14wV7SQl",
-   "title": "Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Brita...",
-   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0SRRvJkPVSZPkdJzHYEmWkEqRakd49HkFZjKkbzkfUbTLm7tYMhqeYocVi14wV7SQl",
-   "summary": "Armed Carjacking Involving 4 Masked Suspects With Handguns - New Britain 📍 West Main Street near the highway, New Britain, CT 📅 Friday, October 23, 2026 - 1:10 a.m. 📻 Key Details -- New Britain Police reported an armed carjacking involving a 2026 white Jaguar -- Four masked individuals were…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/860618706_1588364386668041_6451862628562938597_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=TH8FMj6X0fwQ7kNvwG5KU1M&_nc_oc=AdqfrZOBPuut96MEC9Otik3CzjXe6VgCT94xc6iCO7YD8IxMxwTje2yS0bNJXDlWzg3gkCi9qgLVA49_rRHkSKMy&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=n5zJ4tLlmkEeEKG9pSKufw&_nc_ss=7c289&oh=00_AQOXdBnXZuxq2UqPvo0DTbDbB-KfAMetKLe54NMhw1mT6Q&oe=6AE12631",
-   "published": "2026-10-23T05:32:33+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T05:32:33+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/CTPOLICELIVE/videos/1109696131424352/",
-   "title": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard...",
-   "link": "https://m.facebook.com/CTPOLICELIVE/videos/1109696131424352/",
-   "summary": "📡 24/7 Connecticut Incident Operations Livestream This livestream provides a real-time situational awareness dashboard built from live public data sources. 🚓 Police and fire scanner audio from multiple jurisdictions 🌧️ Weather radar and storm monitoring ✈️ Aircraft tracking and aviation activity 🚗…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/861999310_2140647836545340_319234718681062961_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=za5mEudapnQQ7kNvwF0WCq0&_nc_oc=AdrI2lhJRyNahsBT6QX8OHhvngOyjENvLc6Qtyh-BoPKBvZ67kYirM7ka_M7b7ogPLXkie4TePDGuwhbkbhOieOu&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=n5zJ4tLlmkEeEKG9pSKufw&_nc_ss=7c289&oh=00_AQPJKHvnfhoavuZAlMP6Bx5aNjrlIEvuvaroeYn35y7Bqw&oe=6AE108E4",
-   "published": "2026-10-23T04:09:31+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T04:09:31+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd3ln8/registration/",
-   "title": "Registration",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd3ln8/registration/",
-   "summary": "I just turned 18 yesterday, where do I look to see view my voter registration?",
-   "author": "Fun-Awareness7489",
-   "image": null,
-   "published": "2026-10-23T03:51:23+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T03:51:23+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd39cb/proposal_spots/",
-   "title": "Proposal spots",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd39cb/proposal_spots/",
-   "summary": "Hi all, I am planning on proposing to my girlfriend of two years around christmas time and Im looking for some areas around CT that have large decorated christmas trees. Thinking something more intimate otherwise the tree in NYC would have been my go too, she just wants something a little more…",
-   "author": "Boobler1",
-   "image": null,
-   "published": "2026-10-23T03:33:19+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T03:33:19+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd38fs/governor_debate_war_on_iran/",
-   "title": "Governor Debate: War on Iran",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd38fs/governor_debate_war_on_iran/",
-   "summary": "Moderator: Senator Fazio, you have said on the campaign trail and also in the state legislature that the president's foreign policy has nothing to do with Connecticut. But the reality, a lot of people will disagree with that-that high tariffs, the war in Iran, and are having a financial impact on…",
-   "author": "ArthurAugustyn",
-   "image": "https://external-preview.redd.it/a214YTFjOTJ6NHhoMTE-Fax9Dgh3l8TXgX_vnydTMPbLu2tpbSrNJcLIc7qc.png?width=640&crop=smart&auto=webp&s=17b1d6456c1622a75b8ac42b985c467196d6e5ad",
-   "published": "2026-10-23T03:32:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T03:32:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd34rv/governor_debate_corruption_allegations/",
-   "title": "Governor Debate: Corruption allegations",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd34rv/governor_debate_corruption_allegations/",
-   "summary": "[the auto transcription probably got a lot of the spellings of names wrong] Moderate: Governor, we've seen a sort of unfolding scandal of mismanagement at CSCU, the state university system, involving Chancellor, former Chancellor Terrence Chang, Zolma Toro, the CCSU president John Maduco, and…",
-   "author": "ArthurAugustyn",
-   "image": "https://external-preview.redd.it/anRsZWFxYzh2NHhoMco-g6739LfnFi9o7K7ylOCigHoNHukUwGzY0AjHDdHP.png?width=640&crop=smart&auto=webp&s=08f32ff3fa56db94f6b2840186b510f935cc933f",
-   "published": "2026-10-23T03:26:44+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T03:26:44+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd31oc/young_professionals_in_central_ct_escape_room/",
-   "title": "Young professionals in Central CT: escape room + costume night in Plainville on Thurs 10/29",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd31oc/young_professionals_in_central_ct_escape_room/",
-   "summary": "Hey all! I run PYVOT, a young professionals group (21 to 40) through the Central CT Chambers. We're doing an escape room night next week on Thursday, October 29 at Escape from Reality in Plainville, a newer local business that just opened in May. A portion of the proceeds goes right back to them,…",
-   "author": "Future_Dare8052",
-   "image": null,
-   "published": "2026-10-23T03:22:16+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T03:22:16+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid02bhHj9fZNEKvrQybrFbUGMSBCvYLYi9t2rKARWNXT3sPjz3gq6k746YdC47FJxViRl",
-   "title": "As brands continue to cycle nameplates from deep in their archives, General Motors is no different",
-   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid02bhHj9fZNEKvrQybrFbUGMSBCvYLYi9t2rKARWNXT3sPjz3gq6k746YdC47FJxViRl",
-   "summary": "",
-   "author": "Hartford Courant",
-   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/859771831_1538552701635899_6526871712006087600_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=taSRY1l1IQoQ7kNvwHYyRLN&_nc_oc=AdpE9AUk4igpsb9MPJfDj1AGOpTll74bG-wA0oKHJEFZ_VRz9dyfsR4vSZAcnaaY1G7TLoQTIpuguggFcn227Yly&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=GzhMgdC5LjSv5VtKl73LwQ&_nc_ss=7c289&oh=00_AQOqXM2PAXqLK3o9SWJTZE92ucgLm0iGaUwuupPA369Nhw&oe=6AE109F1",
-   "published": "2026-10-23T03:02:19+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T03:02:19+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd2izs/governor_debate_energy_costs/",
-   "title": "Governor Debate: Energy costs",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd2izs/governor_debate_energy_costs/",
-   "summary": "Moderator: We do have questions that we got from our from our viewers and readers, and we're going to mix them into some of these questions that we're asking tonight, and I want to start with energy. Everybody wants to see rate cuts, electric rate cuts, but the signs point to electric rate…",
-   "author": "ArthurAugustyn",
-   "image": "https://external-preview.redd.it/a2FjaXg5djd0NHhoMUvU_VvXuv4MFB1D3UYPrlM35S8SS_9Zy4deXyP4ocsI.png?width=640&crop=smart&auto=webp&s=3d1c07ffdc608e597e348ec2dafd96a519d70bd3",
-   "published": "2026-10-23T02:56:38+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:56:38+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd2hdf/governor_debate_lamont_on_running_for_a_third_term/",
-   "title": "Governor Debate: Lamont on running for a third term",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd2hdf/governor_debate_lamont_on_running_for_a_third_term/",
-   "summary": "This question is for you, Governor Lamont. You have been governor for eight years, and you did promise to lower electricity, property taxes, and housing costs. So why would another term bring different results? Lamont: Look where we are today. You know, everybody talks about I'm going to cut the…",
-   "author": "ArthurAugustyn",
-   "image": "https://external-preview.redd.it/YWs5cm4xNWhzNHhoMcUKzktVarvjqw42fvv1nXQsGW0Zl16W59wf4bt3VIN5.png?width=640&crop=smart&auto=webp&s=371e8e700b43516c6bebf97276d99797d0918930",
-   "published": "2026-10-23T02:54:23+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:54:23+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113463000086511769",
-   "title": "Experts put the likely figure at 60 to 120 billion barrels. courant.com/2026/10/22/venez… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113463000086511769",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113463003697807361/xLY09NSr?format=jpg&name=800x419",
-   "published": "2026-10-23T02:50:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:50:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113460600734945732",
-   "title": "96% of shallow-water reef systems are already critically endangered and could collapse by 2075. courant.com/2026/10/22/clima… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113460600734945732",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113460603004092418/pnWvvhEe?format=jpg&name=800x419",
-   "published": "2026-10-23T02:40:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:40:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd257a/plymouth_are_any_of_the_people_at_that_shop_in/",
-   "title": "Plymouth, are any of the people at that shop in politics or are they just like this for fun",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd257a/plymouth_are_any_of_the_people_at_that_shop_in/",
-   "summary": "they've been up for like 3 months it's really embarrassing",
-   "author": "MeatBrick64",
-   "image": "https://preview.redd.it/4y2ndnh3q4xh1.jpeg?width=640&crop=smart&auto=webp&s=709e85f1be68ade34720e03b8490a04dd245bd4b",
-   "published": "2026-10-23T02:37:50+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:37:50+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113458534138429609",
-   "title": "Experts warn that excessive caffeine can cause serious side effects, especially in children and teens. courant.com/2026/10/22/be-we… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113458534138429609",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113458536747302912/z05QdPIm?format=jpg&name=800x419",
-   "published": "2026-10-23T02:32:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:32:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113456232430289047",
-   "title": "The technology requires a bit more attention than a traditional smartphone. courant.com/2026/10/22/apple… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113456232430289047",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113456242639155202/fGaToYZs?format=jpg&name=800x419",
-   "published": "2026-10-23T02:23:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:23:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd1uje/meatme_in_monroe_closed/",
-   "title": "Meatme in Monroe Closed?",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd1uje/meatme_in_monroe_closed/",
-   "summary": "Someone told me they're closed and saw that they deleted their Instagram and Google shows them as permanently closed. Anyone heard if anything caused them to suddenly close up shop without warning? Have no idea where I'll get my dino ribs now...",
-   "author": "PlayerOneDad",
-   "image": null,
-   "published": "2026-10-23T02:22:52+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:22:52+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd1pq3/im_looking_for_a_fruit_drink_available_in_ct/",
-   "title": "I'm looking for a fruit drink available in CT",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd1pq3/im_looking_for_a_fruit_drink_available_in_ct/",
-   "summary": "There were only 3-5 ingredients. The ingredients were listed on the front of the bottle and I believe it was made in another NE state or possibly NY. There was banana and mango flavors.",
-   "author": "57BeatlesPhan",
-   "image": null,
-   "published": "2026-10-23T02:16:20+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:16:20+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113453828146123231",
-   "title": "Art historians have long dated the painting to after Van Gogh checked into the asylum. courant.com/2026/10/22/van-g… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113453828146123231",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113453835922329600/5_GZcW9u?format=jpg&name=800x419",
-   "published": "2026-10-23T02:13:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:13:00+00:00"
-  },
-  {
-   "id": "https://www.reddit.com/r/Connecticut/comments/1xd1j3y/how_old_money_kills_economies/",
-   "title": "How Old Money Kills Economies",
-   "link": "https://www.reddit.com/r/Connecticut/comments/1xd1j3y/how_old_money_kills_economies/",
-   "summary": "",
-   "author": "WutzTehPoint",
-   "image": "https://external-preview.redd.it/myJOkZMvuIMfuwYdW7t_-AdV01ZrwS88HnoE3bFdmjM.jpeg?width=320&crop=smart&auto=webp&s=15e0d327fc7c53ff7d077eea45b57ce80928ae79",
-   "published": "2026-10-23T02:07:12+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:07:12+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113450593993802041",
-   "title": "The illumination, a result of the temple’s alignment with the sun, lasts about 20 minutes. courant.com/2026/10/22/golde… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113450593993802041",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113450596896223232/ks2546Pr?format=jpg&name=800x419",
-   "published": "2026-10-23T02:01:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T02:01:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113448575396962789",
-   "title": "It’s the deadliest outbreak in Congo’s history. courant.com/2026/10/22/what-… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113448575396962789",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113448580908187649/eYFb9lg3?format=jpg&name=800x419",
-   "published": "2026-10-23T01:53:00+00:00",
-   "first_seen": "2026-10-23T06:47:30.522888+00:00",
-   "date": "2026-10-23T01:53:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113445877222158830",
-   "title": "From the opening statements, Gov. Ned Lamont and Republican challenger Ryan Fazio came out swinging in their first debate Thursday night as they clashed on everything from taxes and electric rates to…",
-   "link": "https://x.com/hartfordcourant/status/2113445877222158830",
-   "summary": "From the opening statements, Gov. Ned Lamont and Republican challenger Ryan Fazio came out swinging in their first debate Thursday night as they clashed on everything from taxes and electric rates to President Donald Trump’s policies.… courant.com/2026/10/22/gov-l… — Hartford Courant…",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113445879277387776/Rlm2l-xb?format=jpg&name=420x420_2",
-   "published": "2026-10-23T01:42:00+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:42:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113444052767002644",
-   "title": "A ‘Glee’ reboot is confirmed, and Lea Michele is reportedly on board for a revival of the musical dramedy series about a high school glee club.",
-   "link": "https://x.com/hartfordcourant/status/2113444052767002644",
-   "summary": "A ‘Glee’ reboot is confirmed, and Lea Michele is reportedly on board for a revival of the musical dramedy series about a high school glee club. courant.com/2026/10/22/glee-… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113444057875636226/VhiCHzAV?format=jpg&name=800x419",
-   "published": "2026-10-23T01:35:00+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:35:00+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/hartfordcourant/posts/pfbid0LjqKZrxZnGinio8UA1tu2JGWDf6qDz1zrCSfxiagy98zA9oRKHm2gq6jM5SihwS8l",
-   "title": "Bank robber Charles “Pretty Boy” Floyd was shot to death by federal agents and local police at a farm near East Liverpool, Ohio.",
-   "link": "https://m.facebook.com/hartfordcourant/posts/pfbid0LjqKZrxZnGinio8UA1tu2JGWDf6qDz1zrCSfxiagy98zA9oRKHm2gq6jM5SihwS8l",
-   "summary": "",
-   "author": "Hartford Courant",
-   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/857650357_1538496028308233_6313819442987583918_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=uMqNdRhKGv4Q7kNvwG3xpPa&_nc_oc=Adqj8tiUd718Z52DLg8omIhfPlUhscermDztt8cortP5esi9h1s2kN0wsofF1KOAbZuGYcRlvxl7vimwOFXpj8sj&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=GzhMgdC5LjSv5VtKl73LwQ&_nc_ss=7c289&oh=00_AQOlAB1BeNZDM9EGIkZEgPqMZD8L6j1vK-Qftgr1CcJVLg&oe=6AE13134",
-   "published": "2026-10-23T01:31:37+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:31:37+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113441435114442776",
-   "title": "The 69-year-old Polish filmmaker’s are brief but unhurried, lean yet profound. courant.com/2026/10/22/pawel… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113441435114442776",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113441437958258688/qPrH6mV0?format=jpg&name=800x419",
-   "published": "2026-10-23T01:24:00+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:24:00+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113439037503451360",
-   "title": "Something comes into sharper focus today. The Sun enters Scorpio at 5:37 am EDT, beginning a month that favors depth, determination, and looking beyond appearances to understand what really matters.…",
-   "link": "https://x.com/hartfordcourant/status/2113439037503451360",
-   "summary": "Something comes into sharper focus today. The Sun enters Scorpio at 5:37 am EDT, beginning a month that favors depth, determination, and looking beyond appearances to understand what really matters. Tonight, the Sun meets retrograde Venus… courant.com/2026/10/22/daily… — Hartford Courant…",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2111153707765129216/yzEp3YZL?format=jpg&name=800x419",
-   "published": "2026-10-23T01:15:00+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:15:00+00:00"
-  },
-  {
-   "id": "https://www.facebook.com/reel/1138608562451236/",
-   "title": "Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursd...",
-   "link": "https://www.facebook.com/reel/1138608562451236/",
-   "summary": "Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursday, October 22, 2026 - 8:08 p.m. 📻 Key Details -- Groton Town Police received a report of two blue dirt bikes stolen from the Poquonnock Bridge area -- The bikes were spotted heading…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/859830891_1815875032888986_8554802943936226079_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1a6f08&_nc_ohc=k6pOCFJMYg8Q7kNvwFgRKBb&_nc_oc=Adrz1rX-MIPlRnYwDi3i4_Yn09Za-1tlvTTwqHujinTfd6Q_Pst9aP_TsRt_DpvPUYAwvEawYmMl8I2_7RjNXQHF&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=n5zJ4tLlmkEeEKG9pSKufw&_nc_ss=7c289&oh=00_AQPpIK_F6yQMxBsroY23VyccwGdW_qR77_26lT-wMexHZg&oe=6AE10AE3",
-   "published": "2026-10-23T01:04:40+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:04:40+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113436048411721773",
-   "title": "The case has sparked debate over U.S. involvement in Mexico and national sovereignty. courant.com/2026/10/22/mexic… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113436048411721773",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113436054313123842/ozG4QqwY?format=jpg&name=800x419",
-   "published": "2026-10-23T01:03:00+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T01:03:00+00:00"
-  },
-  {
-   "id": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0369zxEzNrY4keyf8Ksug9YduVMCim8vgA3G8rFMnU5EzLPogq1n7PM88BHnfFy2Byl",
-   "title": "Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursd...",
-   "link": "https://m.facebook.com/CTPOLICELIVE/posts/pfbid0369zxEzNrY4keyf8Ksug9YduVMCim8vgA3G8rFMnU5EzLPogq1n7PM88BHnfFy2Byl",
-   "summary": "Owner Chases Stolen Dirt Bikes Into Ledyard, Strikes One 📍 Route 117, Colonel Ledyard Highway, Ledyard, CT 📅 Thursday, October 22, 2026 - 8:08 p.m. 📻 Key Details -- Groton Town Police received a report of two blue dirt bikes stolen from the Poquonnock Bridge area -- The bikes were spotted heading…",
-   "author": "CTPOLICELIVE",
-   "image": "https://scontent-lax7-1.xx.fbcdn.net/v/t39.30808-6/861598882_1588213963349750_1202801018283288053_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=105&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=cHxF1fvlxVIQ7kNvwFmDBU7&_nc_oc=Adr02C06ENNgMGqIjBPbqPiL615u27QXcjTx-_qoHo8OQMKBFzhnHRkmkJt3xfcVtyoLhe6ANSyAaBPvHTWiKsff&_nc_zt=23&_nc_ht=scontent-lax7-1.xx&_nc_gid=zAJjgW3Y4blWN-0xxER_9A&_nc_ss=7c289&oh=00_AQNHbovUbCidpN-fBC_NIx_050rNwF3B82Q1CP0gQl7caA&oe=6AE0D4AD",
-   "published": "2026-10-23T00:57:32+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T00:57:32+00:00"
-  },
-  {
-   "id": "https://x.com/hartfordcourant/status/2113433504482468070",
-   "title": "Argentina’s new designations include Mexico’s Nueva Familia Michoacana cartel and Ecuador’s Los Tiguerones gang. courant.com/2026/10/22/argen… — Hartford Courant (@hartfordcourant) Oct 23, 2026",
-   "link": "https://x.com/hartfordcourant/status/2113433504482468070",
-   "summary": "",
-   "author": "@hartfordcourant",
-   "image": "https://pbs.twimg.com/card_img/2113433511176593408/LqnwBJ8x?format=jpg&name=800x419",
-   "published": "2026-10-23T00:53:00+00:00",
-   "first_seen": "2026-10-23T01:52:25.407238+00:00",
-   "date": "2026-10-23T00:53:00+00:00"
   }
  ]
 }
