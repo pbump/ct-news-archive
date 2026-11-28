@@ -1,9 +1,23 @@
 # CT News
 
-Last 30 days · 4007 items · updated Nov 27, 2026 9:36 PM EST
+Last 30 days · 4003 items · updated Nov 28, 2026 5:49 AM EST
   
 **[Open the searchable viewer →](https://pbump.github.io/ct-news-archive/)**
 
+
+## Saturday, November 28
+
+- **[The federal government called the law “blatantly unconstitutional,” saying that the state has no authority to tell federal agents what they can and cannot do.](https://x.com/hartfordcourant/status/2126627183716159657)** <sub>@hartfordcourant · 5:40 AM</sub>
+  <br>The federal government called the law “blatantly unconstitutional,” saying that the state has no authority to tell federal agents what they can and cannot do. courant.com/2026/11/28/ct-lo… — Hartford Courant (@hartfordcourant) Nov 28, 2026
+- **[“I plan to introduce legislation, which returns the staffing law to the spirit and intent of the original law,” said Rep. Liz Linehan, a Cheshire Democrat.](https://x.com/hartfordcourant/status/2126624657524568200)** <sub>@hartfordcourant · 5:30 AM</sub>
+  <br>“I plan to introduce legislation, which returns the staffing law to the spirit and intent of the original law,” said Rep. Liz Linehan, a Cheshire Democrat. courant.com/2026/11/28/ct-la… — Hartford Courant (@hartfordcourant) Nov 28, 2026
+- **[Non-store retailers made up more than 44% of all fourth-quarter retail sales last year, up around 8 percentage points compared to 2020.](https://x.com/hartfordcourant/status/2126623137592664551)** <sub>@hartfordcourant · 5:24 AM</sub>
+  <br>Non-store retailers made up more than 44% of all fourth-quarter retail sales last year, up around 8 percentage points compared to 2020. courant.com/2026/11/28/ct-re… — Hartford Courant (@hartfordcourant) Nov 28, 2026
+- **[“I love the way the restaurant works,” Hartog said, noting less waste. courant.com/2026/11/28/at-th… — Hartford Courant (@hartfordcourant) Nov 28, 2026](https://x.com/hartfordcourant/status/2126620631630254340)** <sub>@hartfordcourant · 5:14 AM</sub>
+- **[Halfback Ernie Davis of Syracuse University became the first Black college football player to be named winner of the Heisman Trophy.](https://x.com/hartfordcourant/status/2126617611370684630)** <sub>@hartfordcourant · 5:02 AM</sub>
+  <br>Halfback Ernie Davis of Syracuse University became the first Black college football player to be named winner of the Heisman Trophy. courant.com/2026/11/28/today… — Hartford Courant (@hartfordcourant) Nov 28, 2026
+- **[2 Alarm Fire High Rise Fire in Stamford](https://www.facebook.com/groups/BreakingNow/posts/2457411288331372/)** <sub>Marcus Anthony Rice · 4:42 AM</sub>
+- **[Stabbing Victim Hebron](https://www.facebook.com/groups/BreakingNow/posts/2457205141685320/)** <sub>Doug Oberly · 12:10 AM</sub>
 
 ## Friday, November 27
 
@@ -6009,26 +6023,3 @@ Last 30 days · 4007 items · updated Nov 27, 2026 9:36 PM EST
 - **[What Connecticut Trick-or-treaters need to know this Halloween, according to the National Weather Service. courant.com/2026/10/29/hallo… — Hartford Courant (@hartfordcourant) Oct 29, 2026](https://x.com/hartfordcourant/status/2115771645415579747)** <sub>@hartfordcourant · 7:44 AM</sub>
 - **[So I suppose there was something about Huck’s voice, a kid who just didn’t quite understand the world and wasn’t afraid to say so, that connected with me, soothed me that achy afternoon.](https://x.com/hartfordcourant/status/2115769213528801549)** <sub>@hartfordcourant · 7:34 AM</sub>
   <br>So I suppose there was something about Huck’s voice, a kid who just didn’t quite understand the world and wasn’t afraid to say so, that connected with me, soothed me that achy afternoon. courant.com/2026/10/29/opini… — Hartford Courant (@hartfordcourant) Oct 29, 2026
-- **[Tour a $13 Million Gut-Renovated Brooklyn Heights Townhouse With Private Outdoor Space](https://www.realtor.com/news/unique-homes/brooklyn-heights-new-york-townhouse-tour-13-million/)** <sub>Hannah Chambers · 4:37 AM</sub>
-  <br>A rare Brooklyn Heights townhouse has hit the market for $12,995,000—complete with gas lanterns and hand-carved ironwork. Built in 1906 in one of New York City 's most prized enclaves, the home has a long list of lavish amenities, including a health and wellness gym, a steam shower and sauna, and a…
-- **[A Rare Bright Spot for Los Angeles Renters: Housing Costs Are Finally Cooling Down](https://www.realtor.com/news/trends/los-angeles-rent-drop-q3-2026/)** <sub>Julie Gerstein · 4:33 AM</sub>
-  <br>Los Angeles County residents are finally catching a small break after years of soaring housing costs—rents and housing prices are both down, according to the Q3 2026 Rental Report from Realtor.com® . In the third quarter of 2026, the median asking rent across L.A. County fell to $2,554 per…
-- **[See Inside ‘Botched’ Star Dr. Terry Dubrow’s Never-Before-Seen Beverly Hills Office After Heather Dubrow’s Makeover](https://www.realtor.com/news/celebrity-real-estate/botched-terry-dubrow-office-makeover/)** <sub>Karli Mullane · 4:17 AM</sub>
-  <br>Reconstructive plastic surgeon and “Botched” star Dr. Terry Dubrow transforms the appearance of patients inside his Beverly Hills office and operating room, but it was his “ Real Housewives of Orange County ” wife, Heather Dubrow , who performed a major makeover of the workspace. Terry, 68,…
-- **[Man Stabbed in Face Arrives at Hartford Hospital 📍 Main St. at Nelson St., Hartford, CT 📅 Thursday, October 29, 2026...](https://www.facebook.com/reel/2645672785856466/)** <sub>CTPOLICELIVE · 1:02 AM</sub>
-  <br>Man Stabbed in Face Arrives at Hartford Hospital 📍 Main St. at Nelson St., Hartford, CT 📅 Thursday, October 29, 2026 - 12:30 a.m. 📻 Key Details -- Hartford Police responded to Main Street for a report of a man stabbed in the face -- Officers later determined the stabbing occurred at a different…
-- **[Man Stabbed in Face Arrives at Hartford Hospital 📍 Main Street at Nelson St., Hartford, CT 📅 Thursday, October 29, 2...](https://m.facebook.com/CTPOLICELIVE/posts/pfbid0TDxUry2He9MAP53ZrYJAZypgo86XA89wroLyVwr3eDCQH8Wj6Ks8tWxX8QxbwwhVl)** <sub>CTPOLICELIVE · 12:56 AM</sub>
-  <br>Man Stabbed in Face Arrives at Hartford Hospital 📍 Main Street at Nelson St., Hartford, CT 📅 Thursday, October 29, 2026 - 12:30 a.m. 📻 Key Details -- Hartford Police responded to Main Street for a report of a man stabbed in the face -- Officers later determined the stabbing occurred at a different…
-- **[Vacancy and ‘Zombie Foreclosure’ Rates Decline as Housing Supply Remains Tight](https://www.realtor.com/news/trends/vacancy-zombie-foreclosure-rates-decline-attom-q3-2026/)** <sub>Anna D'Amico · 12:01 AM</sub>
-  <br>The rate of vacant and foreclosed “zombie” properties has fallen slightly throughout the country as the U.S. still faces housing scarcity . A new report from real estate analytics provider ATTOM shows that the share of vacant properties in the United States, which accounts for all unoccupied…
-
-## Wednesday, October 28
-
-- **[Household Life Skills & Program Interest Survey (Adults 18+)](https://www.reddit.com/r/Connecticut/comments/1xi9esv/household_life_skills_program_interest_survey/)** <sub>Macheen\_22 · 11:36 PM</sub>
-  <br>Hi everyone, I’m gathering feedback from adults 18+ about household life skills and interest in potential programs or resources. The survey is intended to help identify the topics adults \[including parents\] would like their children to learn about, rather than making assumptions about what would be…
-- **[In a new interview, the actress said she would likely undergo a facelift in the future.](https://m.facebook.com/hartfordcourant/posts/pfbid0XFEH6dVnoQKeQczHagWoHFDwXyF6846xHTJNyQj4VnzDTgQ9br7WNd56GXaQkidGl)** <sub>Hartford Courant · 11:02 PM</sub>
-- **[Vote counting indicates no clear winner, leading to potential weeks of negotiations. courant.com/2026/10/28/israe… — Hartford Courant (@hartfordcourant) Oct 29, 2026](https://x.com/hartfordcourant/status/2115637804210237848)** <sub>@hartfordcourant · 10:52 PM</sub>
-- **[Applied for an Associate Digital Forensics role at Charles River Associates — Should I mail my resume via USPS?](https://www.reddit.com/r/Connecticut/comments/1xi8hrl/applied_for_an_associate_digital_forensics_role/)** <sub>Gossip\_Listen · 10:50 PM</sub>
-  <br>Hi everyone, I recently applied for an Associate position in Digital Forensics at Charles River Associates (CRA), but I haven’t received any response yet. I’ve also tried reaching out to different people at the company to follow up on my application and express my interest, but unfortunately, I…
-- **[Anthropic, creator of the Claude artificial intelligence model, filed its long-awaited paperwork for a historic public offering that could shape the future of the AI boom. The company’s filing Monday…](https://x.com/hartfordcourant/status/2115635289716605133)** <sub>@hartfordcourant · 10:42 PM</sub>
-  <br>Anthropic, creator of the Claude artificial intelligence model, filed its long-awaited paperwork for a historic public offering that could shape the future of the AI boom. The company’s filing Monday revealed that it will trade under… courant.com/2026/10/28/ai-le… — Hartford Courant…
